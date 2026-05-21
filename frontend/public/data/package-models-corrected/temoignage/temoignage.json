@@ -1,0 +1,1057 @@
+[
+  {
+    "_id": {
+      "$oid": "d20054b590c9aa049554af15"
+    },
+    "classTemoignage": null,
+    "translations": [
+      {
+        "language": "fr",
+        "contenu": "Excellent service, très professionnel.",
+        "designation": "Ahmed B."
+      }
+    ],
+    "fonction": null,
+    "date": "2026-01-01T00:00:00Z",
+    "email": null,
+    "photo": null,
+    "logo": null,
+    "lienAssocie": null,
+    "typeObjetConcerne": null,
+    "objetConcerne": null,
+    "objetsAssocies": null,
+    "etatObjet": "code-1",
+    "etatDePublication": "code_3417",
+    "objetAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "8f2806910780ba329bf7281c"
+    },
+    "classTemoignage": null,
+    "translations": [
+      {
+        "language": "fr",
+        "contenu": "Bonne expérience d'achat en ligne.",
+        "designation": "Fatima K."
+      }
+    ],
+    "fonction": null,
+    "date": "2026-01-01T00:00:00Z",
+    "email": null,
+    "photo": null,
+    "logo": null,
+    "lienAssocie": null,
+    "typeObjetConcerne": null,
+    "objetConcerne": null,
+    "objetsAssocies": null,
+    "etatObjet": "code-1",
+    "etatDePublication": "code_3417",
+    "objetAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "9ab542adbbb47cac7980d956"
+    },
+    "classTemoignage": null,
+    "translations": [
+      {
+        "language": "fr",
+        "contenu": "Site très complet pour trouver du matériel.",
+        "designation": "Mohamed S."
+      }
+    ],
+    "fonction": null,
+    "date": "2026-01-01T00:00:00Z",
+    "email": null,
+    "photo": null,
+    "logo": null,
+    "lienAssocie": null,
+    "typeObjetConcerne": null,
+    "objetConcerne": null,
+    "objetsAssocies": null,
+    "etatObjet": "code-1",
+    "etatDePublication": "code_3417",
+    "objetAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "122beb9297c168296e4a187b"
+    },
+    "classTemoignage": null,
+    "translations": [
+      {
+        "language": "fr",
+        "contenu": "Livraison rapide et matériel conforme.",
+        "designation": "Youssef A."
+      }
+    ],
+    "fonction": null,
+    "date": "2026-01-01T00:00:00Z",
+    "email": null,
+    "photo": null,
+    "logo": null,
+    "lienAssocie": null,
+    "typeObjetConcerne": null,
+    "objetConcerne": null,
+    "objetsAssocies": null,
+    "etatObjet": "code-1",
+    "etatDePublication": "code_3417",
+    "objetAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "33e26a5c4470f00d2d901bd8"
+    },
+    "classTemoignage": null,
+    "translations": [
+      {
+        "language": "fr",
+        "contenu": "Interface intuitive et facile à utiliser.",
+        "designation": "Leila M."
+      }
+    ],
+    "fonction": null,
+    "date": "2026-01-01T00:00:00Z",
+    "email": null,
+    "photo": null,
+    "logo": null,
+    "lienAssocie": null,
+    "typeObjetConcerne": null,
+    "objetConcerne": null,
+    "objetsAssocies": null,
+    "etatObjet": "code-1",
+    "etatDePublication": "code_3417",
+    "objetAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "870b273ecb887bbc47ad01ff"
+    },
+    "reference": "TEM-0001",
+    "classTemoignage": "B2B",
+    "translations": [
+      {
+        "language": "fr",
+        "nom": "Berrada",
+        "prenom": "Khalid",
+        "temoignage": "Grâce à OMNILOG, j'ai pu comparer en quelques clics les transpalettes électriques disponibles auprès de plusieurs fournisseurs marocains. La plateforme nous a permis de centraliser nos achats d'équipements de manutention et de réduire nos délais d'approvisionnement. Un outil indispensable pour tout responsable logistique au Maroc."
+      },
+      {
+        "language": "en",
+        "nom": "Berrada",
+        "prenom": "Khalid",
+        "temoignage": "Thanks to OMNILOG, I was able to compare electric pallet trucks from several Moroccan suppliers in just a few clicks. The platform helped us centralize our handling equipment purchases and reduce procurement lead times. It is an essential tool for any logistics manager in Morocco."
+      },
+      {
+        "language": "ar",
+        "nom": "Berrada",
+        "prenom": "Khalid",
+        "temoignage": "بفضل OMNILOG، تمكنت من مقارنة رافعات المنصات الكهربائية المتاحة لدى عدة موردين مغاربة في بضع نقرات. ساعدتنا المنصة على مركزية مشتريات معدات المناولة وتقليص آجال التوريد. إنها أداة أساسية لكل مسؤول لوجستي في المغرب."
+      },
+      {
+        "language": "es",
+        "nom": "Berrada",
+        "prenom": "Khalid",
+        "temoignage": "Gracias a OMNILOG, pude comparar en pocos clics transpaletas eléctricas disponibles en varios proveedores marroquíes. La plataforma nos permitió centralizar nuestras compras de equipos de manutención y reducir los plazos de aprovisionamiento. Es una herramienta indispensable para cualquier responsable logístico en Marruecos."
+      }
+    ],
+    "fonction": "Responsable logistique",
+    "date": {
+      "$date": "2024-02-14T00:00:00.000Z"
+    },
+    "email": null,
+    "photo": null,
+    "logo": null,
+    "lienAssocie": "https://www.maghreb-logistique.ma",
+    "typeObjetConcerne": "ProduitService",
+    "objetConcerne": {
+      "$oid": "65f000000000000000000598"
+    },
+    "objetsAssocies": [],
+    "etatObjet": "code-1",
+    "etatDePublication": "code_541",
+    "createdAt": {
+      "$date": "2024-02-14T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-14T00:00:00.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "96738138519fc951f63223cd"
+    },
+    "reference": "TEM-0002",
+    "classTemoignage": "B2B",
+    "translations": [
+      {
+        "language": "fr",
+        "nom": "El Fassi",
+        "prenom": "Nadia",
+        "temoignage": "La plateforme OMNILOG simplifie considérablement notre processus d'appel d'offres pour l'achat de rayonnages et d'équipements de quai. Le système de demande de devis en ligne est efficace et les fournisseurs répondent rapidement. Nous avons équipé deux entrepôts à Tanger grâce à OMNILOG."
+      },
+      {
+        "language": "en",
+        "nom": "El Fassi",
+        "prenom": "Nadia",
+        "temoignage": "The OMNILOG platform greatly simplifies our tender process for purchasing racking and dock equipment. The online quote request system is efficient and suppliers respond quickly. We equipped two warehouses in Tangier thanks to OMNILOG."
+      },
+      {
+        "language": "ar",
+        "nom": "El Fassi",
+        "prenom": "Nadia",
+        "temoignage": "تسهل منصة OMNILOG بشكل كبير عملية طلب العروض لشراء الرفوف ومعدات الأرصفة. نظام طلب عروض الأسعار عبر الإنترنت فعال والموردون يردون بسرعة. لقد جهزنا مستودعين في طنجة بفضل OMNILOG."
+      },
+      {
+        "language": "es",
+        "nom": "El Fassi",
+        "prenom": "Nadia",
+        "temoignage": "La plataforma OMNILOG simplifica considerablemente nuestro proceso de licitación para comprar estanterías y equipos de muelle. El sistema de solicitud de presupuestos en línea es eficaz y los proveedores responden rápidamente. Equipamos dos almacenes en Tánger gracias a OMNILOG."
+      }
+    ],
+    "fonction": "Directrice des achats",
+    "date": {
+      "$date": "2024-01-28T00:00:00.000Z"
+    },
+    "email": null,
+    "photo": null,
+    "logo": null,
+    "lienAssocie": "https://www.maghreb-logistique.ma",
+    "typeObjetConcerne": "ProduitService",
+    "objetConcerne": {
+      "$oid": "65f000000000000000000606"
+    },
+    "objetsAssocies": [],
+    "etatObjet": "code-1",
+    "etatDePublication": "code_541",
+    "createdAt": {
+      "$date": "2024-01-28T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-28T00:00:00.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "a9a15f38963bb103337514e9"
+    },
+    "reference": "TEM-0003",
+    "classTemoignage": "B2B",
+    "translations": [
+      {
+        "language": "fr",
+        "nom": "Benali",
+        "prenom": "Ahmed",
+        "temoignage": "Nous cherchions des chariots élévateurs thermiques adaptés à notre entrepôt de Tanger. OMNILOG nous a permis de trouver plusieurs fournisseurs certifiés au Maroc, de comparer les spécifications techniques et de demander des devis en ligne. Le gain de temps est considérable par rapport à notre ancienne méthode de prospection."
+      },
+      {
+        "language": "en",
+        "nom": "Benali",
+        "prenom": "Ahmed",
+        "temoignage": "We were looking for thermal forklifts suitable for our warehouse in Tangier. OMNILOG allowed us to find several certified suppliers in Morocco, compare technical specifications and request quotes online. The time saved compared with our former sourcing method is considerable."
+      },
+      {
+        "language": "ar",
+        "nom": "Benali",
+        "prenom": "Ahmed",
+        "temoignage": "كنا نبحث عن رافعات شوكية حرارية مناسبة لمستودعنا في طنجة. مكنتنا OMNILOG من العثور على عدة موردين معتمدين في المغرب، ومقارنة المواصفات التقنية وطلب عروض الأسعار عبر الإنترنت. إن توفير الوقت مقارنة بطريقة البحث السابقة كبير جداً."
+      },
+      {
+        "language": "es",
+        "nom": "Benali",
+        "prenom": "Ahmed",
+        "temoignage": "Buscábamos carretillas elevadoras térmicas adaptadas a nuestro almacén en Tánger. OMNILOG nos permitió encontrar varios proveedores certificados en Marruecos, comparar especificaciones técnicas y solicitar presupuestos en línea. El ahorro de tiempo frente a nuestro método anterior de prospección es considerable."
+      }
+    ],
+    "fonction": "Chef d'exploitation entrepôt",
+    "date": {
+      "$date": "2024-03-01T00:00:00.000Z"
+    },
+    "email": null,
+    "photo": null,
+    "logo": null,
+    "lienAssocie": "https://www.translog-maghreb.ma",
+    "typeObjetConcerne": "ProduitService",
+    "objetConcerne": {
+      "$oid": "65f000000000000000000613"
+    },
+    "objetsAssocies": [],
+    "etatObjet": "code-1",
+    "etatDePublication": "code_541",
+    "createdAt": {
+      "$date": "2024-03-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-01T00:00:00.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "e5b58b305739fb285fbd9b3c"
+    },
+    "reference": "TEM-0004",
+    "classTemoignage": "B2B",
+    "translations": [
+      {
+        "language": "fr",
+        "nom": "Lalami",
+        "prenom": "Omar",
+        "temoignage": "OMNILOG est devenu notre partenaire de confiance pour l'équipement de nos nouveaux terminaux."
+      },
+      {
+        "language": "en",
+        "nom": "Lalami",
+        "prenom": "Omar",
+        "temoignage": "OMNILOG has become our trusted partner for equipping our new terminals."
+      },
+      {
+        "language": "ar",
+        "nom": "Lalami",
+        "prenom": "Omar",
+        "temoignage": "أصبحت شركة OMNILOG شريكنا الموثوق به لتجهيز محطاتنا الجديدة."
+      },
+      {
+        "language": "es",
+        "nom": "Lalami",
+        "prenom": "Omar",
+        "temoignage": "OMNILOG se ha convertido en nuestro socio de confianza para el equipamiento de nuestros nuevos terminales."
+      }
+    ],
+    "fonction": "Directeur Logistique",
+    "date": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatObjet": "code-1",
+    "etatDePublication": "code_541",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "52f6951300ff67e415ec7e1a"
+    },
+    "reference": "TEM-0005",
+    "classTemoignage": "B2B",
+    "translations": [
+      {
+        "language": "fr",
+        "nom": "Mansouri",
+        "prenom": "Youssef",
+        "temoignage": "La qualité des équipements trouvés sur la plateforme est irréprochable."
+      },
+      {
+        "language": "en",
+        "nom": "Mansouri",
+        "prenom": "Youssef",
+        "temoignage": "The quality of the equipment found on the platform is impeccable."
+      },
+      {
+        "language": "ar",
+        "nom": "Mansouri",
+        "prenom": "Youssef",
+        "temoignage": "جودة المعدات الموجودة على المنصة لا تشوبها شائبة."
+      },
+      {
+        "language": "es",
+        "nom": "Mansouri",
+        "prenom": "Youssef",
+        "temoignage": "La calidad de los equipos que se encuentran en la plataforma es impecable."
+      }
+    ],
+    "fonction": "Chef de quai",
+    "date": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatObjet": "code-1",
+    "etatDePublication": "code_541",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "dea4fdecc0aca3ea7e59a255"
+    },
+    "reference": "TEM-0006",
+    "classTemoignage": "B2B",
+    "translations": [
+      {
+        "language": "fr",
+        "nom": "Tahiri",
+        "prenom": "Sanaa",
+        "temoignage": "Le gain de temps sur les appels d'offres est impressionnant."
+      },
+      {
+        "language": "en",
+        "nom": "Tahiri",
+        "prenom": "Sanaa",
+        "temoignage": "The time saved on tendering processes is impressive."
+      },
+      {
+        "language": "ar",
+        "nom": "Tahiri",
+        "prenom": "Sanaa",
+        "temoignage": "إن الوقت الذي تم توفيره في عمليات المناقصات مثير للإعجاب."
+      },
+      {
+        "language": "es",
+        "nom": "Tahiri",
+        "prenom": "Sanaa",
+        "temoignage": "El tiempo ahorrado en los procesos de licitación es impresionante."
+      }
+    ],
+    "fonction": "Responsable Achats",
+    "date": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatObjet": "code-1",
+    "etatDePublication": "code_541",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f0000000000000000007100"
+    },
+    "reference": "TEM-0010",
+    "classTemoignage": "B2B",
+    "translations": [
+      {
+        "language": "fr",
+        "nom": "Idrissi",
+        "prenom": "Karim",
+        "temoignage": "Matériel robuste et ergonomique, très apprécié par nos équipes."
+      },
+      {
+        "language": "en",
+        "nom": "Idrissi",
+        "prenom": "Karim",
+        "temoignage": "Robust and ergonomic equipment, highly appreciated by our teams."
+      },
+      {
+        "language": "ar",
+        "nom": "Idrissi",
+        "prenom": "Karim",
+        "temoignage": "معدات متينة ومريحة، تحظى بتقدير كبير من فرقنا."
+      },
+      {
+        "language": "es",
+        "nom": "Idrissi",
+        "prenom": "Karim",
+        "temoignage": "Equipos robustos y ergonómicos, muy apreciados por nuestros equipos."
+      }
+    ],
+    "fonction": "Opérateur logistique",
+    "date": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatObjet": "code-1",
+    "etatDePublication": "code_541",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f0000000000000000007101"
+    },
+    "reference": "TEM-0011",
+    "classTemoignage": "B2B",
+    "translations": [
+      {
+        "language": "fr",
+        "nom": "Bennis",
+        "prenom": "Sara",
+        "temoignage": "Une plateforme qui comprend parfaitement les besoins du marché marocain."
+      },
+      {
+        "language": "en",
+        "nom": "Bennis",
+        "prenom": "Sara",
+        "temoignage": "A platform that perfectly understands the needs of the Moroccan market."
+      },
+      {
+        "language": "ar",
+        "nom": "Bennis",
+        "prenom": "Sara",
+        "temoignage": "منصة تفهم تماماً احتياجات السوق المغربية."
+      },
+      {
+        "language": "es",
+        "nom": "Bennis",
+        "prenom": "Sara",
+        "temoignage": "Una plataforma que comprende a la perfección las necesidades del mercado marroquí."
+      }
+    ],
+    "fonction": "Consultante",
+    "date": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatObjet": "code-1",
+    "etatDePublication": "code_541",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f0000000000000000007102"
+    },
+    "reference": "TEM-0012",
+    "classTemoignage": "B2B",
+    "translations": [
+      {
+        "language": "fr",
+        "nom": "Alaoui",
+        "prenom": "Mounir",
+        "temoignage": "Livraison rapide même dans l'Oriental, bravo OMNILOG."
+      },
+      {
+        "language": "en",
+        "nom": "Alaoui",
+        "prenom": "Mounir",
+        "temoignage": "Fast delivery even to the Oriental region, well done OMNILOG."
+      },
+      {
+        "language": "ar",
+        "nom": "Alaoui",
+        "prenom": "Mounir",
+        "temoignage": "توصيل سريع حتى إلى المنطقة الشرقية، أحسنت يا أومنيلوج."
+      },
+      {
+        "language": "es",
+        "nom": "Alaoui",
+        "prenom": "Mounir",
+        "temoignage": "Entrega rápida incluso en la región oriental, ¡bien hecho, OMNILOG!"
+      }
+    ],
+    "fonction": "Responsable Entrepôt",
+    "date": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatObjet": "code-1",
+    "etatDePublication": "code_541",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f0000000000000000007103"
+    },
+    "reference": "TEM-0013",
+    "classTemoignage": "B2B",
+    "translations": [
+      {
+        "language": "fr",
+        "nom": "Fekri",
+        "prenom": "Amine",
+        "temoignage": "Le support client est très réactif et professionnel."
+      },
+      {
+        "language": "en",
+        "nom": "Fekri",
+        "prenom": "Amine",
+        "temoignage": "Customer support is very responsive and professional."
+      },
+      {
+        "language": "ar",
+        "nom": "Fekri",
+        "prenom": "Amine",
+        "temoignage": "خدمة دعم العملاء سريعة الاستجابة ومهنية للغاية."
+      },
+      {
+        "language": "es",
+        "nom": "Fekri",
+        "prenom": "Amine",
+        "temoignage": "El servicio de atención al cliente es muy eficiente y profesional."
+      }
+    ],
+    "fonction": "Directeur Technique",
+    "date": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatObjet": "code-1",
+    "etatDePublication": "code_541",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f0000000000000000007114"
+    },
+    "reference": "TEM-0014",
+    "classTemoignage": "B2B",
+    "translations": [
+      {
+        "language": "fr",
+        "nom": "Ouazzani",
+        "prenom": "Salma",
+        "temoignage": "L'intégration d'OMNILOG dans notre workflow a réduit nos erreurs de commande de 30%."
+      },
+      {
+        "language": "en",
+        "nom": "Ouazzani",
+        "prenom": "Salma",
+        "temoignage": "Integrating OMNILOG into our workflow has reduced our order errors by 30%."
+      },
+      {
+        "language": "ar",
+        "nom": "Ouazzani",
+        "prenom": "Salma",
+        "temoignage": "أدى دمج برنامج OMNILOG في سير عملنا إلى تقليل أخطاء الطلبات بنسبة 30%."
+      },
+      {
+        "language": "es",
+        "nom": "Ouazzani",
+        "prenom": "Salma",
+        "temoignage": "La integración de OMNILOG en nuestro flujo de trabajo ha reducido nuestros errores de pedidos en un 30%."
+      }
+    ],
+    "fonction": "Directrice Supply Chain - Casablanca",
+    "date": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatObjet": "code-1",
+    "etatDePublication": "code_541",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f0000000000000000007115"
+    },
+    "reference": "TEM-0015",
+    "classTemoignage": "B2B",
+    "translations": [
+      {
+        "language": "fr",
+        "nom": "Kabbaj",
+        "prenom": "Yassine",
+        "temoignage": "La plateforme nous permet un suivi rigoureux de la maintenance de nos engins."
+      },
+      {
+        "language": "en",
+        "nom": "Kabbaj",
+        "prenom": "Yassine",
+        "temoignage": "The platform allows us to rigorously monitor the maintenance of our equipment."
+      },
+      {
+        "language": "ar",
+        "nom": "Kabbaj",
+        "prenom": "Yassine",
+        "temoignage": "تتيح لنا هذه المنصة مراقبة صيانة معداتنا بدقة."
+      },
+      {
+        "language": "es",
+        "nom": "Kabbaj",
+        "prenom": "Yassine",
+        "temoignage": "La plataforma nos permite supervisar rigurosamente el mantenimiento de nuestros equipos."
+      }
+    ],
+    "fonction": "Responsable de Parc - Tanger",
+    "date": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatObjet": "code-1",
+    "etatDePublication": "code_541",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f0000000000000000007116"
+    },
+    "reference": "TEM-0016",
+    "classTemoignage": "B2B",
+    "translations": [
+      {
+        "language": "fr",
+        "nom": "Tazi",
+        "prenom": "Zineb",
+        "temoignage": "OMNILOG est la référence pour le sourcing d'équipements de manutention au Maroc."
+      },
+      {
+        "language": "en",
+        "nom": "Tazi",
+        "prenom": "Zineb",
+        "temoignage": "OMNILOG is the benchmark for sourcing material handling equipment in Morocco."
+      },
+      {
+        "language": "ar",
+        "nom": "Tazi",
+        "prenom": "Zineb",
+        "temoignage": "تُعد شركة OMNILOG المعيار الأمثل لتوريد معدات مناولة المواد في المغرب."
+      },
+      {
+        "language": "es",
+        "nom": "Tazi",
+        "prenom": "Zineb",
+        "temoignage": "OMNILOG es la referencia en el suministro de equipos de manipulación de materiales en Marruecos."
+      }
+    ],
+    "fonction": "Consultante Logistique - Rabat",
+    "date": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatObjet": "code-1",
+    "etatDePublication": "code_541",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f0000000000000000007117"
+    },
+    "reference": "TEM-0017",
+    "classTemoignage": "B2B",
+    "translations": [
+      {
+        "language": "fr",
+        "nom": "Filali",
+        "prenom": "Amine",
+        "temoignage": "Le service de location courte durée est extrêmement flexible et réactif."
+      },
+      {
+        "language": "en",
+        "nom": "Filali",
+        "prenom": "Amine",
+        "temoignage": "The short-term rental service is extremely flexible and responsive."
+      },
+      {
+        "language": "ar",
+        "nom": "Filali",
+        "prenom": "Amine",
+        "temoignage": "تتميز خدمة التأجير قصير الأجل بمرونة واستجابة عاليتين."
+      },
+      {
+        "language": "es",
+        "nom": "Filali",
+        "prenom": "Amine",
+        "temoignage": "El servicio de alquiler a corto plazo es extremadamente flexible y eficiente."
+      }
+    ],
+    "fonction": "Chef d'Entrepôt - Agadir",
+    "date": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatObjet": "code-1",
+    "etatDePublication": "code_541",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f0000000000000000007118"
+    },
+    "reference": "TEM-0018",
+    "classTemoignage": "B2B",
+    "translations": [
+      {
+        "language": "fr",
+        "nom": "Radi",
+        "prenom": "Nour",
+        "temoignage": "Nous apprécions la clarté des fiches techniques et la facilité de comparaison."
+      },
+      {
+        "language": "en",
+        "nom": "Radi",
+        "prenom": "Nour",
+        "temoignage": "We appreciate the clarity of the technical specifications and the ease of comparison."
+      },
+      {
+        "language": "ar",
+        "nom": "Radi",
+        "prenom": "Nour",
+        "temoignage": "نحن نقدر وضوح المواصفات الفنية وسهولة المقارنة."
+      },
+      {
+        "language": "es",
+        "nom": "Radi",
+        "prenom": "Nour",
+        "temoignage": "Agradecemos la claridad de las especificaciones técnicas y la facilidad de comparación."
+      }
+    ],
+    "fonction": "Directrice Achats - Marrakech",
+    "date": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatObjet": "code-1",
+    "etatDePublication": "code_541",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f0000000000000000007119"
+    },
+    "reference": "TEM-0019",
+    "classTemoignage": "B2B",
+    "translations": [
+      {
+        "language": "fr",
+        "nom": "Slaoui",
+        "prenom": "Driss",
+        "temoignage": "Les équipements de sécurité trouvés sur OMNILOG respectent les normes les plus strictes."
+      },
+      {
+        "language": "en",
+        "nom": "Slaoui",
+        "prenom": "Driss",
+        "temoignage": "The security equipment found on OMNILOG meets the strictest standards."
+      },
+      {
+        "language": "ar",
+        "nom": "Slaoui",
+        "prenom": "Driss",
+        "temoignage": "تتوافق معدات الأمن الموجودة في أومنيلوج مع المعايير الأكثر صرامة."
+      },
+      {
+        "language": "es",
+        "nom": "Slaoui",
+        "prenom": "Driss",
+        "temoignage": "Los equipos de seguridad instalados en OMNILOG cumplen con los estándares más estrictos."
+      }
+    ],
+    "fonction": "Expert Sécurité - Fès",
+    "date": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatObjet": "code-1",
+    "etatDePublication": "code_541",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f0000000000000000007120"
+    },
+    "reference": "TEM-0020",
+    "classTemoignage": "B2B",
+    "translations": [
+      {
+        "language": "fr",
+        "nom": "Bekkali",
+        "prenom": "Meryem",
+        "temoignage": "Un excellent outil pour optimiser les coûts d'équipement de notre flotte."
+      },
+      {
+        "language": "en",
+        "nom": "Bekkali",
+        "prenom": "Meryem",
+        "temoignage": "An excellent tool for optimizing the equipment costs of our fleet."
+      },
+      {
+        "language": "ar",
+        "nom": "Bekkali",
+        "prenom": "Meryem",
+        "temoignage": "أداة ممتازة لتحسين تكاليف معدات أسطولنا."
+      },
+      {
+        "language": "es",
+        "nom": "Bekkali",
+        "prenom": "Meryem",
+        "temoignage": "Una excelente herramienta para optimizar los costes de equipamiento de nuestra flota."
+      }
+    ],
+    "fonction": "Gérante Transport - Meknès",
+    "date": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatObjet": "code-1",
+    "etatDePublication": "code_541",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f0000000000000000007121"
+    },
+    "reference": "TEM-0021",
+    "classTemoignage": "B2B",
+    "translations": [
+      {
+        "language": "fr",
+        "nom": "Chraibi",
+        "prenom": "Rachid",
+        "temoignage": "Les pièces de rechange sont livrées dans des délais records."
+      },
+      {
+        "language": "en",
+        "nom": "Chraibi",
+        "prenom": "Rachid",
+        "temoignage": "Spare parts are delivered in record time."
+      },
+      {
+        "language": "ar",
+        "nom": "Chraibi",
+        "prenom": "Rachid",
+        "temoignage": "يتم تسليم قطع الغيار في وقت قياسي."
+      },
+      {
+        "language": "es",
+        "nom": "Chraibi",
+        "prenom": "Rachid",
+        "temoignage": "Las piezas de repuesto se entregan en tiempo récord."
+      }
+    ],
+    "fonction": "Ingénieur Maintenance - Kenitra",
+    "date": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatObjet": "code-1",
+    "etatDePublication": "code_541",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f0000000000000000007122"
+    },
+    "reference": "TEM-0022",
+    "classTemoignage": "B2B",
+    "translations": [
+      {
+        "language": "fr",
+        "nom": "Ghazali",
+        "prenom": "Hafsa",
+        "temoignage": "La certification des fournisseurs sur OMNILOG nous rassure énormément."
+      },
+      {
+        "language": "en",
+        "nom": "Ghazali",
+        "prenom": "Hafsa",
+        "temoignage": "The supplier certification on OMNILOG gives us a lot of reassurance."
+      },
+      {
+        "language": "ar",
+        "nom": "Ghazali",
+        "prenom": "Hafsa",
+        "temoignage": "إن حصولنا على شهادة المورد من OMNILOG يمنحنا الكثير من الاطمئنان."
+      },
+      {
+        "language": "es",
+        "nom": "Ghazali",
+        "prenom": "Hafsa",
+        "temoignage": "La certificación de proveedores de OMNILOG nos da mucha tranquilidad."
+      }
+    ],
+    "fonction": "Responsable Qualité - Oujda",
+    "date": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatObjet": "code-1",
+    "etatDePublication": "code_541",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f0000000000000000007123"
+    },
+    "reference": "TEM-0023",
+    "classTemoignage": "B2B",
+    "translations": [
+      {
+        "language": "fr",
+        "nom": "Mernissi",
+        "prenom": "Saad",
+        "temoignage": "La meilleure marketplace B2B pour le secteur industriel au Maroc."
+      },
+      {
+        "language": "en",
+        "nom": "Mernissi",
+        "prenom": "Saad",
+        "temoignage": "The best B2B marketplace for the industrial sector in Morocco."
+      },
+      {
+        "language": "ar",
+        "nom": "Mernissi",
+        "prenom": "Saad",
+        "temoignage": "أفضل سوق B2B للقطاع الصناعي في المغرب."
+      },
+      {
+        "language": "es",
+        "nom": "Mernissi",
+        "prenom": "Saad",
+        "temoignage": "El mejor mercado B2B para el sector industrial en Marruecos."
+      }
+    ],
+    "fonction": "Directeur Technique - El Jadida",
+    "date": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatObjet": "code-1",
+    "etatDePublication": "code_541",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  }
+]

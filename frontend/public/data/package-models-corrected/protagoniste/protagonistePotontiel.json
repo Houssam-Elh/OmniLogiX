@@ -1,0 +1,1992 @@
+[
+  {
+    "_id": {
+      "$oid": "94317508db805fb4de232aca"
+    },
+    "etatObjet": "code-1",
+    "refProtagoniste": null,
+    "classe": null,
+    "taxoProtagoniste": {
+      "$oid": "65f0000000000000000006B0"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "nomStructure": "SMEIA",
+        "designation": "SMEIA"
+      }
+    ],
+    "ordreAffichage": null,
+    "protagonsiteIntiateurFondateur": null,
+    "dateEnregistrement": null,
+    "etatProtagoniste": null,
+    "participation": null,
+    "origineParticipation": null,
+    "documentsLegals": null,
+    "personneConcernee": null,
+    "relationInterneProtagoniste": null,
+    "organisationConcernee": null,
+    "autorisationAffichage": null,
+    "roleEtMission": null,
+    "moment": null,
+    "etats": null,
+    "opportinutes": null,
+    "risques": null,
+    "criteresConditions": null,
+    "echangesCommunications": null,
+    "incidents": null,
+    "elementsBudgets": null,
+    "activites": null,
+    "objetsAssocies": null,
+    "caracteristiques": null,
+    "referentiels": null,
+    "instructions": null,
+    "reglesActivations": null,
+    "produitService": null,
+    "coordonneesLieu": null,
+    "instancesOffres": null,
+    "typePersonne": null,
+    "objetsConcernes": null,
+    "echangesEtCommunications": null,
+    "acteurConcerne": null,
+    "modeLivraison": null,
+    "livreurs": null,
+    "categorieProduitsLivraison": null,
+    "produitsLivraison": null,
+    "protagonisteClasse": {
+      "$oid": "65f0000000000000000006B0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "d871f598eca8d30b9280bdf1"
+    },
+    "etatObjet": "code-1",
+    "refProtagoniste": null,
+    "classe": null,
+    "taxoProtagoniste": {
+      "$oid": "65f0000000000000000006B0"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "nomStructure": "Auto Hall",
+        "designation": "Auto Hall"
+      }
+    ],
+    "ordreAffichage": null,
+    "protagonsiteIntiateurFondateur": null,
+    "dateEnregistrement": null,
+    "etatProtagoniste": null,
+    "participation": null,
+    "origineParticipation": null,
+    "documentsLegals": null,
+    "personneConcernee": null,
+    "relationInterneProtagoniste": null,
+    "organisationConcernee": null,
+    "autorisationAffichage": null,
+    "roleEtMission": null,
+    "moment": null,
+    "etats": null,
+    "opportinutes": null,
+    "risques": null,
+    "criteresConditions": null,
+    "echangesCommunications": null,
+    "incidents": null,
+    "elementsBudgets": null,
+    "activites": null,
+    "objetsAssocies": null,
+    "caracteristiques": null,
+    "referentiels": null,
+    "instructions": null,
+    "reglesActivations": null,
+    "produitService": null,
+    "coordonneesLieu": null,
+    "instancesOffres": null,
+    "typePersonne": null,
+    "objetsConcernes": null,
+    "echangesEtCommunications": null,
+    "acteurConcerne": null,
+    "modeLivraison": null,
+    "livreurs": null,
+    "categorieProduitsLivraison": null,
+    "produitsLivraison": null,
+    "protagonisteClasse": {
+      "$oid": "65f0000000000000000006B0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "75bb56fa4ea387b8f9e94129"
+    },
+    "etatObjet": "code-1",
+    "refProtagoniste": null,
+    "classe": null,
+    "taxoProtagoniste": {
+      "$oid": "65f0000000000000000006B0"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "nomStructure": "CFAO Motors Maroc",
+        "designation": "CFAO Motors Maroc"
+      }
+    ],
+    "ordreAffichage": null,
+    "protagonsiteIntiateurFondateur": null,
+    "dateEnregistrement": null,
+    "etatProtagoniste": null,
+    "participation": null,
+    "origineParticipation": null,
+    "documentsLegals": null,
+    "personneConcernee": null,
+    "relationInterneProtagoniste": null,
+    "organisationConcernee": null,
+    "autorisationAffichage": null,
+    "roleEtMission": null,
+    "moment": null,
+    "etats": null,
+    "opportinutes": null,
+    "risques": null,
+    "criteresConditions": null,
+    "echangesCommunications": null,
+    "incidents": null,
+    "elementsBudgets": null,
+    "activites": null,
+    "objetsAssocies": null,
+    "caracteristiques": null,
+    "referentiels": null,
+    "instructions": null,
+    "reglesActivations": null,
+    "produitService": null,
+    "coordonneesLieu": null,
+    "instancesOffres": null,
+    "typePersonne": null,
+    "objetsConcernes": null,
+    "echangesEtCommunications": null,
+    "acteurConcerne": null,
+    "modeLivraison": null,
+    "livreurs": null,
+    "categorieProduitsLivraison": null,
+    "produitsLivraison": null,
+    "protagonisteClasse": {
+      "$oid": "65f0000000000000000006B0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "8aeb7b89bd624f2e00281153"
+    },
+    "etatObjet": "code-1",
+    "refProtagoniste": null,
+    "classe": null,
+    "taxoProtagoniste": {
+      "$oid": "65f0000000000000000006B0"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "nomStructure": "A2Z TRUCKS",
+        "designation": "A2Z TRUCKS"
+      }
+    ],
+    "ordreAffichage": null,
+    "protagonsiteIntiateurFondateur": null,
+    "dateEnregistrement": null,
+    "etatProtagoniste": null,
+    "participation": null,
+    "origineParticipation": null,
+    "documentsLegals": null,
+    "personneConcernee": null,
+    "relationInterneProtagoniste": null,
+    "organisationConcernee": null,
+    "autorisationAffichage": null,
+    "roleEtMission": null,
+    "moment": null,
+    "etats": null,
+    "opportinutes": null,
+    "risques": null,
+    "criteresConditions": null,
+    "echangesCommunications": null,
+    "incidents": null,
+    "elementsBudgets": null,
+    "activites": null,
+    "objetsAssocies": null,
+    "caracteristiques": null,
+    "referentiels": null,
+    "instructions": null,
+    "reglesActivations": null,
+    "produitService": null,
+    "coordonneesLieu": null,
+    "instancesOffres": null,
+    "typePersonne": null,
+    "objetsConcernes": null,
+    "echangesEtCommunications": null,
+    "acteurConcerne": null,
+    "modeLivraison": null,
+    "livreurs": null,
+    "categorieProduitsLivraison": null,
+    "produitsLivraison": null,
+    "protagonisteClasse": {
+      "$oid": "65f0000000000000000006B0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "e60d5cc6abe5f86438c2f394"
+    },
+    "etatObjet": "code-1",
+    "refProtagoniste": null,
+    "classe": null,
+    "taxoProtagoniste": {
+      "$oid": "65f0000000000000000006B0"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "nomStructure": "BARLOWORLD EQUIPMENT",
+        "designation": "BARLOWORLD EQUIPMENT"
+      }
+    ],
+    "ordreAffichage": null,
+    "protagonsiteIntiateurFondateur": null,
+    "dateEnregistrement": null,
+    "etatProtagoniste": null,
+    "participation": null,
+    "origineParticipation": null,
+    "documentsLegals": null,
+    "personneConcernee": null,
+    "relationInterneProtagoniste": null,
+    "organisationConcernee": null,
+    "autorisationAffichage": null,
+    "roleEtMission": null,
+    "moment": null,
+    "etats": null,
+    "opportinutes": null,
+    "risques": null,
+    "criteresConditions": null,
+    "echangesCommunications": null,
+    "incidents": null,
+    "elementsBudgets": null,
+    "activites": null,
+    "objetsAssocies": null,
+    "caracteristiques": null,
+    "referentiels": null,
+    "instructions": null,
+    "reglesActivations": null,
+    "produitService": null,
+    "coordonneesLieu": null,
+    "instancesOffres": null,
+    "typePersonne": null,
+    "objetsConcernes": null,
+    "echangesEtCommunications": null,
+    "acteurConcerne": null,
+    "modeLivraison": null,
+    "livreurs": null,
+    "categorieProduitsLivraison": null,
+    "produitsLivraison": null,
+    "protagonisteClasse": {
+      "$oid": "65f0000000000000000006B0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "28c0a83ea6ded3edeebf6b6f"
+    },
+    "etatObjet": "code-1",
+    "refProtagoniste": null,
+    "classe": null,
+    "taxoProtagoniste": {
+      "$oid": "65f0000000000000000006B0"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "nomStructure": "BELL EQUIPMENT",
+        "designation": "BELL EQUIPMENT"
+      }
+    ],
+    "ordreAffichage": null,
+    "protagonsiteIntiateurFondateur": null,
+    "dateEnregistrement": null,
+    "etatProtagoniste": null,
+    "participation": null,
+    "origineParticipation": null,
+    "documentsLegals": null,
+    "personneConcernee": null,
+    "relationInterneProtagoniste": null,
+    "organisationConcernee": null,
+    "autorisationAffichage": null,
+    "roleEtMission": null,
+    "moment": null,
+    "etats": null,
+    "opportinutes": null,
+    "risques": null,
+    "criteresConditions": null,
+    "echangesCommunications": null,
+    "incidents": null,
+    "elementsBudgets": null,
+    "activites": null,
+    "objetsAssocies": null,
+    "caracteristiques": null,
+    "referentiels": null,
+    "instructions": null,
+    "reglesActivations": null,
+    "produitService": null,
+    "coordonneesLieu": null,
+    "instancesOffres": null,
+    "typePersonne": null,
+    "objetsConcernes": null,
+    "echangesEtCommunications": null,
+    "acteurConcerne": null,
+    "modeLivraison": null,
+    "livreurs": null,
+    "categorieProduitsLivraison": null,
+    "produitsLivraison": null,
+    "protagonisteClasse": {
+      "$oid": "65f0000000000000000006B0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "7c9770ac2e3f6976c38b9aea"
+    },
+    "etatObjet": "code-1",
+    "refProtagoniste": null,
+    "classe": null,
+    "taxoProtagoniste": {
+      "$oid": "65f0000000000000000006B0"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "nomStructure": "CASE IH (Northmec)",
+        "designation": "CASE IH (Northmec)"
+      }
+    ],
+    "ordreAffichage": null,
+    "protagonsiteIntiateurFondateur": null,
+    "dateEnregistrement": null,
+    "etatProtagoniste": null,
+    "participation": null,
+    "origineParticipation": null,
+    "documentsLegals": null,
+    "personneConcernee": null,
+    "relationInterneProtagoniste": null,
+    "organisationConcernee": null,
+    "autorisationAffichage": null,
+    "roleEtMission": null,
+    "moment": null,
+    "etats": null,
+    "opportinutes": null,
+    "risques": null,
+    "criteresConditions": null,
+    "echangesCommunications": null,
+    "incidents": null,
+    "elementsBudgets": null,
+    "activites": null,
+    "objetsAssocies": null,
+    "caracteristiques": null,
+    "referentiels": null,
+    "instructions": null,
+    "reglesActivations": null,
+    "produitService": null,
+    "coordonneesLieu": null,
+    "instancesOffres": null,
+    "typePersonne": null,
+    "objetsConcernes": null,
+    "echangesEtCommunications": null,
+    "acteurConcerne": null,
+    "modeLivraison": null,
+    "livreurs": null,
+    "categorieProduitsLivraison": null,
+    "produitsLivraison": null,
+    "protagonisteClasse": {
+      "$oid": "65f0000000000000000006B0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "1bbf81b2e4cd0202c6580018"
+    },
+    "etatObjet": "code-1",
+    "refProtagoniste": null,
+    "classe": null,
+    "taxoProtagoniste": {
+      "$oid": "65f0000000000000000006B0"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "nomStructure": "AGRICOR",
+        "designation": "AGRICOR"
+      }
+    ],
+    "ordreAffichage": null,
+    "protagonsiteIntiateurFondateur": null,
+    "dateEnregistrement": null,
+    "etatProtagoniste": null,
+    "participation": null,
+    "origineParticipation": null,
+    "documentsLegals": null,
+    "personneConcernee": null,
+    "relationInterneProtagoniste": null,
+    "organisationConcernee": null,
+    "autorisationAffichage": null,
+    "roleEtMission": null,
+    "moment": null,
+    "etats": null,
+    "opportinutes": null,
+    "risques": null,
+    "criteresConditions": null,
+    "echangesCommunications": null,
+    "incidents": null,
+    "elementsBudgets": null,
+    "activites": null,
+    "objetsAssocies": null,
+    "caracteristiques": null,
+    "referentiels": null,
+    "instructions": null,
+    "reglesActivations": null,
+    "produitService": null,
+    "coordonneesLieu": null,
+    "instancesOffres": null,
+    "typePersonne": null,
+    "objetsConcernes": null,
+    "echangesEtCommunications": null,
+    "acteurConcerne": null,
+    "modeLivraison": null,
+    "livreurs": null,
+    "categorieProduitsLivraison": null,
+    "produitsLivraison": null,
+    "protagonisteClasse": {
+      "$oid": "65f0000000000000000006B0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "41f50805c260149fd1b691cc"
+    },
+    "etatObjet": "code-1",
+    "refProtagoniste": null,
+    "classe": null,
+    "taxoProtagoniste": {
+      "$oid": "65f0000000000000000006B0"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "nomStructure": "Renault Maroc",
+        "designation": "Renault Maroc"
+      }
+    ],
+    "ordreAffichage": null,
+    "protagonsiteIntiateurFondateur": null,
+    "dateEnregistrement": null,
+    "etatProtagoniste": null,
+    "participation": null,
+    "origineParticipation": null,
+    "documentsLegals": null,
+    "personneConcernee": null,
+    "relationInterneProtagoniste": null,
+    "organisationConcernee": null,
+    "autorisationAffichage": null,
+    "roleEtMission": null,
+    "moment": null,
+    "etats": null,
+    "opportinutes": null,
+    "risques": null,
+    "criteresConditions": null,
+    "echangesCommunications": null,
+    "incidents": null,
+    "elementsBudgets": null,
+    "activites": null,
+    "objetsAssocies": null,
+    "caracteristiques": null,
+    "referentiels": null,
+    "instructions": null,
+    "reglesActivations": null,
+    "produitService": null,
+    "coordonneesLieu": null,
+    "instancesOffres": null,
+    "typePersonne": null,
+    "objetsConcernes": null,
+    "echangesEtCommunications": null,
+    "acteurConcerne": null,
+    "modeLivraison": null,
+    "livreurs": null,
+    "categorieProduitsLivraison": null,
+    "produitsLivraison": null,
+    "protagonisteClasse": {
+      "$oid": "65f0000000000000000006B0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "dc728676848c4f921075e15e"
+    },
+    "etatObjet": "code-1",
+    "refProtagoniste": null,
+    "classe": null,
+    "taxoProtagoniste": {
+      "$oid": "65f0000000000000000006B0"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "nomStructure": "SMEIA (BMW)",
+        "designation": "SMEIA (BMW)"
+      }
+    ],
+    "ordreAffichage": null,
+    "protagonsiteIntiateurFondateur": null,
+    "dateEnregistrement": null,
+    "etatProtagoniste": null,
+    "participation": null,
+    "origineParticipation": null,
+    "documentsLegals": null,
+    "personneConcernee": null,
+    "relationInterneProtagoniste": null,
+    "organisationConcernee": null,
+    "autorisationAffichage": null,
+    "roleEtMission": null,
+    "moment": null,
+    "etats": null,
+    "opportinutes": null,
+    "risques": null,
+    "criteresConditions": null,
+    "echangesCommunications": null,
+    "incidents": null,
+    "elementsBudgets": null,
+    "activites": null,
+    "objetsAssocies": null,
+    "caracteristiques": null,
+    "referentiels": null,
+    "instructions": null,
+    "reglesActivations": null,
+    "produitService": null,
+    "coordonneesLieu": null,
+    "instancesOffres": null,
+    "typePersonne": null,
+    "objetsConcernes": null,
+    "echangesEtCommunications": null,
+    "acteurConcerne": null,
+    "modeLivraison": null,
+    "livreurs": null,
+    "categorieProduitsLivraison": null,
+    "produitsLivraison": null,
+    "protagonisteClasse": {
+      "$oid": "65f0000000000000000006B0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "92601bd6f76bc7a0fb7ada48"
+    },
+    "etatObjet": "code-1",
+    "refProtagoniste": null,
+    "classe": null,
+    "taxoProtagoniste": {
+      "$oid": "65f0000000000000000006B0"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "nomStructure": "SOMAC (Volkswagen)",
+        "designation": "SOMAC (Volkswagen)"
+      }
+    ],
+    "ordreAffichage": null,
+    "protagonsiteIntiateurFondateur": null,
+    "dateEnregistrement": null,
+    "etatProtagoniste": null,
+    "participation": null,
+    "origineParticipation": null,
+    "documentsLegals": null,
+    "personneConcernee": null,
+    "relationInterneProtagoniste": null,
+    "organisationConcernee": null,
+    "autorisationAffichage": null,
+    "roleEtMission": null,
+    "moment": null,
+    "etats": null,
+    "opportinutes": null,
+    "risques": null,
+    "criteresConditions": null,
+    "echangesCommunications": null,
+    "incidents": null,
+    "elementsBudgets": null,
+    "activites": null,
+    "objetsAssocies": null,
+    "caracteristiques": null,
+    "referentiels": null,
+    "instructions": null,
+    "reglesActivations": null,
+    "produitService": null,
+    "coordonneesLieu": null,
+    "instancesOffres": null,
+    "typePersonne": null,
+    "objetsConcernes": null,
+    "echangesEtCommunications": null,
+    "acteurConcerne": null,
+    "modeLivraison": null,
+    "livreurs": null,
+    "categorieProduitsLivraison": null,
+    "produitsLivraison": null,
+    "protagonisteClasse": {
+      "$oid": "65f0000000000000000006B0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "83013ffa60bff11ca63c9722"
+    },
+    "etatObjet": "code-1",
+    "refProtagoniste": null,
+    "classe": null,
+    "taxoProtagoniste": {
+      "$oid": "65f0000000000000000006B0"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "nomStructure": "Toyota Maroc",
+        "designation": "Toyota Maroc"
+      }
+    ],
+    "ordreAffichage": null,
+    "protagonsiteIntiateurFondateur": null,
+    "dateEnregistrement": null,
+    "etatProtagoniste": null,
+    "participation": null,
+    "origineParticipation": null,
+    "documentsLegals": null,
+    "personneConcernee": null,
+    "relationInterneProtagoniste": null,
+    "organisationConcernee": null,
+    "autorisationAffichage": null,
+    "roleEtMission": null,
+    "moment": null,
+    "etats": null,
+    "opportinutes": null,
+    "risques": null,
+    "criteresConditions": null,
+    "echangesCommunications": null,
+    "incidents": null,
+    "elementsBudgets": null,
+    "activites": null,
+    "objetsAssocies": null,
+    "caracteristiques": null,
+    "referentiels": null,
+    "instructions": null,
+    "reglesActivations": null,
+    "produitService": null,
+    "coordonneesLieu": null,
+    "instancesOffres": null,
+    "typePersonne": null,
+    "objetsConcernes": null,
+    "echangesEtCommunications": null,
+    "acteurConcerne": null,
+    "modeLivraison": null,
+    "livreurs": null,
+    "categorieProduitsLivraison": null,
+    "produitsLivraison": null,
+    "protagonisteClasse": {
+      "$oid": "65f0000000000000000006B0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "532fe635bf1db68314ec0743"
+    },
+    "etatObjet": "code-1",
+    "refProtagoniste": null,
+    "classe": null,
+    "taxoProtagoniste": {
+      "$oid": "65f0000000000000000006B0"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "nomStructure": "Hyundai Maroc",
+        "designation": "Hyundai Maroc"
+      }
+    ],
+    "ordreAffichage": null,
+    "protagonsiteIntiateurFondateur": null,
+    "dateEnregistrement": null,
+    "etatProtagoniste": null,
+    "participation": null,
+    "origineParticipation": null,
+    "documentsLegals": null,
+    "personneConcernee": null,
+    "relationInterneProtagoniste": null,
+    "organisationConcernee": null,
+    "autorisationAffichage": null,
+    "roleEtMission": null,
+    "moment": null,
+    "etats": null,
+    "opportinutes": null,
+    "risques": null,
+    "criteresConditions": null,
+    "echangesCommunications": null,
+    "incidents": null,
+    "elementsBudgets": null,
+    "activites": null,
+    "objetsAssocies": null,
+    "caracteristiques": null,
+    "referentiels": null,
+    "instructions": null,
+    "reglesActivations": null,
+    "produitService": null,
+    "coordonneesLieu": null,
+    "instancesOffres": null,
+    "typePersonne": null,
+    "objetsConcernes": null,
+    "echangesEtCommunications": null,
+    "acteurConcerne": null,
+    "modeLivraison": null,
+    "livreurs": null,
+    "categorieProduitsLivraison": null,
+    "produitsLivraison": null,
+    "protagonisteClasse": {
+      "$oid": "65f0000000000000000006B0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "99449eb5406794a49114de7e"
+    },
+    "etatObjet": "code-1",
+    "refProtagoniste": null,
+    "classe": null,
+    "taxoProtagoniste": {
+      "$oid": "65f0000000000000000006B0"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "nomStructure": "Peugeot Maroc (SIAP)",
+        "designation": "Peugeot Maroc (SIAP)"
+      }
+    ],
+    "ordreAffichage": null,
+    "protagonsiteIntiateurFondateur": null,
+    "dateEnregistrement": null,
+    "etatProtagoniste": null,
+    "participation": null,
+    "origineParticipation": null,
+    "documentsLegals": null,
+    "personneConcernee": null,
+    "relationInterneProtagoniste": null,
+    "organisationConcernee": null,
+    "autorisationAffichage": null,
+    "roleEtMission": null,
+    "moment": null,
+    "etats": null,
+    "opportinutes": null,
+    "risques": null,
+    "criteresConditions": null,
+    "echangesCommunications": null,
+    "incidents": null,
+    "elementsBudgets": null,
+    "activites": null,
+    "objetsAssocies": null,
+    "caracteristiques": null,
+    "referentiels": null,
+    "instructions": null,
+    "reglesActivations": null,
+    "produitService": null,
+    "coordonneesLieu": null,
+    "instancesOffres": null,
+    "typePersonne": null,
+    "objetsConcernes": null,
+    "echangesEtCommunications": null,
+    "acteurConcerne": null,
+    "modeLivraison": null,
+    "livreurs": null,
+    "categorieProduitsLivraison": null,
+    "produitsLivraison": null,
+    "protagonisteClasse": {
+      "$oid": "65f0000000000000000006B0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "2952c7b4b8c8c25a888aaf7e"
+    },
+    "etatObjet": "code-1",
+    "refProtagoniste": null,
+    "classe": null,
+    "taxoProtagoniste": {
+      "$oid": "65f0000000000000000006B0"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "nomStructure": "Kia Maroc (Soremar)",
+        "designation": "Kia Maroc (Soremar)"
+      }
+    ],
+    "ordreAffichage": null,
+    "protagonsiteIntiateurFondateur": null,
+    "dateEnregistrement": null,
+    "etatProtagoniste": null,
+    "participation": null,
+    "origineParticipation": null,
+    "documentsLegals": null,
+    "personneConcernee": null,
+    "relationInterneProtagoniste": null,
+    "organisationConcernee": null,
+    "autorisationAffichage": null,
+    "roleEtMission": null,
+    "moment": null,
+    "etats": null,
+    "opportinutes": null,
+    "risques": null,
+    "criteresConditions": null,
+    "echangesCommunications": null,
+    "incidents": null,
+    "elementsBudgets": null,
+    "activites": null,
+    "objetsAssocies": null,
+    "caracteristiques": null,
+    "referentiels": null,
+    "instructions": null,
+    "reglesActivations": null,
+    "produitService": null,
+    "coordonneesLieu": null,
+    "instancesOffres": null,
+    "typePersonne": null,
+    "objetsConcernes": null,
+    "echangesEtCommunications": null,
+    "acteurConcerne": null,
+    "modeLivraison": null,
+    "livreurs": null,
+    "categorieProduitsLivraison": null,
+    "produitsLivraison": null,
+    "protagonisteClasse": {
+      "$oid": "65f0000000000000000006B0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "1c5429c685a6a87fd554880e"
+    },
+    "etatObjet": "code-1",
+    "refProtagoniste": null,
+    "classe": null,
+    "taxoProtagoniste": {
+      "$oid": "65f0000000000000000006B0"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "nomStructure": "Nissan Maroc",
+        "designation": "Nissan Maroc"
+      }
+    ],
+    "ordreAffichage": null,
+    "protagonsiteIntiateurFondateur": null,
+    "dateEnregistrement": null,
+    "etatProtagoniste": null,
+    "participation": null,
+    "origineParticipation": null,
+    "documentsLegals": null,
+    "personneConcernee": null,
+    "relationInterneProtagoniste": null,
+    "organisationConcernee": null,
+    "autorisationAffichage": null,
+    "roleEtMission": null,
+    "moment": null,
+    "etats": null,
+    "opportinutes": null,
+    "risques": null,
+    "criteresConditions": null,
+    "echangesCommunications": null,
+    "incidents": null,
+    "elementsBudgets": null,
+    "activites": null,
+    "objetsAssocies": null,
+    "caracteristiques": null,
+    "referentiels": null,
+    "instructions": null,
+    "reglesActivations": null,
+    "produitService": null,
+    "coordonneesLieu": null,
+    "instancesOffres": null,
+    "typePersonne": null,
+    "objetsConcernes": null,
+    "echangesEtCommunications": null,
+    "acteurConcerne": null,
+    "modeLivraison": null,
+    "livreurs": null,
+    "categorieProduitsLivraison": null,
+    "produitsLivraison": null,
+    "protagonisteClasse": {
+      "$oid": "65f0000000000000000006B0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69dbb6ffd8b9565d711d0bcc"
+    },
+    "etatObjet": "code-1",
+    "refProtagoniste": null,
+    "classe": null,
+    "taxoProtagoniste": {
+      "$oid": "65f0000000000000000006B0"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "nomStructure": "Fiat Maroc (SNAV)",
+        "designation": "Fiat Maroc (SNAV)"
+      }
+    ],
+    "ordreAffichage": null,
+    "protagonsiteIntiateurFondateur": null,
+    "dateEnregistrement": null,
+    "etatProtagoniste": null,
+    "participation": null,
+    "origineParticipation": null,
+    "documentsLegals": null,
+    "personneConcernee": null,
+    "relationInterneProtagoniste": null,
+    "organisationConcernee": null,
+    "autorisationAffichage": null,
+    "roleEtMission": null,
+    "moment": null,
+    "etats": null,
+    "opportinutes": null,
+    "risques": null,
+    "criteresConditions": null,
+    "echangesCommunications": null,
+    "incidents": null,
+    "elementsBudgets": null,
+    "activites": null,
+    "objetsAssocies": null,
+    "caracteristiques": null,
+    "referentiels": null,
+    "instructions": null,
+    "reglesActivations": null,
+    "produitService": null,
+    "coordonneesLieu": null,
+    "instancesOffres": null,
+    "typePersonne": null,
+    "objetsConcernes": null,
+    "echangesEtCommunications": null,
+    "acteurConcerne": null,
+    "modeLivraison": null,
+    "livreurs": null,
+    "categorieProduitsLivraison": null,
+    "produitsLivraison": null,
+    "protagonisteClasse": {
+      "$oid": "65f0000000000000000006B0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "bcd437c91922e4fc565b1e51"
+    },
+    "etatObjet": "code-1",
+    "refProtagoniste": null,
+    "classe": null,
+    "taxoProtagoniste": {
+      "$oid": "65f0000000000000000006B0"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "nomStructure": "Mercedes-Benz Maroc (CAMI)",
+        "designation": "Mercedes-Benz Maroc (CAMI)"
+      }
+    ],
+    "ordreAffichage": null,
+    "protagonsiteIntiateurFondateur": null,
+    "dateEnregistrement": null,
+    "etatProtagoniste": null,
+    "participation": null,
+    "origineParticipation": null,
+    "documentsLegals": null,
+    "personneConcernee": null,
+    "relationInterneProtagoniste": null,
+    "organisationConcernee": null,
+    "autorisationAffichage": null,
+    "roleEtMission": null,
+    "moment": null,
+    "etats": null,
+    "opportinutes": null,
+    "risques": null,
+    "criteresConditions": null,
+    "echangesCommunications": null,
+    "incidents": null,
+    "elementsBudgets": null,
+    "activites": null,
+    "objetsAssocies": null,
+    "caracteristiques": null,
+    "referentiels": null,
+    "instructions": null,
+    "reglesActivations": null,
+    "produitService": null,
+    "coordonneesLieu": null,
+    "instancesOffres": null,
+    "typePersonne": null,
+    "objetsConcernes": null,
+    "echangesEtCommunications": null,
+    "acteurConcerne": null,
+    "modeLivraison": null,
+    "livreurs": null,
+    "categorieProduitsLivraison": null,
+    "produitsLivraison": null,
+    "protagonisteClasse": {
+      "$oid": "65f0000000000000000006B0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "7a2216fa7c5364edc229926c"
+    },
+    "etatObjet": "code-1",
+    "refProtagoniste": null,
+    "classe": null,
+    "taxoProtagoniste": {
+      "$oid": "65f0000000000000000006B0"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "nomStructure": "Audi Center Casablanca",
+        "designation": "Audi Center Casablanca"
+      }
+    ],
+    "ordreAffichage": null,
+    "protagonsiteIntiateurFondateur": null,
+    "dateEnregistrement": null,
+    "etatProtagoniste": null,
+    "participation": null,
+    "origineParticipation": null,
+    "documentsLegals": null,
+    "personneConcernee": null,
+    "relationInterneProtagoniste": null,
+    "organisationConcernee": null,
+    "autorisationAffichage": null,
+    "roleEtMission": null,
+    "moment": null,
+    "etats": null,
+    "opportinutes": null,
+    "risques": null,
+    "criteresConditions": null,
+    "echangesCommunications": null,
+    "incidents": null,
+    "elementsBudgets": null,
+    "activites": null,
+    "objetsAssocies": null,
+    "caracteristiques": null,
+    "referentiels": null,
+    "instructions": null,
+    "reglesActivations": null,
+    "produitService": null,
+    "coordonneesLieu": null,
+    "instancesOffres": null,
+    "typePersonne": null,
+    "objetsConcernes": null,
+    "echangesEtCommunications": null,
+    "acteurConcerne": null,
+    "modeLivraison": null,
+    "livreurs": null,
+    "categorieProduitsLivraison": null,
+    "produitsLivraison": null,
+    "protagonisteClasse": {
+      "$oid": "65f0000000000000000006B0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "db5eb04d368d277678ae0816"
+    },
+    "etatObjet": "code-1",
+    "refProtagoniste": null,
+    "classe": null,
+    "taxoProtagoniste": {
+      "$oid": "65f0000000000000000006B0"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "nomStructure": "Geely Maroc",
+        "designation": "Geely Maroc"
+      }
+    ],
+    "ordreAffichage": null,
+    "protagonsiteIntiateurFondateur": null,
+    "dateEnregistrement": null,
+    "etatProtagoniste": null,
+    "participation": null,
+    "origineParticipation": null,
+    "documentsLegals": null,
+    "personneConcernee": null,
+    "relationInterneProtagoniste": null,
+    "organisationConcernee": null,
+    "autorisationAffichage": null,
+    "roleEtMission": null,
+    "moment": null,
+    "etats": null,
+    "opportinutes": null,
+    "risques": null,
+    "criteresConditions": null,
+    "echangesCommunications": null,
+    "incidents": null,
+    "elementsBudgets": null,
+    "activites": null,
+    "objetsAssocies": null,
+    "caracteristiques": null,
+    "referentiels": null,
+    "instructions": null,
+    "reglesActivations": null,
+    "produitService": null,
+    "coordonneesLieu": null,
+    "instancesOffres": null,
+    "typePersonne": null,
+    "objetsConcernes": null,
+    "echangesEtCommunications": null,
+    "acteurConcerne": null,
+    "modeLivraison": null,
+    "livreurs": null,
+    "categorieProduitsLivraison": null,
+    "produitsLivraison": null,
+    "protagonisteClasse": {
+      "$oid": "65f0000000000000000006B0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000000970"
+    },
+    "etatObjet": "code-1",
+    "refProtagoniste": "PROT-OMNI-001",
+    "classe": "code_338",
+    "taxoProtagoniste": {
+      "$oid": "65f0000000000000000006B0"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "label": "Smart Automation Technology",
+        "description": "Fournisseur Smart Automation Technology sur OMNILOG Marketplace Manutention."
+      },
+      {
+        "language": "en",
+        "label": "Smart Automation Technology",
+        "description": "Supplier Smart Automation Technology on OMNILOG Handling Markandpthece."
+      },
+      {
+        "language": "ar",
+        "label": "Smart Automation Technology",
+        "description": "مورّد Smart Automation Technology sur سوق OMNILOG للمناولة."
+      },
+      {
+        "language": "es",
+        "label": "Smart Automation Technology",
+        "description": "Proveedor Smart Automation Technology en OMNILOG Marketplace de manutención."
+      }
+    ],
+    "ordreAffichage": 1,
+    "protagonsiteIntiateurFondateur": "code_5509",
+    "dateEnregistrement": {
+      "$date": "2020-01-01T00:00:00.000Z"
+    },
+    "etatProtagoniste": "code_3417",
+    "participation": [],
+    "origineParticipation": null,
+    "documentsLegals": [],
+    "personneConcernee": null,
+    "relationInterneProtagoniste": [],
+    "organisationConcernee": {
+      "$oid": "65f000000000000000000980"
+    },
+    "autorisationAffichage": null,
+    "roleEtMission": [],
+    "moment": [],
+    "etats": [],
+    "opportinutes": [],
+    "risques": [],
+    "criteresConditions": [],
+    "echangesCommunications": [],
+    "incidents": [],
+    "elementsBudgets": [],
+    "activites": [],
+    "objetsAssocies": [],
+    "caracteristiques": [],
+    "referentiels": [],
+    "instructions": [],
+    "reglesActivations": [],
+    "produitService": [],
+    "coordonneesLieu": [
+      {
+        "$oid": "65f000000000000000000950"
+      }
+    ],
+    "instancesOffres": [],
+    "typePersonne": "code_339",
+    "objetsConcernes": [],
+    "echangesEtCommunications": [],
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-30T00:00:00.000Z"
+    },
+    "__v": 0,
+    "protagonisteClasse": {
+      "$oid": "65f0000000000000000006B0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000000971"
+    },
+    "etatObjet": "code-1",
+    "refProtagoniste": "PROT-OMNI-002",
+    "classe": "code_338",
+    "taxoProtagoniste": {
+      "$oid": "65f0000000000000000006B0"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "label": "Jungheinrich Maroc",
+        "description": "Fournisseur Jungheinrich Maroc sur OMNILOG Marketplace Manutention."
+      },
+      {
+        "language": "en",
+        "label": "Jagheinrich Morocco",
+        "description": "Supplier Jagheinrich Morocco on OMNILOG Handling Markandpthece."
+      },
+      {
+        "language": "ar",
+        "label": "Jungheinrich المغرب",
+        "description": "مورّد Jungheinrich المغرب sur سوق OMNILOG للمناولة."
+      },
+      {
+        "language": "es",
+        "label": "Jungheinrich Marruecos",
+        "description": "Proveedor Jungheinrich Marruecos en OMNILOG Marketplace de manutención."
+      }
+    ],
+    "ordreAffichage": 2,
+    "protagonsiteIntiateurFondateur": "code_5509",
+    "dateEnregistrement": {
+      "$date": "2020-01-01T00:00:00.000Z"
+    },
+    "etatProtagoniste": "code_3417",
+    "participation": [],
+    "origineParticipation": null,
+    "documentsLegals": [],
+    "personneConcernee": null,
+    "relationInterneProtagoniste": [],
+    "organisationConcernee": {
+      "$oid": "65f000000000000000000981"
+    },
+    "autorisationAffichage": null,
+    "roleEtMission": [],
+    "moment": [],
+    "etats": [],
+    "opportinutes": [],
+    "risques": [],
+    "criteresConditions": [],
+    "echangesCommunications": [],
+    "incidents": [],
+    "elementsBudgets": [],
+    "activites": [],
+    "objetsAssocies": [],
+    "caracteristiques": [],
+    "referentiels": [],
+    "instructions": [],
+    "reglesActivations": [],
+    "produitService": [],
+    "coordonneesLieu": [
+      {
+        "$oid": "65f000000000000000000951"
+      }
+    ],
+    "instancesOffres": [],
+    "typePersonne": "code_339",
+    "objetsConcernes": [],
+    "echangesEtCommunications": [],
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-30T00:00:00.000Z"
+    },
+    "__v": 0,
+    "protagonisteClasse": {
+      "$oid": "65f0000000000000000006B0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000000972"
+    },
+    "etatObjet": "code-1",
+    "refProtagoniste": "PROT-OMNI-003",
+    "classe": "code_338",
+    "taxoProtagoniste": {
+      "$oid": "65f0000000000000000006B0"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "label": "STILL Maroc",
+        "description": "Fournisseur STILL Maroc sur OMNILOG Marketplace Manutention."
+      },
+      {
+        "language": "en",
+        "label": "STILL Morocco",
+        "description": "Supplier STILL Morocco on OMNILOG Handling Markandpthece."
+      },
+      {
+        "language": "ar",
+        "label": "STILL المغرب",
+        "description": "مورّد STILL المغرب sur سوق OMNILOG للمناولة."
+      },
+      {
+        "language": "es",
+        "label": "STILL Marruecos",
+        "description": "Proveedor STILL Marruecos en OMNILOG Marketplace de manutención."
+      }
+    ],
+    "ordreAffichage": 3,
+    "protagonsiteIntiateurFondateur": "code_5509",
+    "dateEnregistrement": {
+      "$date": "2020-01-01T00:00:00.000Z"
+    },
+    "etatProtagoniste": "code_3417",
+    "participation": [],
+    "origineParticipation": null,
+    "documentsLegals": [],
+    "personneConcernee": null,
+    "relationInterneProtagoniste": [],
+    "organisationConcernee": {
+      "$oid": "65f000000000000000000982"
+    },
+    "autorisationAffichage": null,
+    "roleEtMission": [],
+    "moment": [],
+    "etats": [],
+    "opportinutes": [],
+    "risques": [],
+    "criteresConditions": [],
+    "echangesCommunications": [],
+    "incidents": [],
+    "elementsBudgets": [],
+    "activites": [],
+    "objetsAssocies": [],
+    "caracteristiques": [],
+    "referentiels": [],
+    "instructions": [],
+    "reglesActivations": [],
+    "produitService": [],
+    "coordonneesLieu": [
+      {
+        "$oid": "65f000000000000000000952"
+      }
+    ],
+    "instancesOffres": [],
+    "typePersonne": "code_339",
+    "objetsConcernes": [],
+    "echangesEtCommunications": [],
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-30T00:00:00.000Z"
+    },
+    "__v": 0,
+    "protagonisteClasse": {
+      "$oid": "65f0000000000000000006B0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000000973"
+    },
+    "etatObjet": "code-1",
+    "refProtagoniste": "PROT-OMNI-004",
+    "classe": "code_338",
+    "taxoProtagoniste": {
+      "$oid": "65f0000000000000000006B0"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "label": "SafetyPro Maroc",
+        "description": "Fournisseur SafetyPro Maroc sur OMNILOG Marketplace Manutention."
+      },
+      {
+        "language": "en",
+        "label": "SafandyPro Morocco",
+        "description": "Supplier SafandyPro Morocco on OMNILOG Handling Markandpthece."
+      },
+      {
+        "language": "ar",
+        "label": "SafetyPro المغرب",
+        "description": "مورّد SafetyPro المغرب sur سوق OMNILOG للمناولة."
+      },
+      {
+        "language": "es",
+        "label": "SafetyPro Marruecos",
+        "description": "Proveedor SafetyPro Marruecos en OMNILOG Marketplace de manutención."
+      }
+    ],
+    "ordreAffichage": 4,
+    "protagonsiteIntiateurFondateur": "code_5509",
+    "dateEnregistrement": {
+      "$date": "2020-01-01T00:00:00.000Z"
+    },
+    "etatProtagoniste": "code_3417",
+    "participation": [],
+    "origineParticipation": null,
+    "documentsLegals": [],
+    "personneConcernee": null,
+    "relationInterneProtagoniste": [],
+    "organisationConcernee": {
+      "$oid": "65f000000000000000000983"
+    },
+    "autorisationAffichage": null,
+    "roleEtMission": [],
+    "moment": [],
+    "etats": [],
+    "opportinutes": [],
+    "risques": [],
+    "criteresConditions": [],
+    "echangesCommunications": [],
+    "incidents": [],
+    "elementsBudgets": [],
+    "activites": [],
+    "objetsAssocies": [],
+    "caracteristiques": [],
+    "referentiels": [],
+    "instructions": [],
+    "reglesActivations": [],
+    "produitService": [],
+    "coordonneesLieu": [
+      {
+        "$oid": "65f000000000000000000953"
+      }
+    ],
+    "instancesOffres": [],
+    "typePersonne": "code_339",
+    "objetsConcernes": [],
+    "echangesEtCommunications": [],
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-30T00:00:00.000Z"
+    },
+    "__v": 0,
+    "protagonisteClasse": {
+      "$oid": "65f0000000000000000006B0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000000974"
+    },
+    "etatObjet": "code-1",
+    "refProtagoniste": "PROT-OMNI-005",
+    "classe": "code_338",
+    "taxoProtagoniste": {
+      "$oid": "65f0000000000000000006B0"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "label": "PackExpert Maroc",
+        "description": "Fournisseur PackExpert Maroc sur OMNILOG Marketplace Manutention."
+      },
+      {
+        "language": "en",
+        "label": "PackExpert Morocco",
+        "description": "Supplier PackExpert Morocco on OMNILOG Handling Markandpthece."
+      },
+      {
+        "language": "ar",
+        "label": "PackExpert المغرب",
+        "description": "مورّد PackExpert المغرب sur سوق OMNILOG للمناولة."
+      },
+      {
+        "language": "es",
+        "label": "PackExpert Marruecos",
+        "description": "Proveedor PackExpert Marruecos en OMNILOG Marketplace de manutención."
+      }
+    ],
+    "ordreAffichage": 5,
+    "protagonsiteIntiateurFondateur": "code_5509",
+    "dateEnregistrement": {
+      "$date": "2020-01-01T00:00:00.000Z"
+    },
+    "etatProtagoniste": "code_3417",
+    "participation": [],
+    "origineParticipation": null,
+    "documentsLegals": [],
+    "personneConcernee": null,
+    "relationInterneProtagoniste": [],
+    "organisationConcernee": {
+      "$oid": "65f000000000000000000984"
+    },
+    "autorisationAffichage": null,
+    "roleEtMission": [],
+    "moment": [],
+    "etats": [],
+    "opportinutes": [],
+    "risques": [],
+    "criteresConditions": [],
+    "echangesCommunications": [],
+    "incidents": [],
+    "elementsBudgets": [],
+    "activites": [],
+    "objetsAssocies": [],
+    "caracteristiques": [],
+    "referentiels": [],
+    "instructions": [],
+    "reglesActivations": [],
+    "produitService": [],
+    "coordonneesLieu": [
+      {
+        "$oid": "65f000000000000000000954"
+      }
+    ],
+    "instancesOffres": [],
+    "typePersonne": "code_339",
+    "objetsConcernes": [],
+    "echangesEtCommunications": [],
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-30T00:00:00.000Z"
+    },
+    "__v": 0,
+    "protagonisteClasse": {
+      "$oid": "65f0000000000000000006B0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000000975"
+    },
+    "etatObjet": "code-1",
+    "refProtagoniste": "PROT-OMNI-006",
+    "classe": "code_338",
+    "taxoProtagoniste": {
+      "$oid": "65f0000000000000000006B0"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "label": "RayonnageMaroc",
+        "description": "Fournisseur RayonnageMaroc sur OMNILOG Marketplace Manutention."
+      },
+      {
+        "language": "en",
+        "label": "RackingMorocco",
+        "description": "Supplier RackingMorocco on OMNILOG Handling Markandpthece."
+      },
+      {
+        "language": "ar",
+        "label": "رفوفالمغرب",
+        "description": "مورّد رفوفالمغرب sur سوق OMNILOG للمناولة."
+      },
+      {
+        "language": "es",
+        "label": "EstanteríaMarruecos",
+        "description": "Proveedor EstanteríaMarruecos en OMNILOG Marketplace de manutención."
+      }
+    ],
+    "ordreAffichage": 6,
+    "protagonsiteIntiateurFondateur": "code_5509",
+    "dateEnregistrement": {
+      "$date": "2020-01-01T00:00:00.000Z"
+    },
+    "etatProtagoniste": "code_3417",
+    "participation": [],
+    "origineParticipation": null,
+    "documentsLegals": [],
+    "personneConcernee": null,
+    "relationInterneProtagoniste": [],
+    "organisationConcernee": {
+      "$oid": "65f000000000000000000985"
+    },
+    "autorisationAffichage": null,
+    "roleEtMission": [],
+    "moment": [],
+    "etats": [],
+    "opportinutes": [],
+    "risques": [],
+    "criteresConditions": [],
+    "echangesCommunications": [],
+    "incidents": [],
+    "elementsBudgets": [],
+    "activites": [],
+    "objetsAssocies": [],
+    "caracteristiques": [],
+    "referentiels": [],
+    "instructions": [],
+    "reglesActivations": [],
+    "produitService": [],
+    "coordonneesLieu": [
+      {
+        "$oid": "65f000000000000000000955"
+      }
+    ],
+    "instancesOffres": [],
+    "typePersonne": "code_339",
+    "objetsConcernes": [],
+    "echangesEtCommunications": [],
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-30T00:00:00.000Z"
+    },
+    "__v": 0,
+    "protagonisteClasse": {
+      "$oid": "65f0000000000000000006B0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000000976"
+    },
+    "etatObjet": "code-1",
+    "refProtagoniste": "PROT-OMNI-007",
+    "classe": "code_338",
+    "taxoProtagoniste": {
+      "$oid": "65f0000000000000000006B0"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "label": "LevagePro",
+        "description": "Fournisseur LevagePro sur OMNILOG Marketplace Manutention."
+      },
+      {
+        "language": "en",
+        "label": "LiftingPro",
+        "description": "Supplier LiftingPro on OMNILOG Handling Markandpthece."
+      },
+      {
+        "language": "ar",
+        "label": "الرفعPro",
+        "description": "مورّد الرفعPro sur سوق OMNILOG للمناولة."
+      },
+      {
+        "language": "es",
+        "label": "ElevaciónPro",
+        "description": "Proveedor ElevaciónPro en OMNILOG Marketplace de manutención."
+      }
+    ],
+    "ordreAffichage": 7,
+    "protagonsiteIntiateurFondateur": "code_5509",
+    "dateEnregistrement": {
+      "$date": "2020-01-01T00:00:00.000Z"
+    },
+    "etatProtagoniste": "code_3417",
+    "participation": [],
+    "origineParticipation": null,
+    "documentsLegals": [],
+    "personneConcernee": null,
+    "relationInterneProtagoniste": [],
+    "organisationConcernee": {
+      "$oid": "65f000000000000000000986"
+    },
+    "autorisationAffichage": null,
+    "roleEtMission": [],
+    "moment": [],
+    "etats": [],
+    "opportinutes": [],
+    "risques": [],
+    "criteresConditions": [],
+    "echangesCommunications": [],
+    "incidents": [],
+    "elementsBudgets": [],
+    "activites": [],
+    "objetsAssocies": [],
+    "caracteristiques": [],
+    "referentiels": [],
+    "instructions": [],
+    "reglesActivations": [],
+    "produitService": [],
+    "coordonneesLieu": [
+      {
+        "$oid": "65f000000000000000000956"
+      }
+    ],
+    "instancesOffres": [],
+    "typePersonne": "code_339",
+    "objetsConcernes": [],
+    "echangesEtCommunications": [],
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-30T00:00:00.000Z"
+    },
+    "__v": 0,
+    "protagonisteClasse": {
+      "$oid": "65f0000000000000000006B0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000000977"
+    },
+    "etatObjet": "code-1",
+    "refProtagoniste": "PROT-OMNI-008",
+    "classe": "code_338",
+    "taxoProtagoniste": {
+      "$oid": "65f0000000000000000006B0"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "label": "OutilTech Maroc",
+        "description": "Fournisseur OutilTech Maroc sur OMNILOG Marketplace Manutention."
+      },
+      {
+        "language": "en",
+        "label": "ToolTech Morocco",
+        "description": "Supplier ToolTech Morocco on OMNILOG Handling Markandpthece."
+      },
+      {
+        "language": "ar",
+        "label": "أداةTech المغرب",
+        "description": "مورّد أداةTech المغرب sur سوق OMNILOG للمناولة."
+      },
+      {
+        "language": "es",
+        "label": "HerramientaTech Marruecos",
+        "description": "Proveedor HerramientaTech Marruecos en OMNILOG Marketplace de manutención."
+      }
+    ],
+    "ordreAffichage": 8,
+    "protagonsiteIntiateurFondateur": "code_5509",
+    "dateEnregistrement": {
+      "$date": "2020-01-01T00:00:00.000Z"
+    },
+    "etatProtagoniste": "code_3417",
+    "participation": [],
+    "origineParticipation": null,
+    "documentsLegals": [],
+    "personneConcernee": null,
+    "relationInterneProtagoniste": [],
+    "organisationConcernee": {
+      "$oid": "65f000000000000000000987"
+    },
+    "autorisationAffichage": null,
+    "roleEtMission": [],
+    "moment": [],
+    "etats": [],
+    "opportinutes": [],
+    "risques": [],
+    "criteresConditions": [],
+    "echangesCommunications": [],
+    "incidents": [],
+    "elementsBudgets": [],
+    "activites": [],
+    "objetsAssocies": [],
+    "caracteristiques": [],
+    "referentiels": [],
+    "instructions": [],
+    "reglesActivations": [],
+    "produitService": [],
+    "coordonneesLieu": [
+      {
+        "$oid": "65f000000000000000000957"
+      }
+    ],
+    "instancesOffres": [],
+    "typePersonne": "code_339",
+    "objetsConcernes": [],
+    "echangesEtCommunications": [],
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-30T00:00:00.000Z"
+    },
+    "__v": 0,
+    "protagonisteClasse": {
+      "$oid": "65f0000000000000000006B0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000000978"
+    },
+    "etatObjet": "code-1",
+    "refProtagoniste": "PROT-OMNI-009",
+    "classe": "code_338",
+    "taxoProtagoniste": {
+      "$oid": "65f0000000000000000006B0"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "label": "ExterieurPro",
+        "description": "Fournisseur ExterieurPro sur OMNILOG Marketplace Manutention."
+      },
+      {
+        "language": "en",
+        "label": "ExterieurPro",
+        "description": "Supplier ExterieurPro on OMNILOG Handling Markandpthece."
+      },
+      {
+        "language": "ar",
+        "label": "ExterieurPro",
+        "description": "مورّد ExterieurPro sur سوق OMNILOG للمناولة."
+      },
+      {
+        "language": "es",
+        "label": "ExterieurPro",
+        "description": "Proveedor ExterieurPro en OMNILOG Marketplace de manutención."
+      }
+    ],
+    "ordreAffichage": 9,
+    "protagonsiteIntiateurFondateur": "code_5509",
+    "dateEnregistrement": {
+      "$date": "2020-01-01T00:00:00.000Z"
+    },
+    "etatProtagoniste": "code_3417",
+    "participation": [],
+    "origineParticipation": null,
+    "documentsLegals": [],
+    "personneConcernee": null,
+    "relationInterneProtagoniste": [],
+    "organisationConcernee": {
+      "$oid": "65f000000000000000000988"
+    },
+    "autorisationAffichage": null,
+    "roleEtMission": [],
+    "moment": [],
+    "etats": [],
+    "opportinutes": [],
+    "risques": [],
+    "criteresConditions": [],
+    "echangesCommunications": [],
+    "incidents": [],
+    "elementsBudgets": [],
+    "activites": [],
+    "objetsAssocies": [],
+    "caracteristiques": [],
+    "referentiels": [],
+    "instructions": [],
+    "reglesActivations": [],
+    "produitService": [],
+    "coordonneesLieu": [
+      {
+        "$oid": "65f000000000000000000958"
+      }
+    ],
+    "instancesOffres": [],
+    "typePersonne": "code_339",
+    "objetsConcernes": [],
+    "echangesEtCommunications": [],
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-30T00:00:00.000Z"
+    },
+    "__v": 0,
+    "protagonisteClasse": {
+      "$oid": "65f0000000000000000006B0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000000979"
+    },
+    "etatObjet": "code-1",
+    "refProtagoniste": "PROT-OMNI-010",
+    "classe": "code_338",
+    "taxoProtagoniste": {
+      "$oid": "65f0000000000000000006B0"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "label": "ConveyorSystems Maroc",
+        "description": "Fournisseur ConveyorSystems Maroc sur OMNILOG Marketplace Manutention."
+      },
+      {
+        "language": "en",
+        "label": "ConveyorSystems Morocco",
+        "description": "Supplier ConveyorSystems Morocco on OMNILOG Handling Markandpthece."
+      },
+      {
+        "language": "ar",
+        "label": "ConveyorSystems المغرب",
+        "description": "مورّد ConveyorSystems المغرب sur سوق OMNILOG للمناولة."
+      },
+      {
+        "language": "es",
+        "label": "ConveyorSystems Marruecos",
+        "description": "Proveedor ConveyorSystems Marruecos en OMNILOG Marketplace de manutención."
+      }
+    ],
+    "ordreAffichage": 10,
+    "protagonsiteIntiateurFondateur": "code_5509",
+    "dateEnregistrement": {
+      "$date": "2020-01-01T00:00:00.000Z"
+    },
+    "etatProtagoniste": "code_3417",
+    "participation": [],
+    "origineParticipation": null,
+    "documentsLegals": [],
+    "personneConcernee": null,
+    "relationInterneProtagoniste": [],
+    "organisationConcernee": {
+      "$oid": "65f000000000000000000989"
+    },
+    "autorisationAffichage": null,
+    "roleEtMission": [],
+    "moment": [],
+    "etats": [],
+    "opportinutes": [],
+    "risques": [],
+    "criteresConditions": [],
+    "echangesCommunications": [],
+    "incidents": [],
+    "elementsBudgets": [],
+    "activites": [],
+    "objetsAssocies": [],
+    "caracteristiques": [],
+    "referentiels": [],
+    "instructions": [],
+    "reglesActivations": [],
+    "produitService": [],
+    "coordonneesLieu": [
+      {
+        "$oid": "65f000000000000000000959"
+      }
+    ],
+    "instancesOffres": [],
+    "typePersonne": "code_339",
+    "objetsConcernes": [],
+    "echangesEtCommunications": [],
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-30T00:00:00.000Z"
+    },
+    "__v": 0,
+    "protagonisteClasse": {
+      "$oid": "65f0000000000000000006B0"
+    }
+  }
+]

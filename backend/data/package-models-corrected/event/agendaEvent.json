@@ -1,0 +1,2545 @@
+[
+  {
+    "_id": {
+      "$oid": "64bdfd714182120cec3fd2d6"
+    },
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Online Auction by Fisher & Roes Auctioneers",
+        "description": "Major construction and agricultural equipment auction."
+      }
+    ],
+    "dateDebut": {
+      "$date": "2026-05-07T07:30:00Z"
+    },
+    "dateFin": {
+      "$date": "2026-05-07T07:30:00Z"
+    },
+    "lieu": "Online / North County Auctions",
+    "etatObjet": "code-1",
+    "etatEvent": "code_224",
+    "categorieEvent": {
+      "$oid": "65f000000000000000000B02"
+    },
+    "presentielEnligne": "code_280",
+    "images": [],
+    "multiSessions": false,
+    "multiSites": false,
+    "accessibilite": "code_8496",
+    "avecDistributionRecompensesPrix": false,
+    "reservationObligatoire": false,
+    "programmeEvent": [],
+    "instanceElementAssocie": [],
+    "produitServices": [],
+    "acteurs": [],
+    "eventAvecVentProduiService": false,
+    "eventAvecProduitServiceIncludDansLaReservation": false,
+    "produitsEvent": [],
+    "createdAt": {
+      "$date": "2026-05-07T07:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-07T07:30:00Z"
+    },
+    "referenceEvent": "EVT-AUTO-0001"
+  },
+  {
+    "_id": {
+      "$oid": "589f679c141a2b4c472c638c"
+    },
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Enlow Tractor Auction",
+        "description": "Specialized tractor and farm implement auction."
+      }
+    ],
+    "dateDebut": {
+      "$date": "2026-07-23T08:00:00Z"
+    },
+    "dateFin": {
+      "$date": "2026-07-23T08:00:00Z"
+    },
+    "lieu": "Online",
+    "etatObjet": "code-1",
+    "etatEvent": "code_224",
+    "categorieEvent": {
+      "$oid": "65f000000000000000000F03"
+    },
+    "presentielEnligne": "code_280",
+    "images": [],
+    "multiSessions": false,
+    "multiSites": false,
+    "accessibilite": "code_8496",
+    "avecDistributionRecompensesPrix": false,
+    "reservationObligatoire": false,
+    "programmeEvent": [],
+    "instanceElementAssocie": [],
+    "produitServices": [],
+    "acteurs": [],
+    "eventAvecVentProduiService": false,
+    "eventAvecProduitServiceIncludDansLaReservation": false,
+    "produitsEvent": [],
+    "createdAt": {
+      "$date": "2026-07-23T08:00:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-23T08:00:00Z"
+    },
+    "referenceEvent": "EVT-AUTO-0002"
+  },
+  {
+    "_id": {
+      "$oid": "42ce35c4bfdb0658afc074bc"
+    },
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Enlow Tractor Auction - Spring Session",
+        "description": "Upcoming spring auction for agricultural machinery."
+      }
+    ],
+    "dateDebut": {
+      "$date": "2026-05-06T09:00:00Z"
+    },
+    "dateFin": {
+      "$date": "2026-05-06T09:00:00Z"
+    },
+    "lieu": "Online",
+    "etatObjet": "code-1",
+    "etatEvent": "code_224",
+    "categorieEvent": {
+      "$oid": "65f000000000000000000B02"
+    },
+    "presentielEnligne": "code_280",
+    "images": [],
+    "multiSessions": false,
+    "multiSites": false,
+    "accessibilite": "code_8496",
+    "avecDistributionRecompensesPrix": false,
+    "reservationObligatoire": false,
+    "programmeEvent": [],
+    "instanceElementAssocie": [],
+    "produitServices": [],
+    "acteurs": [],
+    "eventAvecVentProduiService": false,
+    "eventAvecProduitServiceIncludDansLaReservation": false,
+    "produitsEvent": [],
+    "createdAt": {
+      "$date": "2026-05-06T09:00:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-06T09:00:00Z"
+    },
+    "referenceEvent": "EVT-AUTO-0003"
+  },
+  {
+    "_id": {
+      "$oid": "7b7bc2d8f719a3b7bc1cfc78"
+    },
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Lancement JEEP Compass 2026 au Maroc",
+        "description": "Lancement officiel de la nouvelle Jeep Compass MHEV 2026 sur le marché marocain."
+      }
+    ],
+    "dateDebut": {
+      "$date": "2026-05-07T10:00:00Z"
+    },
+    "dateFin": {
+      "$date": "2026-05-07T10:00:00Z"
+    },
+    "lieu": "Casablanca, Maroc",
+    "etatObjet": "code-1",
+    "etatEvent": "code_224",
+    "categorieEvent": {
+      "$oid": "65f000000000000000000F03"
+    },
+    "presentielEnligne": "code_280",
+    "images": [],
+    "multiSessions": false,
+    "multiSites": false,
+    "accessibilite": "code_8496",
+    "avecDistributionRecompensesPrix": false,
+    "reservationObligatoire": false,
+    "programmeEvent": [],
+    "instanceElementAssocie": [],
+    "produitServices": [],
+    "acteurs": [],
+    "eventAvecVentProduiService": false,
+    "eventAvecProduitServiceIncludDansLaReservation": false,
+    "produitsEvent": [],
+    "createdAt": {
+      "$date": "2026-05-07T10:00:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-07T10:00:00Z"
+    },
+    "referenceEvent": "EVT-AUTO-0004"
+  },
+  {
+    "_id": {
+      "$oid": "d0deabc6a193b180d2558bd0"
+    },
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Lancement TOYOTA bZ4X - Premier véhicule électrique Toyota au Maroc",
+        "description": "Arrivée officielle du Toyota bZ4X 100% électrique avec 224 ch."
+      }
+    ],
+    "dateDebut": {
+      "$date": "2026-04-15T09:00:00Z"
+    },
+    "dateFin": {
+      "$date": "2026-04-15T09:00:00Z"
+    },
+    "lieu": "Casablanca, Maroc",
+    "etatObjet": "code-1",
+    "etatEvent": "code_224",
+    "categorieEvent": {
+      "$oid": "65f000000000000000000B02"
+    },
+    "presentielEnligne": "code_280",
+    "images": [],
+    "multiSessions": false,
+    "multiSites": false,
+    "accessibilite": "code_8496",
+    "avecDistributionRecompensesPrix": false,
+    "reservationObligatoire": false,
+    "programmeEvent": [],
+    "instanceElementAssocie": [],
+    "produitServices": [],
+    "acteurs": [],
+    "eventAvecVentProduiService": false,
+    "eventAvecProduitServiceIncludDansLaReservation": false,
+    "produitsEvent": [],
+    "createdAt": {
+      "$date": "2026-04-15T09:00:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-15T09:00:00Z"
+    },
+    "referenceEvent": "EVT-AUTO-0005"
+  },
+  {
+    "_id": {
+      "$oid": "3142b9c38c7c524e2c74f4aa"
+    },
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Salon de l'Auto Casablanca 2026",
+        "description": "Salon international de l'automobile de Casablanca, réunissant les principales marques disponibles au Maroc."
+      }
+    ],
+    "dateDebut": {
+      "$date": "2026-10-20T09:00:00Z"
+    },
+    "dateFin": {
+      "$date": "2026-10-20T09:00:00Z"
+    },
+    "lieu": "Office des Foires et Expositions de Casablanca",
+    "etatObjet": "code-1",
+    "etatEvent": "code_224",
+    "categorieEvent": {
+      "$oid": "65f000000000000000000F03"
+    },
+    "presentielEnligne": "code_280",
+    "images": [],
+    "multiSessions": false,
+    "multiSites": false,
+    "accessibilite": "code_8496",
+    "avecDistributionRecompensesPrix": false,
+    "reservationObligatoire": false,
+    "programmeEvent": [],
+    "instanceElementAssocie": [],
+    "produitServices": [],
+    "acteurs": [],
+    "eventAvecVentProduiService": false,
+    "eventAvecProduitServiceIncludDansLaReservation": false,
+    "produitsEvent": [],
+    "createdAt": {
+      "$date": "2026-10-20T09:00:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-20T09:00:00Z"
+    },
+    "referenceEvent": "EVT-AUTO-0006"
+  },
+  {
+    "_id": {
+      "$oid": "5432f86425af9e464ae9c16a"
+    },
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Promotion VW Taigo - Mai 2026",
+        "description": "Offre promotionnelle sur le Volkswagen Taigo valable jusqu'à fin mai 2026."
+      }
+    ],
+    "dateDebut": {
+      "$date": "2026-05-01T00:00:00Z"
+    },
+    "dateFin": {
+      "$date": "2026-05-01T00:00:00Z"
+    },
+    "lieu": "Maroc",
+    "etatObjet": "code-1",
+    "etatEvent": "code_224",
+    "categorieEvent": {
+      "$oid": "65f000000000000000000B02"
+    },
+    "presentielEnligne": "code_280",
+    "images": [],
+    "multiSessions": false,
+    "multiSites": false,
+    "accessibilite": "code_8496",
+    "avecDistributionRecompensesPrix": false,
+    "reservationObligatoire": false,
+    "programmeEvent": [],
+    "instanceElementAssocie": [],
+    "produitServices": [],
+    "acteurs": [],
+    "eventAvecVentProduiService": false,
+    "eventAvecProduitServiceIncludDansLaReservation": false,
+    "produitsEvent": [],
+    "createdAt": {
+      "$date": "2026-05-01T00:00:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-01T00:00:00Z"
+    },
+    "referenceEvent": "EVT-AUTO-0007"
+  },
+  {
+    "_id": {
+      "$oid": "c95c51588fbc313dc9829359"
+    },
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Lancement LEXUS RZ 550e au Maroc",
+        "description": "Premier SUV électrique Lexus au Maroc avec 450 ch et autonomie 440 km."
+      }
+    ],
+    "dateDebut": {
+      "$date": "2026-04-10T10:00:00Z"
+    },
+    "dateFin": {
+      "$date": "2026-04-10T10:00:00Z"
+    },
+    "lieu": "Toyota du Maroc, Casablanca",
+    "etatObjet": "code-1",
+    "etatEvent": "code_224",
+    "categorieEvent": {
+      "$oid": "65f000000000000000000F03"
+    },
+    "presentielEnligne": "code_280",
+    "images": [],
+    "multiSessions": false,
+    "multiSites": false,
+    "accessibilite": "code_8496",
+    "avecDistributionRecompensesPrix": false,
+    "reservationObligatoire": false,
+    "programmeEvent": [],
+    "instanceElementAssocie": [],
+    "produitServices": [],
+    "acteurs": [],
+    "eventAvecVentProduiService": false,
+    "eventAvecProduitServiceIncludDansLaReservation": false,
+    "produitsEvent": [],
+    "createdAt": {
+      "$date": "2026-04-10T10:00:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-10T10:00:00Z"
+    },
+    "referenceEvent": "EVT-AUTO-0008"
+  },
+  {
+    "_id": {
+      "$oid": "ba8babfe84e8f652778fc7b0"
+    },
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Lancement CITROËN C5 AirCross 2026 au Maroc",
+        "description": "Nouvelle génération du C5 AirCross avec motorisation hybride rechargeable."
+      }
+    ],
+    "dateDebut": {
+      "$date": "2026-04-20T09:00:00Z"
+    },
+    "dateFin": {
+      "$date": "2026-04-20T09:00:00Z"
+    },
+    "lieu": "SIAP - Casablanca",
+    "etatObjet": "code-1",
+    "etatEvent": "code_224",
+    "categorieEvent": {
+      "$oid": "65f000000000000000000B02"
+    },
+    "presentielEnligne": "code_280",
+    "images": [],
+    "multiSessions": false,
+    "multiSites": false,
+    "accessibilite": "code_8496",
+    "avecDistributionRecompensesPrix": false,
+    "reservationObligatoire": false,
+    "programmeEvent": [],
+    "instanceElementAssocie": [],
+    "produitServices": [],
+    "acteurs": [],
+    "eventAvecVentProduiService": false,
+    "eventAvecProduitServiceIncludDansLaReservation": false,
+    "produitsEvent": [],
+    "createdAt": {
+      "$date": "2026-04-20T09:00:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-20T09:00:00Z"
+    },
+    "referenceEvent": "EVT-AUTO-0009"
+  },
+  {
+    "_id": {
+      "$oid": "23331bb41850d4f873b6b215"
+    },
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "JETOUR T1 & G700 - Grande première à Casablanca",
+        "description": "Double lancement des nouveaux modèles Jetour T1 et G700 au Maroc."
+      }
+    ],
+    "dateDebut": {
+      "$date": "2026-04-25T10:00:00Z"
+    },
+    "dateFin": {
+      "$date": "2026-04-25T10:00:00Z"
+    },
+    "lieu": "Showroom Jetour Casablanca",
+    "etatObjet": "code-1",
+    "etatEvent": "code_224",
+    "categorieEvent": {
+      "$oid": "65f000000000000000000F03"
+    },
+    "presentielEnligne": "code_280",
+    "images": [],
+    "multiSessions": false,
+    "multiSites": false,
+    "accessibilite": "code_8496",
+    "avecDistributionRecompensesPrix": false,
+    "reservationObligatoire": false,
+    "programmeEvent": [],
+    "instanceElementAssocie": [],
+    "produitServices": [],
+    "acteurs": [],
+    "eventAvecVentProduiService": false,
+    "eventAvecProduitServiceIncludDansLaReservation": false,
+    "produitsEvent": [],
+    "createdAt": {
+      "$date": "2026-04-25T10:00:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-25T10:00:00Z"
+    },
+    "referenceEvent": "EVT-AUTO-0010"
+  },
+  {
+    "_id": {
+      "$oid": "a7c4e924d00500626aa4b9f1"
+    },
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "GEELY EX5 PHEV 2026 - Lancement Maroc",
+        "description": "Lancement du SUV hybride rechargeable Geely EX5 PHEV à 339.900 DH."
+      }
+    ],
+    "dateDebut": {
+      "$date": "2026-04-18T09:00:00Z"
+    },
+    "dateFin": {
+      "$date": "2026-04-18T09:00:00Z"
+    },
+    "lieu": "Geely Maroc, Casablanca",
+    "etatObjet": "code-1",
+    "etatEvent": "code_224",
+    "categorieEvent": {
+      "$oid": "65f000000000000000000B02"
+    },
+    "presentielEnligne": "code_280",
+    "images": [],
+    "multiSessions": false,
+    "multiSites": false,
+    "accessibilite": "code_8496",
+    "avecDistributionRecompensesPrix": false,
+    "reservationObligatoire": false,
+    "programmeEvent": [],
+    "instanceElementAssocie": [],
+    "produitServices": [],
+    "acteurs": [],
+    "eventAvecVentProduiService": false,
+    "eventAvecProduitServiceIncludDansLaReservation": false,
+    "produitsEvent": [],
+    "createdAt": {
+      "$date": "2026-04-18T09:00:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-18T09:00:00Z"
+    },
+    "referenceEvent": "EVT-AUTO-0011"
+  },
+  {
+    "_id": {
+      "$oid": "41cab145f107917b0c3eae58"
+    },
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "BAIC BJ30e - Lancement Maroc",
+        "description": "Nouveau SUV BAIC BJ30e électrique lancé officiellement au Maroc."
+      }
+    ],
+    "dateDebut": {
+      "$date": "2026-04-22T09:00:00Z"
+    },
+    "dateFin": {
+      "$date": "2026-04-22T09:00:00Z"
+    },
+    "lieu": "Casablanca",
+    "etatObjet": "code-1",
+    "etatEvent": "code_224",
+    "categorieEvent": {
+      "$oid": "65f000000000000000000F03"
+    },
+    "presentielEnligne": "code_280",
+    "images": [],
+    "multiSessions": false,
+    "multiSites": false,
+    "accessibilite": "code_8496",
+    "avecDistributionRecompensesPrix": false,
+    "reservationObligatoire": false,
+    "programmeEvent": [],
+    "instanceElementAssocie": [],
+    "produitServices": [],
+    "acteurs": [],
+    "eventAvecVentProduiService": false,
+    "eventAvecProduitServiceIncludDansLaReservation": false,
+    "produitsEvent": [],
+    "createdAt": {
+      "$date": "2026-04-22T09:00:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-22T09:00:00Z"
+    },
+    "referenceEvent": "EVT-AUTO-0012"
+  },
+  {
+    "_id": {
+      "$oid": "3a33965432175ff145384254"
+    },
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Promo DACIA Bigster - Avril/Mai 2026",
+        "description": "Offre promotionnelle sur le nouveau DACIA Bigster, valable jusqu'en mai 2026."
+      }
+    ],
+    "dateDebut": {
+      "$date": "2026-04-01T00:00:00Z"
+    },
+    "dateFin": {
+      "$date": "2026-04-01T00:00:00Z"
+    },
+    "lieu": "Réseau Renault Maroc",
+    "etatObjet": "code-1",
+    "etatEvent": "code_224",
+    "categorieEvent": {
+      "$oid": "65f000000000000000000B02"
+    },
+    "presentielEnligne": "code_280",
+    "images": [],
+    "multiSessions": false,
+    "multiSites": false,
+    "accessibilite": "code_8496",
+    "avecDistributionRecompensesPrix": false,
+    "reservationObligatoire": false,
+    "programmeEvent": [],
+    "instanceElementAssocie": [],
+    "produitServices": [],
+    "acteurs": [],
+    "eventAvecVentProduiService": false,
+    "eventAvecProduitServiceIncludDansLaReservation": false,
+    "produitsEvent": [],
+    "createdAt": {
+      "$date": "2026-04-01T00:00:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-01T00:00:00Z"
+    },
+    "referenceEvent": "EVT-AUTO-0013"
+  },
+  {
+    "_id": {
+      "$oid": "f4bad51c326e6b2cd8a1c872"
+    },
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Rallye Aïcha des Gazelles 2026 - GWM Tank 300 Vainqueur",
+        "description": "Le GWM Tank 300 remporte le Rallye Aïcha des Gazelles 2026 au Maroc."
+      }
+    ],
+    "dateDebut": {
+      "$date": "2026-03-21T08:00:00Z"
+    },
+    "dateFin": {
+      "$date": "2026-03-21T08:00:00Z"
+    },
+    "lieu": "Désert du Maroc",
+    "etatObjet": "code-1",
+    "etatEvent": "code_224",
+    "categorieEvent": {
+      "$oid": "65f000000000000000000F03"
+    },
+    "presentielEnligne": "code_280",
+    "images": [],
+    "multiSessions": false,
+    "multiSites": false,
+    "accessibilite": "code_8496",
+    "avecDistributionRecompensesPrix": false,
+    "reservationObligatoire": false,
+    "programmeEvent": [],
+    "instanceElementAssocie": [],
+    "produitServices": [],
+    "acteurs": [],
+    "eventAvecVentProduiService": false,
+    "eventAvecProduitServiceIncludDansLaReservation": false,
+    "produitsEvent": [],
+    "createdAt": {
+      "$date": "2026-03-21T08:00:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-03-21T08:00:00Z"
+    },
+    "referenceEvent": "EVT-AUTO-0014"
+  },
+  {
+    "_id": {
+      "$oid": "d6f4c1e3c883cb1e8fa251c0"
+    },
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "RENAULT 5 E-Tech - Arrivée au Maroc",
+        "description": "La célèbre Renault 5 revient en version 100% électrique sur le marché marocain."
+      }
+    ],
+    "dateDebut": {
+      "$date": "2026-03-15T10:00:00Z"
+    },
+    "dateFin": {
+      "$date": "2026-03-15T10:00:00Z"
+    },
+    "lieu": "Renault Maroc, Casablanca",
+    "etatObjet": "code-1",
+    "etatEvent": "code_224",
+    "categorieEvent": {
+      "$oid": "65f000000000000000000B02"
+    },
+    "presentielEnligne": "code_280",
+    "images": [],
+    "multiSessions": false,
+    "multiSites": false,
+    "accessibilite": "code_8496",
+    "avecDistributionRecompensesPrix": false,
+    "reservationObligatoire": false,
+    "programmeEvent": [],
+    "instanceElementAssocie": [],
+    "produitServices": [],
+    "acteurs": [],
+    "eventAvecVentProduiService": false,
+    "eventAvecProduitServiceIncludDansLaReservation": false,
+    "produitsEvent": [],
+    "createdAt": {
+      "$date": "2026-03-15T10:00:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-03-15T10:00:00Z"
+    },
+    "referenceEvent": "EVT-AUTO-0015"
+  },
+  {
+    "_id": {
+      "$oid": "7cad3bb0988095d68a63aedb"
+    },
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "SIMA 2026 - Salon International de l'Agriculture",
+        "description": "Le salon mondial de l'innovation agricole. Retrouvez toutes les nouveautés tracteurs."
+      }
+    ],
+    "dateDebut": {
+      "$date": "2026-11-22T09:00:00Z"
+    },
+    "dateFin": {
+      "$date": "2026-11-22T09:00:00Z"
+    },
+    "lieu": "Paris Nord Villepinte",
+    "etatObjet": "code-1",
+    "etatEvent": "code_224",
+    "categorieEvent": {
+      "$oid": "65f000000000000000000F03"
+    },
+    "presentielEnligne": "code_280",
+    "images": [],
+    "multiSessions": false,
+    "multiSites": false,
+    "accessibilite": "code_8496",
+    "avecDistributionRecompensesPrix": false,
+    "reservationObligatoire": false,
+    "programmeEvent": [],
+    "instanceElementAssocie": [],
+    "produitServices": [],
+    "acteurs": [],
+    "eventAvecVentProduiService": false,
+    "eventAvecProduitServiceIncludDansLaReservation": false,
+    "produitsEvent": [],
+    "createdAt": {
+      "$date": "2026-11-22T09:00:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-11-22T09:00:00Z"
+    },
+    "referenceEvent": "EVT-AUTO-0016"
+  },
+  {
+    "_id": {
+      "$oid": "944fe1875acd0ad501cf1616"
+    },
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "INTERMAT Paris 2026",
+        "description": "Salon international de la construction et des infrastructures."
+      }
+    ],
+    "dateDebut": {
+      "$date": "2026-04-19T09:00:00Z"
+    },
+    "dateFin": {
+      "$date": "2026-04-19T09:00:00Z"
+    },
+    "lieu": "Paris, France",
+    "etatObjet": "code-1",
+    "etatEvent": "code_224",
+    "categorieEvent": {
+      "$oid": "65f000000000000000000B02"
+    },
+    "presentielEnligne": "code_280",
+    "images": [],
+    "multiSessions": false,
+    "multiSites": false,
+    "accessibilite": "code_8496",
+    "avecDistributionRecompensesPrix": false,
+    "reservationObligatoire": false,
+    "programmeEvent": [],
+    "instanceElementAssocie": [],
+    "produitServices": [],
+    "acteurs": [],
+    "eventAvecVentProduiService": false,
+    "eventAvecProduitServiceIncludDansLaReservation": false,
+    "produitsEvent": [],
+    "createdAt": {
+      "$date": "2026-04-19T09:00:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-19T09:00:00Z"
+    },
+    "referenceEvent": "EVT-AUTO-0017"
+  },
+  {
+    "_id": {
+      "$oid": "8f66d57f3675a3d58f704f8d"
+    },
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Enchère Ritchie Bros - Dubaï",
+        "description": "Grande enchère de machinerie lourde, grues et tombereaux d'occasion. Accessible en ligne."
+      }
+    ],
+    "dateDebut": {
+      "$date": "2026-05-15T08:00:00Z"
+    },
+    "dateFin": {
+      "$date": "2026-05-15T08:00:00Z"
+    },
+    "lieu": "Dubaï, UAE",
+    "etatObjet": "code-1",
+    "etatEvent": "code_224",
+    "categorieEvent": {
+      "$oid": "65f000000000000000000F03"
+    },
+    "presentielEnligne": "code_280",
+    "images": [],
+    "multiSessions": false,
+    "multiSites": false,
+    "accessibilite": "code_8496",
+    "avecDistributionRecompensesPrix": false,
+    "reservationObligatoire": false,
+    "programmeEvent": [],
+    "instanceElementAssocie": [],
+    "produitServices": [],
+    "acteurs": [],
+    "eventAvecVentProduiService": false,
+    "eventAvecProduitServiceIncludDansLaReservation": false,
+    "produitsEvent": [],
+    "createdAt": {
+      "$date": "2026-05-15T08:00:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-15T08:00:00Z"
+    },
+    "referenceEvent": "EVT-AUTO-0018"
+  },
+  {
+    "_id": {
+      "$oid": "e6acd29e802cd6f5ba8668fd"
+    },
+    "etatEvent": "code_224",
+    "etatObjet": "code-1",
+    "referenceEvent": "EVT-0001",
+    "categorieEvent": {
+      "$oid": "65f000000000000000000B02"
+    },
+    "presentielEnligne": "code_280",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Forum B2B OMNILOG — Équipements de manutention au Maroc",
+        "slogan": "",
+        "description": "Rencontre professionnelle B2B organisée par Smart Automation Technology, dédiée aux fournisseurs et acheteurs d'équipements de manutention, de stockage et de logistique industrielle au Maroc."
+      },
+      {
+        "language": "en",
+        "designation": "OMNILOG B2B Forum — Handling Equipment in Morocco",
+        "slogan": "",
+        "description": "Professional B2B meeting organized by Smart Automation Technology, dedicated to suppliers and buyers of handling, storage and industrial logistics equipment in Morocco."
+      },
+      {
+        "language": "ar",
+        "designation": "منتدى OMNILOG للأعمال B2B — معدات المناولة في المغرب",
+        "slogan": "",
+        "description": "لقاء مهني بين الشركات تنظمه Smart Automation Technology، مخصص لموردي ومشتري معدات المناولة والتخزين واللوجستيك الصناعي في المغرب."
+      },
+      {
+        "language": "es",
+        "designation": "Foro B2B OMNILOG — Equipos de manutención en Marruecos",
+        "slogan": "",
+        "description": "Encuentro profesional B2B organizado por Smart Automation Technology, dedicado a proveedores y compradores de equipos de manutención, almacenamiento y logística industrial en Marruecos."
+      }
+    ],
+    "images": [],
+    "dateDebut": {
+      "$date": "2024-10-07T08:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2024-10-08T18:00:00.000Z"
+    },
+    "multiSessions": true,
+    "multiSites": false,
+    "accessibilite": "code_8496",
+    "avecDistributionRecompensesPrix": false,
+    "reservationObligatoire": false,
+    "programmeEvent": [
+      {
+        "$oid": "65f000000000000000000831"
+      },
+      {
+        "$oid": "65f000000000000000000832"
+      }
+    ],
+    "instanceElementAssocie": [
+      {
+        "$oid": "65f000000000000000000834"
+      }
+    ],
+    "produitServices": [],
+    "acteurs": [
+      {
+        "typeObjetConcerne": "ACTEURSPRO_ACTEURPROFESSIONEL",
+        "refObjetConcerne": {
+          "$oid": "e72ab0dd3dac4adb845f7c20"
+        }
+      }
+    ],
+    "eventAvecVentProduiService": false,
+    "eventAvecProduitServiceIncludDansLaReservation": false,
+    "produitsEvent": [],
+    "createdAt": {
+      "$date": "2024-01-20T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-20T00:00:00.000Z"
+    },
+    "lieu": "Casablanca Expo Centre, Casablanca, Maroc"
+  },
+  {
+    "_id": {
+      "$oid": "6fe4ec9b223a76a4c08cdde8"
+    },
+    "etatEvent": "code_224",
+    "etatObjet": "code-1",
+    "referenceEvent": "EVT-0002",
+    "categorieEvent": {
+      "$oid": "65f000000000000000000F03"
+    },
+    "presentielEnligne": "code_281",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Webinaire OMNILOG : Digitalisation de la manutention au Maroc",
+        "slogan": "",
+        "description": "Webinaire professionnel organisé par OMNILOG, consacré à la transformation digitale des achats d'équipements de manutention et à l'optimisation des entrepôts industriels au Maroc."
+      },
+      {
+        "language": "en",
+        "designation": "OMNILOG Webinar: Digitalization of Handling in Morocco",
+        "slogan": "",
+        "description": "Professional webinar organized by OMNILOG, dedicated to the digital transformation of handling equipment procurement and the optimization of industrial warehouses in Morocco."
+      },
+      {
+        "language": "ar",
+        "designation": "ندوة OMNILOG عبر الإنترنت: رقمنة المناولة في المغرب",
+        "slogan": "",
+        "description": "ندوة مهنية عبر الإنترنت تنظمها OMNILOG، مخصصة للتحول الرقمي في شراء معدات المناولة وتحسين المستودعات الصناعية في المغرب."
+      },
+      {
+        "language": "es",
+        "designation": "Webinario OMNILOG: Digitalización de la manutención en Marruecos",
+        "slogan": "",
+        "description": "Webinario profesional organizado por OMNILOG, dedicado a la transformación digital de las compras de equipos de manutención y a la optimización de almacenes industriales en Marruecos."
+      }
+    ],
+    "images": [],
+    "dateDebut": {
+      "$date": "2024-04-15T14:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2024-04-15T16:00:00.000Z"
+    },
+    "multiSessions": false,
+    "multiSites": false,
+    "accessibilite": "code_8496",
+    "avecDistributionRecompensesPrix": false,
+    "reservationObligatoire": false,
+    "programmeEvent": [],
+    "instanceElementAssocie": [],
+    "produitServices": [],
+    "acteurs": [
+      {
+        "typeObjetConcerne": "ACTEURSPRO_ACTEURPROFESSIONEL",
+        "refObjetConcerne": {
+          "$oid": "e72ab0dd3dac4adb845f7c20"
+        }
+      }
+    ],
+    "eventAvecVentProduiService": false,
+    "eventAvecProduitServiceIncludDansLaReservation": false,
+    "produitsEvent": [],
+    "createdAt": {
+      "$date": "2024-02-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-01T00:00:00.000Z"
+    },
+    "lieu": "Office des Foires et Expositions de Casablanca, Maroc"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001401"
+    },
+    "etatEvent": "code_224",
+    "etatObjet": "code-1",
+    "referenceEvent": "EVT-0003",
+    "categorieEvent": {
+      "$oid": "65f000000000000000000B02"
+    },
+    "presentielEnligne": "code_280",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Logismed 2024",
+        "description": "Le salon international du transport et de la logistique à Casablanca.",
+        "slogan": ""
+      },
+      {
+        "language": "en",
+        "designation": "Logismed 2024",
+        "description": "The international transport and logistics exhibition in Casablanca.",
+        "slogan": ""
+      },
+      {
+        "language": "ar",
+        "designation": "لوجيسميد 2024",
+        "description": "المعرض الدولي للنقل واللوجستيك بالدار البيضاء.",
+        "slogan": ""
+      },
+      {
+        "language": "es",
+        "designation": "Logismed 2024",
+        "description": "El salón internacional del transporte y la logística en Casablanca.",
+        "slogan": ""
+      }
+    ],
+    "dateDebut": {
+      "$date": "2024-06-01T09:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2024-06-02T18:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "acteurs": [
+      {
+        "typeObjetConcerne": "ACTEURSPRO_ACTEURPROFESSIONEL",
+        "refObjetConcerne": {
+          "$oid": "e72ab0dd3dac4adb845f7c20"
+        }
+      }
+    ],
+    "images": [],
+    "multiSessions": false,
+    "multiSites": false,
+    "accessibilite": "code_8496",
+    "avecDistributionRecompensesPrix": false,
+    "reservationObligatoire": false,
+    "programmeEvent": [],
+    "instanceElementAssocie": [],
+    "produitServices": [],
+    "eventAvecVentProduiService": false,
+    "eventAvecProduitServiceIncludDansLaReservation": false,
+    "produitsEvent": [],
+    "lieu": "Palais des Congrès de Marrakech, Maroc"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001402"
+    },
+    "etatEvent": "code_224",
+    "etatObjet": "code-1",
+    "referenceEvent": "EVT-0004",
+    "categorieEvent": {
+      "$oid": "65f000000000000000000F03"
+    },
+    "presentielEnligne": "code_280",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Journée Sécurité Manutention",
+        "description": "Ateliers pratiques sur la sécurité des caristes à Tanger.",
+        "slogan": ""
+      },
+      {
+        "language": "en",
+        "designation": "Handling Safety Day",
+        "description": "Practical workshops on forklift driver safety in Tangier.",
+        "slogan": ""
+      },
+      {
+        "language": "ar",
+        "designation": "يوم سلامة المناولة",
+        "description": "ورش عمل تطبيقية حول سلامة سائقي الرافعات الشوكية في طنجة.",
+        "slogan": ""
+      },
+      {
+        "language": "es",
+        "designation": "Jornada de Seguridad en Manutención",
+        "description": "Talleres prácticos sobre la seguridad de los carretilleros en Tánger.",
+        "slogan": ""
+      }
+    ],
+    "dateDebut": {
+      "$date": "2024-06-01T09:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2024-06-02T18:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "acteurs": [
+      {
+        "typeObjetConcerne": "ACTEURSPRO_ACTEURPROFESSIONEL",
+        "refObjetConcerne": {
+          "$oid": "e72ab0dd3dac4adb845f7c20"
+        }
+      }
+    ],
+    "images": [],
+    "multiSessions": false,
+    "multiSites": false,
+    "accessibilite": "code_8496",
+    "avecDistributionRecompensesPrix": false,
+    "reservationObligatoire": false,
+    "programmeEvent": [],
+    "instanceElementAssocie": [],
+    "produitServices": [],
+    "eventAvecVentProduiService": false,
+    "eventAvecProduitServiceIncludDansLaReservation": false,
+    "produitsEvent": [],
+    "lieu": "Agadir International Trade Fair, Agadir, Maroc"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001403"
+    },
+    "etatEvent": "code_224",
+    "etatObjet": "code-1",
+    "referenceEvent": "EVT-0005",
+    "categorieEvent": {
+      "$oid": "65f000000000000000000B02"
+    },
+    "presentielEnligne": "code_280",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Webinaire : L'entrepôt du futur",
+        "description": "Découvrez les innovations en robotique et IA.",
+        "slogan": ""
+      },
+      {
+        "language": "en",
+        "designation": "Webinar: The Warehouse of the Future",
+        "description": "Discover innovations in robotics and AI.",
+        "slogan": ""
+      },
+      {
+        "language": "ar",
+        "designation": "ندوة عبر الإنترنت: مستودع المستقبل",
+        "description": "اكتشف الابتكارات في الروبوتات والذكاء الاصطناعي.",
+        "slogan": ""
+      },
+      {
+        "language": "es",
+        "designation": "Webinario: El almacén del futuro",
+        "description": "Descubra las innovaciones en robótica e IA.",
+        "slogan": ""
+      }
+    ],
+    "dateDebut": {
+      "$date": "2024-06-01T09:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2024-06-02T18:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "acteurs": [
+      {
+        "typeObjetConcerne": "ACTEURSPRO_ACTEURPROFESSIONEL",
+        "refObjetConcerne": {
+          "$oid": "e72ab0dd3dac4adb845f7c20"
+        }
+      }
+    ],
+    "images": [],
+    "multiSessions": false,
+    "multiSites": false,
+    "accessibilite": "code_8496",
+    "avecDistributionRecompensesPrix": false,
+    "reservationObligatoire": false,
+    "programmeEvent": [],
+    "instanceElementAssocie": [],
+    "produitServices": [],
+    "eventAvecVentProduiService": false,
+    "eventAvecProduitServiceIncludDansLaReservation": false,
+    "produitsEvent": [],
+    "lieu": "Centre Commercial Atlas Asni, Marrakech, Maroc"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001404"
+    },
+    "etatEvent": "code_224",
+    "etatObjet": "code-1",
+    "referenceEvent": "EVT-0006",
+    "categorieEvent": {
+      "$oid": "65f000000000000000000F03"
+    },
+    "presentielEnligne": "code_280",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Portes Ouvertes OMNILOG",
+        "description": "Venez tester nos derniers modèles de chariots élévateurs.",
+        "slogan": ""
+      },
+      {
+        "language": "en",
+        "designation": "OMNILOG Open House",
+        "description": "Come and test our latest forklift models.",
+        "slogan": ""
+      },
+      {
+        "language": "ar",
+        "designation": "الأبواب المفتوحة OMNILOG",
+        "description": "تعالوا لتجربة أحدث موديلاتنا من الرافعات الشوكية.",
+        "slogan": ""
+      },
+      {
+        "language": "es",
+        "designation": "Puertas Abiertas OMNILOG",
+        "description": "Venga a probar nuestros últimos modelos de carretillas elevadoras.",
+        "slogan": ""
+      }
+    ],
+    "dateDebut": {
+      "$date": "2024-06-01T09:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2024-06-02T18:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "acteurs": [
+      {
+        "typeObjetConcerne": "ACTEURSPRO_ACTEURPROFESSIONEL",
+        "refObjetConcerne": {
+          "$oid": "e72ab0dd3dac4adb845f7c20"
+        }
+      }
+    ],
+    "images": [],
+    "multiSessions": false,
+    "multiSites": false,
+    "accessibilite": "code_8496",
+    "avecDistributionRecompensesPrix": false,
+    "reservationObligatoire": false,
+    "programmeEvent": [],
+    "instanceElementAssocie": [],
+    "produitServices": [],
+    "eventAvecVentProduiService": false,
+    "eventAvecProduitServiceIncludDansLaReservation": false,
+    "produitsEvent": [],
+    "lieu": "Zone Industrielle Ain Sebaa, Casablanca, Maroc"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001405"
+    },
+    "etatEvent": "code_224",
+    "etatObjet": "code-1",
+    "referenceEvent": "EVT-0007",
+    "categorieEvent": {
+      "$oid": "65f000000000000000000B02"
+    },
+    "presentielEnligne": "code_280",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Formation : Gestion des stocks",
+        "description": "Session intensive pour les responsables d'entrepôt.",
+        "slogan": ""
+      },
+      {
+        "language": "en",
+        "designation": "Training: Inventory Management",
+        "description": "Intensive session for warehouse managers.",
+        "slogan": ""
+      },
+      {
+        "language": "ar",
+        "designation": "تكوين: إدارة المخازن",
+        "description": "جلسة مكثفة لمديري المستودعات.",
+        "slogan": ""
+      },
+      {
+        "language": "es",
+        "designation": "Formación: Gestión de stocks",
+        "description": "Sesión intensiva para responsables de almacén.",
+        "slogan": ""
+      }
+    ],
+    "dateDebut": {
+      "$date": "2024-06-01T09:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2024-06-02T18:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "acteurs": [
+      {
+        "typeObjetConcerne": "ACTEURSPRO_ACTEURPROFESSIONEL",
+        "refObjetConcerne": {
+          "$oid": "e72ab0dd3dac4adb845f7c20"
+        }
+      }
+    ],
+    "images": [],
+    "multiSessions": false,
+    "multiSites": false,
+    "accessibilite": "code_8496",
+    "avecDistributionRecompensesPrix": false,
+    "reservationObligatoire": false,
+    "programmeEvent": [],
+    "instanceElementAssocie": [],
+    "produitServices": [],
+    "eventAvecVentProduiService": false,
+    "eventAvecProduitServiceIncludDansLaReservation": false,
+    "produitsEvent": [],
+    "lieu": "Foire Internationale de Fès, Fès, Maroc"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001406"
+    },
+    "etatEvent": "code_224",
+    "etatObjet": "code-1",
+    "referenceEvent": "EVT-0008",
+    "categorieEvent": {
+      "$oid": "65f000000000000000000F03"
+    },
+    "presentielEnligne": "code_280",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Sommet de la Logistique Durable",
+        "description": "Conférence sur l'empreinte carbone et la logistique verte.",
+        "slogan": ""
+      },
+      {
+        "language": "en",
+        "designation": "Sustainable Logistics Summit",
+        "description": "Conference on carbon footprint and green logistics.",
+        "slogan": ""
+      },
+      {
+        "language": "ar",
+        "designation": "قمة اللوجستيك المستدام",
+        "description": "مؤتمر حول البصمة الكربونية واللوجستيك الأخضر.",
+        "slogan": ""
+      },
+      {
+        "language": "es",
+        "designation": "Cumbre de Logística Sostenible",
+        "description": "Conferencia sobre la huella de carbono y la logística verde.",
+        "slogan": ""
+      }
+    ],
+    "dateDebut": {
+      "$date": "2024-06-01T09:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2024-06-02T18:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "acteurs": [
+      {
+        "typeObjetConcerne": "ACTEURSPRO_ACTEURPROFESSIONEL",
+        "refObjetConcerne": {
+          "$oid": "e72ab0dd3dac4adb845f7c20"
+        }
+      }
+    ],
+    "images": [],
+    "multiSessions": false,
+    "multiSites": false,
+    "accessibilite": "code_8496",
+    "avecDistributionRecompensesPrix": false,
+    "reservationObligatoire": false,
+    "programmeEvent": [],
+    "instanceElementAssocie": [],
+    "produitServices": [],
+    "eventAvecVentProduiService": false,
+    "eventAvecProduitServiceIncludDansLaReservation": false,
+    "produitsEvent": [],
+    "lieu": "Parc d'Expositions de Rabat, Rabat, Maroc"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001407"
+    },
+    "etatEvent": "code_224",
+    "etatObjet": "code-1",
+    "referenceEvent": "EVT-0009",
+    "categorieEvent": {
+      "$oid": "65f000000000000000000B02"
+    },
+    "presentielEnligne": "code_280",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Démonstration : Exosquelettes",
+        "description": "Testez les solutions pour réduire la pénibilité au travail.",
+        "slogan": ""
+      },
+      {
+        "language": "en",
+        "designation": "Demonstration: Exoskeletons",
+        "description": "Test solutions to reduce physical strain at work.",
+        "slogan": ""
+      },
+      {
+        "language": "ar",
+        "designation": "عرض توضيحي: الهياكل الخارجية (Exoskeletons)",
+        "description": "اختبر حلولاً لتقليل مشقة العمل.",
+        "slogan": ""
+      },
+      {
+        "language": "es",
+        "designation": "Demostración: Exoesqueletos",
+        "description": "Pruebe soluciones para reducir la penosidad en el trabajo.",
+        "slogan": ""
+      }
+    ],
+    "dateDebut": {
+      "$date": "2024-06-01T09:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2024-06-02T18:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "acteurs": [
+      {
+        "typeObjetConcerne": "ACTEURSPRO_ACTEURPROFESSIONEL",
+        "refObjetConcerne": {
+          "$oid": "e72ab0dd3dac4adb845f7c20"
+        }
+      }
+    ],
+    "images": [],
+    "multiSessions": false,
+    "multiSites": false,
+    "accessibilite": "code_8496",
+    "avecDistributionRecompensesPrix": false,
+    "reservationObligatoire": false,
+    "programmeEvent": [],
+    "instanceElementAssocie": [],
+    "produitServices": [],
+    "eventAvecVentProduiService": false,
+    "eventAvecProduitServiceIncludDansLaReservation": false,
+    "produitsEvent": [],
+    "lieu": "Centre d'Affaires de Tanger, Tanger, Maroc"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001408"
+    },
+    "etatEvent": "code_224",
+    "etatObjet": "code-1",
+    "referenceEvent": "EVT-0010",
+    "categorieEvent": {
+      "$oid": "65f000000000000000000F03"
+    },
+    "presentielEnligne": "code_280",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Atelier : Normes ISO 45001",
+        "description": "Mise en conformité santé et sécurité au travail.",
+        "slogan": ""
+      },
+      {
+        "language": "en",
+        "designation": "Workshop: ISO 45001 Standards",
+        "description": "Occupational health and safety compliance.",
+        "slogan": ""
+      },
+      {
+        "language": "ar",
+        "designation": "ورشة عمل: معايير ISO 45001",
+        "description": "مطابقة معايير الصحة والسلامة في العمل.",
+        "slogan": ""
+      },
+      {
+        "language": "es",
+        "designation": "Taller: Normas ISO 45001",
+        "description": "Cumplimiento de la salud y seguridad en el trabajo.",
+        "slogan": ""
+      }
+    ],
+    "dateDebut": {
+      "$date": "2024-06-01T09:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2024-06-02T18:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "acteurs": [
+      {
+        "typeObjetConcerne": "ACTEURSPRO_ACTEURPROFESSIONEL",
+        "refObjetConcerne": {
+          "$oid": "e72ab0dd3dac4adb845f7c20"
+        }
+      }
+    ],
+    "images": [],
+    "multiSessions": false,
+    "multiSites": false,
+    "accessibilite": "code_8496",
+    "avecDistributionRecompensesPrix": false,
+    "reservationObligatoire": false,
+    "programmeEvent": [],
+    "instanceElementAssocie": [],
+    "produitServices": [],
+    "eventAvecVentProduiService": false,
+    "eventAvecProduitServiceIncludDansLaReservation": false,
+    "produitsEvent": [],
+    "lieu": "Messe Maroc, Casablanca, Maroc"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001409"
+    },
+    "etatEvent": "code_224",
+    "etatObjet": "code-1",
+    "referenceEvent": "EVT-0011",
+    "categorieEvent": {
+      "$oid": "65f000000000000000000B02"
+    },
+    "presentielEnligne": "code_280",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Grand Prix des caristes Maroc",
+        "description": "Compétition nationale d'adresse et de sécurité.",
+        "slogan": ""
+      },
+      {
+        "language": "en",
+        "designation": "Morocco Forklift Drivers Grand Prix",
+        "description": "National skill and safety competition.",
+        "slogan": ""
+      },
+      {
+        "language": "ar",
+        "designation": "الجائزة الكبرى لسائقي الرافعات في المغرب",
+        "description": "مسابقة وطنية للمهارة والسلامة.",
+        "slogan": ""
+      },
+      {
+        "language": "es",
+        "designation": "Gran Premio de Carretilleros Marruecos",
+        "description": "Competición nacional de destreza y seguridad.",
+        "slogan": ""
+      }
+    ],
+    "dateDebut": {
+      "$date": "2024-06-01T09:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2024-06-02T18:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "acteurs": [
+      {
+        "typeObjetConcerne": "ACTEURSPRO_ACTEURPROFESSIONEL",
+        "refObjetConcerne": {
+          "$oid": "e72ab0dd3dac4adb845f7c20"
+        }
+      }
+    ],
+    "images": [],
+    "multiSessions": false,
+    "multiSites": false,
+    "accessibilite": "code_8496",
+    "avecDistributionRecompensesPrix": false,
+    "reservationObligatoire": false,
+    "programmeEvent": [],
+    "instanceElementAssocie": [],
+    "produitServices": [],
+    "eventAvecVentProduiService": false,
+    "eventAvecProduitServiceIncludDansLaReservation": false,
+    "produitsEvent": [],
+    "lieu": "Salon International du Transport et de la Logistique, Casablanca, Maroc"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001410"
+    },
+    "etatEvent": "code_224",
+    "etatObjet": "code-1",
+    "referenceEvent": "EVT-0012",
+    "categorieEvent": {
+      "$oid": "65f000000000000000000F03"
+    },
+    "presentielEnligne": "code_280",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Forum de l'Emploi Logistique",
+        "description": "Rencontrez les recruteurs du secteur à Casablanca.",
+        "slogan": ""
+      },
+      {
+        "language": "en",
+        "designation": "Logistics Job Forum",
+        "description": "Meet recruiters from the sector in Casablanca.",
+        "slogan": ""
+      },
+      {
+        "language": "ar",
+        "designation": "منتدى التوظيف في اللوجستيك",
+        "description": "التقوا بمشغلي القطاع في الدار البيضاء.",
+        "slogan": ""
+      },
+      {
+        "language": "es",
+        "designation": "Foro de Empleo Logístico",
+        "description": "Conozca a los reclutadores del sector en Casablanca.",
+        "slogan": ""
+      }
+    ],
+    "dateDebut": {
+      "$date": "2024-06-01T09:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2024-06-02T18:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "acteurs": [
+      {
+        "typeObjetConcerne": "ACTEURSPRO_ACTEURPROFESSIONEL",
+        "refObjetConcerne": {
+          "$oid": "e72ab0dd3dac4adb845f7c20"
+        }
+      }
+    ],
+    "images": [],
+    "multiSessions": false,
+    "multiSites": false,
+    "accessibilite": "code_8496",
+    "avecDistributionRecompensesPrix": false,
+    "reservationObligatoire": false,
+    "programmeEvent": [],
+    "instanceElementAssocie": [],
+    "produitServices": [],
+    "eventAvecVentProduiService": false,
+    "eventAvecProduitServiceIncludDansLaReservation": false,
+    "produitsEvent": [],
+    "lieu": "Palais Bab Al Madina, Agadir, Maroc"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001411"
+    },
+    "etatEvent": "code_224",
+    "etatObjet": "code-1",
+    "referenceEvent": "EVT-0013",
+    "categorieEvent": {
+      "$oid": "65f000000000000000000B02"
+    },
+    "presentielEnligne": "code_280",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Inauguration Nouveau Centre SAV",
+        "description": "Ouverture de notre nouveau hub technique à Agadir.",
+        "slogan": ""
+      },
+      {
+        "language": "en",
+        "designation": "After-Sales Service Center Inauguration",
+        "description": "Opening of our new technical hub in Agadir.",
+        "slogan": ""
+      },
+      {
+        "language": "ar",
+        "designation": "افتتاح مركز خدمة ما بعد البيع الجديد",
+        "description": "افتتاح مركزنا التقني الجديد في أكادير.",
+        "slogan": ""
+      },
+      {
+        "language": "es",
+        "designation": "Inauguración Nuevo Centro Posventa",
+        "description": "Apertura de nuestro nuevo centro técnico en Agadir.",
+        "slogan": ""
+      }
+    ],
+    "dateDebut": {
+      "$date": "2024-06-01T09:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2024-06-02T18:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "acteurs": [
+      {
+        "typeObjetConcerne": "ACTEURSPRO_ACTEURPROFESSIONEL",
+        "refObjetConcerne": {
+          "$oid": "e72ab0dd3dac4adb845f7c20"
+        }
+      }
+    ],
+    "images": [],
+    "multiSessions": false,
+    "multiSites": false,
+    "accessibilite": "code_8496",
+    "avecDistributionRecompensesPrix": false,
+    "reservationObligatoire": false,
+    "programmeEvent": [],
+    "instanceElementAssocie": [],
+    "produitServices": [],
+    "eventAvecVentProduiService": false,
+    "eventAvecProduitServiceIncludDansLaReservation": false,
+    "produitsEvent": [],
+    "lieu": "Centre de Conférences Mohammed VI, Tanger, Maroc"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001412"
+    },
+    "etatEvent": "code_224",
+    "etatObjet": "code-1",
+    "referenceEvent": "EVT-0014",
+    "categorieEvent": {
+      "$oid": "65f000000000000000000F03"
+    },
+    "presentielEnligne": "code_280",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Colloque : E-commerce & Logistique",
+        "description": "Les défis de la livraison rapide au Maroc.",
+        "slogan": ""
+      },
+      {
+        "language": "en",
+        "designation": "Colloquium: E-commerce & Logistics",
+        "description": "The challenges of fast delivery in Morocco.",
+        "slogan": ""
+      },
+      {
+        "language": "ar",
+        "designation": "ندوة: التجارة الإلكترونية واللوجستيك",
+        "description": "تحديات التوصيل السريع في المغرب.",
+        "slogan": ""
+      },
+      {
+        "language": "es",
+        "designation": "Coloquio: E-commerce y Logística",
+        "description": "Los retos de la entrega rápida en Marruecos.",
+        "slogan": ""
+      }
+    ],
+    "dateDebut": {
+      "$date": "2024-06-01T09:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2024-06-02T18:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "acteurs": [
+      {
+        "typeObjetConcerne": "ACTEURSPRO_ACTEURPROFESSIONEL",
+        "refObjetConcerne": {
+          "$oid": "e72ab0dd3dac4adb845f7c20"
+        }
+      }
+    ],
+    "images": [],
+    "multiSessions": false,
+    "multiSites": false,
+    "accessibilite": "code_8496",
+    "avecDistributionRecompensesPrix": false,
+    "reservationObligatoire": false,
+    "programmeEvent": [],
+    "instanceElementAssocie": [],
+    "produitServices": [],
+    "eventAvecVentProduiService": false,
+    "eventAvecProduitServiceIncludDansLaReservation": false,
+    "produitsEvent": [],
+    "lieu": "Zone Franche de Kénitra, Kénitra, Maroc"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001415"
+    },
+    "etatEvent": "code_224",
+    "etatObjet": "code-1",
+    "referenceEvent": "EVT-0015",
+    "categorieEvent": {
+      "$oid": "65f000000000000000000B02"
+    },
+    "presentielEnligne": "code_280",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Salon de la Manutention Agricole - Meknès",
+        "description": "Événement professionnel dédié à la manutention à Meknès.",
+        "slogan": ""
+      },
+      {
+        "language": "en",
+        "designation": "Agricultural Handling Exhibition - Meknes",
+        "description": "Professional event dedicated to handling in Meknes.",
+        "slogan": ""
+      },
+      {
+        "language": "ar",
+        "designation": "معرض المناولة الفلاحية - مكناس",
+        "description": "حدث مهني مخصص للمناولة في مكناس.",
+        "slogan": ""
+      },
+      {
+        "language": "es",
+        "designation": "Salón de la Manutención Agrícola - Mequinez",
+        "description": "Evento profesional dedicado a la manutención en Mequinez.",
+        "slogan": ""
+      }
+    ],
+    "dateDebut": {
+      "$date": "2024-07-15T09:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2024-07-16T18:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "acteurs": [
+      {
+        "typeObjetConcerne": "ACTEURSPRO_ACTEURPROFESSIONEL",
+        "refObjetConcerne": {
+          "$oid": "e72ab0dd3dac4adb845f7c20"
+        }
+      }
+    ],
+    "images": [],
+    "multiSessions": false,
+    "multiSites": false,
+    "accessibilite": "code_8496",
+    "avecDistributionRecompensesPrix": false,
+    "reservationObligatoire": false,
+    "programmeEvent": [],
+    "instanceElementAssocie": [],
+    "produitServices": [],
+    "eventAvecVentProduiService": false,
+    "eventAvecProduitServiceIncludDansLaReservation": false,
+    "produitsEvent": [],
+    "lieu": "Salon Halieutis, Agadir, Maroc"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001416"
+    },
+    "etatEvent": "code_224",
+    "etatObjet": "code-1",
+    "referenceEvent": "EVT-0016",
+    "categorieEvent": {
+      "$oid": "65f000000000000000000F03"
+    },
+    "presentielEnligne": "code_280",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Workshop : Maintenance des Chariots - Agadir",
+        "description": "Événement professionnel dédié à la manutention à Agadir.",
+        "slogan": ""
+      },
+      {
+        "language": "en",
+        "designation": "Workshop: Forklift Maintenance - Agadir",
+        "description": "Professional event dedicated to handling in Agadir.",
+        "slogan": ""
+      },
+      {
+        "language": "ar",
+        "designation": "ورشة عمل: صيانة الرافعات - أكادير",
+        "description": "حدث مهني مخصص للمناولة في أكادير.",
+        "slogan": ""
+      },
+      {
+        "language": "es",
+        "designation": "Taller: Mantenimiento de Carretillas - Agadir",
+        "description": "Evento profesional dedicado a la manutención en Agadir.",
+        "slogan": ""
+      }
+    ],
+    "dateDebut": {
+      "$date": "2024-07-15T09:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2024-07-16T18:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "acteurs": [
+      {
+        "typeObjetConcerne": "ACTEURSPRO_ACTEURPROFESSIONEL",
+        "refObjetConcerne": {
+          "$oid": "e72ab0dd3dac4adb845f7c20"
+        }
+      }
+    ],
+    "images": [],
+    "multiSessions": false,
+    "multiSites": false,
+    "accessibilite": "code_8496",
+    "avecDistributionRecompensesPrix": false,
+    "reservationObligatoire": false,
+    "programmeEvent": [],
+    "instanceElementAssocie": [],
+    "produitServices": [],
+    "eventAvecVentProduiService": false,
+    "eventAvecProduitServiceIncludDansLaReservation": false,
+    "produitsEvent": [],
+    "lieu": "Expo Bâtir, Casablanca, Maroc"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001417"
+    },
+    "etatEvent": "code_224",
+    "etatObjet": "code-1",
+    "referenceEvent": "EVT-0017",
+    "categorieEvent": {
+      "$oid": "65f000000000000000000B02"
+    },
+    "presentielEnligne": "code_280",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Conférence Logistique Verte - Rabat",
+        "description": "Événement professionnel dédié à la manutention à Rabat.",
+        "slogan": ""
+      },
+      {
+        "language": "en",
+        "designation": "Green Logistics Conference - Rabat",
+        "description": "Professional event dedicated to handling in Rabat.",
+        "slogan": ""
+      },
+      {
+        "language": "ar",
+        "designation": "مؤتمر اللوجستيك الأخضر - الرباط",
+        "description": "حدث مهني مخصص للمناولة في الرباط.",
+        "slogan": ""
+      },
+      {
+        "language": "es",
+        "designation": "Conferencia de Logística Verde - Rabat",
+        "description": "Evento profesional dedicado a la manutención en Rabat.",
+        "slogan": ""
+      }
+    ],
+    "dateDebut": {
+      "$date": "2024-07-15T09:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2024-07-16T18:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "acteurs": [
+      {
+        "typeObjetConcerne": "ACTEURSPRO_ACTEURPROFESSIONEL",
+        "refObjetConcerne": {
+          "$oid": "e72ab0dd3dac4adb845f7c20"
+        }
+      }
+    ],
+    "images": [],
+    "multiSessions": false,
+    "multiSites": false,
+    "accessibilite": "code_8496",
+    "avecDistributionRecompensesPrix": false,
+    "reservationObligatoire": false,
+    "programmeEvent": [],
+    "instanceElementAssocie": [],
+    "produitServices": [],
+    "eventAvecVentProduiService": false,
+    "eventAvecProduitServiceIncludDansLaReservation": false,
+    "produitsEvent": [],
+    "lieu": "Forum Afrique Développement, Casablanca, Maroc"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001418"
+    },
+    "etatEvent": "code_224",
+    "etatObjet": "code-1",
+    "referenceEvent": "EVT-0018",
+    "categorieEvent": {
+      "$oid": "65f000000000000000000F03"
+    },
+    "presentielEnligne": "code_280",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Séminaire : Automatisation des Entrepôts - Casa",
+        "description": "Événement professionnel dédié à la manutention à Casa.",
+        "slogan": ""
+      },
+      {
+        "language": "en",
+        "designation": "Seminar: Warehouse Automation - Casa",
+        "description": "Professional event dedicated to handling in Casa.",
+        "slogan": ""
+      },
+      {
+        "language": "ar",
+        "designation": "ندوة: أتمتة المستودعات - الدار البيضاء",
+        "description": "حدث مهني مخصص للمناولة في الدار البيضاء.",
+        "slogan": ""
+      },
+      {
+        "language": "es",
+        "designation": "Seminario: Automatización de Almacenes - Casa",
+        "description": "Evento profesional dedicado a la manutención en Casa.",
+        "slogan": ""
+      }
+    ],
+    "dateDebut": {
+      "$date": "2024-07-15T09:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2024-07-16T18:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "acteurs": [
+      {
+        "typeObjetConcerne": "ACTEURSPRO_ACTEURPROFESSIONEL",
+        "refObjetConcerne": {
+          "$oid": "e72ab0dd3dac4adb845f7c20"
+        }
+      }
+    ],
+    "images": [],
+    "multiSessions": false,
+    "multiSites": false,
+    "accessibilite": "code_8496",
+    "avecDistributionRecompensesPrix": false,
+    "reservationObligatoire": false,
+    "programmeEvent": [],
+    "instanceElementAssocie": [],
+    "produitServices": [],
+    "eventAvecVentProduiService": false,
+    "eventAvecProduitServiceIncludDansLaReservation": false,
+    "produitsEvent": [],
+    "lieu": "Salon SIAM, Meknès, Maroc"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001419"
+    },
+    "etatEvent": "code_224",
+    "etatObjet": "code-1",
+    "referenceEvent": "EVT-0019",
+    "categorieEvent": {
+      "$oid": "65f000000000000000000B02"
+    },
+    "presentielEnligne": "code_280",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Forum des Fournisseurs Industriels - Tanger",
+        "description": "Événement professionnel dédié à la manutention à Tanger.",
+        "slogan": ""
+      },
+      {
+        "language": "en",
+        "designation": "Industrial Suppliers Forum - Tangier",
+        "description": "Professional event dedicated to handling in Tangier.",
+        "slogan": ""
+      },
+      {
+        "language": "ar",
+        "designation": "منتدى الموردين الصناعيين - طنجة",
+        "description": "حدث مهني مخصص للمناولة في طنجة.",
+        "slogan": ""
+      },
+      {
+        "language": "es",
+        "designation": "Foro de Proveedores Industriales - Tánger",
+        "description": "Evento profesional dedicado a la manutención en Tánger.",
+        "slogan": ""
+      }
+    ],
+    "dateDebut": {
+      "$date": "2024-07-15T09:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2024-07-16T18:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "acteurs": [
+      {
+        "typeObjetConcerne": "ACTEURSPRO_ACTEURPROFESSIONEL",
+        "refObjetConcerne": {
+          "$oid": "e72ab0dd3dac4adb845f7c20"
+        }
+      }
+    ],
+    "images": [],
+    "multiSessions": false,
+    "multiSites": false,
+    "accessibilite": "code_8496",
+    "avecDistributionRecompensesPrix": false,
+    "reservationObligatoire": false,
+    "programmeEvent": [],
+    "instanceElementAssocie": [],
+    "produitServices": [],
+    "eventAvecVentProduiService": false,
+    "eventAvecProduitServiceIncludDansLaReservation": false,
+    "produitsEvent": [],
+    "lieu": "Carrefour des Industries du Bois, Rabat, Maroc"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001420"
+    },
+    "etatEvent": "code_224",
+    "etatObjet": "code-1",
+    "referenceEvent": "EVT-0020",
+    "categorieEvent": {
+      "$oid": "65f000000000000000000F03"
+    },
+    "presentielEnligne": "code_280",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Journée Portes Ouvertes SAV - Marrakech",
+        "description": "Événement professionnel dédié à la manutention à Marrakech.",
+        "slogan": ""
+      },
+      {
+        "language": "en",
+        "designation": "SAV Open Day - Marrakech",
+        "description": "Professional event dedicated to handling in Marrakech.",
+        "slogan": ""
+      },
+      {
+        "language": "ar",
+        "designation": "اليوم المفتوح لخدمة ما بعد البيع - مراكش",
+        "description": "حدث مهني مخصص للمناولة في مراكش.",
+        "slogan": ""
+      },
+      {
+        "language": "es",
+        "designation": "Jornada de Puertas Abiertas Posventa - Marrakech",
+        "description": "Evento profesional dedicado a la manutención en Marrakech.",
+        "slogan": ""
+      }
+    ],
+    "dateDebut": {
+      "$date": "2024-07-15T09:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2024-07-16T18:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "acteurs": [
+      {
+        "typeObjetConcerne": "ACTEURSPRO_ACTEURPROFESSIONEL",
+        "refObjetConcerne": {
+          "$oid": "e72ab0dd3dac4adb845f7c20"
+        }
+      }
+    ],
+    "images": [],
+    "multiSessions": false,
+    "multiSites": false,
+    "accessibilite": "code_8496",
+    "avecDistributionRecompensesPrix": false,
+    "reservationObligatoire": false,
+    "programmeEvent": [],
+    "instanceElementAssocie": [],
+    "produitServices": [],
+    "eventAvecVentProduiService": false,
+    "eventAvecProduitServiceIncludDansLaReservation": false,
+    "produitsEvent": [],
+    "lieu": "Parc Technologique de Sala Al Jadida, Salé, Maroc"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001421"
+    },
+    "etatEvent": "code_224",
+    "etatObjet": "code-1",
+    "referenceEvent": "EVT-0021",
+    "categorieEvent": {
+      "$oid": "65f000000000000000000B02"
+    },
+    "presentielEnligne": "code_280",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Exposition de Systèmes de Rayonnage - Fès",
+        "description": "Événement professionnel dédié à la manutention à Fès.",
+        "slogan": ""
+      },
+      {
+        "language": "en",
+        "designation": "Racking Systems Exhibition - Fez",
+        "description": "Professional event dedicated to handling in Fez.",
+        "slogan": ""
+      },
+      {
+        "language": "ar",
+        "designation": "معرض أنظمة الرفوف - فاس",
+        "description": "حدث مهني مخصص للمناولة في فاس.",
+        "slogan": ""
+      },
+      {
+        "language": "es",
+        "designation": "Exposición de Sistemas de Estanterías - Fez",
+        "description": "Evento profesional dedicado a la manutención en Fez.",
+        "slogan": ""
+      }
+    ],
+    "dateDebut": {
+      "$date": "2024-07-15T09:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2024-07-16T18:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "acteurs": [
+      {
+        "typeObjetConcerne": "ACTEURSPRO_ACTEURPROFESSIONEL",
+        "refObjetConcerne": {
+          "$oid": "e72ab0dd3dac4adb845f7c20"
+        }
+      }
+    ],
+    "images": [],
+    "multiSessions": false,
+    "multiSites": false,
+    "accessibilite": "code_8496",
+    "avecDistributionRecompensesPrix": false,
+    "reservationObligatoire": false,
+    "programmeEvent": [],
+    "instanceElementAssocie": [],
+    "produitServices": [],
+    "eventAvecVentProduiService": false,
+    "eventAvecProduitServiceIncludDansLaReservation": false,
+    "produitsEvent": [],
+    "lieu": "Salon Agroalimentaire SIAG, Agadir, Maroc"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001422"
+    },
+    "etatEvent": "code_224",
+    "etatObjet": "code-1",
+    "referenceEvent": "EVT-0022",
+    "categorieEvent": {
+      "$oid": "65f000000000000000000F03"
+    },
+    "presentielEnligne": "code_280",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Table Ronde : Digitalisation Logistique - Oujda",
+        "description": "Événement professionnel dédié à la manutention à Oujda.",
+        "slogan": ""
+      },
+      {
+        "language": "en",
+        "designation": "Round Table: Logistics Digitalization - Oujda",
+        "description": "Professional event dedicated to handling in Oujda.",
+        "slogan": ""
+      },
+      {
+        "language": "ar",
+        "designation": "طاولة مستديرة: رقمنة اللوجستيك - وجدة",
+        "description": "حدث مهني مخصص للمناولة في وجدة.",
+        "slogan": ""
+      },
+      {
+        "language": "es",
+        "designation": "Mesa Redonda: Digitalización Logística - Oujda",
+        "description": "Evento profesional dedicado a la manutención en Oujda.",
+        "slogan": ""
+      }
+    ],
+    "dateDebut": {
+      "$date": "2024-07-15T09:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2024-07-16T18:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "acteurs": [
+      {
+        "typeObjetConcerne": "ACTEURSPRO_ACTEURPROFESSIONEL",
+        "refObjetConcerne": {
+          "$oid": "e72ab0dd3dac4adb845f7c20"
+        }
+      }
+    ],
+    "images": [],
+    "multiSessions": false,
+    "multiSites": false,
+    "accessibilite": "code_8496",
+    "avecDistributionRecompensesPrix": false,
+    "reservationObligatoire": false,
+    "programmeEvent": [],
+    "instanceElementAssocie": [],
+    "produitServices": [],
+    "eventAvecVentProduiService": false,
+    "eventAvecProduitServiceIncludDansLaReservation": false,
+    "produitsEvent": [],
+    "lieu": "Centre de la Logistique du Grand Casablanca, Casablanca, Maroc"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001423"
+    },
+    "etatEvent": "code_224",
+    "etatObjet": "code-1",
+    "referenceEvent": "EVT-0023",
+    "categorieEvent": {
+      "$oid": "65f000000000000000000B02"
+    },
+    "presentielEnligne": "code_280",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Congrès National du Transport - Kénitra",
+        "description": "Événement professionnel dédié à la manutention à Kénitra.",
+        "slogan": ""
+      },
+      {
+        "language": "en",
+        "designation": "National Transport Congress - Kenitra",
+        "description": "Professional event dedicated to handling in Kenitra.",
+        "slogan": ""
+      },
+      {
+        "language": "ar",
+        "designation": "المؤتمر الوطني للنقل - القنيطرة",
+        "description": "حدث مهني مخصص للمناولة في القنيطرة.",
+        "slogan": ""
+      },
+      {
+        "language": "es",
+        "designation": "Congreso Nacional del Transporte - Kenitra",
+        "description": "Evento profesional dedicado a la manutención en Kenitra.",
+        "slogan": ""
+      }
+    ],
+    "dateDebut": {
+      "$date": "2024-07-15T09:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2024-07-16T18:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "acteurs": [
+      {
+        "typeObjetConcerne": "ACTEURSPRO_ACTEURPROFESSIONEL",
+        "refObjetConcerne": {
+          "$oid": "e72ab0dd3dac4adb845f7c20"
+        }
+      }
+    ],
+    "images": [],
+    "multiSessions": false,
+    "multiSites": false,
+    "accessibilite": "code_8496",
+    "avecDistributionRecompensesPrix": false,
+    "reservationObligatoire": false,
+    "programmeEvent": [],
+    "instanceElementAssocie": [],
+    "produitServices": [],
+    "eventAvecVentProduiService": false,
+    "eventAvecProduitServiceIncludDansLaReservation": false,
+    "produitsEvent": [],
+    "lieu": "Salon Energie & Environnement, Marrakech, Maroc"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001424"
+    },
+    "etatEvent": "code_224",
+    "etatObjet": "code-1",
+    "referenceEvent": "EVT-0024",
+    "categorieEvent": {
+      "$oid": "65f000000000000000000F03"
+    },
+    "presentielEnligne": "code_280",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Salon Pro : Équipements de Sécurité - El Jadida",
+        "description": "Événement professionnel dédié à la manutention à El Jadida.",
+        "slogan": ""
+      },
+      {
+        "language": "en",
+        "designation": "Pro Fair: Safety Equipment - El Jadida",
+        "description": "Professional event dedicated to handling in El Jadida.",
+        "slogan": ""
+      },
+      {
+        "language": "ar",
+        "designation": "المعرض المهني: معدات السلامة - الجديدة",
+        "description": "حدث مهني مخصص للمناولة في الجديدة.",
+        "slogan": ""
+      },
+      {
+        "language": "es",
+        "designation": "Salón Pro: Equipos de Seguridad - El Jadida",
+        "description": "Evento profesional dedicado a la manutención en El Jadida.",
+        "slogan": ""
+      }
+    ],
+    "dateDebut": {
+      "$date": "2024-07-15T09:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2024-07-16T18:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "acteurs": [
+      {
+        "typeObjetConcerne": "ACTEURSPRO_ACTEURPROFESSIONEL",
+        "refObjetConcerne": {
+          "$oid": "e72ab0dd3dac4adb845f7c20"
+        }
+      }
+    ],
+    "images": [],
+    "multiSessions": false,
+    "multiSites": false,
+    "accessibilite": "code_8496",
+    "avecDistributionRecompensesPrix": false,
+    "reservationObligatoire": false,
+    "programmeEvent": [],
+    "instanceElementAssocie": [],
+    "produitServices": [],
+    "eventAvecVentProduiService": false,
+    "eventAvecProduitServiceIncludDansLaReservation": false,
+    "produitsEvent": [],
+    "lieu": "Office National des Hydrocarbures, Rabat, Maroc"
+  }
+]

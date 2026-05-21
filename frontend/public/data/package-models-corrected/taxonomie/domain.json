@@ -1,0 +1,6547 @@
+[
+  {
+    "_id": {
+      "$oid": "636c617373654f7267000000"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "classeOrg",
+        "description": ""
+      }
+    ],
+    "code": "classeOrg",
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "66323c2a00000000000001a0"
+      },
+      {
+        "$oid": "65f000000000000000000601"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2026-05-07T22:01:21.385Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "747970654f72670000000000"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "typeOrg",
+        "description": ""
+      }
+    ],
+    "code": "typeOrg",
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "66323c2a00000000000001b0"
+      },
+      {
+        "$oid": "747970654f7267636f64655f"
+      },
+      {
+        "$oid": "65f000000000000000000602"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2026-05-07T22:01:21.386Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "736563746575724163746976"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "secteurActivite",
+        "description": ""
+      }
+    ],
+    "code": "secteurActivite",
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "2a4386ca80118f73d4c9f878"
+      },
+      {
+        "$oid": "65f000000000000000000603"
+      },
+      {
+        "$oid": "65f000000000000000000605"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2026-05-07T22:05:57.336Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "747970654163746976697465"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "typeActivite",
+        "description": ""
+      }
+    ],
+    "code": "typeActivite",
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "7fcc7f62bb39a52d5a767392"
+      },
+      {
+        "$oid": "65f000000000000000000B01"
+      },
+      {
+        "$oid": "65f000000000000000000F08"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2026-05-07T22:05:57.341Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "706179730000000000000000"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "pays",
+        "description": ""
+      }
+    ],
+    "code": "pays",
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "706179734d41000000000000"
+      },
+      {
+        "$oid": "706179735a41000000000000"
+      },
+      {
+        "$oid": "706179734742000000000000"
+      },
+      {
+        "$oid": "706179734652000000000000"
+      },
+      {
+        "$oid": "65f000000000000000000604"
+      },
+      {
+        "$oid": "65f000000000000000000610"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2026-05-07T22:05:57.341Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6c616e677565000000000000"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "langue",
+        "description": ""
+      }
+    ],
+    "code": "langue",
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "65f000000000000000000620"
+      },
+      {
+        "$oid": "bc0499833cf04f0cd821c3f5"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2026-05-07T22:05:57.341Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "665b9f2c8f1a2c3d4e5f1001"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "catégorie des produits et des services",
+        "description": "Catégories globales"
+      }
+    ],
+    "code": "categorie des produits",
+    "children": [
+      {
+        "$oid": "06b6871d02854b07b47d833d"
+      },
+      {
+        "$oid": "07e6b4b1feb846cfba10b862"
+      },
+      {
+        "$oid": "13359332cf985ae19d341e08"
+      },
+      {
+        "$oid": "13e24dcafcd1479080eedc30"
+      },
+      {
+        "$oid": "1882699d1c0cfb06962f50df"
+      },
+      {
+        "$oid": "23b9e10370ebfc9b5006b957"
+      },
+      {
+        "$oid": "250dac0ab7103ca09a3de55f"
+      },
+      {
+        "$oid": "2b20f896bdd946579ca1103a"
+      },
+      {
+        "$oid": "2b8015bd253217d086899365"
+      },
+      {
+        "$oid": "32339d60c883ff7fd779ad0e"
+      },
+      {
+        "$oid": "3fbf73a2044cc89f14f14c05"
+      },
+      {
+        "$oid": "43144269a0ca9179fc78ab00"
+      },
+      {
+        "$oid": "46ad4c1e75c9d9d3afc013df"
+      },
+      {
+        "$oid": "545e96ae18f1dedfc258923d"
+      },
+      {
+        "$oid": "569d56a5043d19bca57f8db8"
+      },
+      {
+        "$oid": "5f75591426a93df389a6ba45"
+      },
+      {
+        "$oid": "5fff5ce09cda01210d1a1935"
+      },
+      {
+        "$oid": "61c9297cecbe43dfbdb896b9"
+      },
+      {
+        "$oid": "66323c2a0000000000000003"
+      },
+      {
+        "$oid": "af67e8eb26ec9fdce01543b5"
+      },
+      {
+        "$oid": "bd9e19005ca4c937a3fb1f4a"
+      },
+      {
+        "$oid": "c3ea28cd2634d0ddc0701c16"
+      },
+      {
+        "$oid": "d3a469af77a2399d69b779d5"
+      },
+      {
+        "$oid": "ebbc986dd24ff3ebfc7b13cc"
+      },
+      {
+        "$oid": "fd91b7bc0069f40cf1adbb4f"
+      },
+      {
+        "$oid": "feb6e3eeeb24446f956a51b5"
+      }
+    ],
+    "taxonomies": [],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2026-05-07T22:00:36.849Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "06b6871d02854b07b47d833d"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Ferroviaire",
+        "description": "Locomotives et matériel ferroviaire",
+        "_id": {
+          "$oid": "bc47b4ddf06812e28fff1464"
+        }
+      }
+    ],
+    "code": "Ferroviaire",
+    "parent": {
+      "$oid": "665b9f2c8f1a2c3d4e5f1001"
+    },
+    "children": [
+      {
+        "$oid": "00cd8a50012ed45147844edc"
+      },
+      {
+        "$oid": "fc53df6a9bf6b8d55cb403e9"
+      },
+      {
+        "$oid": "38c3520342e2f200fbe46605"
+      },
+      {
+        "$oid": "3a12d7c0c4ffc20dff7c89e5"
+      }
+    ],
+    "taxonomies": [
+      {
+        "$oid": "00cd8a50012ed45147844edc"
+      },
+      {
+        "$oid": "fc53df6a9bf6b8d55cb403e9"
+      },
+      {
+        "$oid": "38c3520342e2f200fbe46605"
+      },
+      {
+        "$oid": "3a12d7c0c4ffc20dff7c89e5"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "07e6b4b1feb846cfba10b862"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Espaces Verts",
+        "description": "Matériel d'entretien des espaces verts",
+        "_id": {
+          "$oid": "85052882af65d568c94a4641"
+        }
+      }
+    ],
+    "code": "Espaces Verts",
+    "parent": {
+      "$oid": "665b9f2c8f1a2c3d4e5f1001"
+    },
+    "children": [
+      {
+        "$oid": "c42de17620c8444e99dac64c"
+      },
+      {
+        "$oid": "047e26db7abb4b8bbebad395"
+      },
+      {
+        "$oid": "426a45cc6a2e451481531290"
+      },
+      {
+        "$oid": "78b778aa9f014e40855c6eb8"
+      },
+      {
+        "$oid": "a7fa8e4d6ec4452aa088e4e6"
+      },
+      {
+        "$oid": "42c244da3f3e45ec87203503"
+      },
+      {
+        "$oid": "76a9d798764a4b64b9a4159a"
+      },
+      {
+        "$oid": "c14de2ff97a849a88f2b0839"
+      }
+    ],
+    "taxonomies": [
+      {
+        "$oid": "c42de17620c8444e99dac64c"
+      },
+      {
+        "$oid": "047e26db7abb4b8bbebad395"
+      },
+      {
+        "$oid": "426a45cc6a2e451481531290"
+      },
+      {
+        "$oid": "78b778aa9f014e40855c6eb8"
+      },
+      {
+        "$oid": "a7fa8e4d6ec4452aa088e4e6"
+      },
+      {
+        "$oid": "42c244da3f3e45ec87203503"
+      },
+      {
+        "$oid": "76a9d798764a4b64b9a4159a"
+      },
+      {
+        "$oid": "c14de2ff97a849a88f2b0839"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "13359332cf985ae19d341e08"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Aérien",
+        "description": "Aéronefs et matériel aéronautique",
+        "_id": {
+          "$oid": "86ac7e310b5c14a1563fd78f"
+        }
+      }
+    ],
+    "code": "Aérien",
+    "parent": {
+      "$oid": "665b9f2c8f1a2c3d4e5f1001"
+    },
+    "children": [
+      {
+        "$oid": "61470195545954f2e5671091"
+      },
+      {
+        "$oid": "db59cca2e09f42ec9dff820a"
+      },
+      {
+        "$oid": "bb894b7e637740342effbc20"
+      },
+      {
+        "$oid": "3cfe695c3552fea62aae6b60"
+      },
+      {
+        "$oid": "71060d3466f8116bd3c83ad5"
+      }
+    ],
+    "taxonomies": [
+      {
+        "$oid": "61470195545954f2e5671091"
+      },
+      {
+        "$oid": "db59cca2e09f42ec9dff820a"
+      },
+      {
+        "$oid": "bb894b7e637740342effbc20"
+      },
+      {
+        "$oid": "3cfe695c3552fea62aae6b60"
+      },
+      {
+        "$oid": "71060d3466f8116bd3c83ad5"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "13e24dcafcd1479080eedc30"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Forestier",
+        "description": "Machines forestières et abatteuses",
+        "_id": {
+          "$oid": "336665730a96df7aa1771dfe"
+        }
+      }
+    ],
+    "code": "Forestier",
+    "parent": {
+      "$oid": "665b9f2c8f1a2c3d4e5f1001"
+    },
+    "children": [
+      {
+        "$oid": "522dd6d77a104c5795f46254"
+      },
+      {
+        "$oid": "24860d1928f348c7b51be85d"
+      },
+      {
+        "$oid": "ed99ae222baa4054833f124b"
+      },
+      {
+        "$oid": "80e5148f53f34901811cd0d7"
+      },
+      {
+        "$oid": "51120eb86f1b4ae9bc62e5ba"
+      },
+      {
+        "$oid": "9e0f703316e34faf8a6fbcdb"
+      },
+      {
+        "$oid": "6d0a7e51d5f84b03a726d600"
+      },
+      {
+        "$oid": "2bbf410a770248c3b3cd9439"
+      }
+    ],
+    "taxonomies": [
+      {
+        "$oid": "522dd6d77a104c5795f46254"
+      },
+      {
+        "$oid": "24860d1928f348c7b51be85d"
+      },
+      {
+        "$oid": "ed99ae222baa4054833f124b"
+      },
+      {
+        "$oid": "80e5148f53f34901811cd0d7"
+      },
+      {
+        "$oid": "51120eb86f1b4ae9bc62e5ba"
+      },
+      {
+        "$oid": "9e0f703316e34faf8a6fbcdb"
+      },
+      {
+        "$oid": "6d0a7e51d5f84b03a726d600"
+      },
+      {
+        "$oid": "2bbf410a770248c3b3cd9439"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "1882699d1c0cfb06962f50df"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Manutention",
+        "description": "Chariots élévateurs et matériel de manutention",
+        "_id": {
+          "$oid": "c88101ce30cd2c7b29132098"
+        }
+      }
+    ],
+    "code": "Manutention",
+    "parent": {
+      "$oid": "665b9f2c8f1a2c3d4e5f1001"
+    },
+    "children": [
+      {
+        "$oid": "9803e85b5c503dc4cd62d628"
+      },
+      {
+        "$oid": "7a1c1d173503c0f9cfd1df0a"
+      },
+      {
+        "$oid": "015560ee0c75283a956a1c93"
+      },
+      {
+        "$oid": "b7c3f2cfdb666376b5778fc0"
+      },
+      {
+        "$oid": "c85e160db81f8692ffc72e25"
+      },
+      {
+        "$oid": "7d9d37ea7d49ddfca20d8545"
+      },
+      {
+        "$oid": "b72b7014a23ea0417080c8d6"
+      },
+      {
+        "$oid": "51efd2167b04136726538873"
+      },
+      {
+        "$oid": "3f1077e133c37662d9abef18"
+      },
+      {
+        "$oid": "a894083ef5c62e81dbba8912"
+      },
+      {
+        "$oid": "d34faeb1b7ddf23b39e3b54a"
+      },
+      {
+        "$oid": "d19f298bc8ea88a211b61342"
+      },
+      {
+        "$oid": "49db356115e9a363beff0fb2"
+      },
+      {
+        "$oid": "f7792867ccbbb649ef6eb319"
+      },
+      {
+        "$oid": "8c23bc075d82036415a295d6"
+      },
+      {
+        "$oid": "385f72be49a006ad9ac62a74"
+      },
+      {
+        "$oid": "a4d32ee31bd75be873a451da"
+      },
+      {
+        "$oid": "7e0794f8309dc20791804da9"
+      },
+      {
+        "$oid": "61083ec09679371cd382a10a"
+      },
+      {
+        "$oid": "a7396b68057b6cdcf510cd08"
+      }
+    ],
+    "taxonomies": [
+      {
+        "$oid": "9803e85b5c503dc4cd62d628"
+      },
+      {
+        "$oid": "7a1c1d173503c0f9cfd1df0a"
+      },
+      {
+        "$oid": "015560ee0c75283a956a1c93"
+      },
+      {
+        "$oid": "b7c3f2cfdb666376b5778fc0"
+      },
+      {
+        "$oid": "c85e160db81f8692ffc72e25"
+      },
+      {
+        "$oid": "7d9d37ea7d49ddfca20d8545"
+      },
+      {
+        "$oid": "b72b7014a23ea0417080c8d6"
+      },
+      {
+        "$oid": "51efd2167b04136726538873"
+      },
+      {
+        "$oid": "3f1077e133c37662d9abef18"
+      },
+      {
+        "$oid": "a894083ef5c62e81dbba8912"
+      },
+      {
+        "$oid": "49db356115e9a363beff0fb2"
+      },
+      {
+        "$oid": "385f72be49a006ad9ac62a74"
+      },
+      {
+        "$oid": "7e0794f8309dc20791804da9"
+      },
+      {
+        "$oid": "61083ec09679371cd382a10a"
+      },
+      {
+        "$oid": "a7396b68057b6cdcf510cd08"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "23b9e10370ebfc9b5006b957"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Modules & Containers",
+        "description": "Containers modulaires et stockage",
+        "_id": {
+          "$oid": "09f1c635a84fc3d725f36152"
+        }
+      }
+    ],
+    "code": "Modules & Containers",
+    "parent": {
+      "$oid": "665b9f2c8f1a2c3d4e5f1001"
+    },
+    "children": [
+      {
+        "$oid": "467f5cef101906c2354888f1"
+      },
+      {
+        "$oid": "84f6c928c7aa682a61eae821"
+      },
+      {
+        "$oid": "a7ad7195a6a740e26c90580e"
+      },
+      {
+        "$oid": "8d8f44544640171482cd8310"
+      },
+      {
+        "$oid": "f6f4d80eed9910f90b2be3b2"
+      },
+      {
+        "$oid": "da8d3642e6c79abdd82e10b5"
+      },
+      {
+        "$oid": "f60870819a5d4f6220c64833"
+      },
+      {
+        "$oid": "9d23eb2c5f30fa79a07ed070"
+      },
+      {
+        "$oid": "abee07b3f82fd432bd1005d9"
+      },
+      {
+        "$oid": "5d5a35785607bf9c178dcb4c"
+      },
+      {
+        "$oid": "f4145f469eadbb1c50ae5748"
+      },
+      {
+        "$oid": "7efb6d54e809aec4c3c5115c"
+      },
+      {
+        "$oid": "f52daaad6181199429173bfb"
+      },
+      {
+        "$oid": "c16b0e0f066b741730437a8a"
+      },
+      {
+        "$oid": "b5a2ee7c77bca4cf22923c45"
+      },
+      {
+        "$oid": "5e40ef85a5e86c4908c700aa"
+      },
+      {
+        "$oid": "a6ec81a6ed85a4445d0a8c7c"
+      },
+      {
+        "$oid": "94d7366a78e87fe799343736"
+      },
+      {
+        "$oid": "2620aa7243f5dba87c8e83e0"
+      },
+      {
+        "$oid": "1f75bf2b7d51026ca3e332e4"
+      }
+    ],
+    "taxonomies": [
+      {
+        "$oid": "467f5cef101906c2354888f1"
+      },
+      {
+        "$oid": "84f6c928c7aa682a61eae821"
+      },
+      {
+        "$oid": "da8d3642e6c79abdd82e10b5"
+      },
+      {
+        "$oid": "f60870819a5d4f6220c64833"
+      },
+      {
+        "$oid": "9d23eb2c5f30fa79a07ed070"
+      },
+      {
+        "$oid": "abee07b3f82fd432bd1005d9"
+      },
+      {
+        "$oid": "5d5a35785607bf9c178dcb4c"
+      },
+      {
+        "$oid": "f4145f469eadbb1c50ae5748"
+      },
+      {
+        "$oid": "1f75bf2b7d51026ca3e332e4"
+      },
+      {
+        "$oid": "7efb6d54e809aec4c3c5115c"
+      },
+      {
+        "$oid": "f52daaad6181199429173bfb"
+      },
+      {
+        "$oid": "c16b0e0f066b741730437a8a"
+      },
+      {
+        "$oid": "b5a2ee7c77bca4cf22923c45"
+      },
+      {
+        "$oid": "5e40ef85a5e86c4908c700aa"
+      },
+      {
+        "$oid": "a6ec81a6ed85a4445d0a8c7c"
+      },
+      {
+        "$oid": "94d7366a78e87fe799343736"
+      },
+      {
+        "$oid": "2620aa7243f5dba87c8e83e0"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "250dac0ab7103ca09a3de55f"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Remorques",
+        "description": "Remorques et semi-remorques",
+        "_id": {
+          "$oid": "9627350b3d8940cf42f8cbfd"
+        }
+      }
+    ],
+    "code": "Remorques",
+    "parent": {
+      "$oid": "665b9f2c8f1a2c3d4e5f1001"
+    },
+    "children": [
+      {
+        "$oid": "0acbf5e30a5ca71f8af51462"
+      },
+      {
+        "$oid": "3f8e769f996568fad9c35adc"
+      },
+      {
+        "$oid": "b8954352292ec1b4deee2639"
+      },
+      {
+        "$oid": "751f8051ff1630268d1055b2"
+      },
+      {
+        "$oid": "c088a0bdf996472915388e77"
+      },
+      {
+        "$oid": "48c24ff1e46aa2d2ff37d04b"
+      },
+      {
+        "$oid": "2c89009bc2a2faaf57794928"
+      },
+      {
+        "$oid": "6e49f6261769ee886dfca9d8"
+      },
+      {
+        "$oid": "5346706ba967a0a91fcdc4e7"
+      },
+      {
+        "$oid": "57d8c93f039de4fe7aaeda6d"
+      },
+      {
+        "$oid": "8fcc00b69ed62d28e2f9c3c6"
+      },
+      {
+        "$oid": "38f8b85a3a895fe8802743b3"
+      },
+      {
+        "$oid": "3144b064bb73d500c0d403dd"
+      },
+      {
+        "$oid": "c5af4fa71b90d75b8844fb67"
+      },
+      {
+        "$oid": "1400b17cca54670328d815be"
+      },
+      {
+        "$oid": "60e668370e4afaebc6ae41a2"
+      },
+      {
+        "$oid": "5e6c9334a73f442c11c1a967"
+      },
+      {
+        "$oid": "55d86d86b7d03625f36e481c"
+      },
+      {
+        "$oid": "9000462f0916bc9d0d34122c"
+      },
+      {
+        "$oid": "cf402e0aaad94bf4a590499d"
+      }
+    ],
+    "taxonomies": [
+      {
+        "$oid": "0acbf5e30a5ca71f8af51462"
+      },
+      {
+        "$oid": "3f8e769f996568fad9c35adc"
+      },
+      {
+        "$oid": "b8954352292ec1b4deee2639"
+      },
+      {
+        "$oid": "751f8051ff1630268d1055b2"
+      },
+      {
+        "$oid": "c088a0bdf996472915388e77"
+      },
+      {
+        "$oid": "48c24ff1e46aa2d2ff37d04b"
+      },
+      {
+        "$oid": "2c89009bc2a2faaf57794928"
+      },
+      {
+        "$oid": "6e49f6261769ee886dfca9d8"
+      },
+      {
+        "$oid": "5346706ba967a0a91fcdc4e7"
+      },
+      {
+        "$oid": "57d8c93f039de4fe7aaeda6d"
+      },
+      {
+        "$oid": "8fcc00b69ed62d28e2f9c3c6"
+      },
+      {
+        "$oid": "38f8b85a3a895fe8802743b3"
+      },
+      {
+        "$oid": "3144b064bb73d500c0d403dd"
+      },
+      {
+        "$oid": "c5af4fa71b90d75b8844fb67"
+      },
+      {
+        "$oid": "1400b17cca54670328d815be"
+      },
+      {
+        "$oid": "60e668370e4afaebc6ae41a2"
+      },
+      {
+        "$oid": "5e6c9334a73f442c11c1a967"
+      },
+      {
+        "$oid": "55d86d86b7d03625f36e481c"
+      },
+      {
+        "$oid": "9000462f0916bc9d0d34122c"
+      },
+      {
+        "$oid": "cf402e0aaad94bf4a590499d"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "2b20f896bdd946579ca1103a"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Camions Occasion",
+        "description": "Camions et véhicules utilitaires d'occasion",
+        "_id": {
+          "$oid": "a77c4d8f58142932ede62dc0"
+        }
+      }
+    ],
+    "code": "Camions Occasion",
+    "parent": {
+      "$oid": "665b9f2c8f1a2c3d4e5f1001"
+    },
+    "children": [
+      {
+        "$oid": "163cc249392541ff9031c990"
+      },
+      {
+        "$oid": "a5e52ac77cff442db9eb4015"
+      },
+      {
+        "$oid": "2d67a1e2718b468c8af7f40a"
+      },
+      {
+        "$oid": "5c74aa8b1eb449f0b8a1eac6"
+      },
+      {
+        "$oid": "6b4ebde49ccf404da4eb46f8"
+      },
+      {
+        "$oid": "eb15c9656c6e4c9d8f10cdc8"
+      },
+      {
+        "$oid": "12671a4f5f73455d905433cb"
+      },
+      {
+        "$oid": "abb8ca6350904004901a5b58"
+      }
+    ],
+    "taxonomies": [
+      {
+        "$oid": "163cc249392541ff9031c990"
+      },
+      {
+        "$oid": "a5e52ac77cff442db9eb4015"
+      },
+      {
+        "$oid": "2d67a1e2718b468c8af7f40a"
+      },
+      {
+        "$oid": "5c74aa8b1eb449f0b8a1eac6"
+      },
+      {
+        "$oid": "6b4ebde49ccf404da4eb46f8"
+      },
+      {
+        "$oid": "eb15c9656c6e4c9d8f10cdc8"
+      },
+      {
+        "$oid": "12671a4f5f73455d905433cb"
+      },
+      {
+        "$oid": "abb8ca6350904004901a5b58"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "2b8015bd253217d086899365"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Camping",
+        "description": "Camping-cars et véhicules de loisirs",
+        "_id": {
+          "$oid": "4f4380bfef66f059d2bfe806"
+        }
+      }
+    ],
+    "code": "Camping",
+    "parent": {
+      "$oid": "665b9f2c8f1a2c3d4e5f1001"
+    },
+    "children": [
+      {
+        "$oid": "f3ef19c617254a92b33e8962"
+      },
+      {
+        "$oid": "30aafad4f2dba399c93d975d"
+      },
+      {
+        "$oid": "2b7caf45018f871691aa5362"
+      },
+      {
+        "$oid": "1e52f39cf69faa8159ce152d"
+      },
+      {
+        "$oid": "e56102ec7f73e8a90890ab51"
+      },
+      {
+        "$oid": "efd68907fef581c42537ed10"
+      },
+      {
+        "$oid": "0481e0bf8c4bfa6a39612fa4"
+      },
+      {
+        "$oid": "225843bc7b0dac54677fee42"
+      },
+      {
+        "$oid": "fcf24cf7f82410fab7a44bbb"
+      },
+      {
+        "$oid": "c8298612ecfc9dcfcb6f9c3b"
+      },
+      {
+        "$oid": "5ea9650507c9af9017dd7d87"
+      },
+      {
+        "$oid": "ce61f8c269376f48b7143bc2"
+      },
+      {
+        "$oid": "6a015898eeaad9c7ecbbd7a1"
+      },
+      {
+        "$oid": "49a0ff75e45d0568480e9efd"
+      },
+      {
+        "$oid": "e291eeed3b5bf7f9856caaf6"
+      },
+      {
+        "$oid": "192eb749ebf2987e257ddc0b"
+      }
+    ],
+    "taxonomies": [
+      {
+        "$oid": "192eb749ebf2987e257ddc0b"
+      },
+      {
+        "$oid": "49a0ff75e45d0568480e9efd"
+      },
+      {
+        "$oid": "2b7caf45018f871691aa5362"
+      },
+      {
+        "$oid": "1e52f39cf69faa8159ce152d"
+      },
+      {
+        "$oid": "e56102ec7f73e8a90890ab51"
+      },
+      {
+        "$oid": "efd68907fef581c42537ed10"
+      },
+      {
+        "$oid": "0481e0bf8c4bfa6a39612fa4"
+      },
+      {
+        "$oid": "225843bc7b0dac54677fee42"
+      },
+      {
+        "$oid": "fcf24cf7f82410fab7a44bbb"
+      },
+      {
+        "$oid": "c8298612ecfc9dcfcb6f9c3b"
+      },
+      {
+        "$oid": "5ea9650507c9af9017dd7d87"
+      },
+      {
+        "$oid": "ce61f8c269376f48b7143bc2"
+      },
+      {
+        "$oid": "6a015898eeaad9c7ecbbd7a1"
+      },
+      {
+        "$oid": "e291eeed3b5bf7f9856caaf6"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "32339d60c883ff7fd779ad0e"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Attelages",
+        "description": "Systèmes d'attelage et coupleurs",
+        "_id": {
+          "$oid": "d3516966f525989d52b59ba1"
+        }
+      }
+    ],
+    "code": "Attelages",
+    "parent": {
+      "$oid": "665b9f2c8f1a2c3d4e5f1001"
+    },
+    "children": [
+      {
+        "$oid": "2e5583e97f2ed4fd6377e803"
+      },
+      {
+        "$oid": "c3ae9ccd4e60ef7825a20c99"
+      },
+      {
+        "$oid": "7b0444ca4087fd410c5e4722"
+      },
+      {
+        "$oid": "98a851a406210f0bcf52cf77"
+      },
+      {
+        "$oid": "0477198df0fa56a12c08364f"
+      },
+      {
+        "$oid": "29aff60002502a97606e1b98"
+      },
+      {
+        "$oid": "bfc9779df17a86a9cf3226c4"
+      },
+      {
+        "$oid": "d8c4201e0cdd3c36b28b1454"
+      },
+      {
+        "$oid": "ece05181d11693dec382f13e"
+      },
+      {
+        "$oid": "50ed088043c9aecf28989490"
+      },
+      {
+        "$oid": "e58ec47a854538d12f07ed3d"
+      },
+      {
+        "$oid": "85970145391391007bcbf51a"
+      },
+      {
+        "$oid": "f73ac632934b6e9df5ccc8e8"
+      },
+      {
+        "$oid": "1012f82c2179a194b9473ee8"
+      },
+      {
+        "$oid": "ee176dcbc9ee47c00a976abd"
+      },
+      {
+        "$oid": "a9886d49da8cac356398ce5f"
+      },
+      {
+        "$oid": "ee24d095a6bf240ed19690ac"
+      },
+      {
+        "$oid": "55624e501e998181ce143761"
+      },
+      {
+        "$oid": "75ba2972f7e2c9013bc37012"
+      },
+      {
+        "$oid": "6c41a4f5510b50d6c25ae965"
+      }
+    ],
+    "taxonomies": [
+      {
+        "$oid": "2e5583e97f2ed4fd6377e803"
+      },
+      {
+        "$oid": "c3ae9ccd4e60ef7825a20c99"
+      },
+      {
+        "$oid": "7b0444ca4087fd410c5e4722"
+      },
+      {
+        "$oid": "98a851a406210f0bcf52cf77"
+      },
+      {
+        "$oid": "0477198df0fa56a12c08364f"
+      },
+      {
+        "$oid": "29aff60002502a97606e1b98"
+      },
+      {
+        "$oid": "bfc9779df17a86a9cf3226c4"
+      },
+      {
+        "$oid": "d8c4201e0cdd3c36b28b1454"
+      },
+      {
+        "$oid": "ece05181d11693dec382f13e"
+      },
+      {
+        "$oid": "50ed088043c9aecf28989490"
+      },
+      {
+        "$oid": "e58ec47a854538d12f07ed3d"
+      },
+      {
+        "$oid": "85970145391391007bcbf51a"
+      },
+      {
+        "$oid": "f73ac632934b6e9df5ccc8e8"
+      },
+      {
+        "$oid": "1012f82c2179a194b9473ee8"
+      },
+      {
+        "$oid": "ee176dcbc9ee47c00a976abd"
+      },
+      {
+        "$oid": "a9886d49da8cac356398ce5f"
+      },
+      {
+        "$oid": "ee24d095a6bf240ed19690ac"
+      },
+      {
+        "$oid": "55624e501e998181ce143761"
+      },
+      {
+        "$oid": "75ba2972f7e2c9013bc37012"
+      },
+      {
+        "$oid": "6c41a4f5510b50d6c25ae965"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "3fbf73a2044cc89f14f14c05"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Transport Marchandises",
+        "description": "Semi-remorques et transport de marchandises",
+        "_id": {
+          "$oid": "7a443995a4c4c848069a398d"
+        }
+      }
+    ],
+    "code": "Transport Marchandises",
+    "parent": {
+      "$oid": "665b9f2c8f1a2c3d4e5f1001"
+    },
+    "children": [
+      {
+        "$oid": "fd19b2d0f2ade19a71944784"
+      },
+      {
+        "$oid": "4c9c21217ab7acaa9f2c29fb"
+      },
+      {
+        "$oid": "8f8b62f86d7df406e3d236fb"
+      },
+      {
+        "$oid": "b04bedc4b936ec133bfaa208"
+      },
+      {
+        "$oid": "ac9900051b4611c53a4fb432"
+      },
+      {
+        "$oid": "f35139265336baa956c52121"
+      },
+      {
+        "$oid": "a01d8aa799ff6b70933b4b62"
+      },
+      {
+        "$oid": "8c0feab3c4f32342b7027eec"
+      },
+      {
+        "$oid": "c668b46fd020424571f149e4"
+      },
+      {
+        "$oid": "4557f66a0b04cdcfc64daafb"
+      },
+      {
+        "$oid": "c1b46e8031631ebd595189fd"
+      },
+      {
+        "$oid": "e7c730f1e2299af6bd09fd43"
+      },
+      {
+        "$oid": "222ce85ac1523ab233d4e1c4"
+      },
+      {
+        "$oid": "3a57b35aa53f810ed8748bed"
+      },
+      {
+        "$oid": "fc95dad6314ef8c7a314342e"
+      },
+      {
+        "$oid": "667ab39c9594a4efbeb71de9"
+      },
+      {
+        "$oid": "fdb05b6b2f8bc749e9365a1f"
+      },
+      {
+        "$oid": "f8dc4ff0160ef0fa3f2e50a0"
+      },
+      {
+        "$oid": "be73a2bb0bb4f4f30e6b37ef"
+      },
+      {
+        "$oid": "b871a111df54ba217d5c38da"
+      }
+    ],
+    "taxonomies": [
+      {
+        "$oid": "fd19b2d0f2ade19a71944784"
+      },
+      {
+        "$oid": "4c9c21217ab7acaa9f2c29fb"
+      },
+      {
+        "$oid": "8f8b62f86d7df406e3d236fb"
+      },
+      {
+        "$oid": "b04bedc4b936ec133bfaa208"
+      },
+      {
+        "$oid": "ac9900051b4611c53a4fb432"
+      },
+      {
+        "$oid": "f35139265336baa956c52121"
+      },
+      {
+        "$oid": "a01d8aa799ff6b70933b4b62"
+      },
+      {
+        "$oid": "8c0feab3c4f32342b7027eec"
+      },
+      {
+        "$oid": "c668b46fd020424571f149e4"
+      },
+      {
+        "$oid": "4557f66a0b04cdcfc64daafb"
+      },
+      {
+        "$oid": "c1b46e8031631ebd595189fd"
+      },
+      {
+        "$oid": "e7c730f1e2299af6bd09fd43"
+      },
+      {
+        "$oid": "222ce85ac1523ab233d4e1c4"
+      },
+      {
+        "$oid": "3a57b35aa53f810ed8748bed"
+      },
+      {
+        "$oid": "fc95dad6314ef8c7a314342e"
+      },
+      {
+        "$oid": "667ab39c9594a4efbeb71de9"
+      },
+      {
+        "$oid": "fdb05b6b2f8bc749e9365a1f"
+      },
+      {
+        "$oid": "f8dc4ff0160ef0fa3f2e50a0"
+      },
+      {
+        "$oid": "be73a2bb0bb4f4f30e6b37ef"
+      },
+      {
+        "$oid": "b871a111df54ba217d5c38da"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "43144269a0ca9179fc78ab00"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Transport Passagers",
+        "description": "Bus, cars et transport de personnes",
+        "_id": {
+          "$oid": "4b968bcce5d1c82d79fa10a2"
+        }
+      }
+    ],
+    "code": "Transport Passagers",
+    "parent": {
+      "$oid": "665b9f2c8f1a2c3d4e5f1001"
+    },
+    "children": [
+      {
+        "$oid": "20e8e337eefd9a4a17430d06"
+      },
+      {
+        "$oid": "71da92fd8437fe3db9bf0d93"
+      },
+      {
+        "$oid": "5ad4bd6314fc2e3b248b955f"
+      },
+      {
+        "$oid": "015c3f4a9137a8db69a1c737"
+      },
+      {
+        "$oid": "843c495bea7bded9cb1644d6"
+      },
+      {
+        "$oid": "f4eb002a9e31933f5396fc39"
+      },
+      {
+        "$oid": "1f8a147b8f98f276733f9846"
+      },
+      {
+        "$oid": "835302e23f1f33c196214838"
+      },
+      {
+        "$oid": "a97ac4e9a59626ed814146f0"
+      },
+      {
+        "$oid": "6517c1288c22dae5ab018c5c"
+      },
+      {
+        "$oid": "26000f0ad6c2ad4a9eadf80a"
+      },
+      {
+        "$oid": "ad52ef4004b5aedd647bd16f"
+      },
+      {
+        "$oid": "a818ba30b07bf22c624b07e1"
+      },
+      {
+        "$oid": "4525fabeed0ae2a8a6bb7bcc"
+      },
+      {
+        "$oid": "1d105056ffb7a5292b6d0c57"
+      },
+      {
+        "$oid": "5618bbde6fd6dc9e42d77305"
+      },
+      {
+        "$oid": "c716414046f73a54eae48d53"
+      },
+      {
+        "$oid": "5b93b253dadf248002d2fb5c"
+      },
+      {
+        "$oid": "862670c19631fb0fd06a087b"
+      },
+      {
+        "$oid": "6b1fb8dfcac219dd09bd9fef"
+      }
+    ],
+    "taxonomies": [
+      {
+        "$oid": "20e8e337eefd9a4a17430d06"
+      },
+      {
+        "$oid": "71da92fd8437fe3db9bf0d93"
+      },
+      {
+        "$oid": "5ad4bd6314fc2e3b248b955f"
+      },
+      {
+        "$oid": "015c3f4a9137a8db69a1c737"
+      },
+      {
+        "$oid": "843c495bea7bded9cb1644d6"
+      },
+      {
+        "$oid": "f4eb002a9e31933f5396fc39"
+      },
+      {
+        "$oid": "1f8a147b8f98f276733f9846"
+      },
+      {
+        "$oid": "835302e23f1f33c196214838"
+      },
+      {
+        "$oid": "ad52ef4004b5aedd647bd16f"
+      },
+      {
+        "$oid": "a97ac4e9a59626ed814146f0"
+      },
+      {
+        "$oid": "6517c1288c22dae5ab018c5c"
+      },
+      {
+        "$oid": "26000f0ad6c2ad4a9eadf80a"
+      },
+      {
+        "$oid": "a818ba30b07bf22c624b07e1"
+      },
+      {
+        "$oid": "4525fabeed0ae2a8a6bb7bcc"
+      },
+      {
+        "$oid": "1d105056ffb7a5292b6d0c57"
+      },
+      {
+        "$oid": "5618bbde6fd6dc9e42d77305"
+      },
+      {
+        "$oid": "c716414046f73a54eae48d53"
+      },
+      {
+        "$oid": "5b93b253dadf248002d2fb5c"
+      },
+      {
+        "$oid": "6b1fb8dfcac219dd09bd9fef"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "46ad4c1e75c9d9d3afc013df"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Aéroportuaire",
+        "description": "Matériel aéroportuaire et de piste",
+        "_id": {
+          "$oid": "3f8da04ab422291667168f5a"
+        }
+      }
+    ],
+    "code": "Aéroportuaire",
+    "parent": {
+      "$oid": "665b9f2c8f1a2c3d4e5f1001"
+    },
+    "children": [
+      {
+        "$oid": "0140f5807d9f098db7a72768"
+      },
+      {
+        "$oid": "bd0b195ed17f78d65f936d42"
+      },
+      {
+        "$oid": "3dbcf9d4742f5500ad18e4a6"
+      },
+      {
+        "$oid": "40874c10735d609fe199920e"
+      },
+      {
+        "$oid": "3a84ca89e49f2a8d6313c309"
+      },
+      {
+        "$oid": "1d64f677d00b15d4872be69c"
+      },
+      {
+        "$oid": "4e55f23fd4bc90833840a1fb"
+      },
+      {
+        "$oid": "9b35df03ff61c6efcebed7db"
+      },
+      {
+        "$oid": "b52c714f303528f80fb0d369"
+      },
+      {
+        "$oid": "f143035124d93b0797af650d"
+      },
+      {
+        "$oid": "441b0862065a6b36061fb85f"
+      },
+      {
+        "$oid": "8d9f01542a8a478406c4d11b"
+      },
+      {
+        "$oid": "ac796ea5c2cad558612f1864"
+      },
+      {
+        "$oid": "736657611bca364064b3639a"
+      },
+      {
+        "$oid": "5935b3f50567405f30a1c3a6"
+      },
+      {
+        "$oid": "167710e6f198fcbaeb8aa599"
+      },
+      {
+        "$oid": "9d5d7c18e2dd08955d5c6082"
+      },
+      {
+        "$oid": "ba9f653c76c8eb5d0ef39da3"
+      },
+      {
+        "$oid": "6c79642e95d076c97b34b3ae"
+      },
+      {
+        "$oid": "242ef658b8faf611e397d18f"
+      }
+    ],
+    "taxonomies": [
+      {
+        "$oid": "0140f5807d9f098db7a72768"
+      },
+      {
+        "$oid": "bd0b195ed17f78d65f936d42"
+      },
+      {
+        "$oid": "3dbcf9d4742f5500ad18e4a6"
+      },
+      {
+        "$oid": "40874c10735d609fe199920e"
+      },
+      {
+        "$oid": "3a84ca89e49f2a8d6313c309"
+      },
+      {
+        "$oid": "4e55f23fd4bc90833840a1fb"
+      },
+      {
+        "$oid": "9b35df03ff61c6efcebed7db"
+      },
+      {
+        "$oid": "b52c714f303528f80fb0d369"
+      },
+      {
+        "$oid": "f143035124d93b0797af650d"
+      },
+      {
+        "$oid": "441b0862065a6b36061fb85f"
+      },
+      {
+        "$oid": "8d9f01542a8a478406c4d11b"
+      },
+      {
+        "$oid": "ac796ea5c2cad558612f1864"
+      },
+      {
+        "$oid": "736657611bca364064b3639a"
+      },
+      {
+        "$oid": "5935b3f50567405f30a1c3a6"
+      },
+      {
+        "$oid": "167710e6f198fcbaeb8aa599"
+      },
+      {
+        "$oid": "9d5d7c18e2dd08955d5c6082"
+      },
+      {
+        "$oid": "ba9f653c76c8eb5d0ef39da3"
+      },
+      {
+        "$oid": "6c79642e95d076c97b34b3ae"
+      },
+      {
+        "$oid": "242ef658b8faf611e397d18f"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "545e96ae18f1dedfc258923d"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Véhicules Légers",
+        "description": "Voitures et véhicules légers",
+        "_id": {
+          "$oid": "4bb4fc6855220551d4269462"
+        }
+      }
+    ],
+    "code": "Véhicules Légers",
+    "parent": {
+      "$oid": "665b9f2c8f1a2c3d4e5f1001"
+    },
+    "children": [
+      {
+        "$oid": "5fd749b1b70da5ce4d48f688"
+      },
+      {
+        "$oid": "472b78bf2be6561be760a2c1"
+      },
+      {
+        "$oid": "4fcaa9f44b6460c678fc9c3c"
+      },
+      {
+        "$oid": "4805864b79200f7ec6ef9457"
+      },
+      {
+        "$oid": "7c1918e71594cd0f8460a688"
+      },
+      {
+        "$oid": "3679e0fea8a78e30f2f65759"
+      },
+      {
+        "$oid": "0cf2e515c62e828eb9fdf998"
+      },
+      {
+        "$oid": "e70b2d5901eb748fd9bf6cab"
+      },
+      {
+        "$oid": "f51511ffde67a45dbf83724a"
+      },
+      {
+        "$oid": "bacc3b9ca52614e361814c29"
+      },
+      {
+        "$oid": "8dd20d4d0574577ca5815cca"
+      },
+      {
+        "$oid": "3964235fab8ccb9f79f44d28"
+      },
+      {
+        "$oid": "a32bb4a758304a28be2d44f5"
+      },
+      {
+        "$oid": "9a0f337cc118487aac0169b0"
+      },
+      {
+        "$oid": "00155cb3f3c64e4a9f6b94c7"
+      },
+      {
+        "$oid": "756fff1edd7243a1bb8b891a"
+      },
+      {
+        "$oid": "31037d1724374115893c4abe"
+      },
+      {
+        "$oid": "a35ba9fe21674e9797400388"
+      },
+      {
+        "$oid": "29362dbb89094c539957e731"
+      },
+      {
+        "$oid": "a094552d262243fabd79e9ca"
+      }
+    ],
+    "taxonomies": [
+      {
+        "$oid": "5fd749b1b70da5ce4d48f688"
+      },
+      {
+        "$oid": "472b78bf2be6561be760a2c1"
+      },
+      {
+        "$oid": "4fcaa9f44b6460c678fc9c3c"
+      },
+      {
+        "$oid": "4805864b79200f7ec6ef9457"
+      },
+      {
+        "$oid": "7c1918e71594cd0f8460a688"
+      },
+      {
+        "$oid": "3679e0fea8a78e30f2f65759"
+      },
+      {
+        "$oid": "0cf2e515c62e828eb9fdf998"
+      },
+      {
+        "$oid": "e70b2d5901eb748fd9bf6cab"
+      },
+      {
+        "$oid": "f51511ffde67a45dbf83724a"
+      },
+      {
+        "$oid": "bacc3b9ca52614e361814c29"
+      },
+      {
+        "$oid": "8dd20d4d0574577ca5815cca"
+      },
+      {
+        "$oid": "3964235fab8ccb9f79f44d28"
+      },
+      {
+        "$oid": "a32bb4a758304a28be2d44f5"
+      },
+      {
+        "$oid": "9a0f337cc118487aac0169b0"
+      },
+      {
+        "$oid": "00155cb3f3c64e4a9f6b94c7"
+      },
+      {
+        "$oid": "756fff1edd7243a1bb8b891a"
+      },
+      {
+        "$oid": "31037d1724374115893c4abe"
+      },
+      {
+        "$oid": "a35ba9fe21674e9797400388"
+      },
+      {
+        "$oid": "29362dbb89094c539957e731"
+      },
+      {
+        "$oid": "a094552d262243fabd79e9ca"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "569d56a5043d19bca57f8db8"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Transport Carburant",
+        "description": "Camions-citernes et transport de liquides",
+        "_id": {
+          "$oid": "03e2f7aaabdba4b6395af9ec"
+        }
+      }
+    ],
+    "code": "Transport Carburant",
+    "parent": {
+      "$oid": "665b9f2c8f1a2c3d4e5f1001"
+    },
+    "children": [
+      {
+        "$oid": "e1c793c7389e6472ffdb1899"
+      },
+      {
+        "$oid": "10a9e3fcccea1a68f8c01a41"
+      },
+      {
+        "$oid": "0effe3aa7c4275779ad00d69"
+      },
+      {
+        "$oid": "02db35e2c068e0fcfe44b23e"
+      },
+      {
+        "$oid": "54b7dec8813ea9f4d27d9bf2"
+      },
+      {
+        "$oid": "659a40c16785a38c510f142d"
+      },
+      {
+        "$oid": "14356e2c2b8e2693283c05c3"
+      },
+      {
+        "$oid": "13f507a820b290ac12c7c5a0"
+      },
+      {
+        "$oid": "e0039816e2f14b2ac7fe18be"
+      },
+      {
+        "$oid": "6fc9902f006d40bf071130be"
+      },
+      {
+        "$oid": "e4ee18974b096059a16b201c"
+      },
+      {
+        "$oid": "1e0c35267b9d6ccd879567be"
+      },
+      {
+        "$oid": "c02b97b36c47fb3e946f15c3"
+      },
+      {
+        "$oid": "472fd3b2c56cb7185c433109"
+      },
+      {
+        "$oid": "d1ccc1315b90a2819b11df4a"
+      },
+      {
+        "$oid": "63e35d4bfe9c104935d84bc5"
+      },
+      {
+        "$oid": "389d7f4307986d1ccf0128bd"
+      },
+      {
+        "$oid": "cf7f3419a24bd9e3188a6eb3"
+      },
+      {
+        "$oid": "a3e8df5355759882d1efc706"
+      },
+      {
+        "$oid": "ce38847cfe1c2bb460f10714"
+      }
+    ],
+    "taxonomies": [
+      {
+        "$oid": "10a9e3fcccea1a68f8c01a41"
+      },
+      {
+        "$oid": "0effe3aa7c4275779ad00d69"
+      },
+      {
+        "$oid": "54b7dec8813ea9f4d27d9bf2"
+      },
+      {
+        "$oid": "a3e8df5355759882d1efc706"
+      },
+      {
+        "$oid": "ce38847cfe1c2bb460f10714"
+      },
+      {
+        "$oid": "659a40c16785a38c510f142d"
+      },
+      {
+        "$oid": "14356e2c2b8e2693283c05c3"
+      },
+      {
+        "$oid": "13f507a820b290ac12c7c5a0"
+      },
+      {
+        "$oid": "e0039816e2f14b2ac7fe18be"
+      },
+      {
+        "$oid": "6fc9902f006d40bf071130be"
+      },
+      {
+        "$oid": "e4ee18974b096059a16b201c"
+      },
+      {
+        "$oid": "1e0c35267b9d6ccd879567be"
+      },
+      {
+        "$oid": "c02b97b36c47fb3e946f15c3"
+      },
+      {
+        "$oid": "472fd3b2c56cb7185c433109"
+      },
+      {
+        "$oid": "d1ccc1315b90a2819b11df4a"
+      },
+      {
+        "$oid": "63e35d4bfe9c104935d84bc5"
+      },
+      {
+        "$oid": "389d7f4307986d1ccf0128bd"
+      },
+      {
+        "$oid": "cf7f3419a24bd9e3188a6eb3"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f75591426a93df389a6ba45"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Deux-Roues",
+        "description": "Motos, scooters et deux-roues",
+        "_id": {
+          "$oid": "860ed52500b5477b5686ffc8"
+        }
+      }
+    ],
+    "code": "Deux-Roues",
+    "parent": {
+      "$oid": "665b9f2c8f1a2c3d4e5f1001"
+    },
+    "children": [
+      {
+        "$oid": "a58235292aadb15bc9de6896"
+      },
+      {
+        "$oid": "8eb0bc01355b899219329331"
+      },
+      {
+        "$oid": "0b18215f3e0ec6f4cd2039dd"
+      },
+      {
+        "$oid": "2a36f76299cca510ae5b81a7"
+      },
+      {
+        "$oid": "bae2cd648fb7364d00353a0b"
+      },
+      {
+        "$oid": "ac9b8550e45183e966507a58"
+      },
+      {
+        "$oid": "c830503e5a0049db2d9e2458"
+      },
+      {
+        "$oid": "6a75da3ac00e4af47e575267"
+      },
+      {
+        "$oid": "b183bbdf3d5f530131dd92ea"
+      },
+      {
+        "$oid": "24669a35c3fa81b551862fe2"
+      },
+      {
+        "$oid": "086b032dc24be05402436a5c"
+      },
+      {
+        "$oid": "67e40bc11e783262f3185d7e"
+      },
+      {
+        "$oid": "1155102cb2f4127107bd1099"
+      },
+      {
+        "$oid": "432a5a428945dc3b251b15cb"
+      }
+    ],
+    "taxonomies": [
+      {
+        "$oid": "1155102cb2f4127107bd1099"
+      },
+      {
+        "$oid": "a58235292aadb15bc9de6896"
+      },
+      {
+        "$oid": "8eb0bc01355b899219329331"
+      },
+      {
+        "$oid": "0b18215f3e0ec6f4cd2039dd"
+      },
+      {
+        "$oid": "2a36f76299cca510ae5b81a7"
+      },
+      {
+        "$oid": "bae2cd648fb7364d00353a0b"
+      },
+      {
+        "$oid": "ac9b8550e45183e966507a58"
+      },
+      {
+        "$oid": "c830503e5a0049db2d9e2458"
+      },
+      {
+        "$oid": "6a75da3ac00e4af47e575267"
+      },
+      {
+        "$oid": "b183bbdf3d5f530131dd92ea"
+      },
+      {
+        "$oid": "24669a35c3fa81b551862fe2"
+      },
+      {
+        "$oid": "086b032dc24be05402436a5c"
+      },
+      {
+        "$oid": "67e40bc11e783262f3185d7e"
+      },
+      {
+        "$oid": "432a5a428945dc3b251b15cb"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fff5ce09cda01210d1a1935"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Maritime",
+        "description": "Bateaux et matériel nautique",
+        "_id": {
+          "$oid": "7f04def845e58c4dfefe9ac3"
+        }
+      }
+    ],
+    "code": "Maritime",
+    "parent": {
+      "$oid": "665b9f2c8f1a2c3d4e5f1001"
+    },
+    "children": [
+      {
+        "$oid": "56b1802b55f21166d835f48e"
+      },
+      {
+        "$oid": "ea7a67cc9bbe03366ed551d7"
+      },
+      {
+        "$oid": "dfb7a35ad54d40f8d3942f41"
+      },
+      {
+        "$oid": "7396bf4ba52629167bcbc4f2"
+      },
+      {
+        "$oid": "c2b324abf9a26ccb13f58f13"
+      },
+      {
+        "$oid": "80efdf2dd5fda657b700bfd8"
+      },
+      {
+        "$oid": "eec2a2c2901a9f40f33ccdf5"
+      },
+      {
+        "$oid": "9138b9a2e964dbf22ae4e74a"
+      }
+    ],
+    "taxonomies": [
+      {
+        "$oid": "56b1802b55f21166d835f48e"
+      },
+      {
+        "$oid": "ea7a67cc9bbe03366ed551d7"
+      },
+      {
+        "$oid": "dfb7a35ad54d40f8d3942f41"
+      },
+      {
+        "$oid": "7396bf4ba52629167bcbc4f2"
+      },
+      {
+        "$oid": "c2b324abf9a26ccb13f58f13"
+      },
+      {
+        "$oid": "80efdf2dd5fda657b700bfd8"
+      },
+      {
+        "$oid": "eec2a2c2901a9f40f33ccdf5"
+      },
+      {
+        "$oid": "9138b9a2e964dbf22ae4e74a"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "61c9297cecbe43dfbdb896b9"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Agriculture",
+        "description": "Tracteurs et matériel agricole",
+        "_id": {
+          "$oid": "2575d2e0d2fe1fc5b65d411c"
+        }
+      }
+    ],
+    "code": "Agriculture",
+    "parent": {
+      "$oid": "665b9f2c8f1a2c3d4e5f1001"
+    },
+    "children": [
+      {
+        "$oid": "1667beffd57f472b8f187b17"
+      },
+      {
+        "$oid": "4312028a9d8e4bddad74b77b"
+      },
+      {
+        "$oid": "60c44c811e6c4e7d8509cba1"
+      },
+      {
+        "$oid": "9b5d01a3b8f04597b0112849"
+      },
+      {
+        "$oid": "96dd86715cc54bf683905985"
+      },
+      {
+        "$oid": "b57ea6c6293d44c78b9c7cb1"
+      },
+      {
+        "$oid": "2195a4c9beb345dfa4645b5f"
+      },
+      {
+        "$oid": "64c9f8d2595043a29c39d083"
+      },
+      {
+        "$oid": "d1d2eca5fccd4075893c7ab6"
+      },
+      {
+        "$oid": "97ec6175f53c46a5ba155858"
+      }
+    ],
+    "taxonomies": [
+      {
+        "$oid": "1667beffd57f472b8f187b17"
+      },
+      {
+        "$oid": "4312028a9d8e4bddad74b77b"
+      },
+      {
+        "$oid": "60c44c811e6c4e7d8509cba1"
+      },
+      {
+        "$oid": "9b5d01a3b8f04597b0112849"
+      },
+      {
+        "$oid": "96dd86715cc54bf683905985"
+      },
+      {
+        "$oid": "b57ea6c6293d44c78b9c7cb1"
+      },
+      {
+        "$oid": "2195a4c9beb345dfa4645b5f"
+      },
+      {
+        "$oid": "64c9f8d2595043a29c39d083"
+      },
+      {
+        "$oid": "d1d2eca5fccd4075893c7ab6"
+      },
+      {
+        "$oid": "97ec6175f53c46a5ba155858"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66323c2a0000000000000003"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Tracteurs",
+        "description": "Tracteurs agricoles et spécialisés",
+        "_id": {
+          "$oid": "ad8ebadff5ad7de12b85a493"
+        }
+      }
+    ],
+    "code": "Tracteurs",
+    "parent": {
+      "$oid": "665b9f2c8f1a2c3d4e5f1001"
+    },
+    "children": [
+      {
+        "$oid": "1c7705f692cb4d328f4de5f7"
+      },
+      {
+        "$oid": "6908991323d74d518c1cc09b"
+      },
+      {
+        "$oid": "fc16eaa64d714c6c98303248"
+      },
+      {
+        "$oid": "4dc35579e65749ddb670c0d8"
+      },
+      {
+        "$oid": "0e5ac1487ba842faad7afeb7"
+      },
+      {
+        "$oid": "01d460e7d5f5418dbaefac91"
+      },
+      {
+        "$oid": "375470baa2ac4a8bab9b92ef"
+      },
+      {
+        "$oid": "f0951cff71cb458d8b008919"
+      },
+      {
+        "$oid": "df005a68b3e34544b6d629c8"
+      },
+      {
+        "$oid": "a46aa22f8e3b40dd93ee9743"
+      },
+      {
+        "$oid": "74c7ef8e60ef41f591bf1831"
+      },
+      {
+        "$oid": "b2d09bec3f6348058f49e054"
+      },
+      {
+        "$oid": "3a531a5c316043b29da18287"
+      },
+      {
+        "$oid": "2d7bafb0b3dd48d894f23c79"
+      },
+      {
+        "$oid": "b2dcc6883d9f41338f6539a8"
+      },
+      {
+        "$oid": "059067038fe44ff3b57d584e"
+      },
+      {
+        "$oid": "4f080ba04ef04cac9412c7e7"
+      },
+      {
+        "$oid": "a12d829cdc0144a0a01c74df"
+      },
+      {
+        "$oid": "03dd8bc0614d4e338b12d1ee"
+      },
+      {
+        "$oid": "9ecb6d6cff364e978b4be726"
+      }
+    ],
+    "taxonomies": [
+      {
+        "$oid": "a46aa22f8e3b40dd93ee9743"
+      },
+      {
+        "$oid": "74c7ef8e60ef41f591bf1831"
+      },
+      {
+        "$oid": "b2d09bec3f6348058f49e054"
+      },
+      {
+        "$oid": "3a531a5c316043b29da18287"
+      },
+      {
+        "$oid": "2d7bafb0b3dd48d894f23c79"
+      },
+      {
+        "$oid": "b2dcc6883d9f41338f6539a8"
+      },
+      {
+        "$oid": "059067038fe44ff3b57d584e"
+      },
+      {
+        "$oid": "4f080ba04ef04cac9412c7e7"
+      },
+      {
+        "$oid": "a12d829cdc0144a0a01c74df"
+      },
+      {
+        "$oid": "03dd8bc0614d4e338b12d1ee"
+      },
+      {
+        "$oid": "9ecb6d6cff364e978b4be726"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "af67e8eb26ec9fdce01543b5"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "BTP",
+        "description": "Engins de chantier et construction",
+        "_id": {
+          "$oid": "f9c111fe1b86618519cf26e5"
+        }
+      }
+    ],
+    "code": "BTP",
+    "parent": {
+      "$oid": "665b9f2c8f1a2c3d4e5f1001"
+    },
+    "children": [
+      {
+        "$oid": "20cd618321bc892d017b91a5"
+      },
+      {
+        "$oid": "cb621414ab5dcc26e504a398"
+      },
+      {
+        "$oid": "381519c53cf81bfb0ce048b4"
+      },
+      {
+        "$oid": "193a722cbca7ec4dd08b26e8"
+      },
+      {
+        "$oid": "44d968a595e06c8c95df5fb1"
+      },
+      {
+        "$oid": "2ee976616c0d99e22035a138"
+      },
+      {
+        "$oid": "10ac76e83a35f3f19edf8c97"
+      },
+      {
+        "$oid": "54fc7ed89d02384e248b89bc"
+      },
+      {
+        "$oid": "338b98031bc9a3ac7cd11aee"
+      },
+      {
+        "$oid": "3a070db50c8cf88376634f42"
+      },
+      {
+        "$oid": "914776e96c620a9b9bbfa578"
+      },
+      {
+        "$oid": "8a1326543b8919cf212b5489"
+      },
+      {
+        "$oid": "7d42d67c0a5c1b2b28f45bfe"
+      },
+      {
+        "$oid": "2b61e3e256c92e3073a0ce1f"
+      },
+      {
+        "$oid": "80abc30c27e68049f43237d6"
+      },
+      {
+        "$oid": "bd504e544126fc91af5d7978"
+      },
+      {
+        "$oid": "722f1ab628ce80aa194e422f"
+      },
+      {
+        "$oid": "498b883931ef8fd5a2361dcc"
+      },
+      {
+        "$oid": "6ba919e50d1727c6c36f26f2"
+      },
+      {
+        "$oid": "f2d08c09988ffa5b5242cc54"
+      }
+    ],
+    "taxonomies": [
+      {
+        "$oid": "20cd618321bc892d017b91a5"
+      },
+      {
+        "$oid": "cb621414ab5dcc26e504a398"
+      },
+      {
+        "$oid": "381519c53cf81bfb0ce048b4"
+      },
+      {
+        "$oid": "193a722cbca7ec4dd08b26e8"
+      },
+      {
+        "$oid": "44d968a595e06c8c95df5fb1"
+      },
+      {
+        "$oid": "10ac76e83a35f3f19edf8c97"
+      },
+      {
+        "$oid": "8a1326543b8919cf212b5489"
+      },
+      {
+        "$oid": "7d42d67c0a5c1b2b28f45bfe"
+      },
+      {
+        "$oid": "80abc30c27e68049f43237d6"
+      },
+      {
+        "$oid": "722f1ab628ce80aa194e422f"
+      },
+      {
+        "$oid": "f2d08c09988ffa5b5242cc54"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "bd9e19005ca4c937a3fb1f4a"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Utilitaires",
+        "description": "Fourgons, camionnettes et utilitaires",
+        "_id": {
+          "$oid": "9cd9a0b0d4bdb150ac3af9ea"
+        }
+      }
+    ],
+    "code": "Utilitaires",
+    "parent": {
+      "$oid": "665b9f2c8f1a2c3d4e5f1001"
+    },
+    "children": [
+      {
+        "$oid": "ed3d4ce06276e5c0fac87d4a"
+      },
+      {
+        "$oid": "66eec8a24809011d79301c62"
+      },
+      {
+        "$oid": "0fe2f49155df36517c3d3a00"
+      },
+      {
+        "$oid": "6f68109b037018559912b84e"
+      },
+      {
+        "$oid": "9a563daf88614394ab410129"
+      },
+      {
+        "$oid": "52fe7b0d0514c7ddba015837"
+      },
+      {
+        "$oid": "70fe92a5afcb4753c65d314c"
+      },
+      {
+        "$oid": "65c722c4ec4b35fa01e90a74"
+      },
+      {
+        "$oid": "844d9a61f3e45404ad161add"
+      },
+      {
+        "$oid": "7fd666e8dd1c1f8d42144d61"
+      },
+      {
+        "$oid": "ee6fff4e2f6b521f8dde6f0f"
+      },
+      {
+        "$oid": "331416b5e3cb30da5b8a8b49"
+      },
+      {
+        "$oid": "987f1a0543ee9821da6f6352"
+      },
+      {
+        "$oid": "8227d704e740852a23c01087"
+      },
+      {
+        "$oid": "fac74d0e6ed96e369df414d7"
+      },
+      {
+        "$oid": "2c598f3936807148bd266f04"
+      },
+      {
+        "$oid": "60259ee14b15573a028ded73"
+      },
+      {
+        "$oid": "10568368cb9a5eddd3e3d198"
+      },
+      {
+        "$oid": "4b868b9e5fe88e702d7b2e06"
+      },
+      {
+        "$oid": "40388d7b09e1fdf926bddb33"
+      }
+    ],
+    "taxonomies": [
+      {
+        "$oid": "ed3d4ce06276e5c0fac87d4a"
+      },
+      {
+        "$oid": "66eec8a24809011d79301c62"
+      },
+      {
+        "$oid": "0fe2f49155df36517c3d3a00"
+      },
+      {
+        "$oid": "6f68109b037018559912b84e"
+      },
+      {
+        "$oid": "9a563daf88614394ab410129"
+      },
+      {
+        "$oid": "52fe7b0d0514c7ddba015837"
+      },
+      {
+        "$oid": "70fe92a5afcb4753c65d314c"
+      },
+      {
+        "$oid": "65c722c4ec4b35fa01e90a74"
+      },
+      {
+        "$oid": "844d9a61f3e45404ad161add"
+      },
+      {
+        "$oid": "7fd666e8dd1c1f8d42144d61"
+      },
+      {
+        "$oid": "ee6fff4e2f6b521f8dde6f0f"
+      },
+      {
+        "$oid": "331416b5e3cb30da5b8a8b49"
+      },
+      {
+        "$oid": "987f1a0543ee9821da6f6352"
+      },
+      {
+        "$oid": "8227d704e740852a23c01087"
+      },
+      {
+        "$oid": "fac74d0e6ed96e369df414d7"
+      },
+      {
+        "$oid": "2c598f3936807148bd266f04"
+      },
+      {
+        "$oid": "60259ee14b15573a028ded73"
+      },
+      {
+        "$oid": "10568368cb9a5eddd3e3d198"
+      },
+      {
+        "$oid": "40388d7b09e1fdf926bddb33"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "c3ea28cd2634d0ddc0701c16"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Assainissement",
+        "description": "Véhicules d'assainissement et voirie",
+        "_id": {
+          "$oid": "a91bb981caf7470377e22026"
+        }
+      }
+    ],
+    "code": "Assainissement",
+    "parent": {
+      "$oid": "665b9f2c8f1a2c3d4e5f1001"
+    },
+    "children": [
+      {
+        "$oid": "9075a426081f085b03622bc9"
+      },
+      {
+        "$oid": "7a2e0f6a505eab1a7c24c2f7"
+      },
+      {
+        "$oid": "c176e48f61a8df21d8dec043"
+      },
+      {
+        "$oid": "857910b33415bc50ec000a20"
+      },
+      {
+        "$oid": "4e323a4b29b1875cc8c64e44"
+      },
+      {
+        "$oid": "28766158a5474f0a10772fe5"
+      },
+      {
+        "$oid": "5c57b62824e2f9ff642549aa"
+      },
+      {
+        "$oid": "8ed8690851531fe96aaa1cf2"
+      },
+      {
+        "$oid": "708bd7f105b3f4dbcb5da24c"
+      },
+      {
+        "$oid": "3e056af386451b78412f5acc"
+      },
+      {
+        "$oid": "284e06dc5dc2225b6f834f0c"
+      },
+      {
+        "$oid": "034ba40fc3cfeb9b0c26dbba"
+      },
+      {
+        "$oid": "5c3dc0f7dea79fea0a9a5672"
+      },
+      {
+        "$oid": "3168d9266078061e3b9d77f7"
+      },
+      {
+        "$oid": "98f0db1a8ac529b3dd5073c8"
+      }
+    ],
+    "taxonomies": [
+      {
+        "$oid": "9075a426081f085b03622bc9"
+      },
+      {
+        "$oid": "7a2e0f6a505eab1a7c24c2f7"
+      },
+      {
+        "$oid": "c176e48f61a8df21d8dec043"
+      },
+      {
+        "$oid": "857910b33415bc50ec000a20"
+      },
+      {
+        "$oid": "5c57b62824e2f9ff642549aa"
+      },
+      {
+        "$oid": "284e06dc5dc2225b6f834f0c"
+      },
+      {
+        "$oid": "034ba40fc3cfeb9b0c26dbba"
+      },
+      {
+        "$oid": "5c3dc0f7dea79fea0a9a5672"
+      },
+      {
+        "$oid": "3168d9266078061e3b9d77f7"
+      },
+      {
+        "$oid": "98f0db1a8ac529b3dd5073c8"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "d3a469af77a2399d69b779d5"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Poids Lourds",
+        "description": "Camions porteurs et transport routier",
+        "_id": {
+          "$oid": "7d9d3793d64aa9c9b624d575"
+        }
+      }
+    ],
+    "code": "Poids Lourds",
+    "parent": {
+      "$oid": "665b9f2c8f1a2c3d4e5f1001"
+    },
+    "children": [
+      {
+        "$oid": "e6ac9da5686d385b3c1076b7"
+      },
+      {
+        "$oid": "7c303b01a0efbe4115b01b59"
+      },
+      {
+        "$oid": "b0ca1b33c497293b4b7561b1"
+      },
+      {
+        "$oid": "cf147fae01f8b475570514c0"
+      },
+      {
+        "$oid": "79c6a3eb37267bf46a1602e0"
+      },
+      {
+        "$oid": "059a2e9d2be24dbd613fc69a"
+      },
+      {
+        "$oid": "98e7f18f288e9774afc99aa9"
+      },
+      {
+        "$oid": "cb9c0e3e543379e6f8ed7b4b"
+      },
+      {
+        "$oid": "c164a6054621ec90512e521a"
+      },
+      {
+        "$oid": "cf5a9bf71fb3f32ebe7e3dae"
+      },
+      {
+        "$oid": "2cf96a7aa1282726775c827c"
+      },
+      {
+        "$oid": "3338de7251fc02abf76e025d"
+      },
+      {
+        "$oid": "b9e1a04eb23f15d71d07bf40"
+      },
+      {
+        "$oid": "286e834aef0b55b7ccd5ec74"
+      },
+      {
+        "$oid": "3dc1f341e9020969c8611fe8"
+      },
+      {
+        "$oid": "bc27674aa38efcecfbf134c8"
+      },
+      {
+        "$oid": "7dc333d57eb50941715c630c"
+      },
+      {
+        "$oid": "74c026dc2b64fe46f123dc7a"
+      },
+      {
+        "$oid": "0fd59188b61240408df2b626"
+      },
+      {
+        "$oid": "2aaafc00dfeceaa157393006"
+      }
+    ],
+    "taxonomies": [
+      {
+        "$oid": "e6ac9da5686d385b3c1076b7"
+      },
+      {
+        "$oid": "7c303b01a0efbe4115b01b59"
+      },
+      {
+        "$oid": "b0ca1b33c497293b4b7561b1"
+      },
+      {
+        "$oid": "cf147fae01f8b475570514c0"
+      },
+      {
+        "$oid": "79c6a3eb37267bf46a1602e0"
+      },
+      {
+        "$oid": "059a2e9d2be24dbd613fc69a"
+      },
+      {
+        "$oid": "98e7f18f288e9774afc99aa9"
+      },
+      {
+        "$oid": "cb9c0e3e543379e6f8ed7b4b"
+      },
+      {
+        "$oid": "c164a6054621ec90512e521a"
+      },
+      {
+        "$oid": "cf5a9bf71fb3f32ebe7e3dae"
+      },
+      {
+        "$oid": "2cf96a7aa1282726775c827c"
+      },
+      {
+        "$oid": "3338de7251fc02abf76e025d"
+      },
+      {
+        "$oid": "b9e1a04eb23f15d71d07bf40"
+      },
+      {
+        "$oid": "286e834aef0b55b7ccd5ec74"
+      },
+      {
+        "$oid": "3dc1f341e9020969c8611fe8"
+      },
+      {
+        "$oid": "bc27674aa38efcecfbf134c8"
+      },
+      {
+        "$oid": "7dc333d57eb50941715c630c"
+      },
+      {
+        "$oid": "74c026dc2b64fe46f123dc7a"
+      },
+      {
+        "$oid": "0fd59188b61240408df2b626"
+      },
+      {
+        "$oid": "2aaafc00dfeceaa157393006"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "ebbc986dd24ff3ebfc7b13cc"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Équipements Chargement",
+        "description": "Rampes de chargement et équipements",
+        "_id": {
+          "$oid": "2c6f9b6d97c1ce3238c736d4"
+        }
+      }
+    ],
+    "code": "Équipements Chargement",
+    "parent": {
+      "$oid": "665b9f2c8f1a2c3d4e5f1001"
+    },
+    "children": [
+      {
+        "$oid": "a6304a5f1b5bb0a470ce81bd"
+      },
+      {
+        "$oid": "42e54599397794d818b31a39"
+      },
+      {
+        "$oid": "eccfc1cdd6663d8bedb745e0"
+      },
+      {
+        "$oid": "64e81c80f1c06270d8af0d37"
+      },
+      {
+        "$oid": "a0c2552fb6aacefce7a300ed"
+      },
+      {
+        "$oid": "161302a59ee9c0f8cb9963db"
+      },
+      {
+        "$oid": "353defe4a9d9d2d4264ad955"
+      },
+      {
+        "$oid": "976d82be185be5b6df3a9131"
+      },
+      {
+        "$oid": "3f28865088cd931d09d5356f"
+      },
+      {
+        "$oid": "150eb3eff663eadb743f8f87"
+      },
+      {
+        "$oid": "d6540eabdc1e3ec938ad9aa4"
+      },
+      {
+        "$oid": "4f227ecbff4d9de280430b73"
+      },
+      {
+        "$oid": "e14446f9ff53d47df4a4d128"
+      },
+      {
+        "$oid": "091b5e0986ac917e06877b98"
+      },
+      {
+        "$oid": "5e8529680796fb0f4ef75e9d"
+      },
+      {
+        "$oid": "ef77006e61d83a1a0e6485da"
+      },
+      {
+        "$oid": "a53b436459043e09aca6fe15"
+      },
+      {
+        "$oid": "19dd8e3283db416476e2f47d"
+      },
+      {
+        "$oid": "5a9d378faf7b41b2bae5e09b"
+      },
+      {
+        "$oid": "068d0c7b3fd9003c66d3d563"
+      }
+    ],
+    "taxonomies": [
+      {
+        "$oid": "42e54599397794d818b31a39"
+      },
+      {
+        "$oid": "eccfc1cdd6663d8bedb745e0"
+      },
+      {
+        "$oid": "64e81c80f1c06270d8af0d37"
+      },
+      {
+        "$oid": "a0c2552fb6aacefce7a300ed"
+      },
+      {
+        "$oid": "161302a59ee9c0f8cb9963db"
+      },
+      {
+        "$oid": "353defe4a9d9d2d4264ad955"
+      },
+      {
+        "$oid": "976d82be185be5b6df3a9131"
+      },
+      {
+        "$oid": "3f28865088cd931d09d5356f"
+      },
+      {
+        "$oid": "150eb3eff663eadb743f8f87"
+      },
+      {
+        "$oid": "d6540eabdc1e3ec938ad9aa4"
+      },
+      {
+        "$oid": "4f227ecbff4d9de280430b73"
+      },
+      {
+        "$oid": "e14446f9ff53d47df4a4d128"
+      },
+      {
+        "$oid": "091b5e0986ac917e06877b98"
+      },
+      {
+        "$oid": "5e8529680796fb0f4ef75e9d"
+      },
+      {
+        "$oid": "ef77006e61d83a1a0e6485da"
+      },
+      {
+        "$oid": "a53b436459043e09aca6fe15"
+      },
+      {
+        "$oid": "19dd8e3283db416476e2f47d"
+      },
+      {
+        "$oid": "5a9d378faf7b41b2bae5e09b"
+      },
+      {
+        "$oid": "068d0c7b3fd9003c66d3d563"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "fd91b7bc0069f40cf1adbb4f"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Tracteurs Routiers",
+        "description": "Tracteurs routiers et semi-remorques",
+        "_id": {
+          "$oid": "5aa16c34b2a4799947aa895b"
+        }
+      }
+    ],
+    "code": "Tracteurs Routiers",
+    "parent": {
+      "$oid": "665b9f2c8f1a2c3d4e5f1001"
+    },
+    "children": [
+      {
+        "$oid": "7a34d3a7fd1928735dd5702f"
+      },
+      {
+        "$oid": "449ea1788393d33a724dc3a6"
+      },
+      {
+        "$oid": "0952dad94a2ba22ef7a5e6ad"
+      },
+      {
+        "$oid": "c585fda801dc98bdfbb69bd9"
+      },
+      {
+        "$oid": "d96ba230858b2dd7a4383705"
+      },
+      {
+        "$oid": "20ff24e687882110b8187e0b"
+      },
+      {
+        "$oid": "6908edfdb527d19eb40e84a1"
+      },
+      {
+        "$oid": "b2ef94c310bff62bb6a3a048"
+      }
+    ],
+    "taxonomies": [
+      {
+        "$oid": "7a34d3a7fd1928735dd5702f"
+      },
+      {
+        "$oid": "449ea1788393d33a724dc3a6"
+      },
+      {
+        "$oid": "0952dad94a2ba22ef7a5e6ad"
+      },
+      {
+        "$oid": "c585fda801dc98bdfbb69bd9"
+      },
+      {
+        "$oid": "d96ba230858b2dd7a4383705"
+      },
+      {
+        "$oid": "20ff24e687882110b8187e0b"
+      },
+      {
+        "$oid": "6908edfdb527d19eb40e84a1"
+      },
+      {
+        "$oid": "b2ef94c310bff62bb6a3a048"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "feb6e3eeeb24446f956a51b5"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Engins TP",
+        "description": "Chargeuses, pelles et engins de travaux",
+        "_id": {
+          "$oid": "47c91941d0ae9ef73031a58c"
+        }
+      }
+    ],
+    "code": "Engins TP",
+    "parent": {
+      "$oid": "665b9f2c8f1a2c3d4e5f1001"
+    },
+    "children": [
+      {
+        "$oid": "bd4c7be77f104b10a124bb66"
+      },
+      {
+        "$oid": "b46d669fa880485cac4dca25"
+      },
+      {
+        "$oid": "d38604ccd26e4f2ea0732771"
+      },
+      {
+        "$oid": "09d0bcc458c84d679862c38f"
+      },
+      {
+        "$oid": "bf524206f6eb434886a04942"
+      },
+      {
+        "$oid": "6338988aac8f42bd844763a4"
+      },
+      {
+        "$oid": "873fa893b27741cbbbc56664"
+      },
+      {
+        "$oid": "58fc43cfbfa7405abe9e2538"
+      },
+      {
+        "$oid": "e69dae0dee1146889ae45d70"
+      },
+      {
+        "$oid": "6f8a465096754a6ba6f99451"
+      },
+      {
+        "$oid": "afa2df11884946f99b46cb2c"
+      }
+    ],
+    "taxonomies": [
+      {
+        "$oid": "bd4c7be77f104b10a124bb66"
+      },
+      {
+        "$oid": "b46d669fa880485cac4dca25"
+      },
+      {
+        "$oid": "d38604ccd26e4f2ea0732771"
+      },
+      {
+        "$oid": "09d0bcc458c84d679862c38f"
+      },
+      {
+        "$oid": "bf524206f6eb434886a04942"
+      },
+      {
+        "$oid": "6338988aac8f42bd844763a4"
+      },
+      {
+        "$oid": "873fa893b27741cbbbc56664"
+      },
+      {
+        "$oid": "58fc43cfbfa7405abe9e2538"
+      },
+      {
+        "$oid": "e69dae0dee1146889ae45d70"
+      },
+      {
+        "$oid": "6f8a465096754a6ba6f99451"
+      },
+      {
+        "$oid": "afa2df11884946f99b46cb2c"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "756e69746500000000000000"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "unityProduit",
+        "description": ""
+      }
+    ],
+    "code": "unite produit",
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "756e69746536363938643732"
+      },
+      {
+        "$oid": "2bdf85e5b56ccbfb2f9cc81c"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2026-05-07T22:05:57.342Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "756e6974655175616e746974"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "uniteQuantite",
+        "description": ""
+      }
+    ],
+    "code": "uniteQuantite",
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "65f000000000000000000B09"
+      },
+      {
+        "$oid": "65f000000000000000000F07"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2026-05-07T22:05:57.342Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "73656374657572496e647573"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "secteurIndustrie",
+        "description": ""
+      }
+    ],
+    "code": "secteurIndustrie",
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "65f000000000000000000690"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2026-05-07T22:05:57.342Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6e6963686500000000000000"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "niche",
+        "description": ""
+      }
+    ],
+    "code": "niche",
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "65f000000000000000000691"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2026-05-07T22:05:57.342Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "7461696c6c65000000000000"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "taille",
+        "description": ""
+      }
+    ],
+    "code": "taille",
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "65f000000000000000000692"
+      },
+      {
+        "$oid": "f925768be9d4e9ab781e8bce"
+      },
+      {
+        "$oid": "65f000000000000000000694"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2026-05-07T22:05:57.342Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "646f6d61696e5461786f5072"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "domainTaxoProtagoniste",
+        "description": ""
+      }
+    ],
+    "code": "domainTaxoProtagoniste",
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "65f0000000000000000006B0"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2026-05-07T22:05:57.342Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "736f6e646167650000000000"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "sondage",
+        "description": ""
+      }
+    ],
+    "code": "sondage",
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "65f0000000000000000006C0"
+      },
+      {
+        "$oid": "65f0000000000000000006C1"
+      },
+      {
+        "$oid": "65f0000000000000000006C2"
+      },
+      {
+        "$oid": "65f0000000000000000006C3"
+      },
+      {
+        "$oid": "65f0000000000000000006C4"
+      },
+      {
+        "$oid": "65f0000000000000000006C5"
+      },
+      {
+        "$oid": "65f0000000000000000006C6"
+      },
+      {
+        "$oid": "65f0000000000000000006C7"
+      },
+      {
+        "$oid": "65f0000000000000000006C8"
+      },
+      {
+        "$oid": "65f0000000000000000006C9"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2026-05-07T22:05:57.342Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6d6f74696673000000000000"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "motifs",
+        "description": ""
+      }
+    ],
+    "code": "motifs",
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "65f000000000000000000650"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2026-05-07T22:05:57.342Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "70726f647569742d6173736f"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "type association",
+        "description": ""
+      }
+    ],
+    "code": "type association",
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "65f000000000000000000675"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2026-05-07T22:05:57.342Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "636c6173734173736f636965"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "classAssocieALaRegle",
+        "description": ""
+      }
+    ],
+    "code": "classAssocieALaRegle",
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "65f000000000000000000680"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2026-05-07T22:05:57.342Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "4d6f6e6e6169650000000000"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Monnaie",
+        "description": ""
+      }
+    ],
+    "code": "Monnaie",
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "685e4f8ae8abaf4deb5af005"
+      },
+      {
+        "$oid": "65f000000000000000000701"
+      },
+      {
+        "$oid": "65f000000000000000000702"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2026-05-07T22:01:21.386Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "636f756c6575720000000000"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "couleur saison",
+        "description": ""
+      }
+    ],
+    "code": "couleur",
+    "children": [],
+    "taxonomies": [],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2026-05-07T22:05:57.342Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "756e697441637175616e7469"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "unitequantite",
+        "description": ""
+      }
+    ],
+    "code": "unitequantite",
+    "children": [],
+    "taxonomies": [],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2026-05-07T22:05:57.342Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "72656c6174696f6e00000000"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "relation Inter acteur",
+        "description": ""
+      }
+    ],
+    "code": "relation",
+    "children": [],
+    "taxonomies": [],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2026-05-07T22:05:57.341Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "726567696f6e457461740000"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "regionEtat",
+        "description": ""
+      }
+    ],
+    "code": "regionEtat",
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "65f000000000000000000611"
+      },
+      {
+        "$oid": "65f000000000000000000660"
+      },
+      {
+        "$oid": "65f000000000000000000661"
+      },
+      {
+        "$oid": "65f000000000000000000662"
+      },
+      {
+        "$oid": "9effe8c8f46d5ab3d5cb43ad"
+      },
+      {
+        "$oid": "65f000000000000000000664"
+      },
+      {
+        "$oid": "65f000000000000000000665"
+      },
+      {
+        "$oid": "65f000000000000000000666"
+      },
+      {
+        "$oid": "65f000000000000000000667"
+      },
+      {
+        "$oid": "65f000000000000000000668"
+      },
+      {
+        "$oid": "65f000000000000000000669"
+      },
+      {
+        "$oid": "8068f77460f2ed35b5a6298d"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2026-05-07T22:05:57.342Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "70726f76696e636550726566"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "provincePrefecture",
+        "description": ""
+      }
+    ],
+    "code": "provincePrefecture",
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "65f000000000000000000612"
+      },
+      {
+        "$oid": "65f000000000000000000671"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2026-05-07T22:05:57.342Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "76696c6c6550726f76696e63"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "villeProvince",
+        "description": ""
+      }
+    ],
+    "code": "villeProvince",
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "532295ba1b890e7abd61185f"
+      },
+      {
+        "$oid": "65f000000000000000000672"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2026-05-07T22:05:57.342Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "756e6974c3a97175616e7469"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "unitéquantité",
+        "description": ""
+      }
+    ],
+    "code": "unitéquantité",
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "65f000000000000000000F06"
+      },
+      {
+        "$oid": "65f000000000000000000F09"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2026-05-08T09:03:36.524Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000000001"
+    },
+    "code": "entrepot",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Entrepôt",
+        "description": "Équipements et solutions pour la gestion et l'organisation des entrepôts industriels."
+      },
+      {
+        "language": "en",
+        "designation": "Warehouse",
+        "description": "Category Warehouse — professional equipment and accessories."
+      },
+      {
+        "language": "ar",
+        "designation": "المستودع",
+        "description": "فئة المستودع — معدات وملحقات مهنية."
+      },
+      {
+        "language": "es",
+        "designation": "Almacén",
+        "description": "Categoría Almacén — equipos y accesorios profesionales."
+      }
+    ],
+    "logo": "images/domaines/entrepot.png",
+    "parent": {
+      "$oid": "65f000000000000000001000"
+    },
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "65f000000000000000000007"
+      },
+      {
+        "$oid": "65f000000000000000000008"
+      },
+      {
+        "$oid": "65f000000000000000000009"
+      },
+      {
+        "$oid": "65f000000000000000000010"
+      },
+      {
+        "$oid": "65f000000000000000000011"
+      },
+      {
+        "$oid": "65f000000000000000000012"
+      },
+      {
+        "$oid": "65f000000000000000000013"
+      },
+      {
+        "$oid": "65f000000000000000000014"
+      },
+      {
+        "$oid": "65f000000000000000000015"
+      },
+      {
+        "$oid": "65f000000000000000000016"
+      },
+      {
+        "$oid": "65f000000000000000000017"
+      },
+      {
+        "$oid": "65f000000000000000000018"
+      },
+      {
+        "$oid": "65f000000000000000000019"
+      },
+      {
+        "$oid": "65f000000000000000000020"
+      },
+      {
+        "$oid": "65f000000000000000000021"
+      },
+      {
+        "$oid": "65f000000000000000000022"
+      },
+      {
+        "$oid": "65f000000000000000000023"
+      },
+      {
+        "$oid": "65f000000000000000000024"
+      },
+      {
+        "$oid": "65f000000000000000000025"
+      },
+      {
+        "$oid": "65f000000000000000000026"
+      },
+      {
+        "$oid": "65f000000000000000000027"
+      },
+      {
+        "$oid": "65f000000000000000000028"
+      },
+      {
+        "$oid": "65f000000000000000000029"
+      },
+      {
+        "$oid": "65f000000000000000000030"
+      },
+      {
+        "$oid": "65f000000000000000000031"
+      },
+      {
+        "$oid": "65f000000000000000000032"
+      },
+      {
+        "$oid": "65f000000000000000000033"
+      },
+      {
+        "$oid": "65f000000000000000000034"
+      },
+      {
+        "$oid": "65f000000000000000000035"
+      },
+      {
+        "$oid": "65f000000000000000000036"
+      },
+      {
+        "$oid": "65f000000000000000000037"
+      },
+      {
+        "$oid": "65f000000000000000000038"
+      },
+      {
+        "$oid": "65f000000000000000000039"
+      },
+      {
+        "$oid": "65f000000000000000000040"
+      },
+      {
+        "$oid": "65f000000000000000000041"
+      },
+      {
+        "$oid": "65f000000000000000000042"
+      },
+      {
+        "$oid": "65f000000000000000000043"
+      },
+      {
+        "$oid": "65f000000000000000000044"
+      },
+      {
+        "$oid": "65f000000000000000000045"
+      },
+      {
+        "$oid": "65f000000000000000000046"
+      },
+      {
+        "$oid": "65f000000000000000000047"
+      },
+      {
+        "$oid": "65f000000000000000000048"
+      },
+      {
+        "$oid": "65f000000000000000000049"
+      },
+      {
+        "$oid": "65f000000000000000000050"
+      },
+      {
+        "$oid": "65f000000000000000000051"
+      },
+      {
+        "$oid": "65f000000000000000000052"
+      },
+      {
+        "$oid": "65f000000000000000000053"
+      },
+      {
+        "$oid": "65f000000000000000000054"
+      },
+      {
+        "$oid": "65f000000000000000000055"
+      },
+      {
+        "$oid": "65f000000000000000000056"
+      },
+      {
+        "$oid": "65f000000000000000000057"
+      },
+      {
+        "$oid": "65f000000000000000000058"
+      },
+      {
+        "$oid": "65f000000000000000000059"
+      },
+      {
+        "$oid": "65f000000000000000000060"
+      },
+      {
+        "$oid": "65f000000000000000000061"
+      },
+      {
+        "$oid": "65f000000000000000000062"
+      },
+      {
+        "$oid": "65f000000000000000000063"
+      },
+      {
+        "$oid": "65f000000000000000000064"
+      },
+      {
+        "$oid": "65f000000000000000000065"
+      },
+      {
+        "$oid": "65f000000000000000000066"
+      },
+      {
+        "$oid": "65f000000000000000000067"
+      },
+      {
+        "$oid": "65f000000000000000000068"
+      },
+      {
+        "$oid": "65f000000000000000000069"
+      },
+      {
+        "$oid": "65f000000000000000000070"
+      },
+      {
+        "$oid": "65f000000000000000000071"
+      },
+      {
+        "$oid": "65f000000000000000000072"
+      },
+      {
+        "$oid": "65f000000000000000000073"
+      },
+      {
+        "$oid": "65f000000000000000000074"
+      },
+      {
+        "$oid": "65f000000000000000000075"
+      },
+      {
+        "$oid": "65f000000000000000000076"
+      },
+      {
+        "$oid": "65f000000000000000000077"
+      },
+      {
+        "$oid": "65f000000000000000000078"
+      },
+      {
+        "$oid": "65f000000000000000000079"
+      },
+      {
+        "$oid": "65f000000000000000000080"
+      },
+      {
+        "$oid": "65f000000000000000000081"
+      },
+      {
+        "$oid": "65f000000000000000000082"
+      },
+      {
+        "$oid": "65f000000000000000000083"
+      },
+      {
+        "$oid": "65f000000000000000000084"
+      },
+      {
+        "$oid": "65f000000000000000000085"
+      },
+      {
+        "$oid": "65f000000000000000000086"
+      },
+      {
+        "$oid": "65f000000000000000000087"
+      },
+      {
+        "$oid": "65f000000000000000000088"
+      },
+      {
+        "$oid": "65f000000000000000000089"
+      },
+      {
+        "$oid": "65f000000000000000000090"
+      },
+      {
+        "$oid": "65f000000000000000000091"
+      },
+      {
+        "$oid": "65f000000000000000000092"
+      },
+      {
+        "$oid": "65f000000000000000000093"
+      },
+      {
+        "$oid": "65f000000000000000000094"
+      },
+      {
+        "$oid": "65f000000000000000000095"
+      },
+      {
+        "$oid": "65f000000000000000000096"
+      },
+      {
+        "$oid": "65f000000000000000000097"
+      },
+      {
+        "$oid": "65f000000000000000000098"
+      },
+      {
+        "$oid": "65f000000000000000000099"
+      },
+      {
+        "$oid": "65f000000000000000000100"
+      },
+      {
+        "$oid": "65f000000000000000000101"
+      },
+      {
+        "$oid": "65f000000000000000000102"
+      },
+      {
+        "$oid": "65f000000000000000000103"
+      },
+      {
+        "$oid": "65f000000000000000000104"
+      },
+      {
+        "$oid": "65f000000000000000000105"
+      },
+      {
+        "$oid": "65f000000000000000000106"
+      },
+      {
+        "$oid": "65f000000000000000000107"
+      },
+      {
+        "$oid": "65f000000000000000000108"
+      },
+      {
+        "$oid": "65f000000000000000000109"
+      },
+      {
+        "$oid": "65f000000000000000000110"
+      },
+      {
+        "$oid": "65f000000000000000000111"
+      },
+      {
+        "$oid": "65f000000000000000000112"
+      },
+      {
+        "$oid": "65f000000000000000000113"
+      },
+      {
+        "$oid": "65f000000000000000000114"
+      },
+      {
+        "$oid": "65f000000000000000000115"
+      },
+      {
+        "$oid": "65f000000000000000000116"
+      },
+      {
+        "$oid": "65f000000000000000000117"
+      },
+      {
+        "$oid": "65f000000000000000000118"
+      },
+      {
+        "$oid": "65f000000000000000000119"
+      },
+      {
+        "$oid": "65f000000000000000000120"
+      },
+      {
+        "$oid": "65f000000000000000000121"
+      },
+      {
+        "$oid": "65f000000000000000000122"
+      },
+      {
+        "$oid": "65f000000000000000000123"
+      },
+      {
+        "$oid": "65f000000000000000000124"
+      },
+      {
+        "$oid": "65f000000000000000000125"
+      },
+      {
+        "$oid": "65f000000000000000000126"
+      },
+      {
+        "$oid": "65f000000000000000000127"
+      },
+      {
+        "$oid": "65f000000000000000000128"
+      },
+      {
+        "$oid": "65f000000000000000000129"
+      },
+      {
+        "$oid": "65f000000000000000000130"
+      },
+      {
+        "$oid": "65f000000000000000000131"
+      },
+      {
+        "$oid": "65f000000000000000000132"
+      },
+      {
+        "$oid": "65f000000000000000000133"
+      },
+      {
+        "$oid": "65f000000000000000000134"
+      },
+      {
+        "$oid": "65f000000000000000000135"
+      },
+      {
+        "$oid": "65f000000000000000000136"
+      },
+      {
+        "$oid": "65f000000000000000000137"
+      },
+      {
+        "$oid": "65f000000000000000000138"
+      },
+      {
+        "$oid": "65f000000000000000000139"
+      },
+      {
+        "$oid": "65f000000000000000000140"
+      },
+      {
+        "$oid": "65f000000000000000000141"
+      },
+      {
+        "$oid": "65f000000000000000000142"
+      },
+      {
+        "$oid": "65f000000000000000000143"
+      },
+      {
+        "$oid": "65f000000000000000000144"
+      },
+      {
+        "$oid": "65f000000000000000000145"
+      },
+      {
+        "$oid": "65f000000000000000000146"
+      },
+      {
+        "$oid": "65f000000000000000000147"
+      },
+      {
+        "$oid": "65f000000000000000000148"
+      },
+      {
+        "$oid": "65f000000000000000000149"
+      },
+      {
+        "$oid": "65f000000000000000000150"
+      },
+      {
+        "$oid": "65f000000000000000000151"
+      },
+      {
+        "$oid": "65f000000000000000000152"
+      },
+      {
+        "$oid": "65f000000000000000000153"
+      },
+      {
+        "$oid": "65f000000000000000000154"
+      },
+      {
+        "$oid": "65f000000000000000000155"
+      },
+      {
+        "$oid": "65f000000000000000000156"
+      },
+      {
+        "$oid": "65f000000000000000000157"
+      },
+      {
+        "$oid": "65f000000000000000000158"
+      },
+      {
+        "$oid": "65f000000000000000000159"
+      },
+      {
+        "$oid": "65f000000000000000000160"
+      },
+      {
+        "$oid": "65f000000000000000000161"
+      },
+      {
+        "$oid": "65f000000000000000000162"
+      },
+      {
+        "$oid": "65f000000000000000000163"
+      },
+      {
+        "$oid": "65f000000000000000000164"
+      },
+      {
+        "$oid": "65f000000000000000000165"
+      },
+      {
+        "$oid": "65f000000000000000000166"
+      },
+      {
+        "$oid": "65f000000000000000000167"
+      },
+      {
+        "$oid": "65f000000000000000000168"
+      },
+      {
+        "$oid": "65f000000000000000000169"
+      },
+      {
+        "$oid": "65f000000000000000000170"
+      },
+      {
+        "$oid": "65f000000000000000000171"
+      },
+      {
+        "$oid": "65f000000000000000000172"
+      },
+      {
+        "$oid": "65f000000000000000000173"
+      },
+      {
+        "$oid": "65f000000000000000000174"
+      },
+      {
+        "$oid": "65f000000000000000000175"
+      },
+      {
+        "$oid": "65f000000000000000000176"
+      },
+      {
+        "$oid": "65f000000000000000000177"
+      },
+      {
+        "$oid": "65f000000000000000000178"
+      },
+      {
+        "$oid": "65f000000000000000000179"
+      },
+      {
+        "$oid": "65f000000000000000000180"
+      },
+      {
+        "$oid": "65f000000000000000000181"
+      },
+      {
+        "$oid": "65f000000000000000000182"
+      },
+      {
+        "$oid": "65f000000000000000000183"
+      },
+      {
+        "$oid": "65f000000000000000000184"
+      },
+      {
+        "$oid": "65f000000000000000000185"
+      },
+      {
+        "$oid": "65f000000000000000000186"
+      },
+      {
+        "$oid": "65f000000000000000000187"
+      },
+      {
+        "$oid": "65f000000000000000000188"
+      },
+      {
+        "$oid": "65f000000000000000000189"
+      },
+      {
+        "$oid": "65f000000000000000000190"
+      },
+      {
+        "$oid": "65f000000000000000000191"
+      },
+      {
+        "$oid": "65f000000000000000000192"
+      },
+      {
+        "$oid": "65f000000000000000000193"
+      },
+      {
+        "$oid": "65f000000000000000000194"
+      },
+      {
+        "$oid": "65f000000000000000000195"
+      },
+      {
+        "$oid": "65f000000000000000000196"
+      },
+      {
+        "$oid": "65f000000000000000000197"
+      },
+      {
+        "$oid": "65f000000000000000000198"
+      },
+      {
+        "$oid": "65f000000000000000000199"
+      },
+      {
+        "$oid": "65f000000000000000000200"
+      },
+      {
+        "$oid": "65f000000000000000000201"
+      },
+      {
+        "$oid": "65f000000000000000000202"
+      },
+      {
+        "$oid": "65f000000000000000000203"
+      },
+      {
+        "$oid": "65f000000000000000000204"
+      },
+      {
+        "$oid": "65f000000000000000000205"
+      },
+      {
+        "$oid": "65f000000000000000000206"
+      },
+      {
+        "$oid": "65f000000000000000000207"
+      },
+      {
+        "$oid": "65f000000000000000000208"
+      },
+      {
+        "$oid": "65f000000000000000000209"
+      },
+      {
+        "$oid": "65f000000000000000000210"
+      },
+      {
+        "$oid": "65f000000000000000000211"
+      },
+      {
+        "$oid": "65f000000000000000000212"
+      },
+      {
+        "$oid": "65f000000000000000000213"
+      },
+      {
+        "$oid": "65f000000000000000000214"
+      },
+      {
+        "$oid": "65f000000000000000000215"
+      },
+      {
+        "$oid": "65f000000000000000000216"
+      },
+      {
+        "$oid": "65f000000000000000000217"
+      },
+      {
+        "$oid": "65f000000000000000000218"
+      },
+      {
+        "$oid": "65f000000000000000000219"
+      },
+      {
+        "$oid": "65f000000000000000000220"
+      },
+      {
+        "$oid": "65f000000000000000000221"
+      },
+      {
+        "$oid": "65f000000000000000000222"
+      },
+      {
+        "$oid": "65f000000000000000000223"
+      },
+      {
+        "$oid": "65f000000000000000000224"
+      },
+      {
+        "$oid": "65f000000000000000000225"
+      },
+      {
+        "$oid": "65f000000000000000000226"
+      },
+      {
+        "$oid": "65f000000000000000000227"
+      },
+      {
+        "$oid": "65f000000000000000000228"
+      },
+      {
+        "$oid": "65f000000000000000000229"
+      },
+      {
+        "$oid": "65f000000000000000000230"
+      },
+      {
+        "$oid": "65f000000000000000000231"
+      },
+      {
+        "$oid": "65f000000000000000000232"
+      },
+      {
+        "$oid": "65f000000000000000000233"
+      },
+      {
+        "$oid": "65f000000000000000000234"
+      },
+      {
+        "$oid": "65f000000000000000000235"
+      },
+      {
+        "$oid": "65f000000000000000000236"
+      },
+      {
+        "$oid": "65f000000000000000000237"
+      },
+      {
+        "$oid": "65f000000000000000000238"
+      },
+      {
+        "$oid": "65f000000000000000000239"
+      },
+      {
+        "$oid": "65f000000000000000000240"
+      },
+      {
+        "$oid": "65f000000000000000000241"
+      },
+      {
+        "$oid": "65f000000000000000000242"
+      },
+      {
+        "$oid": "65f000000000000000000243"
+      },
+      {
+        "$oid": "65f000000000000000000244"
+      },
+      {
+        "$oid": "65f000000000000000000245"
+      },
+      {
+        "$oid": "65f000000000000000000246"
+      },
+      {
+        "$oid": "65f000000000000000000247"
+      },
+      {
+        "$oid": "65f000000000000000000248"
+      },
+      {
+        "$oid": "65f000000000000000000249"
+      },
+      {
+        "$oid": "65f000000000000000000250"
+      },
+      {
+        "$oid": "65f000000000000000000251"
+      },
+      {
+        "$oid": "65f000000000000000000252"
+      },
+      {
+        "$oid": "65f000000000000000000253"
+      },
+      {
+        "$oid": "65f000000000000000000255"
+      },
+      {
+        "$oid": "65f000000000000000000256"
+      },
+      {
+        "$oid": "65f000000000000000000257"
+      },
+      {
+        "$oid": "65f000000000000000000258"
+      },
+      {
+        "$oid": "65f000000000000000000259"
+      },
+      {
+        "$oid": "65f000000000000000000260"
+      },
+      {
+        "$oid": "65f000000000000000000261"
+      },
+      {
+        "$oid": "65f000000000000000000262"
+      },
+      {
+        "$oid": "65f000000000000000000263"
+      },
+      {
+        "$oid": "65f000000000000000000264"
+      },
+      {
+        "$oid": "65f000000000000000000265"
+      },
+      {
+        "$oid": "65f000000000000000000266"
+      },
+      {
+        "$oid": "65f000000000000000000267"
+      },
+      {
+        "$oid": "65f000000000000000000268"
+      },
+      {
+        "$oid": "65f000000000000000000269"
+      },
+      {
+        "$oid": "65f000000000000000000270"
+      },
+      {
+        "$oid": "65f000000000000000000271"
+      },
+      {
+        "$oid": "65f000000000000000000272"
+      },
+      {
+        "$oid": "65f000000000000000000273"
+      },
+      {
+        "$oid": "65f000000000000000000274"
+      },
+      {
+        "$oid": "65f000000000000000000275"
+      },
+      {
+        "$oid": "65f000000000000000000276"
+      },
+      {
+        "$oid": "65f000000000000000000277"
+      },
+      {
+        "$oid": "65f000000000000000000278"
+      },
+      {
+        "$oid": "65f000000000000000000279"
+      },
+      {
+        "$oid": "65f000000000000000000280"
+      },
+      {
+        "$oid": "65f000000000000000000281"
+      },
+      {
+        "$oid": "65f000000000000000000282"
+      },
+      {
+        "$oid": "65f000000000000000000283"
+      },
+      {
+        "$oid": "65f000000000000000000284"
+      },
+      {
+        "$oid": "65f000000000000000000285"
+      },
+      {
+        "$oid": "65f000000000000000000286"
+      },
+      {
+        "$oid": "65f000000000000000000287"
+      },
+      {
+        "$oid": "65f000000000000000000288"
+      },
+      {
+        "$oid": "65f000000000000000000289"
+      },
+      {
+        "$oid": "65f000000000000000000290"
+      },
+      {
+        "$oid": "65f000000000000000000291"
+      },
+      {
+        "$oid": "65f000000000000000000292"
+      },
+      {
+        "$oid": "65f000000000000000000293"
+      },
+      {
+        "$oid": "65f000000000000000000294"
+      },
+      {
+        "$oid": "65f000000000000000000295"
+      },
+      {
+        "$oid": "65f000000000000000000296"
+      },
+      {
+        "$oid": "65f000000000000000000297"
+      },
+      {
+        "$oid": "65f000000000000000000298"
+      },
+      {
+        "$oid": "65f000000000000000000299"
+      },
+      {
+        "$oid": "65f000000000000000000300"
+      },
+      {
+        "$oid": "65f000000000000000000301"
+      },
+      {
+        "$oid": "65f000000000000000000302"
+      },
+      {
+        "$oid": "65f000000000000000000303"
+      },
+      {
+        "$oid": "65f000000000000000000304"
+      },
+      {
+        "$oid": "65f000000000000000000305"
+      },
+      {
+        "$oid": "65f000000000000000000306"
+      },
+      {
+        "$oid": "65f000000000000000000307"
+      },
+      {
+        "$oid": "65f000000000000000000308"
+      },
+      {
+        "$oid": "65f000000000000000000309"
+      },
+      {
+        "$oid": "65f000000000000000000310"
+      },
+      {
+        "$oid": "65f000000000000000000311"
+      },
+      {
+        "$oid": "65f000000000000000000312"
+      },
+      {
+        "$oid": "65f000000000000000000313"
+      },
+      {
+        "$oid": "65f000000000000000000314"
+      },
+      {
+        "$oid": "65f000000000000000000315"
+      },
+      {
+        "$oid": "65f000000000000000000316"
+      },
+      {
+        "$oid": "65f000000000000000000317"
+      },
+      {
+        "$oid": "65f000000000000000000318"
+      },
+      {
+        "$oid": "65f000000000000000000319"
+      },
+      {
+        "$oid": "65f000000000000000000320"
+      },
+      {
+        "$oid": "65f000000000000000000321"
+      },
+      {
+        "$oid": "65f000000000000000000322"
+      },
+      {
+        "$oid": "65f000000000000000000323"
+      },
+      {
+        "$oid": "65f000000000000000000324"
+      },
+      {
+        "$oid": "65f000000000000000000325"
+      },
+      {
+        "$oid": "65f000000000000000000326"
+      },
+      {
+        "$oid": "65f000000000000000000327"
+      },
+      {
+        "$oid": "65f000000000000000000328"
+      },
+      {
+        "$oid": "65f000000000000000000329"
+      },
+      {
+        "$oid": "65f000000000000000000330"
+      },
+      {
+        "$oid": "65f000000000000000000331"
+      },
+      {
+        "$oid": "65f000000000000000000332"
+      },
+      {
+        "$oid": "65f000000000000000000333"
+      },
+      {
+        "$oid": "65f000000000000000000334"
+      },
+      {
+        "$oid": "65f000000000000000000335"
+      },
+      {
+        "$oid": "65f000000000000000000336"
+      },
+      {
+        "$oid": "65f000000000000000000337"
+      },
+      {
+        "$oid": "65f000000000000000000338"
+      },
+      {
+        "$oid": "65f000000000000000000339"
+      },
+      {
+        "$oid": "65f000000000000000000340"
+      },
+      {
+        "$oid": "65f000000000000000000341"
+      },
+      {
+        "$oid": "65f000000000000000000342"
+      },
+      {
+        "$oid": "65f000000000000000000343"
+      },
+      {
+        "$oid": "65f000000000000000000344"
+      },
+      {
+        "$oid": "65f000000000000000000345"
+      },
+      {
+        "$oid": "65f000000000000000000346"
+      },
+      {
+        "$oid": "65f000000000000000000347"
+      },
+      {
+        "$oid": "65f000000000000000000348"
+      },
+      {
+        "$oid": "65f000000000000000000349"
+      },
+      {
+        "$oid": "65f000000000000000000350"
+      },
+      {
+        "$oid": "65f000000000000000000351"
+      },
+      {
+        "$oid": "65f000000000000000000352"
+      },
+      {
+        "$oid": "65f000000000000000000353"
+      },
+      {
+        "$oid": "65f000000000000000000354"
+      },
+      {
+        "$oid": "65f000000000000000000355"
+      },
+      {
+        "$oid": "65f000000000000000000356"
+      },
+      {
+        "$oid": "65f000000000000000000357"
+      },
+      {
+        "$oid": "65f000000000000000000358"
+      },
+      {
+        "$oid": "65f000000000000000000359"
+      },
+      {
+        "$oid": "65f000000000000000000360"
+      },
+      {
+        "$oid": "65f000000000000000000361"
+      },
+      {
+        "$oid": "65f000000000000000000362"
+      },
+      {
+        "$oid": "65f000000000000000000363"
+      },
+      {
+        "$oid": "65f000000000000000000364"
+      },
+      {
+        "$oid": "65f000000000000000000365"
+      },
+      {
+        "$oid": "65f000000000000000000366"
+      },
+      {
+        "$oid": "65f000000000000000000367"
+      },
+      {
+        "$oid": "65f000000000000000000368"
+      },
+      {
+        "$oid": "65f000000000000000000369"
+      },
+      {
+        "$oid": "65f000000000000000000370"
+      },
+      {
+        "$oid": "65f000000000000000000371"
+      },
+      {
+        "$oid": "65f000000000000000000372"
+      },
+      {
+        "$oid": "65f000000000000000000373"
+      },
+      {
+        "$oid": "65f000000000000000000374"
+      },
+      {
+        "$oid": "65f000000000000000000375"
+      },
+      {
+        "$oid": "65f000000000000000000376"
+      },
+      {
+        "$oid": "65f000000000000000000377"
+      },
+      {
+        "$oid": "65f000000000000000000378"
+      },
+      {
+        "$oid": "65f000000000000000000379"
+      },
+      {
+        "$oid": "65f000000000000000000380"
+      },
+      {
+        "$oid": "65f000000000000000000381"
+      },
+      {
+        "$oid": "65f000000000000000000F01"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "code_3417",
+    "createdAt": {
+      "$date": "2024-03-15T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-15T08:00:00.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000000002"
+    },
+    "code": "emballage et bac",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Emballage et bac",
+        "description": "Produits d'emballage, bacs et contenants pour le conditionnement industriel."
+      },
+      {
+        "language": "en",
+        "designation": "Packaging and Bins",
+        "description": "Category Packaging and Bins — professional equipment and accessories."
+      },
+      {
+        "language": "ar",
+        "designation": "التغليف والصناديق",
+        "description": "فئة التغليف والصناديق — معدات وملحقات مهنية."
+      },
+      {
+        "language": "es",
+        "designation": "Embalaje y cubeta",
+        "description": "Categoría Embalaje y cubeta — equipos y accesorios profesionales."
+      }
+    ],
+    "logo": "images/domaines/emballage-bac.png",
+    "parent": {
+      "$oid": "65f000000000000000001000"
+    },
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "65f000000000000000000382"
+      },
+      {
+        "$oid": "65f000000000000000000383"
+      },
+      {
+        "$oid": "65f000000000000000000384"
+      },
+      {
+        "$oid": "65f000000000000000000385"
+      },
+      {
+        "$oid": "65f000000000000000000386"
+      },
+      {
+        "$oid": "65f000000000000000000387"
+      },
+      {
+        "$oid": "65f000000000000000000388"
+      },
+      {
+        "$oid": "65f000000000000000000389"
+      },
+      {
+        "$oid": "65f000000000000000000390"
+      },
+      {
+        "$oid": "65f000000000000000000391"
+      },
+      {
+        "$oid": "65f000000000000000000392"
+      },
+      {
+        "$oid": "65f000000000000000000393"
+      },
+      {
+        "$oid": "65f000000000000000000394"
+      },
+      {
+        "$oid": "65f000000000000000000395"
+      },
+      {
+        "$oid": "65f000000000000000000396"
+      },
+      {
+        "$oid": "65f000000000000000000397"
+      },
+      {
+        "$oid": "65f000000000000000000398"
+      },
+      {
+        "$oid": "65f000000000000000000399"
+      },
+      {
+        "$oid": "65f000000000000000000400"
+      },
+      {
+        "$oid": "65f000000000000000000401"
+      },
+      {
+        "$oid": "65f000000000000000000402"
+      },
+      {
+        "$oid": "65f000000000000000000403"
+      },
+      {
+        "$oid": "65f000000000000000000404"
+      },
+      {
+        "$oid": "65f000000000000000000405"
+      },
+      {
+        "$oid": "65f000000000000000000406"
+      },
+      {
+        "$oid": "65f000000000000000000407"
+      },
+      {
+        "$oid": "65f000000000000000000408"
+      },
+      {
+        "$oid": "65f000000000000000000409"
+      },
+      {
+        "$oid": "65f000000000000000000410"
+      },
+      {
+        "$oid": "65f000000000000000000411"
+      },
+      {
+        "$oid": "65f000000000000000000412"
+      },
+      {
+        "$oid": "65f000000000000000000413"
+      },
+      {
+        "$oid": "65f000000000000000000414"
+      },
+      {
+        "$oid": "65f000000000000000000415"
+      },
+      {
+        "$oid": "65f000000000000000000416"
+      },
+      {
+        "$oid": "65f000000000000000000417"
+      },
+      {
+        "$oid": "65f000000000000000000418"
+      },
+      {
+        "$oid": "65f000000000000000000419"
+      },
+      {
+        "$oid": "65f000000000000000000420"
+      },
+      {
+        "$oid": "65f000000000000000000421"
+      },
+      {
+        "$oid": "65f000000000000000000422"
+      },
+      {
+        "$oid": "65f000000000000000000423"
+      },
+      {
+        "$oid": "65f000000000000000000424"
+      },
+      {
+        "$oid": "65f000000000000000000425"
+      },
+      {
+        "$oid": "65f000000000000000000426"
+      },
+      {
+        "$oid": "65f000000000000000000427"
+      },
+      {
+        "$oid": "65f000000000000000000428"
+      },
+      {
+        "$oid": "65f000000000000000000429"
+      },
+      {
+        "$oid": "65f000000000000000000430"
+      },
+      {
+        "$oid": "65f000000000000000000431"
+      },
+      {
+        "$oid": "65f000000000000000000432"
+      },
+      {
+        "$oid": "65f000000000000000000433"
+      },
+      {
+        "$oid": "65f000000000000000000434"
+      },
+      {
+        "$oid": "65f000000000000000000435"
+      },
+      {
+        "$oid": "65f000000000000000000436"
+      },
+      {
+        "$oid": "65f000000000000000000437"
+      },
+      {
+        "$oid": "65f000000000000000000438"
+      },
+      {
+        "$oid": "65f000000000000000000439"
+      },
+      {
+        "$oid": "65f000000000000000000440"
+      },
+      {
+        "$oid": "65f000000000000000000441"
+      },
+      {
+        "$oid": "65f000000000000000000442"
+      },
+      {
+        "$oid": "65f000000000000000000443"
+      },
+      {
+        "$oid": "65f000000000000000000444"
+      },
+      {
+        "$oid": "65f000000000000000000445"
+      },
+      {
+        "$oid": "65f000000000000000000446"
+      },
+      {
+        "$oid": "65f000000000000000000447"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "code_3417",
+    "createdAt": {
+      "$date": "2024-03-15T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-15T08:00:00.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000000003"
+    },
+    "code": "securite et sante",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Sécurité et santé",
+        "description": "Équipements de protection individuelle et collective pour la sécurité au travail."
+      },
+      {
+        "language": "en",
+        "designation": "Safety and Health",
+        "description": "Category Safety and Health — professional equipment and accessories."
+      },
+      {
+        "language": "ar",
+        "designation": "السلامة والصحة",
+        "description": "فئة السلامة والصحة — معدات وملحقات مهنية."
+      },
+      {
+        "language": "es",
+        "designation": "Seguridad y salud",
+        "description": "Categoría Seguridad y salud — equipos y accesorios profesionales."
+      }
+    ],
+    "logo": "images/domaines/securite-sante.png",
+    "parent": {
+      "$oid": "65f000000000000000001000"
+    },
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "65f000000000000000000448"
+      },
+      {
+        "$oid": "65f000000000000000000449"
+      },
+      {
+        "$oid": "65f000000000000000000450"
+      },
+      {
+        "$oid": "65f000000000000000000451"
+      },
+      {
+        "$oid": "65f000000000000000000452"
+      },
+      {
+        "$oid": "65f000000000000000000453"
+      },
+      {
+        "$oid": "65f000000000000000000454"
+      },
+      {
+        "$oid": "65f000000000000000000455"
+      },
+      {
+        "$oid": "65f000000000000000000456"
+      },
+      {
+        "$oid": "65f000000000000000000457"
+      },
+      {
+        "$oid": "65f000000000000000000458"
+      },
+      {
+        "$oid": "65f000000000000000000459"
+      },
+      {
+        "$oid": "65f000000000000000000460"
+      },
+      {
+        "$oid": "65f000000000000000000461"
+      },
+      {
+        "$oid": "65f000000000000000000462"
+      },
+      {
+        "$oid": "65f000000000000000000463"
+      },
+      {
+        "$oid": "65f000000000000000000464"
+      },
+      {
+        "$oid": "65f000000000000000000465"
+      },
+      {
+        "$oid": "65f000000000000000000466"
+      },
+      {
+        "$oid": "65f000000000000000000467"
+      },
+      {
+        "$oid": "65f000000000000000000468"
+      },
+      {
+        "$oid": "65f000000000000000000469"
+      },
+      {
+        "$oid": "65f000000000000000000470"
+      },
+      {
+        "$oid": "65f000000000000000000471"
+      },
+      {
+        "$oid": "65f000000000000000000472"
+      },
+      {
+        "$oid": "65f000000000000000000473"
+      },
+      {
+        "$oid": "65f000000000000000000474"
+      },
+      {
+        "$oid": "65f000000000000000000475"
+      },
+      {
+        "$oid": "65f000000000000000000476"
+      },
+      {
+        "$oid": "65f000000000000000000477"
+      },
+      {
+        "$oid": "65f000000000000000000478"
+      },
+      {
+        "$oid": "65f000000000000000000479"
+      },
+      {
+        "$oid": "65f000000000000000000480"
+      },
+      {
+        "$oid": "65f000000000000000000481"
+      },
+      {
+        "$oid": "65f000000000000000000482"
+      },
+      {
+        "$oid": "65f000000000000000000483"
+      },
+      {
+        "$oid": "65f000000000000000000484"
+      },
+      {
+        "$oid": "65f000000000000000000485"
+      },
+      {
+        "$oid": "65f000000000000000000486"
+      },
+      {
+        "$oid": "65f000000000000000000488"
+      },
+      {
+        "$oid": "65f000000000000000000489"
+      },
+      {
+        "$oid": "65f000000000000000000490"
+      },
+      {
+        "$oid": "65f000000000000000000491"
+      },
+      {
+        "$oid": "65f000000000000000000492"
+      },
+      {
+        "$oid": "65f000000000000000000493"
+      },
+      {
+        "$oid": "65f000000000000000000494"
+      },
+      {
+        "$oid": "65f000000000000000000495"
+      },
+      {
+        "$oid": "65f000000000000000000496"
+      },
+      {
+        "$oid": "65f000000000000000000497"
+      },
+      {
+        "$oid": "65f000000000000000000498"
+      },
+      {
+        "$oid": "65f000000000000000000499"
+      },
+      {
+        "$oid": "65f000000000000000000500"
+      },
+      {
+        "$oid": "65f000000000000000000501"
+      },
+      {
+        "$oid": "65f000000000000000000502"
+      },
+      {
+        "$oid": "65f000000000000000000503"
+      },
+      {
+        "$oid": "65f000000000000000000504"
+      },
+      {
+        "$oid": "65f000000000000000000505"
+      },
+      {
+        "$oid": "65f000000000000000000506"
+      },
+      {
+        "$oid": "65f000000000000000000507"
+      },
+      {
+        "$oid": "65f000000000000000000508"
+      },
+      {
+        "$oid": "65f000000000000000000509"
+      },
+      {
+        "$oid": "65f000000000000000000510"
+      },
+      {
+        "$oid": "65f000000000000000000511"
+      },
+      {
+        "$oid": "65f000000000000000000512"
+      },
+      {
+        "$oid": "65f000000000000000000513"
+      },
+      {
+        "$oid": "65f000000000000000000514"
+      },
+      {
+        "$oid": "65f000000000000000000515"
+      },
+      {
+        "$oid": "65f000000000000000000516"
+      },
+      {
+        "$oid": "65f000000000000000000517"
+      },
+      {
+        "$oid": "65f000000000000000000518"
+      },
+      {
+        "$oid": "65f000000000000000000519"
+      },
+      {
+        "$oid": "65f000000000000000000520"
+      },
+      {
+        "$oid": "65f000000000000000000521"
+      },
+      {
+        "$oid": "65f000000000000000000522"
+      },
+      {
+        "$oid": "65f000000000000000000523"
+      },
+      {
+        "$oid": "65f000000000000000000524"
+      },
+      {
+        "$oid": "65f000000000000000000525"
+      },
+      {
+        "$oid": "65f000000000000000000526"
+      },
+      {
+        "$oid": "65f000000000000000000527"
+      },
+      {
+        "$oid": "65f000000000000000000528"
+      },
+      {
+        "$oid": "65f000000000000000000529"
+      },
+      {
+        "$oid": "65f000000000000000000530"
+      },
+      {
+        "$oid": "65f000000000000000000531"
+      },
+      {
+        "$oid": "65f000000000000000000532"
+      },
+      {
+        "$oid": "65f000000000000000000533"
+      },
+      {
+        "$oid": "65f000000000000000000534"
+      },
+      {
+        "$oid": "65f000000000000000000535"
+      },
+      {
+        "$oid": "65f000000000000000000536"
+      },
+      {
+        "$oid": "65f000000000000000000537"
+      },
+      {
+        "$oid": "65f000000000000000000538"
+      },
+      {
+        "$oid": "65f000000000000000000539"
+      },
+      {
+        "$oid": "65f000000000000000000540"
+      },
+      {
+        "$oid": "65f000000000000000000541"
+      },
+      {
+        "$oid": "65f000000000000000000F05"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "code_3417",
+    "createdAt": {
+      "$date": "2024-03-15T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-15T08:00:00.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000000004"
+    },
+    "code": "fournitures industrielles et outillage",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Fournitures industrielles et outillage",
+        "description": "Fournitures industrielles, outillage et accessoires pour les professionnels."
+      },
+      {
+        "language": "en",
+        "designation": "Industrial Supplies and Tools",
+        "description": "Category Industrial Supplies and Tools — professional equipment and accessories."
+      },
+      {
+        "language": "ar",
+        "designation": "اللوازم الصناعية والأدوات",
+        "description": "فئة اللوازم الصناعية والأدوات — معدات وملحقات مهنية."
+      },
+      {
+        "language": "es",
+        "designation": "Suministros industriales y herramientas",
+        "description": "Categoría Suministros industriales y herramientas — equipos y accesorios profesionales."
+      }
+    ],
+    "logo": "images/domaines/outillage-industriel.png",
+    "parent": {
+      "$oid": "65f000000000000000001000"
+    },
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "65f000000000000000000542"
+      },
+      {
+        "$oid": "65f000000000000000000543"
+      },
+      {
+        "$oid": "65f000000000000000000544"
+      },
+      {
+        "$oid": "65f000000000000000000545"
+      },
+      {
+        "$oid": "65f000000000000000000546"
+      },
+      {
+        "$oid": "65f000000000000000000547"
+      },
+      {
+        "$oid": "65f000000000000000000548"
+      },
+      {
+        "$oid": "65f000000000000000000549"
+      },
+      {
+        "$oid": "65f000000000000000000550"
+      },
+      {
+        "$oid": "65f000000000000000000551"
+      },
+      {
+        "$oid": "65f000000000000000000552"
+      },
+      {
+        "$oid": "65f000000000000000000553"
+      },
+      {
+        "$oid": "65f000000000000000000554"
+      },
+      {
+        "$oid": "65f000000000000000000555"
+      },
+      {
+        "$oid": "65f000000000000000000556"
+      },
+      {
+        "$oid": "65f000000000000000000557"
+      },
+      {
+        "$oid": "65f000000000000000000558"
+      },
+      {
+        "$oid": "65f000000000000000000559"
+      },
+      {
+        "$oid": "65f000000000000000000560"
+      },
+      {
+        "$oid": "65f000000000000000000561"
+      },
+      {
+        "$oid": "65f000000000000000000562"
+      },
+      {
+        "$oid": "65f000000000000000000563"
+      },
+      {
+        "$oid": "65f000000000000000000564"
+      },
+      {
+        "$oid": "65f000000000000000000565"
+      },
+      {
+        "$oid": "65f000000000000000000566"
+      },
+      {
+        "$oid": "65f000000000000000000567"
+      },
+      {
+        "$oid": "65f000000000000000000568"
+      },
+      {
+        "$oid": "65f000000000000000000569"
+      },
+      {
+        "$oid": "65f000000000000000000570"
+      },
+      {
+        "$oid": "65f000000000000000000571"
+      },
+      {
+        "$oid": "65f000000000000000000572"
+      },
+      {
+        "$oid": "65f000000000000000000573"
+      },
+      {
+        "$oid": "65f000000000000000000574"
+      },
+      {
+        "$oid": "65f000000000000000000575"
+      },
+      {
+        "$oid": "65f000000000000000000576"
+      },
+      {
+        "$oid": "65f000000000000000000577"
+      },
+      {
+        "$oid": "65f000000000000000000578"
+      },
+      {
+        "$oid": "65f000000000000000000579"
+      },
+      {
+        "$oid": "65f000000000000000000580"
+      },
+      {
+        "$oid": "65f000000000000000000581"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "code_3417",
+    "createdAt": {
+      "$date": "2024-03-15T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-15T08:00:00.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000000005"
+    },
+    "code": "espace exterieur",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Espace extérieur",
+        "description": "Équipements et aménagements pour les espaces extérieurs professionnels."
+      },
+      {
+        "language": "en",
+        "designation": "Outdoor Area",
+        "description": "Category Outdoor Area — professional equipment and accessories."
+      },
+      {
+        "language": "ar",
+        "designation": "المساحة الخارجية",
+        "description": "فئة المساحة الخارجية — معدات وملحقات مهنية."
+      },
+      {
+        "language": "es",
+        "designation": "Espacio exterior",
+        "description": "Categoría Espacio exterior — equipos y accesorios profesionales."
+      }
+    ],
+    "logo": "images/domaines/espace-exterieur.png",
+    "parent": {
+      "$oid": "65f000000000000000001000"
+    },
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "65f000000000000000000582"
+      },
+      {
+        "$oid": "65f000000000000000000583"
+      },
+      {
+        "$oid": "65f000000000000000000584"
+      },
+      {
+        "$oid": "65f000000000000000000585"
+      },
+      {
+        "$oid": "65f000000000000000000586"
+      },
+      {
+        "$oid": "65f000000000000000000587"
+      },
+      {
+        "$oid": "65f000000000000000000588"
+      },
+      {
+        "$oid": "65f000000000000000000589"
+      },
+      {
+        "$oid": "65f000000000000000000590"
+      },
+      {
+        "$oid": "65f000000000000000000591"
+      },
+      {
+        "$oid": "65f000000000000000000592"
+      },
+      {
+        "$oid": "65f000000000000000000593"
+      },
+      {
+        "$oid": "65f000000000000000000594"
+      },
+      {
+        "$oid": "65f000000000000000000595"
+      },
+      {
+        "$oid": "65f000000000000000000596"
+      },
+      {
+        "$oid": "65f000000000000000000597"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "code_3417",
+    "createdAt": {
+      "$date": "2024-03-15T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-15T08:00:00.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000000A07"
+    },
+    "code": "relation Inter acteur",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Relation inter-acteur",
+        "description": ""
+      },
+      {
+        "language": "en",
+        "designation": "Relation inter-acteur",
+        "description": ""
+      }
+    ],
+    "logo": "",
+    "parent": null,
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "65f000000000000000000625"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": {
+      "$date": "2024-03-15T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-15T08:00:00.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000000A23"
+    },
+    "code": "couleur saison",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Couleur de saison",
+        "description": ""
+      },
+      {
+        "language": "en",
+        "designation": "Couleur de saison",
+        "description": ""
+      }
+    ],
+    "logo": "",
+    "parent": null,
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "65f000000000000000000681"
+      },
+      {
+        "$oid": "65f000000000000000000682"
+      },
+      {
+        "$oid": "65f000000000000000000683"
+      },
+      {
+        "$oid": "65f000000000000000000684"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": {
+      "$date": "2024-03-15T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-15T08:00:00.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000000E01"
+    },
+    "code": "types evenements",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Types d'événements"
+      },
+      {
+        "language": "en",
+        "designation": "Types d'événements"
+      },
+      {
+        "language": "ar",
+        "designation": "Types d'événements"
+      },
+      {
+        "language": "es",
+        "designation": "Types d'événements"
+      }
+    ],
+    "parent": {
+      "$oid": "65f000000000000000000A08"
+    },
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "65f000000000000000000B02"
+      },
+      {
+        "$oid": "65f000000000000000000F03"
+      }
+    ],
+    "hasTaxonomies": true,
+    "createdAt": {
+      "$date": "2024-05-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-01T00:00:00.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000000E02"
+    },
+    "code": "types programme",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Types de programme"
+      },
+      {
+        "language": "en",
+        "designation": "Types de programme"
+      },
+      {
+        "language": "ar",
+        "designation": "Types de programme"
+      },
+      {
+        "language": "es",
+        "designation": "Types de programme"
+      }
+    ],
+    "parent": {
+      "$oid": "65f000000000000000000A09"
+    },
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "65f000000000000000000B03"
+      },
+      {
+        "$oid": "65f000000000000000000B04"
+      },
+      {
+        "$oid": "65f000000000000000000F04"
+      },
+      {
+        "$oid": "65f000000000000000000F0A"
+      }
+    ],
+    "hasTaxonomies": true,
+    "createdAt": {
+      "$date": "2024-05-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-01T00:00:00.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000000E03"
+    },
+    "code": "categories faq",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Catégories FAQ"
+      },
+      {
+        "language": "en",
+        "designation": "Catégories FAQ"
+      },
+      {
+        "language": "ar",
+        "designation": "Catégories FAQ"
+      },
+      {
+        "language": "es",
+        "designation": "Catégories FAQ"
+      }
+    ],
+    "parent": {
+      "$oid": "65f000000000000000000A10"
+    },
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "65f000000000000000000630"
+      }
+    ],
+    "hasTaxonomies": true,
+    "createdAt": {
+      "$date": "2024-05-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-01T00:00:00.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000000E04"
+    },
+    "code": "categories forum",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Catégories forum"
+      },
+      {
+        "language": "en",
+        "designation": "Catégories forum"
+      },
+      {
+        "language": "ar",
+        "designation": "Catégories forum"
+      },
+      {
+        "language": "es",
+        "designation": "Catégories forum"
+      }
+    ],
+    "parent": {
+      "$oid": "65f000000000000000000A11"
+    },
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "65f000000000000000000631"
+      },
+      {
+        "$oid": "65f000000000000000000632"
+      },
+      {
+        "$oid": "65f000000000000000000633"
+      },
+      {
+        "$oid": "65f000000000000000000634"
+      },
+      {
+        "$oid": "4a7b23b82a925b752e1a5fed"
+      },
+      {
+        "$oid": "65f000000000000000000636"
+      }
+    ],
+    "hasTaxonomies": true,
+    "createdAt": {
+      "$date": "2024-05-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-01T00:00:00.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000000E05"
+    },
+    "code": "types theme",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Types de thème"
+      },
+      {
+        "language": "en",
+        "designation": "Types de thème"
+      },
+      {
+        "language": "ar",
+        "designation": "Types de thème"
+      },
+      {
+        "language": "es",
+        "designation": "Types de thème"
+      }
+    ],
+    "parent": {
+      "$oid": "65f000000000000000000A12"
+    },
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "65f000000000000000000641"
+      },
+      {
+        "$oid": "706e51fb75743eeeff0438f7"
+      },
+      {
+        "$oid": "65f000000000000000000643"
+      },
+      {
+        "$oid": "65f000000000000000000644"
+      },
+      {
+        "$oid": "65f000000000000000000645"
+      },
+      {
+        "$oid": "65f000000000000000000646"
+      },
+      {
+        "$oid": "65f000000000000000000647"
+      },
+      {
+        "$oid": "65f000000000000000000648"
+      }
+    ],
+    "hasTaxonomies": true,
+    "createdAt": {
+      "$date": "2024-05-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-01T00:00:00.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000000E06"
+    },
+    "code": "categories rubrique",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Catégories rubrique"
+      },
+      {
+        "language": "en",
+        "designation": "Catégories rubrique"
+      },
+      {
+        "language": "ar",
+        "designation": "Catégories rubrique"
+      },
+      {
+        "language": "es",
+        "designation": "Catégories rubrique"
+      }
+    ],
+    "parent": {
+      "$oid": "65f000000000000000000A14"
+    },
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "65f000000000000000000006"
+      },
+      {
+        "$oid": "65f000000000000000000254"
+      },
+      {
+        "$oid": "65f000000000000000000487"
+      },
+      {
+        "$oid": "65f000000000000000000B05"
+      },
+      {
+        "$oid": "65f000000000000000000B06"
+      },
+      {
+        "$oid": "65f000000000000000000B07"
+      }
+    ],
+    "hasTaxonomies": true,
+    "createdAt": {
+      "$date": "2024-05-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-01T00:00:00.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000000E07"
+    },
+    "code": "statuts",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Statuts"
+      },
+      {
+        "language": "en",
+        "designation": "Statuts"
+      },
+      {
+        "language": "ar",
+        "designation": "Statuts"
+      },
+      {
+        "language": "es",
+        "designation": "Statuts"
+      }
+    ],
+    "parent": {
+      "$oid": "65f000000000000000000A24"
+    },
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "558c4ae2610a08ffa5034b73"
+      }
+    ],
+    "hasTaxonomies": true,
+    "createdAt": {
+      "$date": "2024-05-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-01T00:00:00.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000000E08"
+    },
+    "code": "types produit",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Types de produit"
+      },
+      {
+        "language": "en",
+        "designation": "Types de produit"
+      },
+      {
+        "language": "ar",
+        "designation": "Types de produit"
+      },
+      {
+        "language": "es",
+        "designation": "Types de produit"
+      }
+    ],
+    "parent": {
+      "$oid": "65f000000000000000000A28"
+    },
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "65f000000000000000000695"
+      },
+      {
+        "$oid": "65f000000000000000000696"
+      }
+    ],
+    "hasTaxonomies": true,
+    "createdAt": {
+      "$date": "2024-05-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-01T00:00:00.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000000E09"
+    },
+    "code": "fonctions",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Fonctions"
+      },
+      {
+        "language": "en",
+        "designation": "Fonctions"
+      },
+      {
+        "language": "ar",
+        "designation": "Fonctions"
+      },
+      {
+        "language": "es",
+        "designation": "Fonctions"
+      }
+    ],
+    "parent": {
+      "$oid": "65f000000000000000000A29"
+    },
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "65f0000000000000000006A0"
+      },
+      {
+        "$oid": "65f0000000000000000006A1"
+      },
+      {
+        "$oid": "65f0000000000000000006A2"
+      },
+      {
+        "$oid": "65f0000000000000000006A3"
+      }
+    ],
+    "hasTaxonomies": true,
+    "createdAt": {
+      "$date": "2024-05-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-01T00:00:00.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000000A08"
+    },
+    "code": "categorieEvenement",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Catégorie d'événements"
+      }
+    ],
+    "parent": {
+      "$oid": "63617465676f726965457665"
+    },
+    "children": [
+      {
+        "$oid": "65f000000000000000000E01"
+      }
+    ],
+    "taxonomies": [],
+    "hasTaxonomies": false,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000000A09"
+    },
+    "code": "categorieProgramme",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Catégorie de programmes"
+      }
+    ],
+    "parent": {
+      "$oid": "63617465676f72696550726f"
+    },
+    "children": [
+      {
+        "$oid": "65f000000000000000000E02"
+      }
+    ],
+    "taxonomies": [],
+    "hasTaxonomies": false,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000000A10"
+    },
+    "code": "faq",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "FAQ"
+      }
+    ],
+    "parent": {
+      "$oid": "666171000000000000000000"
+    },
+    "children": [
+      {
+        "$oid": "65f000000000000000000E03"
+      }
+    ],
+    "taxonomies": [],
+    "hasTaxonomies": false,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000000A11"
+    },
+    "code": "forum",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Forum"
+      }
+    ],
+    "parent": {
+      "$oid": "666f72756d00000000000000"
+    },
+    "children": [
+      {
+        "$oid": "65f000000000000000000E04"
+      }
+    ],
+    "taxonomies": [],
+    "hasTaxonomies": false,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000000A12"
+    },
+    "code": "theme",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Thème"
+      }
+    ],
+    "parent": {
+      "$oid": "7468656d6500000000000000"
+    },
+    "children": [
+      {
+        "$oid": "65f000000000000000000E05"
+      }
+    ],
+    "taxonomies": [],
+    "hasTaxonomies": false,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000000A14"
+    },
+    "code": "categorieRubriqueArticle",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Catégorie rubrique article"
+      }
+    ],
+    "parent": {
+      "$oid": "63617465676f726965527562"
+    },
+    "children": [
+      {
+        "$oid": "65f000000000000000000E06"
+      }
+    ],
+    "taxonomies": [],
+    "hasTaxonomies": false,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000000A24"
+    },
+    "code": "statut",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Statut"
+      }
+    ],
+    "parent": {
+      "$oid": "737461747574000000000000"
+    },
+    "children": [
+      {
+        "$oid": "65f000000000000000000E07"
+      }
+    ],
+    "taxonomies": [],
+    "hasTaxonomies": false,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000000A28"
+    },
+    "code": "typeProduit",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Type de produit"
+      }
+    ],
+    "parent": {
+      "$oid": "7479706550726f6475697400"
+    },
+    "children": [
+      {
+        "$oid": "65f000000000000000000E08"
+      }
+    ],
+    "taxonomies": [],
+    "hasTaxonomies": false,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000000A29"
+    },
+    "code": "fonction",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Fonction"
+      }
+    ],
+    "parent": {
+      "$oid": "666f6e6374696f6e00000000"
+    },
+    "children": [
+      {
+        "$oid": "65f000000000000000000E09"
+      }
+    ],
+    "taxonomies": [],
+    "hasTaxonomies": false,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    }
+  }
+]

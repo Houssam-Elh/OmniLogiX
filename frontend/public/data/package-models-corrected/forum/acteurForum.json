@@ -1,0 +1,641 @@
+[
+  {
+    "_id": {
+      "$oid": "63d4676c3833fe5c5fe26f5a"
+    },
+    "etatDePublication": null,
+    "reference": null,
+    "translations": [
+      {
+        "language": "fr",
+        "nomAuteur": "Mehdi Agri",
+        "designation": "Mehdi Agri"
+      }
+    ],
+    "refMembre": {
+      "$oid": "e72ab0dd3dac4adb845f7c20"
+    },
+    "pseudoAuteur": null,
+    "emailAuteur": null,
+    "passWord": null,
+    "imageAuteur": null,
+    "etatMembre": null,
+    "froum": null,
+    "participation": null,
+    "etatObjet": "code-1",
+    "objetsAssocies": null
+  },
+  {
+    "_id": {
+      "$oid": "98d32032c6e2c1d4e8f6685f"
+    },
+    "etatDePublication": null,
+    "reference": null,
+    "translations": [
+      {
+        "language": "fr",
+        "nomAuteur": "TP_Casablanca",
+        "designation": "TP_Casablanca"
+      }
+    ],
+    "refMembre": {
+      "$oid": "e72ab0dd3dac4adb845f7c20"
+    },
+    "pseudoAuteur": null,
+    "emailAuteur": null,
+    "passWord": null,
+    "imageAuteur": null,
+    "etatMembre": null,
+    "froum": null,
+    "participation": null,
+    "etatObjet": "code-1",
+    "objetsAssocies": null
+  },
+  {
+    "_id": {
+      "$oid": "dae05f44688a3fb7b3bab57a"
+    },
+    "etatDePublication": null,
+    "reference": null,
+    "translations": [
+      {
+        "language": "fr",
+        "nomAuteur": "Rachid_Auto",
+        "designation": "Rachid_Auto"
+      }
+    ],
+    "refMembre": {
+      "$oid": "e72ab0dd3dac4adb845f7c20"
+    },
+    "pseudoAuteur": null,
+    "emailAuteur": null,
+    "passWord": null,
+    "imageAuteur": null,
+    "etatMembre": null,
+    "froum": null,
+    "participation": null,
+    "etatObjet": "code-1",
+    "objetsAssocies": null
+  },
+  {
+    "_id": {
+      "$oid": "a1e0a20efa0fdb3f0a6c4e1d"
+    },
+    "etatDePublication": null,
+    "reference": null,
+    "translations": [
+      {
+        "language": "fr",
+        "nomAuteur": "Sara_Maroc",
+        "designation": "Sara_Maroc"
+      }
+    ],
+    "refMembre": {
+      "$oid": "e72ab0dd3dac4adb845f7c20"
+    },
+    "pseudoAuteur": null,
+    "emailAuteur": null,
+    "passWord": null,
+    "imageAuteur": null,
+    "etatMembre": null,
+    "froum": null,
+    "participation": null,
+    "etatObjet": "code-1",
+    "objetsAssocies": null
+  },
+  {
+    "_id": {
+      "$oid": "c1834080985d43d1a7f64ee6"
+    },
+    "etatDePublication": null,
+    "reference": null,
+    "translations": [
+      {
+        "language": "fr",
+        "nomAuteur": "TechDriver_MA",
+        "designation": "TechDriver_MA"
+      }
+    ],
+    "refMembre": {
+      "$oid": "e72ab0dd3dac4adb845f7c20"
+    },
+    "pseudoAuteur": null,
+    "emailAuteur": null,
+    "passWord": null,
+    "imageAuteur": null,
+    "etatMembre": null,
+    "froum": null,
+    "participation": null,
+    "etatObjet": "code-1",
+    "objetsAssocies": null
+  },
+  {
+    "_id": {
+      "$oid": "f21b6bf3fbac234b66e772bf"
+    },
+    "etatDePublication": null,
+    "reference": null,
+    "translations": [
+      {
+        "language": "fr",
+        "nomAuteur": "Hassan_FES",
+        "designation": "Hassan_FES"
+      }
+    ],
+    "refMembre": {
+      "$oid": "e72ab0dd3dac4adb845f7c20"
+    },
+    "pseudoAuteur": null,
+    "emailAuteur": null,
+    "passWord": null,
+    "imageAuteur": null,
+    "etatMembre": null,
+    "froum": null,
+    "participation": null,
+    "etatObjet": "code-1",
+    "objetsAssocies": null
+  },
+  {
+    "_id": {
+      "$oid": "c30637696fbc5deeb727ab2b"
+    },
+    "etatDePublication": null,
+    "reference": null,
+    "translations": [
+      {
+        "language": "fr",
+        "nomAuteur": "Mehdi_CasaMoto",
+        "designation": "Mehdi_CasaMoto"
+      }
+    ],
+    "refMembre": {
+      "$oid": "e72ab0dd3dac4adb845f7c20"
+    },
+    "pseudoAuteur": null,
+    "emailAuteur": null,
+    "passWord": null,
+    "imageAuteur": null,
+    "etatMembre": null,
+    "froum": null,
+    "participation": null,
+    "etatObjet": "code-1",
+    "objetsAssocies": null
+  },
+  {
+    "_id": {
+      "$oid": "086da7b5ea132ba87730928c"
+    },
+    "etatDePublication": null,
+    "reference": null,
+    "translations": [
+      {
+        "language": "fr",
+        "nomAuteur": "Digital_Driver",
+        "designation": "Digital_Driver"
+      }
+    ],
+    "refMembre": {
+      "$oid": "e72ab0dd3dac4adb845f7c20"
+    },
+    "pseudoAuteur": null,
+    "emailAuteur": null,
+    "passWord": null,
+    "imageAuteur": null,
+    "etatMembre": null,
+    "froum": null,
+    "participation": null,
+    "etatObjet": "code-1",
+    "objetsAssocies": null
+  },
+  {
+    "_id": {
+      "$oid": "da6caa47cdf3dcbd0af4d546"
+    },
+    "etatDePublication": null,
+    "reference": null,
+    "translations": [
+      {
+        "language": "fr",
+        "nomAuteur": "BTP_Expert",
+        "designation": "BTP_Expert"
+      }
+    ],
+    "refMembre": {
+      "$oid": "e72ab0dd3dac4adb845f7c20"
+    },
+    "pseudoAuteur": null,
+    "emailAuteur": null,
+    "passWord": null,
+    "imageAuteur": null,
+    "etatMembre": null,
+    "froum": null,
+    "participation": null,
+    "etatObjet": "code-1",
+    "objetsAssocies": null
+  },
+  {
+    "_id": {
+      "$oid": "7b0402da1912a0cff7334b7a"
+    },
+    "etatDePublication": null,
+    "reference": null,
+    "translations": [
+      {
+        "language": "fr",
+        "nomAuteur": "ForêtBois",
+        "designation": "ForêtBois"
+      }
+    ],
+    "refMembre": {
+      "$oid": "e72ab0dd3dac4adb845f7c20"
+    },
+    "pseudoAuteur": null,
+    "emailAuteur": null,
+    "passWord": null,
+    "imageAuteur": null,
+    "etatMembre": null,
+    "froum": null,
+    "participation": null,
+    "etatObjet": "code-1",
+    "objetsAssocies": null
+  },
+  {
+    "_id": {
+      "$oid": "768556bd588f2954695d5837"
+    },
+    "etatDePublication": "code_3417",
+    "type": {
+      "$oid": "65f000000000000000000648"
+    },
+    "reference": "ACTEUR-FORUM-2024-001",
+    "translations": [
+      {
+        "language": "fr",
+        "nom": "Logisticien Senior",
+        "apropos": "Professionnel de la logistique avec expertise en gestion d'entrepôt et optimisation des flux au Maroc."
+      },
+      {
+        "language": "en",
+        "nom": "Senior Logistics Manager",
+        "apropos": "Logistics professional with expertise in warehouse management and flow optimization in Morocco."
+      },
+      {
+        "language": "ar",
+        "nom": "مدير لوجستي أول",
+        "apropos": "مهني في اللوجستيك لديه خبرة في إدارة المستودعات وتحسين التدفقات في المغرب."
+      },
+      {
+        "language": "es",
+        "nom": "Responsable logístico senior",
+        "apropos": "Profesional de la logística con experiencia en gestión de almacenes y optimización de flujos en Marruecos."
+      }
+    ],
+    "refMembre": {
+      "$oid": "65f000000000000000000781"
+    },
+    "pseudoAuteur": "logisticien_tanger",
+    "emailAuteur": null,
+    "passWord": null,
+    "imageAuteur": null,
+    "etatMembre": "code_4316",
+    "participation": [
+      {
+        "$oid": "65f000000000000000000784"
+      }
+    ],
+    "etatObjet": "code-1",
+    "objetsAssocies": [],
+    "createdAt": {
+      "$date": "2024-01-10T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-10T10:00:00.000Z"
+    },
+    "froum": [
+      {
+        "$oid": "65f000000000000000000776"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "4cc77c8c243ea9a986869a82"
+    },
+    "etatDePublication": "code_3417",
+    "type": {
+      "$oid": "65f000000000000000000648"
+    },
+    "reference": "ACTEUR-FORUM-2024-002",
+    "translations": [
+      {
+        "language": "fr",
+        "nom": "Expert Manutention",
+        "apropos": "Expert certifié en équipements de manutention industrielle et modérateur du forum OMNILOG Maroc."
+      },
+      {
+        "language": "en",
+        "nom": "Handling Equipment Expert",
+        "apropos": "Certified expert in industrial handling equipment and moderator of the OMNILOG Morocco forum."
+      },
+      {
+        "language": "ar",
+        "nom": "خبير معدات المناولة",
+        "apropos": "خبير معتمد في معدات المناولة الصناعية ومشرف منتدى OMNILOG المغرب."
+      },
+      {
+        "language": "es",
+        "nom": "Experto en manutención",
+        "apropos": "Experto certificado en equipos de manutención industrial y moderador del foro OMNILOG Marruecos."
+      }
+    ],
+    "refMembre": {
+      "$oid": "65f000000000000000000782"
+    },
+    "pseudoAuteur": "expert_manutention",
+    "emailAuteur": null,
+    "passWord": null,
+    "imageAuteur": null,
+    "etatMembre": "code_4316",
+    "participation": [
+      {
+        "$oid": "65f000000000000000000785"
+      }
+    ],
+    "etatObjet": "code-1",
+    "objetsAssocies": [],
+    "createdAt": {
+      "$date": "2023-06-15T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-10T11:30:00.000Z"
+    },
+    "froum": [
+      {
+        "$oid": "65f000000000000000000776"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5b4184cff5f195fb65cf7714"
+    },
+    "etatDePublication": "code_3417",
+    "type": {
+      "$oid": "65f000000000000000000648"
+    },
+    "reference": "ACTEUR-FORUM-2024-003",
+    "translations": [
+      {
+        "language": "fr",
+        "nom": "Responsable Entrepôt Tanger",
+        "apropos": "Responsable d'entrepôt logistique basé à Tanger, spécialisé dans la gestion opérationnelle et la sécurité."
+      },
+      {
+        "language": "en",
+        "nom": "Tangier Warehouse Manager",
+        "apropos": "Warehouse manager based in Tangier, specialized in operations management and safety."
+      },
+      {
+        "language": "ar",
+        "nom": "مسؤول مستودع في طنجة",
+        "apropos": "مسؤول مستودع مقره طنجة، متخصص في الإدارة التشغيلية والسلامة."
+      },
+      {
+        "language": "es",
+        "nom": "Responsable de almacén en Tánger",
+        "apropos": "Responsable de almacén con sede en Tánger, especializado en gestión operativa y seguridad."
+      }
+    ],
+    "refMembre": {
+      "$oid": "65f000000000000000000783"
+    },
+    "pseudoAuteur": "responsable_entrepot_tanger",
+    "emailAuteur": null,
+    "passWord": null,
+    "imageAuteur": null,
+    "etatMembre": "code_4316",
+    "participation": [
+      {
+        "$oid": "65f000000000000000000786"
+      }
+    ],
+    "etatObjet": "code-1",
+    "objetsAssocies": [],
+    "createdAt": {
+      "$date": "2024-02-20T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-12T09:00:00.000Z"
+    },
+    "froum": [
+      {
+        "$oid": "65f000000000000000000776"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "d1e79cde8c8a603b4a33fe66"
+    },
+    "reference": "ACTOR-FORUM-004",
+    "translations": [
+      {
+        "language": "fr",
+        "nomComplet": "Expert Logistique Tanger",
+        "bio": "Expert en solutions de manutention basé à Tanger."
+      },
+      {
+        "language": "en",
+        "nomComplet": "Logistics Expert Tanger",
+        "bio": "Handling solutions expert based in Tanger."
+      },
+      {
+        "language": "ar",
+        "nomComplet": "خبير لوجستيك Tanger",
+        "bio": "خبير في حلول المناولة مقره في Tanger."
+      },
+      {
+        "language": "es",
+        "nomComplet": "Experto Logística Tanger",
+        "bio": "Experto en soluciones de manutención con sede en Tanger."
+      }
+    ],
+    "role": "expert",
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatDePublication": "code_3417",
+    "refMembre": {
+      "$oid": "e72ab0dd3dac4adb845f7c20"
+    },
+    "etatMembre": "code_actif"
+  },
+  {
+    "_id": {
+      "$oid": "18456015e5f6ef5d60bdf663"
+    },
+    "reference": "ACTOR-FORUM-005",
+    "translations": [
+      {
+        "language": "fr",
+        "nomComplet": "Expert Logistique Casablanca",
+        "bio": "Expert en solutions de manutention basé à Casablanca."
+      },
+      {
+        "language": "en",
+        "nomComplet": "Logistics Expert Casablanca",
+        "bio": "Handling solutions expert based in Casablanca."
+      },
+      {
+        "language": "ar",
+        "nomComplet": "خبير لوجستيك Casablanca",
+        "bio": "خبير في حلول المناولة مقره في Casablanca."
+      },
+      {
+        "language": "es",
+        "nomComplet": "Experto Logística Casablanca",
+        "bio": "Experto en soluciones de manutención con sede en Casablanca."
+      }
+    ],
+    "role": "expert",
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatDePublication": "code_3417",
+    "refMembre": {
+      "$oid": "e72ab0dd3dac4adb845f7c20"
+    },
+    "etatMembre": "code_actif"
+  },
+  {
+    "_id": {
+      "$oid": "8d76a0cad53749ae67af510d"
+    },
+    "reference": "ACTOR-FORUM-006",
+    "translations": [
+      {
+        "language": "fr",
+        "nomComplet": "Expert Logistique Rabat",
+        "bio": "Expert en solutions de manutention basé à Rabat."
+      },
+      {
+        "language": "en",
+        "nomComplet": "Logistics Expert Rabat",
+        "bio": "Handling solutions expert based in Rabat."
+      },
+      {
+        "language": "ar",
+        "nomComplet": "خبير لوجستيك Rabat",
+        "bio": "خبير في حلول المناولة مقره في Rabat."
+      },
+      {
+        "language": "es",
+        "nomComplet": "Experto Logística Rabat",
+        "bio": "Experto en soluciones de manutención con sede en Rabat."
+      }
+    ],
+    "role": "expert",
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatDePublication": "code_3417",
+    "refMembre": {
+      "$oid": "e72ab0dd3dac4adb845f7c20"
+    },
+    "etatMembre": "code_actif"
+  },
+  {
+    "_id": {
+      "$oid": "f626fb50e387ed6df791af85"
+    },
+    "reference": "ACTOR-FORUM-007",
+    "translations": [
+      {
+        "language": "fr",
+        "nomComplet": "Expert Logistique Agadir",
+        "bio": "Expert en solutions de manutention basé à Agadir."
+      },
+      {
+        "language": "en",
+        "nomComplet": "Logistics Expert Agadir",
+        "bio": "Handling solutions expert based in Agadir."
+      },
+      {
+        "language": "ar",
+        "nomComplet": "خبير لوجستيك Agadir",
+        "bio": "خبير في حلول المناولة مقره في Agadir."
+      },
+      {
+        "language": "es",
+        "nomComplet": "Experto Logística Agadir",
+        "bio": "Experto en soluciones de manutención con sede en Agadir."
+      }
+    ],
+    "role": "expert",
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatDePublication": "code_3417",
+    "refMembre": {
+      "$oid": "e72ab0dd3dac4adb845f7c20"
+    },
+    "etatMembre": "code_actif"
+  },
+  {
+    "_id": {
+      "$oid": "eec8641151a0370a9bce9a3d"
+    },
+    "reference": "ACTOR-FORUM-008",
+    "translations": [
+      {
+        "language": "fr",
+        "nomComplet": "Expert Logistique Marrakech",
+        "bio": "Expert en solutions de manutention basé à Marrakech."
+      },
+      {
+        "language": "en",
+        "nomComplet": "Logistics Expert Marrakech",
+        "bio": "Handling solutions expert based in Marrakech."
+      },
+      {
+        "language": "ar",
+        "nomComplet": "خبير لوجستيك مراكش",
+        "bio": "خبير في حلول المناولة مقره في مراكش."
+      },
+      {
+        "language": "es",
+        "nomComplet": "Experto Logística Marrakech",
+        "bio": "Experto en soluciones de manutención con sede en Marrakech."
+      }
+    ],
+    "role": "expert",
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatDePublication": "code_3417",
+    "refMembre": {
+      "$oid": "e72ab0dd3dac4adb845f7c20"
+    },
+    "etatMembre": "code_actif"
+  }
+]

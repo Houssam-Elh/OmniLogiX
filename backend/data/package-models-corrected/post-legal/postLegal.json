@@ -1,0 +1,488 @@
+[
+  {
+    "_id": {
+      "$oid": "d5d15eed6ad841e6b1bf3797"
+    },
+    "etatDePublication": null,
+    "etatObjet": "code-1",
+    "categorie": null,
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Conditions générales d'utilisation",
+        "contenu": "Document légal: Conditions générales d'utilisation"
+      }
+    ],
+    "datePublication": null,
+    "motsCles": null,
+    "etats": null,
+    "type": {
+      "$oid": "65f000000000000000000641"
+    },
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "27ee736f50975184caa62218"
+    },
+    "etatDePublication": null,
+    "etatObjet": "code-1",
+    "categorie": null,
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Conditions générales de vente",
+        "contenu": "Document légal: Conditions générales de vente"
+      }
+    ],
+    "datePublication": null,
+    "motsCles": null,
+    "etats": null,
+    "type": {
+      "$oid": "65f000000000000000000641"
+    },
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "406a7ba68f1127e877308fd8"
+    },
+    "etatDePublication": null,
+    "etatObjet": "code-1",
+    "categorie": null,
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Politique de confidentialité",
+        "contenu": "Document légal: Politique de confidentialité"
+      }
+    ],
+    "datePublication": null,
+    "motsCles": null,
+    "etats": null,
+    "type": {
+      "$oid": "65f000000000000000000641"
+    },
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "90addcb4f303628c283cd28f"
+    },
+    "etatDePublication": null,
+    "etatObjet": "code-1",
+    "categorie": null,
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Politique des cookies",
+        "contenu": "Document légal: Politique des cookies"
+      }
+    ],
+    "datePublication": null,
+    "motsCles": null,
+    "etats": null,
+    "type": {
+      "$oid": "65f000000000000000000641"
+    },
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "dd7d293eebb9e8715b3d4fff"
+    },
+    "reference": "LEG-0001",
+    "type": {
+      "$oid": "65f000000000000000000641"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Conditions Générales d'Utilisation",
+        "description": "Les présentes conditions générales régissent l'utilisation de la plateforme OMNILOG Marketplace Manutention, opérée par Smart Automation Technology au Maroc. En accédant à la plateforme, vous acceptez sans réserve les présentes conditions. Smart Automation Technology se réserve le droit de modifier ces conditions à tout moment, les utilisateurs étant informés par notification sur la plateforme.",
+        "titre": "Conditions Générales d'Utilisation",
+        "sousTitre": "1.0",
+        "contenu": "Les présentes conditions générales régissent l'utilisation de la plateforme OMNILOG Marketplace Manutention, opérée par Smart Automation Technology au Maroc. En accédant à la plateforme, vous acceptez sans réserve les présentes conditions. Smart Automation Technology se réserve le droit de modifier ces conditions à tout moment, les utilisateurs étant informés par notification sur la plateforme."
+      },
+      {
+        "language": "en",
+        "designation": "Terms of Use",
+        "description": "Professional information related to OMNILOG handling services in Morocco.",
+        "titre": "Terms of Use",
+        "sousTitre": "1.0",
+        "contenu": "Professional information related to OMNILOG handling services in Morocco."
+      },
+      {
+        "language": "ar",
+        "designation": "شروط الاستخدام",
+        "description": "نص مهني مرتبط بمنصة OMNILOG وخدمات المناولة واللوجستيك في المغرب.",
+        "titre": "شروط الاستخدام",
+        "sousTitre": "1.0",
+        "contenu": "نص مهني مرتبط بمنصة OMNILOG وخدمات المناولة واللوجستيك في المغرب."
+      },
+      {
+        "language": "es",
+        "designation": "Condiciones Generales de Uso",
+        "description": "Este texto legal explica las reglas y condiciones de uso de la plataforma OMNILOG en Marruecos.",
+        "titre": "Condiciones Generales de Uso",
+        "sousTitre": "1.0",
+        "contenu": "Este texto legal explica las reglas y condiciones de uso de la plataforma OMNILOG en Marruecos."
+      }
+    ],
+    "version": "1.0",
+    "dateEntreeVigueur": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "actif": true,
+    "etatObjet": "code-1",
+    "etatDePublication": "code_3417",
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "categorie": {
+      "$oid": "65f000000000000000000631"
+    },
+    "datePublication": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "motsCles": [],
+    "etats": []
+  },
+  {
+    "_id": {
+      "$oid": "5fe6acedc602724b7b1a0b64"
+    },
+    "reference": "LEG-0002",
+    "type": {
+      "$oid": "65f000000000000000000644"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Politique de Confidentialité",
+        "description": "Smart Automation Technology s'engage à protéger vos données personnelles conformément à la législation marocaine en vigueur relative à la protection des données à caractère personnel. Les données collectées sont utilisées exclusivement dans le cadre du fonctionnement de la plateforme OMNILOG Marketplace Manutention et ne sont jamais cédées à des tiers à des fins commerciales.",
+        "titre": "Politique de Confidentialité",
+        "sousTitre": "1.0",
+        "contenu": "Smart Automation Technology s'engage à protéger vos données personnelles conformément à la législation marocaine en vigueur relative à la protection des données à caractère personnel. Les données collectées sont utilisées exclusivement dans le cadre du fonctionnement de la plateforme OMNILOG Marketplace Manutention et ne sont jamais cédées à des tiers à des fins commerciales."
+      },
+      {
+        "language": "en",
+        "designation": "Privacy Policy",
+        "description": "Professional information related to OMNILOG handling services in Morocco.",
+        "titre": "Privacy Policy",
+        "sousTitre": "1.0",
+        "contenu": "Professional information related to OMNILOG handling services in Morocco."
+      },
+      {
+        "language": "ar",
+        "designation": "سياسة الخصوصية",
+        "description": "نص مهني مرتبط بمنصة OMNILOG وخدمات المناولة واللوجستيك في المغرب.",
+        "titre": "سياسة الخصوصية",
+        "sousTitre": "1.0",
+        "contenu": "نص مهني مرتبط بمنصة OMNILOG وخدمات المناولة واللوجستيك في المغرب."
+      },
+      {
+        "language": "es",
+        "designation": "Política de Privacidad",
+        "description": "Este texto legal explica las reglas y condiciones de uso de la plataforma OMNILOG en Marruecos.",
+        "titre": "Política de Privacidad",
+        "sousTitre": "1.0",
+        "contenu": "Este texto legal explica las reglas y condiciones de uso de la plataforma OMNILOG en Marruecos."
+      }
+    ],
+    "version": "1.0",
+    "dateEntreeVigueur": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "actif": true,
+    "etatObjet": "code-1",
+    "etatDePublication": "code_3417",
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "categorie": {
+      "$oid": "65f000000000000000000634"
+    },
+    "datePublication": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "motsCles": [],
+    "etats": []
+  },
+  {
+    "_id": {
+      "$oid": "6ef69ab8e6554e43280a0905"
+    },
+    "reference": "LEG-0003",
+    "type": {
+      "$oid": "65f000000000000000000645"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Mentions Légales",
+        "description": "OMNILOG Marketplace Manutention est une plateforme éditée et opérée par Smart Automation Technology, société de droit marocain. Identifiants légaux : à compléter. Directeur de la publication : Smart Automation Technology. Hébergement assuré conformément à la réglementation marocaine en vigueur.",
+        "titre": "Mentions Légales",
+        "sousTitre": "1.0",
+        "contenu": "OMNILOG Marketplace Manutention est une plateforme éditée et opérée par Smart Automation Technology, société de droit marocain. Identifiants légaux : à compléter. Directeur de la publication : Smart Automation Technology. Hébergement assuré conformément à la réglementation marocaine en vigueur."
+      },
+      {
+        "language": "en",
+        "designation": "Legal Notice",
+        "description": "Professional information related to OMNILOG handling services in Morocco.",
+        "titre": "Legal Notice",
+        "sousTitre": "1.0",
+        "contenu": "Professional information related to OMNILOG handling services in Morocco."
+      },
+      {
+        "language": "ar",
+        "designation": "الإشعار القانوني",
+        "description": "نص مهني مرتبط بمنصة OMNILOG وخدمات المناولة واللوجستيك في المغرب.",
+        "titre": "الإشعار القانوني",
+        "sousTitre": "1.0",
+        "contenu": "نص مهني مرتبط بمنصة OMNILOG وخدمات المناولة واللوجستيك في المغرب."
+      },
+      {
+        "language": "es",
+        "designation": "Aviso legal",
+        "description": "Este texto legal explica las reglas y condiciones de uso de la plataforma OMNILOG en Marruecos.",
+        "titre": "Aviso legal",
+        "sousTitre": "1.0",
+        "contenu": "Este texto legal explica las reglas y condiciones de uso de la plataforma OMNILOG en Marruecos."
+      }
+    ],
+    "version": "1.0",
+    "dateEntreeVigueur": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "actif": true,
+    "etatObjet": "code-1",
+    "etatDePublication": "code_3417",
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "categorie": {
+      "$oid": "65f000000000000000000633"
+    },
+    "datePublication": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "motsCles": [],
+    "etats": []
+  },
+  {
+    "_id": {
+      "$oid": "24399a620b64c3949e170e4d"
+    },
+    "reference": "LEG-0004",
+    "type": {
+      "$oid": "65f000000000000000000643"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Conditions Générales de Vente",
+        "description": "Conditions de vente des équipements sur OMNILOG.",
+        "titre": "Conditions Générales de Vente",
+        "sousTitre": "1.0",
+        "contenu": "Les présentes conditions régissent les ventes conclues sur la marketplace."
+      },
+      {
+        "language": "en",
+        "designation": "General Terms and Conditions of Sale",
+        "description": "Sales conditions for equipment on OMNILOG.",
+        "titre": "Terms of Sale",
+        "sousTitre": "1.0",
+        "contenu": "These terms govern sales concluded on the marketplace."
+      },
+      {
+        "language": "ar",
+        "designation": "الشروط العامة للبيع",
+        "description": "شروط بيع المعدات على OMNILOG.",
+        "titre": "شروط البيع",
+        "sousTitre": "1.0",
+        "contenu": "تحكم هذه الشروط المبيعات المبرمة على السوق."
+      },
+      {
+        "language": "es",
+        "designation": "Condiciones Generales de Venta",
+        "description": "Condiciones de venta de equipos en OMNILOG.",
+        "titre": "Condiciones de Venta",
+        "sousTitre": "1.0",
+        "contenu": "Estas condiciones rigen las ventas concluidas en el marketplace."
+      }
+    ],
+    "version": "1.0",
+    "dateEntreeVigueur": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "actif": true,
+    "etatObjet": "code-1",
+    "etatDePublication": "code_3417",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "categorie": {
+      "$oid": "65f000000000000000000632"
+    },
+    "datePublication": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "e2a55d4cabf917ddfb28f824"
+    },
+    "reference": "LEG-0005",
+    "type": {
+      "$oid": "65f000000000000000000646"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Charte Cookies",
+        "description": "Utilisation des cookies sur la plateforme.",
+        "titre": "Charte Cookies",
+        "sousTitre": "1.0",
+        "contenu": "Nous utilisons des cookies pour améliorer votre expérience."
+      },
+      {
+        "language": "en",
+        "designation": "Cookie Policy",
+        "description": "Use of cookies on the platform.",
+        "titre": "Cookie Policy",
+        "sousTitre": "1.0",
+        "contenu": "We use cookies to improve your experience."
+      },
+      {
+        "language": "ar",
+        "designation": "ميثاق ملفات تعريف الارتباط",
+        "description": "استخدام ملفات تعريف الارتباط على المنصة.",
+        "titre": "سياسة الكوكيز",
+        "sousTitre": "1.0",
+        "contenu": "نحن نستخدم ملفات تعريف الارتباط لتحسين تجربتك."
+      },
+      {
+        "language": "es",
+        "designation": "Política de Cookies",
+        "description": "Uso de cookies en la plataforma.",
+        "titre": "Política de Cookies",
+        "sousTitre": "1.0",
+        "contenu": "Utilizamos cookies para mejorar su experiencia."
+      }
+    ],
+    "version": "1.0",
+    "dateEntreeVigueur": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "actif": true,
+    "etatObjet": "code-1",
+    "etatDePublication": "code_3417",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "categorie": {
+      "$oid": "65f000000000000000000635"
+    },
+    "datePublication": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "eb0f0645314ccb82d57a3669"
+    },
+    "reference": "LEG-0006",
+    "type": {
+      "$oid": "65f000000000000000000647"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Politique de Livraison et Retours",
+        "description": "Modalités de livraison et de retour des produits.",
+        "titre": "Livraison et Retours",
+        "sousTitre": "1.0",
+        "contenu": "La livraison est effectuée par nos partenaires logistiques."
+      },
+      {
+        "language": "en",
+        "designation": "Delivery and Returns Policy",
+        "description": "Terms for delivery and product returns.",
+        "titre": "Delivery and Returns",
+        "sousTitre": "1.0",
+        "contenu": "Delivery is handled by our logistics partners."
+      },
+      {
+        "language": "ar",
+        "designation": "سياسة التوصيل والإرجاع",
+        "description": "شروط التوصيل وإرجاع المنتجات.",
+        "titre": "التوصيل والإرجاع",
+        "sousTitre": "1.0",
+        "contenu": "يتم التوصيل من قبل شركائنا اللوجستيين."
+      },
+      {
+        "language": "es",
+        "designation": "Política de Entrega y Devoluciones",
+        "description": "Términos de entrega y devolución de productos.",
+        "titre": "Entrega y Devoluciones",
+        "sousTitre": "1.0",
+        "contenu": "La entrega es realizada por nuestros socios logísticos."
+      }
+    ],
+    "version": "1.0",
+    "dateEntreeVigueur": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "actif": true,
+    "etatObjet": "code-1",
+    "etatDePublication": "code_3417",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "categorie": {
+      "$oid": "65f000000000000000000636"
+    },
+    "datePublication": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  }
+]

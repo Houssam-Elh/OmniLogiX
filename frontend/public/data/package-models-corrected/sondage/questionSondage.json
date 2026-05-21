@@ -1,0 +1,654 @@
+[
+  {
+    "_id": {
+      "$oid": "fad80fd4692b5fd2f3a4bf73"
+    },
+    "etatObjet": "code-1",
+    "reference": null,
+    "ordre": 1,
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Type de matériel ?"
+      }
+    ],
+    "imageRepresentative": null,
+    "etatValidation": null,
+    "choix": null,
+    "sondage": {
+      "$oid": "65f000000000000000001507"
+    },
+    "objetsAssocies": null
+  },
+  {
+    "_id": {
+      "$oid": "8b3a1fcdb4813eb5f64b5e34"
+    },
+    "etatObjet": "code-1",
+    "reference": null,
+    "ordre": 2,
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Budget ?"
+      }
+    ],
+    "imageRepresentative": null,
+    "etatValidation": null,
+    "choix": null,
+    "sondage": {
+      "$oid": "65f000000000000000001507"
+    },
+    "objetsAssocies": null
+  },
+  {
+    "_id": {
+      "$oid": "aa0677aced5879717ccdcf29"
+    },
+    "etatObjet": "code-1",
+    "reference": null,
+    "ordre": 3,
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Région ?"
+      }
+    ],
+    "imageRepresentative": null,
+    "etatValidation": null,
+    "choix": null,
+    "sondage": {
+      "$oid": "65f000000000000000001507"
+    },
+    "objetsAssocies": null
+  },
+  {
+    "_id": {
+      "$oid": "34dba8f237bc71a2f8c32198"
+    },
+    "etatObjet": "code-1",
+    "reference": null,
+    "ordre": 4,
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Fréquence d'achat ?"
+      }
+    ],
+    "imageRepresentative": null,
+    "etatValidation": null,
+    "choix": null,
+    "sondage": {
+      "$oid": "65f000000000000000001507"
+    },
+    "objetsAssocies": null
+  },
+  {
+    "_id": {
+      "$oid": "d968f6b48eb2f100f989011b"
+    },
+    "etatObjet": "code-1",
+    "reference": null,
+    "ordre": 5,
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Mode de financement ?"
+      }
+    ],
+    "imageRepresentative": null,
+    "etatValidation": null,
+    "choix": null,
+    "sondage": {
+      "$oid": "65f000000000000000001507"
+    },
+    "objetsAssocies": null
+  },
+  {
+    "_id": {
+      "$oid": "9a7a244f0f70237deb63bf4c"
+    },
+    "etatObjet": "code-1",
+    "reference": null,
+    "ordre": 6,
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Marques préférées ?"
+      }
+    ],
+    "imageRepresentative": null,
+    "etatValidation": null,
+    "choix": null,
+    "sondage": {
+      "$oid": "65f000000000000000001507"
+    },
+    "objetsAssocies": null
+  },
+  {
+    "_id": {
+      "$oid": "c10dd974c4a2320bf686395c"
+    },
+    "etatObjet": "code-1",
+    "reference": null,
+    "ordre": 7,
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Délai de livraison ?"
+      }
+    ],
+    "imageRepresentative": null,
+    "etatValidation": null,
+    "choix": null,
+    "sondage": {
+      "$oid": "65f000000000000000001507"
+    },
+    "objetsAssocies": null
+  },
+  {
+    "_id": {
+      "$oid": "43d2aa80744dee3135df20e4"
+    },
+    "etatObjet": "code-1",
+    "reference": "QUESTION-SONDAGE-001",
+    "ordre": 1,
+    "translations": [
+      {
+        "language": "fr",
+        "labelQuestion": "Qualité du catalogue équipements de manutention",
+        "commentaire": "Comment évaluez-vous la qualité et la complétude du catalogue d'équipements de manutention proposé sur OMNILOG (transpalettes, chariots élévateurs, gerbeurs, équipements de quai) ?"
+      },
+      {
+        "language": "en",
+        "labelQuestion": "Quality of the handling equipment catalogue",
+        "commentaire": "How do you rate the quality and completeness of the handling equipment catalogue offered on OMNILOG, including pallet trucks, forklifts, stackers and dock equipment?"
+      },
+      {
+        "language": "ar",
+        "labelQuestion": "جودة كتالوج معدات المناولة",
+        "commentaire": "كيف تقيم جودة واكتمال كتالوج معدات المناولة المتاح على OMNILOG، بما في ذلك رافعات المنصات والرافعات الشوكية والراصفات ومعدات الأرصفة؟"
+      },
+      {
+        "language": "es",
+        "labelQuestion": "Calidad del catálogo de equipos de manutención",
+        "commentaire": "¿Cómo evalúa la calidad y la exhaustividad del catálogo de equipos de manutención ofrecido en OMNILOG, incluidas transpaletas, carretillas elevadoras, apiladores y equipos de muelle?"
+      }
+    ],
+    "imageRepresentative": null,
+    "etatValidation": "code_224",
+    "choix": [
+      {
+        "$oid": "65f000000000000000000790"
+      },
+      {
+        "$oid": "65f000000000000000000791"
+      },
+      {
+        "$oid": "65f000000000000000000792"
+      },
+      {
+        "$oid": "65f000000000000000000793"
+      }
+    ],
+    "sondage": {
+      "$oid": "65f000000000000000001507"
+    },
+    "objetsAssocies": [],
+    "createdAt": {
+      "$date": "2024-02-20T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-01T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "f6f16e3faf2f3df99740ef6e"
+    },
+    "etatObjet": "code-1",
+    "reference": "QUESTION-SONDAGE-002",
+    "ordre": 2,
+    "translations": [
+      {
+        "language": "fr",
+        "labelQuestion": "Recommandation de la plateforme OMNILOG",
+        "commentaire": "Recommanderiez-vous la marketplace OMNILOG Manutention à vos partenaires, fournisseurs ou collègues du secteur logistique ?"
+      },
+      {
+        "language": "en",
+        "labelQuestion": "Recommendation of the OMNILOG platform",
+        "commentaire": "Would you recommend the OMNILOG handling marketplace to your partners, suppliers or colleagues in the logistics sector?"
+      },
+      {
+        "language": "ar",
+        "labelQuestion": "التوصية بمنصة OMNILOG",
+        "commentaire": "هل توصي بسوق OMNILOG للمناولة لشركائك أو مورديك أو زملائك في قطاع اللوجستيك؟"
+      },
+      {
+        "language": "es",
+        "labelQuestion": "Recomendación de la plataforma OMNILOG",
+        "commentaire": "¿Recomendaría el marketplace de manutención OMNILOG a sus socios, proveedores o colegas del sector logístico?"
+      }
+    ],
+    "imageRepresentative": null,
+    "etatValidation": "code_224",
+    "choix": [
+      {
+        "$oid": "65f000000000000000000794"
+      },
+      {
+        "$oid": "65f000000000000000000795"
+      },
+      {
+        "$oid": "65f000000000000000000796"
+      }
+    ],
+    "sondage": {
+      "$oid": "65f000000000000000001507"
+    },
+    "objetsAssocies": [],
+    "createdAt": {
+      "$date": "2024-02-20T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-01T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f00000000000000000079a"
+    },
+    "etatObjet": "code-1",
+    "reference": "QUESTION-SONDAGE-003",
+    "ordre": 3,
+    "translations": [
+      {
+        "language": "fr",
+        "labelQuestion": "Mode d'acquisition préféré pour les équipements de manutention",
+        "commentaire": "Quel mode d'acquisition préférez-vous pour vos équipements de manutention (transpalettes, chariots élévateurs, gerbeurs) ?"
+      },
+      {
+        "language": "en",
+        "labelQuestion": "Preferred acquisition method for handling equipment",
+        "commentaire": "Which acquisition method do you prefer for your handling equipment: purchase, short-term rental, long-term rental or leasing?"
+      },
+      {
+        "language": "ar",
+        "labelQuestion": "طريقة الاقتناء المفضلة لمعدات المناولة",
+        "commentaire": "ما طريقة الاقتناء التي تفضلها لمعدات المناولة: الشراء، الكراء قصير المدة، الكراء طويل المدة أو التمويل التأجيري؟"
+      },
+      {
+        "language": "es",
+        "labelQuestion": "Modo de adquisición preferido para equipos de manutención",
+        "commentaire": "¿Qué modo de adquisición prefiere para sus equipos de manutención: compra, alquiler de corta duración, alquiler de larga duración o leasing?"
+      }
+    ],
+    "imageRepresentative": null,
+    "etatValidation": "code_224",
+    "choix": [
+      {
+        "$oid": "65f000000000000000000797"
+      },
+      {
+        "$oid": "65f000000000000000000798"
+      },
+      {
+        "$oid": "65f000000000000000000799"
+      }
+    ],
+    "sondage": {
+      "$oid": "65f000000000000000001507"
+    },
+    "objetsAssocies": [],
+    "createdAt": {
+      "$date": "2024-02-20T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-01T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001601"
+    },
+    "labelQuestion": "Délais respectés ?",
+    "translations": [
+      {
+        "language": "fr",
+        "labelQuestion": "Délais respectés ?",
+        "commentaire": "Évaluez nos délais et la qualité de réception de vos engins."
+      }
+    ],
+    "choix": [
+      {
+        "$oid": "65f000000000000000001701"
+      },
+      {
+        "$oid": "65f000000000000000001702"
+      }
+    ],
+    "sondage": {
+      "$oid": "65f000000000000000001501"
+    },
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001602"
+    },
+    "labelQuestion": "Énergie préférée ?",
+    "translations": [
+      {
+        "language": "fr",
+        "labelQuestion": "Énergie préférée ?",
+        "commentaire": "Quelle énergie privilégiez-vous pour votre parc ?"
+      }
+    ],
+    "choix": [
+      {
+        "$oid": "65f000000000000000001703"
+      },
+      {
+        "$oid": "65f000000000000000001704"
+      },
+      {
+        "$oid": "65f000000000000000001705"
+      }
+    ],
+    "sondage": {
+      "$oid": "65f000000000000000001502"
+    },
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001603"
+    },
+    "labelQuestion": "Mode d'acquisition ?",
+    "translations": [
+      {
+        "language": "fr",
+        "labelQuestion": "Mode d'acquisition ?",
+        "commentaire": "Préférez-vous louer ou acheter vos équipements ?"
+      }
+    ],
+    "choix": [
+      {
+        "$oid": "65f000000000000000001706"
+      },
+      {
+        "$oid": "65f000000000000000001707"
+      }
+    ],
+    "sondage": {
+      "$oid": "65f000000000000000001503"
+    },
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001604"
+    },
+    "labelQuestion": "Usage du SAV ?",
+    "translations": [
+      {
+        "language": "fr",
+        "labelQuestion": "Usage du SAV ?",
+        "commentaire": "Avez-vous déjà testé notre service de maintenance ?"
+      }
+    ],
+    "choix": [
+      {
+        "$oid": "65f000000000000000001708"
+      },
+      {
+        "$oid": "65f000000000000000001709"
+      }
+    ],
+    "sondage": {
+      "$oid": "65f000000000000000001504"
+    },
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001606"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "labelQuestion": "Besoin de formation ?",
+        "commentaire": "Détails sur Besoin de formation ?"
+      },
+      {
+        "language": "en",
+        "labelQuestion": "Need training?",
+        "commentaire": "Details on Need training?"
+      },
+      {
+        "language": "ar",
+        "labelQuestion": "هل تحتاج إلى تدريب؟",
+        "commentaire": "تفاصيل حول هل تحتاج إلى تدريب؟"
+      },
+      {
+        "language": "es",
+        "labelQuestion": "¿Necesita formación?",
+        "commentaire": "¿Detalles sobre la formación?"
+      }
+    ],
+    "choix": [
+      {
+        "$oid": "65f000000000000000001720"
+      },
+      {
+        "$oid": "65f000000000000000001721"
+      }
+    ],
+    "sondage": {
+      "$oid": "65f000000000000000001506"
+    },
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001607"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "labelQuestion": "Prêt pour l'IoT ?",
+        "commentaire": "Détails sur Prêt pour l'IoT ?"
+      },
+      {
+        "language": "en",
+        "labelQuestion": "Ready for IoT?",
+        "commentaire": "Details on Ready for IoT?"
+      },
+      {
+        "language": "ar",
+        "labelQuestion": "هل أنت مستعد لـ IoT؟",
+        "commentaire": "تفاصيل حول هل أنت مستعد لـ IoT؟"
+      },
+      {
+        "language": "es",
+        "labelQuestion": "¿Listo para la IoT?",
+        "commentaire": "¿Detalles sobre cómo usar IoT?"
+      }
+    ],
+    "choix": [
+      {
+        "$oid": "65f000000000000000001722"
+      },
+      {
+        "$oid": "65f000000000000000001723"
+      }
+    ],
+    "sondage": {
+      "$oid": "65f000000000000000001507"
+    },
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001608"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "labelQuestion": "Défis urbains ?",
+        "commentaire": "Détails sur Défis urbains ?"
+      },
+      {
+        "language": "en",
+        "labelQuestion": "Urban challenges?",
+        "commentaire": "Details on Urban challenges?"
+      },
+      {
+        "language": "ar",
+        "labelQuestion": "تحديات حضرية؟",
+        "commentaire": "تفاصيل حول تحديات حضرية؟"
+      },
+      {
+        "language": "es",
+        "labelQuestion": "¿Retos urbanos?",
+        "commentaire": "¿Información detallada sobre estos dispositivos?"
+      }
+    ],
+    "choix": [
+      {
+        "$oid": "65f000000000000000001724"
+      },
+      {
+        "$oid": "65f000000000000000001725"
+      }
+    ],
+    "sondage": {
+      "$oid": "65f000000000000000001508"
+    },
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001609"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "labelQuestion": "Priorité sécurité ?",
+        "commentaire": "Détails sur Priorité sécurité ?"
+      },
+      {
+        "language": "en",
+        "labelQuestion": "Security priority?",
+        "commentaire": "Details on Security priority?"
+      },
+      {
+        "language": "ar",
+        "labelQuestion": "أولوية الأمن؟",
+        "commentaire": "تفاصيل حول أولوية الأمن؟"
+      },
+      {
+        "language": "es",
+        "labelQuestion": "¿Prioridad de seguridad?",
+        "commentaire": "¿Prioridad de seguridad detallada?"
+      }
+    ],
+    "choix": [
+      {
+        "$oid": "65f000000000000000001726"
+      },
+      {
+        "$oid": "65f000000000000000001727"
+      }
+    ],
+    "sondage": {
+      "$oid": "65f000000000000000001509"
+    },
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001610"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "labelQuestion": "Confiance en l'avenir ?",
+        "commentaire": "Détails sur Confiance en l'avenir ?"
+      },
+      {
+        "language": "en",
+        "labelQuestion": "Confidence in the future?",
+        "commentaire": "Details on Confidence in the future?"
+      },
+      {
+        "language": "ar",
+        "labelQuestion": "ثقة في المستقبل؟",
+        "commentaire": "تفاصيل حول ثقة في المستقبل؟"
+      },
+      {
+        "language": "es",
+        "labelQuestion": "¿Confianza en el futuro?",
+        "commentaire": "Detalles sobre la confianza en el futuro?"
+      }
+    ],
+    "choix": [
+      {
+        "$oid": "65f000000000000000001728"
+      },
+      {
+        "$oid": "65f000000000000000001729"
+      }
+    ],
+    "sondage": {
+      "$oid": "65f000000000000000001510"
+    },
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  }
+]

@@ -1,0 +1,2604 @@
+[
+  {
+    "_id": {
+      "$oid": "ad8f6a0a065c00eb540c9339"
+    },
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Comment puis-je publier une annonce sur MarketBook Maroc ?",
+        "reponse": "Vous pouvez publier une annonce en cliquant sur le bouton 'Vendre un matériel' dans le menu principal. Vous devrez créer un compte ou vous connecter, puis remplir les détails de votre machine (marque, modèle, année, heures, prix) et ajouter des photos."
+      }
+    ],
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "etatObjet": "code-1"
+  },
+  {
+    "_id": {
+      "$oid": "906125dcab7ab5df53f05861"
+    },
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Comment filtrer les résultats par région au Maroc ?",
+        "reponse": "Dans les filtres de recherche sur la gauche de la page de résultats, vous pouvez sélectionner 'Emplacement' pour filtrer les annonces par ville ou province marocaine."
+      }
+    ],
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "etatObjet": "code-1"
+  },
+  {
+    "_id": {
+      "$oid": "52c48540758f950bc2da9125"
+    },
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Comment contacter un vendeur ou un concessionnaire ?",
+        "reponse": "Sur chaque fiche produit, vous trouverez les coordonnées du vendeur, incluant son numéro de téléphone et un formulaire de contact par email. Cliquez sur 'Afficher le numéro' pour voir le téléphone."
+      }
+    ],
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "etatObjet": "code-1"
+  },
+  {
+    "_id": {
+      "$oid": "928fb759f70a718ebe62a508"
+    },
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Est-ce que MarketBook gère la livraison du matériel ?",
+        "reponse": "MarketBook est une plateforme de mise en relation. La livraison doit être négociée directement entre l'acheteur et le vendeur. Nous recommandons d'utiliser des services de transport spécialisés pour le matériel lourd."
+      }
+    ],
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "etatObjet": "code-1"
+  },
+  {
+    "_id": {
+      "$oid": "523189f591c63100f50a1664"
+    },
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Comment comparer deux voitures neuves au Maroc ?",
+        "reponse": "Utilisez le comparateur de wandaloo.com : sélectionnez jusqu'à 4 modèles et comparez leurs fiches techniques, prix et équipements côte à côte."
+      }
+    ],
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "etatObjet": "code-1"
+  },
+  {
+    "_id": {
+      "$oid": "eab978f7a908e049c9586302"
+    },
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Quel est le prix d'une voiture neuve au Maroc en DH ?",
+        "reponse": "Les prix varient selon les segments : Citadines dès 130.000 DH (Dacia Logan), SUV entre 230.000 et 500.000 DH, Luxe/Prestige au-dessus de 600.000 DH. Les prix sont affichés hors frais d'immatriculation."
+      }
+    ],
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "etatObjet": "code-1"
+  },
+  {
+    "_id": {
+      "$oid": "6dede443d442f53e8cb846c7"
+    },
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Qu'est-ce que le malus écologique au Maroc ?",
+        "reponse": "Les véhicules de plus de 11 CV fiscaux sont soumis à une taxe de luxe au Maroc. Les véhicules hybrides et électriques en sont généralement exonérés."
+      }
+    ],
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "etatObjet": "code-1"
+  },
+  {
+    "_id": {
+      "$oid": "6c9c275a7a7f6306165ab6dd"
+    },
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Où trouver un concessionnaire automobile au Maroc ?",
+        "reponse": "wandaloo.com recense +350 concessionnaires, importateurs et showrooms répartis dans toutes les villes du Maroc. Filtrez par marque et ville pour trouver le plus proche."
+      }
+    ],
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "etatObjet": "code-1"
+  },
+  {
+    "_id": {
+      "$oid": "0a0ad5ac16398e04d282ab99"
+    },
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Les voitures électriques sont-elles disponibles au Maroc ?",
+        "reponse": "Oui, plusieurs marques proposent des véhicules électriques au Maroc : BYD, Lexus RZ, Audi e-tron, Toyota bZ4X, XPENG, Zeekr, etc. Les prix débutent autour de 300.000 DH."
+      }
+    ],
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "etatObjet": "code-1"
+  },
+  {
+    "_id": {
+      "$oid": "9669c6d61725e3976e4739fb"
+    },
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Quelle est la différence entre HEV et PHEV ?",
+        "reponse": "HEV (Hybride) : la batterie se recharge automatiquement par récupération d'énergie, sans branchement. PHEV (Hybride Rechargeable) : la batterie se recharge aussi via une prise électrique, permettant une autonomie électrique plus longue (40-80 km généralement)."
+      }
+    ],
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "etatObjet": "code-1"
+  },
+  {
+    "_id": {
+      "$oid": "94fb84e559c3b0f176b53e76"
+    },
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Comment s'immatriculer une voiture neuve au Maroc ?",
+        "reponse": "Vous devez fournir : la facture d'achat, le certificat de conformité, une pièce d'identité, et payer les frais d'immatriculation au centre de la DGSN. Le concessionnaire s'en charge généralement contre facturation."
+      }
+    ],
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "etatObjet": "code-1"
+  },
+  {
+    "_id": {
+      "$oid": "c7aeaa4a6c832910eb5ac989"
+    },
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Quelles sont les marques chinoises disponibles au Maroc en 2026 ?",
+        "reponse": "Au Maroc, plusieurs marques chinoises sont présentes : BYD, Geely, Chery, GWM, BAIC, MG, Changan, Dongfeng, JAC, DFSK, Jaecoo, Omoda, Exeed, DEEPAL, Soueast, Leapmotor, Zeekr, XPENG, ROX, Seres. Elles offrent souvent le meilleur rapport qualité-prix."
+      }
+    ],
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "etatObjet": "code-1"
+  },
+  {
+    "_id": {
+      "$oid": "482f2a491388a2b150a72a6c"
+    },
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Quel budget pour une voiture électrique au Maroc ?",
+        "reponse": "Les véhicules électriques débutent autour de 300.000 DH (MG4, BYD Seagull). Les modèles premium comme Lexus RZ ou XPENG G9 dépassent 700.000 DH. Des aides gouvernementales sont en discussion pour encourager l'adoption du véhicule électrique."
+      }
+    ],
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "etatObjet": "code-1"
+  },
+  {
+    "_id": {
+      "$oid": "bc9b478c57433f58800c7f58"
+    },
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Comment fonctionne le comparateur de voitures sur wandaloo.com ?",
+        "reponse": "Allez sur wandaloo.com/neuf, cliquez sur 'Comparateur', sélectionnez jusqu'à 4 véhicules, puis comparez : prix, motorisation, puissance, consommation, dimensions et équipements, côte à côte."
+      }
+    ],
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "etatObjet": "code-1"
+  },
+  {
+    "_id": {
+      "$oid": "5f822880a5c49ebb494f4f1c"
+    },
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Comment acheter du matériel d'occasion sur Mascus ?",
+        "reponse": "Mascus est une plateforme de petites annonces. Vous devez contacter directement le vendeur (concessionnaire ou particulier) dont les coordonnées figurent sur la page de l'annonce."
+      }
+    ],
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "etatObjet": "code-1"
+  },
+  {
+    "_id": {
+      "$oid": "e565c7b3a80fa776c3186d72"
+    },
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Peut-on importer une pelle mécanique d'Europe vers l'Afrique ?",
+        "reponse": "Oui, de nombreux vendeurs sur Mascus proposent l'exportation. Il faudra vérifier les normes douanières de votre pays et organiser le transport maritime (RoRo ou container)."
+      }
+    ],
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "etatObjet": "code-1"
+  },
+  {
+    "_id": {
+      "$oid": "9eee006db07f6f3f5c5c23a4"
+    },
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Combien d'heures d'utilisation sont acceptables pour un tracteur d'occasion ?",
+        "reponse": "Un tracteur agricole bien entretenu peut dépasser 10 000 heures. Entre 3000 et 6000 heures, le tracteur est considéré comme une excellente affaire de milieu de vie."
+      }
+    ],
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "etatObjet": "code-1"
+  },
+  {
+    "_id": {
+      "$oid": "0fe6e15949976cec1a763a90"
+    },
+    "reference": "Q-FAQ-001",
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Comment rechercher un produit de manutention sur OMNILOG ?",
+        "reponse": "Utilisez la barre de recherche en haut de la page et saisissez le nom du produit, sa référence ou ses caractéristiques. Vous pouvez affiner votre recherche grâce aux filtres disponibles (marque, charge maximale, matière, prix)."
+      },
+      {
+        "language": "en",
+        "question": "How can I search for a handling product on OMNILOG?",
+        "reponse": "Use the search bar at the top of the page and enter the product name, reference or characteristics. You can refine your search using the available filters such as brand, maximum load, material and price."
+      },
+      {
+        "language": "ar",
+        "question": "كيف يمكنني البحث عن منتج مناولة على OMNILOG؟",
+        "reponse": "استخدم شريط البحث أعلى الصفحة وأدخل اسم المنتج أو مرجعه أو خصائصه. يمكنك تحسين البحث باستخدام المرشحات المتاحة مثل العلامة التجارية والحمولة القصوى والمادة والسعر."
+      },
+      {
+        "language": "es",
+        "question": "¿Cómo puedo buscar un producto de manutención en OMNILOG?",
+        "reponse": "Utilice la barra de búsqueda en la parte superior de la página e introduzca el nombre del producto, su referencia o sus características. Puede afinar la búsqueda con los filtros disponibles, como marca, carga máxima, material y precio.",
+        "nomAuteurQuestion": null
+      }
+    ],
+    "emailAuteur": "admin.faq@smart-automation.ma",
+    "dateQuestion": {
+      "$date": "2024-03-15T08:00:00.000Z"
+    },
+    "etatQst": "code_4268",
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-03-15T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-15T08:00:00.000Z"
+    },
+    "ordre": 1,
+    "provenance": "code_211",
+    "etatDePublication": "code_3417"
+  },
+  {
+    "_id": {
+      "$oid": "5637b4f946f4429bd1e2591f"
+    },
+    "reference": "Q-FAQ-002",
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Comment naviguer dans les catégories de produits ?",
+        "reponse": "Cliquez sur le menu principal pour accéder aux domaines (Entrepôt, Emballage, Sécurité, etc.). Naviguez ensuite dans les sous-domaines et catégories pour trouver le type de produit recherché."
+      },
+      {
+        "language": "en",
+        "question": "How can I browse product categories?",
+        "reponse": "Click the main menu to access domains such as Warehouse, Packaging and Safety. Then browse subdomains and categories to find the product type you need."
+      },
+      {
+        "language": "ar",
+        "question": "كيف يمكنني تصفح فئات المنتجات؟",
+        "reponse": "انقر على القائمة الرئيسية للوصول إلى المجالات مثل المستودع والتغليف والسلامة. ثم تصفح المجالات الفرعية والفئات للعثور على نوع المنتج المطلوب."
+      },
+      {
+        "language": "es",
+        "question": "¿Cómo puedo navegar por las categorías de productos?",
+        "reponse": "Haga clic en el menú principal para acceder a los dominios como almacén, embalaje y seguridad. Luego navegue por subdominios y categorías para encontrar el tipo de producto buscado.",
+        "nomAuteurQuestion": null
+      }
+    ],
+    "emailAuteur": "utilisateur2@omnilog.ma",
+    "dateQuestion": {
+      "$date": "2024-03-15T08:00:00.000Z"
+    },
+    "etatQst": "code_4268",
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-03-15T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-15T08:00:00.000Z"
+    },
+    "ordre": 2,
+    "provenance": "code_211",
+    "etatDePublication": "code_3417"
+  },
+  {
+    "_id": {
+      "$oid": "390756121257feff2ebb26bf"
+    },
+    "reference": "Q-FAQ-003",
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Comment demander un devis sur OMNILOG ?",
+        "reponse": "Sur la fiche produit, cliquez sur le bouton 'Demander un devis'. Remplissez le formulaire avec vos coordonnées, la quantité souhaitée et vos besoins spécifiques. Un conseiller OMNILOG vous répondra sous 24 heures ouvrables."
+      },
+      {
+        "language": "en",
+        "question": "How can I request a quote on OMNILOG?",
+        "reponse": "On the product page, click the 'Request a quote' button. Fill in the form with your contact details, required quantity and specific needs. An OMNILOG advisor will reply within 24 working hours."
+      },
+      {
+        "language": "ar",
+        "question": "كيف يمكنني طلب عرض سعر على OMNILOG؟",
+        "reponse": "في صفحة المنتج، انقر على زر 'طلب عرض سعر'. املأ النموذج ببيانات الاتصال والكمية المطلوبة واحتياجاتك الخاصة. سيرد عليك مستشار OMNILOG خلال 24 ساعة عمل."
+      },
+      {
+        "language": "es",
+        "question": "¿Cómo puedo solicitar un presupuesto en OMNILOG?",
+        "reponse": "En la ficha del producto, haga clic en el botón 'Solicitar presupuesto'. Complete el formulario con sus datos, la cantidad deseada y sus necesidades específicas. Un asesor de OMNILOG responderá en un plazo de 24 horas laborables.",
+        "nomAuteurQuestion": null
+      }
+    ],
+    "emailAuteur": "utilisateur3@omnilog.ma",
+    "dateQuestion": {
+      "$date": "2024-03-15T08:00:00.000Z"
+    },
+    "etatQst": "code_4268",
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-03-15T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-15T08:00:00.000Z"
+    },
+    "ordre": 3,
+    "provenance": "code_211",
+    "etatDePublication": "code_3417"
+  },
+  {
+    "_id": {
+      "$oid": "4c14cf2fbeef8291d5803f77"
+    },
+    "reference": "Q-FAQ-004",
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Comment comparer des produits entre eux ?",
+        "reponse": "Cochez la case 'Comparer' sur les fiches produits que vous souhaitez comparer (jusqu'à 4 produits). Cliquez ensuite sur 'Voir la comparaison' pour afficher un tableau récapitulatif des caractéristiques techniques."
+      },
+      {
+        "language": "en",
+        "question": "How can I compare products?",
+        "reponse": "Check the 'Compare' box on the product pages you want to compare, up to 4 products. Then click 'View comparison' to display a summary table of technical characteristics."
+      },
+      {
+        "language": "ar",
+        "question": "كيف يمكنني مقارنة المنتجات؟",
+        "reponse": "حدد خانة 'مقارنة' في صفحات المنتجات التي تريد مقارنتها، حتى 4 منتجات. ثم انقر على 'عرض المقارنة' لعرض جدول يلخص الخصائص التقنية."
+      },
+      {
+        "language": "es",
+        "question": "¿Cómo puedo comparar productos entre sí?",
+        "reponse": "Marque la casilla 'Comparar' en las fichas de los productos que desea comparar, hasta 4 productos. Luego haga clic en 'Ver comparación' para mostrar una tabla resumida de características técnicas.",
+        "nomAuteurQuestion": null
+      }
+    ],
+    "emailAuteur": "utilisateur4@omnilog.ma",
+    "dateQuestion": {
+      "$date": "2024-03-15T08:00:00.000Z"
+    },
+    "etatQst": "code_4268",
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-03-15T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-15T08:00:00.000Z"
+    },
+    "ordre": 4,
+    "provenance": "code_211",
+    "etatDePublication": "code_3417"
+  },
+  {
+    "_id": {
+      "$oid": "816d36bb5a12d18ceddd1b60"
+    },
+    "reference": "Q-FAQ-005",
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Comment lire les caractéristiques techniques d'un produit ?",
+        "reponse": "Les caractéristiques techniques sont affichées dans un tableau dédié sur chaque fiche produit. Elles incluent la charge maximale, les dimensions, les matériaux, les normes de conformité et les options disponibles."
+      },
+      {
+        "language": "en",
+        "question": "How can I read a product's technical characteristics?",
+        "reponse": "Technical characteristics are displayed in a dedicated table on each product page. They include maximum load, dimensions, materials, compliance standards and available options."
+      },
+      {
+        "language": "ar",
+        "question": "كيف يمكنني قراءة الخصائص التقنية للمنتج؟",
+        "reponse": "تُعرض الخصائص التقنية في جدول مخصص في كل صفحة منتج. وتشمل الحمولة القصوى والأبعاد والمواد ومعايير المطابقة والخيارات المتاحة."
+      },
+      {
+        "language": "es",
+        "question": "¿Cómo puedo leer las características técnicas de un producto?",
+        "reponse": "Las características técnicas se muestran en una tabla dedicada en cada ficha de producto. Incluyen carga máxima, dimensiones, materiales, normas de conformidad y opciones disponibles.",
+        "nomAuteurQuestion": null
+      }
+    ],
+    "emailAuteur": "utilisateur5@omnilog.ma",
+    "dateQuestion": {
+      "$date": "2024-03-15T08:00:00.000Z"
+    },
+    "etatQst": "code_4268",
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-03-15T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-15T08:00:00.000Z"
+    },
+    "ordre": 5,
+    "provenance": "code_211",
+    "etatDePublication": "code_3417"
+  },
+  {
+    "_id": {
+      "$oid": "f49928254de7228401364a32"
+    },
+    "reference": "Q-FAQ-006",
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Quels sont les délais et tarifs de livraison ?",
+        "reponse": "La livraison est disponible partout au Maroc. Les délais et tarifs dépendent du fournisseur, de la ville de livraison, du poids, du volume et du type de produit. Les informations de livraison sont précisées lors de la demande de devis ou sur la fiche produit.",
+        "nomAuteurQuestion": "Utilisateur OMNILOG"
+      },
+      {
+        "language": "en",
+        "question": "What are the delivery times and costs?",
+        "reponse": "Delivery is available throughout Morocco. Delivery times and costs depend on the supplier, delivery city, weight, volume and product type. Delivery details are specified during the quotation request or on the product page.",
+        "nomAuteurQuestion": "User OMNILOG"
+      },
+      {
+        "language": "ar",
+        "question": "ما هي مدة وتكاليف التوصيل؟",
+        "reponse": "التوصيل متاح في جميع أنحاء المغرب. تعتمد مدة وتكلفة التوصيل على المورّد ومدينة التوصيل والوزن والحجم ونوع المنتج. يتم توضيح معلومات التوصيل أثناء طلب عرض السعر أو في صفحة المنتج.",
+        "nomAuteurQuestion": "مستخدم OMNILOG"
+      },
+      {
+        "language": "es",
+        "question": "¿Cuáles son los plazos y costes de entrega?",
+        "reponse": "La entrega está disponible en todo Marruecos. Los plazos y costes dependen del proveedor, de la ciudad de entrega, del peso, del volumen y del tipo de producto. La información de entrega se especifica durante la solicitud de presupuesto o en la ficha del producto.",
+        "nomAuteurQuestion": "Usuario OMNILOG"
+      }
+    ],
+    "emailAuteur": "utilisateur6@omnilog.ma",
+    "dateQuestion": {
+      "$date": "2024-03-15T08:00:00.000Z"
+    },
+    "etatQst": "code_4268",
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-03-15T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-15T08:00:00.000Z"
+    },
+    "ordre": 6,
+    "provenance": "code_211",
+    "etatDePublication": "code_3417"
+  },
+  {
+    "_id": {
+      "$oid": "6e5df42917602d41b263d9ec"
+    },
+    "reference": "Q-FAQ-007",
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Comment connaître la disponibilité d'un produit ?",
+        "reponse": "La disponibilité est indiquée directement sur la fiche produit par un indicateur coloré (vert : en stock, orange : délai allongé, rouge : sur commande). Vous pouvez également activer une alerte de disponibilité par email."
+      },
+      {
+        "language": "en",
+        "question": "How can I know if a product is available?",
+        "reponse": "Availability is shown directly on the product page with a color indicator: green for in stock, orange for extended lead time and red for on order. You can also activate an email availability alert."
+      },
+      {
+        "language": "ar",
+        "question": "كيف يمكنني معرفة توفر المنتج؟",
+        "reponse": "يُعرض التوفر مباشرة في صفحة المنتج بواسطة مؤشر لوني: أخضر للمخزون المتاح، برتقالي لمدة انتظار أطول، وأحمر للطلب الخاص. يمكنك أيضاً تفعيل تنبيه التوفر عبر البريد الإلكتروني."
+      },
+      {
+        "language": "es",
+        "question": "¿Cómo puedo saber si un producto está disponible?",
+        "reponse": "La disponibilidad se indica directamente en la ficha del producto mediante un indicador de color: verde para en stock, naranja para plazo ampliado y rojo para bajo pedido. También puede activar una alerta de disponibilidad por correo electrónico.",
+        "nomAuteurQuestion": null
+      }
+    ],
+    "emailAuteur": "utilisateur7@omnilog.ma",
+    "dateQuestion": {
+      "$date": "2024-03-15T08:00:00.000Z"
+    },
+    "etatQst": "code_4268",
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-03-15T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-15T08:00:00.000Z"
+    },
+    "ordre": 7,
+    "provenance": "code_211",
+    "etatDePublication": "code_3417"
+  },
+  {
+    "_id": {
+      "$oid": "0752ee1b9ec021f8dc8d26b8"
+    },
+    "reference": "Q-FAQ-008",
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Les produits sont-ils conformes aux normes de sécurité ?",
+        "reponse": "Les produits publiés sur OMNILOG doivent préciser les normes et certifications applicables, comme le marquage CE, les normes EN ou ISO lorsque cela est nécessaire. L’utilisateur doit toujours vérifier les informations techniques et les documents fournis par le vendeur avant l’achat ou la location."
+      },
+      {
+        "language": "en",
+        "question": "Are the products compliant with safety standards?",
+        "reponse": "Products published on OMNILOG must specify applicable standards and certifications, such as CE marking, EN or ISO standards when required. The user should always check the technical information and documents provided by the seller before purchase or rental."
+      },
+      {
+        "language": "ar",
+        "question": "هل المنتجات مطابقة لمعايير السلامة؟",
+        "reponse": "يجب أن توضح المنتجات المنشورة على OMNILOG المعايير والشهادات المطبقة مثل علامة CE أو معايير EN أو ISO عند الحاجة. يجب على المستخدم دائماً التحقق من المعلومات التقنية والوثائق المقدمة من البائع قبل الشراء أو الكراء."
+      },
+      {
+        "language": "es",
+        "question": "¿Los productos cumplen las normas de seguridad?",
+        "reponse": "Los productos publicados en OMNILOG deben indicar las normas y certificaciones aplicables, como marcado CE, normas EN o ISO cuando sea necesario. El usuario debe comprobar siempre la información técnica y los documentos proporcionados por el vendedor antes de comprar o alquilar.",
+        "nomAuteurQuestion": null
+      }
+    ],
+    "emailAuteur": "utilisateur8@omnilog.ma",
+    "dateQuestion": {
+      "$date": "2024-03-15T08:00:00.000Z"
+    },
+    "etatQst": "code_4268",
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-03-15T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-15T08:00:00.000Z"
+    },
+    "ordre": 8,
+    "provenance": "code_211",
+    "etatDePublication": "code_3417"
+  },
+  {
+    "_id": {
+      "$oid": "d235b654e2df1356e9a314f3"
+    },
+    "reference": "Q-FAQ-009",
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Les images produits sont-elles représentatives des articles livrés ?",
+        "reponse": "Les images produits sont fournies à titre illustratif afin d’aider l’utilisateur à identifier l’équipement. Des différences mineures peuvent exister selon le modèle, la configuration ou le fournisseur. Les caractéristiques techniques restent la référence principale."
+      },
+      {
+        "language": "en",
+        "question": "Are product images representative of delivered items?",
+        "reponse": "Product images are provided for illustration to help users identify the equipment. Minor differences may exist depending on the model, configuration or supplier. Technical characteristics remain the main reference."
+      },
+      {
+        "language": "ar",
+        "question": "هل تمثل صور المنتجات العناصر التي يتم تسليمها؟",
+        "reponse": "تُقدم صور المنتجات لأغراض توضيحية لمساعدة المستخدم على التعرف على المعدات. قد توجد اختلافات بسيطة حسب النموذج أو الإعداد أو المورّد. تبقى الخصائص التقنية هي المرجع الرئيسي."
+      },
+      {
+        "language": "es",
+        "question": "¿Las imágenes de los productos representan los artículos entregados?",
+        "reponse": "Las imágenes de los productos se proporcionan con fines ilustrativos para ayudar al usuario a identificar el equipo. Pueden existir pequeñas diferencias según el modelo, la configuración o el proveedor. Las características técnicas siguen siendo la referencia principal.",
+        "nomAuteurQuestion": null
+      }
+    ],
+    "emailAuteur": "utilisateur9@omnilog.ma",
+    "dateQuestion": {
+      "$date": "2024-03-15T08:00:00.000Z"
+    },
+    "etatQst": "code_4268",
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-03-15T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-15T08:00:00.000Z"
+    },
+    "ordre": 9,
+    "provenance": "code_211",
+    "etatDePublication": "code_3417"
+  },
+  {
+    "_id": {
+      "$oid": "47b7032e70632d74dccd3868"
+    },
+    "reference": "Q-FAQ-010",
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Comment devenir fournisseur sur OMNILOG Marketplace ?",
+        "reponse": "Pour devenir fournisseur, l’entreprise peut déposer une demande via l’E-Guichet ou l’espace professionnel OMNILOG. Elle doit fournir ses informations légales, ses coordonnées, ses catégories de produits et les documents nécessaires à la validation de son profil."
+      },
+      {
+        "language": "en",
+        "question": "How can I become a supplier on OMNILOG Marketplace?",
+        "reponse": "To become a supplier, the company can submit an application through the e-counter or OMNILOG professional area. It must provide legal information, contact details, product categories and the documents required to validate its profile."
+      },
+      {
+        "language": "ar",
+        "question": "كيف يمكنني أن أصبح مورداً في OMNILOG Marketplace؟",
+        "reponse": "لكي تصبح الشركة مورداً، يمكنها تقديم طلب عبر الشباك الإلكتروني أو الفضاء المهني لـ OMNILOG. يجب عليها تقديم معلوماتها القانونية وبيانات الاتصال وفئات المنتجات والوثائق اللازمة للتحقق من ملفها."
+      },
+      {
+        "language": "es",
+        "question": "¿Cómo puedo convertirme en proveedor en OMNILOG Marketplace?",
+        "reponse": "Para convertirse en proveedor, la empresa puede presentar una solicitud a través de la ventanilla electrónica o del espacio profesional de OMNILOG. Debe proporcionar sus datos legales, sus datos de contacto, sus categorías de productos y los documentos necesarios para validar su perfil.",
+        "nomAuteurQuestion": null
+      }
+    ],
+    "emailAuteur": "utilisateur10@omnilog.ma",
+    "dateQuestion": {
+      "$date": "2024-03-15T08:00:00.000Z"
+    },
+    "etatQst": "code_4268",
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-03-15T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-15T08:00:00.000Z"
+    },
+    "ordre": 10,
+    "provenance": "code_211",
+    "etatDePublication": "code_3417"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001101"
+    },
+    "reference": "Q-FAQ-011",
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Comment entretenir mon transpalette manuel ?",
+        "reponse": "Un entretien régulier inclut le graissage des articulations, la vérification du niveau d'huile hydraulique et le contrôle de l'état des roues. Il est conseillé de faire une révision complète tous les 6 mois."
+      },
+      {
+        "language": "en",
+        "question": "How to maintain my manual pallet truck?",
+        "reponse": "Regular maintenance includes lubricating joints, checking hydraulic oil level and inspecting wheels. A full service every 6 months is recommended."
+      },
+      {
+        "language": "ar",
+        "question": "كيف أحافظ على رافعة المنصات اليدوية الخاصة بي؟",
+        "reponse": "تتضمن الصيانة الدورية تشحيم المفاصل، وفحص مستوى الزيت الهيدروليكي، ومراقبة حالة العجلات. يُنصح بإجراء مراجعة شاملة كل 6 أشهر."
+      },
+      {
+        "language": "es",
+        "question": "¿Cómo mantener mi transpaleta manual?",
+        "reponse": "El mantenimiento regular incluye el engrase de las articulaciones, la comprobación del nivel de aceite hidráulico y el control del estado de las ruedas. Se recomienda una revisión completa cada 6 meses."
+      }
+    ],
+    "emailAuteur": "expert.logistique@omnilog.ma",
+    "dateQuestion": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatQst": "code_4268",
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 11,
+    "provenance": "code_211",
+    "etatDePublication": "code_3417"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001102"
+    },
+    "reference": "Q-FAQ-012",
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Quelles sont les obligations de formation pour conduire un chariot élévateur au Maroc ?",
+        "reponse": "La conduite de chariots élévateurs nécessite l'obtention du CACES (Certificat d'Aptitude à la Conduite En Sécurité) ou une autorisation de conduite délivrée par l'employeur après une formation adéquate."
+      },
+      {
+        "language": "en",
+        "question": "What are the training requirements for operating a forklift in Morocco?",
+        "reponse": "Operating forklifts requires obtaining the CACES (Certificate of Fitness for Safe Driving) or a driving authorization issued by the employer after adequate training."
+      },
+      {
+        "language": "ar",
+        "question": "ما هي التزامات التكوين لقيادة رافعة شوكية في المغرب؟",
+        "reponse": "تتطلب قيادة الرافعات الشوكية الحصول على شهادة CACES (شهادة التأهيل للقيادة الآمنة) أو ترخيص قيادة يسلمه صاحب العمل بعد تكوين مناسب."
+      },
+      {
+        "language": "es",
+        "question": "¿Cuáles son las obligaciones de formación para conducir una carretilla elevadora en Marruecos?",
+        "reponse": "La conducción de carretillas elevadoras requiere la obtención del CACES (Certificado de Aptitud para la Conducción Segura) o una autorización de conducción expedida por el empleador tras una formación adecuada."
+      }
+    ],
+    "emailAuteur": "expert.logistique@omnilog.ma",
+    "dateQuestion": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatQst": "code_4268",
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 12,
+    "provenance": "code_211",
+    "etatDePublication": "code_3417"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001103"
+    },
+    "reference": "Q-FAQ-013",
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Proposez-vous des équipements de manutention d'occasion ?",
+        "reponse": "Oui, OMNILOG dispose d'une section dédiée aux équipements de manutention reconditionnés et d'occasion, tous vérifiés par nos experts techniques."
+      },
+      {
+        "language": "en",
+        "question": "Do you offer used handling equipment?",
+        "reponse": "Yes, OMNILOG has a dedicated section for refurbished and used handling equipment, all verified by our technical experts."
+      },
+      {
+        "language": "ar",
+        "question": "هل توفرون معدات مناولة مستعملة؟",
+        "reponse": "نعم، لدى OMNILOG قسم مخصص لمعدات المناولة المجددة والمستعملة، وجميعها مفحوصة من قبل خبرائنا التقنيين."
+      },
+      {
+        "language": "es",
+        "question": "¿Ofrecen equipos de manutención de ocasión?",
+        "reponse": "Sí, OMNILOG dispone de una sección dedicada a equipos de manutención reacondicionados y de ocasión, todos verificados por nuestros expertos técnicos."
+      }
+    ],
+    "emailAuteur": "expert.logistique@omnilog.ma",
+    "dateQuestion": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatQst": "code_4268",
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 13,
+    "provenance": "code_211",
+    "etatDePublication": "code_3417"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001104"
+    },
+    "reference": "Q-FAQ-014",
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Quels sont les avantages d'un gerbeur électrique par rapport à un manuel ?",
+        "reponse": "Le gerbeur électrique réduit l'effort physique de l'opérateur, permet des cadences plus élevées et offre une précision accrue pour le gerbage en hauteur."
+      },
+      {
+        "language": "en",
+        "question": "What are the advantages of an electric stacker compared to a manual one?",
+        "reponse": "The electric stacker reduces operator physical effort, allows higher work rates and provides increased precision for high-level stacking."
+      },
+      {
+        "language": "ar",
+        "question": "ما هي مزايا المكدس الكهربائي مقارنة بالمكدس اليدوي؟",
+        "reponse": "يقلل المكدس الكهربائي من الجهد البدني للمشغل، ويسمح بمعدلات إنتاج أعلى ويوفر دقة متزايدة للتكديس في المرتفعات."
+      },
+      {
+        "language": "es",
+        "question": "¿Cuáles son las ventajas de un apilador eléctrico frente a uno manual?",
+        "reponse": "El apilador eléctrico reduce el esfuerzo físico del operario, permite ritmos de trabajo más elevados y ofrece mayor precisión para el apilado en altura."
+      }
+    ],
+    "emailAuteur": "expert.logistique@omnilog.ma",
+    "dateQuestion": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatQst": "code_4268",
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 14,
+    "provenance": "code_211",
+    "etatDePublication": "code_3417"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001105"
+    },
+    "reference": "Q-FAQ-015",
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Comment choisir la capacité de charge de mon rayonnage ?",
+        "reponse": "La capacité de charge doit être calculée en fonction du poids maximum de vos palettes, de la répartition de la charge et de la hauteur totale du rayonnage. Nos experts peuvent réaliser une étude technique."
+      },
+      {
+        "language": "en",
+        "question": "How to choose the load capacity of my racking?",
+        "reponse": "Load capacity should be calculated based on the maximum weight of your pallets, load distribution and the total height of the racking. Our experts can perform a technical study."
+      },
+      {
+        "language": "ar",
+        "question": "كيف أختار قدرة التحميل لرفوفي؟",
+        "reponse": "يجب حساب قدرة التحميل بناءً على الوزن الأقصى للمنصات، وتوزيع الحمل والارتفاع الإجمالي للرفوف. يمكن لخبرائنا إجراء دراسة تقنية."
+      },
+      {
+        "language": "es",
+        "question": "¿Cómo elegir la capacidad de carga de mi estantería?",
+        "reponse": "La capacidad de carga debe calcularse en función del peso máximo de sus paletas, la distribución de la carga y la altura total de la estantería. Nuestros expertos pueden realizar un estudio técnico."
+      }
+    ],
+    "emailAuteur": "expert.logistique@omnilog.ma",
+    "dateQuestion": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatQst": "code_4268",
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 15,
+    "provenance": "code_211",
+    "etatDePublication": "code_3417"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001106"
+    },
+    "reference": "Q-FAQ-016",
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Les équipements OMNILOG sont-ils garantis ?",
+        "reponse": "Tous nos équipements neufs bénéficient d'une garantie constructeur minimale de 12 à 24 mois, couvrant les pièces et la main-d'œuvre."
+      },
+      {
+        "language": "en",
+        "question": "Are OMNILOG equipments guaranteed?",
+        "reponse": "All our new equipment comes with a minimum manufacturer's warranty of 12 to 24 months, covering parts and labor."
+      },
+      {
+        "language": "ar",
+        "question": "هل معدات OMNILOG مضمونة؟",
+        "reponse": "تستفيد جميع معداتنا الجديدة من ضمان الشركة المصنعة لمدة تتراوح بين 12 و24 شهراً، ويشمل ذلك قطع الغيار واليد العاملة."
+      },
+      {
+        "language": "es",
+        "question": "¿Tienen garantía los equipos de OMNILOG?",
+        "reponse": "Todos nuestros equipos nuevos cuentan con una garantía de fabricante mínima de 12 a 24 meses, que cubre piezas y mano de obra."
+      }
+    ],
+    "emailAuteur": "expert.logistique@omnilog.ma",
+    "dateQuestion": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatQst": "code_4268",
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 16,
+    "provenance": "code_211",
+    "etatDePublication": "code_3417"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001107"
+    },
+    "reference": "Q-FAQ-017",
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Livrez-vous dans la zone industrielle de Tanger Med ?",
+        "reponse": "Oui, nous livrons partout au Maroc, y compris les zones franches et industrielles comme Tanger Med, TFZ, et les zones de Casablanca."
+      },
+      {
+        "language": "en",
+        "question": "Do you deliver to the Tanger Med industrial zone?",
+        "reponse": "Yes, we deliver throughout Morocco, including free and industrial zones such as Tanger Med, TFZ, and Casablanca zones."
+      },
+      {
+        "language": "ar",
+        "question": "هل تقومون بالتوصيل إلى المنطقة الصناعية طنجة المتوسط؟",
+        "reponse": "نعم، نقوم بالتوصيل إلى جميع أنحاء المغرب، بما في ذلك المناطق الحرة والصناعية مثل طنجة المتوسط، وTFZ، ومناطق الدار البيضاء."
+      },
+      {
+        "language": "es",
+        "question": "¿Entregan en la zona industrial de Tanger Med?",
+        "reponse": "Sí, realizamos entregas en todo Marruecos, incluidas las zonas francas e industriales como Tanger Med, TFZ y las zonas de Casablanca."
+      }
+    ],
+    "emailAuteur": "expert.logistique@omnilog.ma",
+    "dateQuestion": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatQst": "code_4268",
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 17,
+    "provenance": "code_211",
+    "etatDePublication": "code_3417"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001108"
+    },
+    "reference": "Q-FAQ-018",
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Quels sont les modes de paiement acceptés pour les professionnels ?",
+        "reponse": "Nous acceptons les virements bancaires, les chèques certifiés et proposons des solutions de leasing pour les investissements importants."
+      },
+      {
+        "language": "en",
+        "question": "What are the accepted payment methods for professionals?",
+        "reponse": "We accept bank transfers, certified checks and offer leasing solutions for significant investments."
+      },
+      {
+        "language": "ar",
+        "question": "ما هي طرق الدفع المقبولة للمهنيين؟",
+        "reponse": "نقبل التحويلات البنكية، والشيكات المصادق عليها، ونقدم حلول التأجير التمويلي للاستثمارات الكبيرة."
+      },
+      {
+        "language": "es",
+        "question": "¿Qué métodos de pago se aceptan para profesionales?",
+        "reponse": "Aceptamos transferencias bancarias, cheques certificados y ofrecemos soluciones de leasing para inversiones importantes."
+      }
+    ],
+    "emailAuteur": "expert.logistique@omnilog.ma",
+    "dateQuestion": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatQst": "code_4268",
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 18,
+    "provenance": "code_211",
+    "etatDePublication": "code_3417"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001109"
+    },
+    "reference": "Q-FAQ-019",
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Peut-on louer un chariot élévateur pour une courte durée ?",
+        "reponse": "Oui, nous proposons des contrats de location flexible allant d'une journée à plusieurs mois pour répondre à vos pics d'activité."
+      },
+      {
+        "language": "en",
+        "question": "Can I rent a forklift for a short period?",
+        "reponse": "Yes, we offer flexible rental contracts ranging from one day to several months to meet your peak activity needs."
+      },
+      {
+        "language": "ar",
+        "question": "هل يمكن استئجار رافعة شوكية لفترة قصيرة؟",
+        "reponse": "نعم، نحن نقدم عقود إيجار مرنة تتراوح من يوم واحد إلى عدة أشهر لتلبية احتياجات ذروة نشاطكم."
+      },
+      {
+        "language": "es",
+        "question": "¿Se puede alquilar una carretilla elevadora por poco tiempo?",
+        "reponse": "Sí, ofrecemos contratos de alquiler flexibles desde un día hasta varios meses para cubrir sus picos de actividad."
+      }
+    ],
+    "emailAuteur": "expert.logistique@omnilog.ma",
+    "dateQuestion": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatQst": "code_4268",
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 19,
+    "provenance": "code_211",
+    "etatDePublication": "code_3417"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001110"
+    },
+    "reference": "Q-FAQ-020",
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Comment savoir si un équipement est adapté à un environnement frigorifique ?",
+        "reponse": "Les équipements pour environnement froid (jusqu'à -30°C) possèdent des huiles spécifiques, des protections contre la condensation et une cabine chauffante si nécessaire."
+      },
+      {
+        "language": "en",
+        "question": "How do I know if an equipment is suitable for a cold storage environment?",
+        "reponse": "Equipment for cold environments (down to -30°C) features specific oils, condensation protection, and a heated cabin if necessary."
+      },
+      {
+        "language": "ar",
+        "question": "كيف أعرف إذا كان الجهاز مناسباً لبيئة تبريد؟",
+        "reponse": "تتميز المعدات المخصصة للبيئات الباردة (حتى -30 درجة مئوية) بزيوت خاصة، وحماية من التكثيف، وكابينة تدفئة إذا لزم الأمر."
+      },
+      {
+        "language": "es",
+        "question": "¿Cómo saber si un equipo es apto para un entorno frigorífico?",
+        "reponse": "Los equipos para ambientes fríos (hasta -30°C) cuentan con aceites específicos, protecciones contra la condensación y cabina calefactada si es necesario."
+      }
+    ],
+    "emailAuteur": "expert.logistique@omnilog.ma",
+    "dateQuestion": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatQst": "code_4268",
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 20,
+    "provenance": "code_211",
+    "etatDePublication": "code_3417"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001111"
+    },
+    "reference": "Q-FAQ-021",
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Existe-t-il des aides de l'État pour l'achat d'équipements de sécurité au Maroc ?",
+        "reponse": "Certaines programmes de Maroc PME peuvent accompagner les entreprises dans la mise à niveau de leurs équipements de sécurité. Renseignez-vous auprès de nos conseillers."
+      },
+      {
+        "language": "en",
+        "question": "Are there government grants for purchasing safety equipment in Morocco?",
+        "reponse": "Certain Maroc PME programs can support companies in upgrading their safety equipment. Check with our advisors for details."
+      },
+      {
+        "language": "ar",
+        "question": "هل هناك مساعدات حكومية لشراء معدات السلامة في المغرب؟",
+        "reponse": "يمكن لبعض برامج 'مغرب المقاولات' (Maroc PME) دعم الشركات في تحديث معدات السلامة الخاصة بها. استشر مستشارينا للمزيد من التفاصيل."
+      },
+      {
+        "language": "es",
+        "question": "¿Existen ayudas estatales para la compra de equipos de seguridad en Marruecos?",
+        "reponse": "Algunos programas de Maroc PME pueden apoyar a las empresas en la actualización de sus equipos de seguridad. Consulte con nuestros asesores."
+      }
+    ],
+    "emailAuteur": "expert.logistique@omnilog.ma",
+    "dateQuestion": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatQst": "code_4268",
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 21,
+    "provenance": "code_211",
+    "etatDePublication": "code_3417"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001112"
+    },
+    "reference": "Q-FAQ-022",
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Quelle est la durée de vie moyenne d'une batterie de chariot électrique ?",
+        "reponse": "Une batterie de traction bien entretenue dure généralement entre 5 et 7 ans (environ 1500 cycles de charge)."
+      },
+      {
+        "language": "en",
+        "question": "What is the average lifespan of an electric forklift battery?",
+        "reponse": "A well-maintained traction battery typically lasts between 5 to 7 years (approximately 1500 charge cycles)."
+      },
+      {
+        "language": "ar",
+        "question": "ما هو متوسط العمر الافتراضي لبطارية الرافعة الشوكية الكهربائية؟",
+        "reponse": "تدوم بطارية الجر التي يتم صيانتها جيداً عادةً ما بين 5 إلى 7 سنوات (حوالي 1500 دورة شحن)."
+      },
+      {
+        "language": "es",
+        "question": "¿Cuál es la vida útil media de la batería de una carretilla eléctrica?",
+        "reponse": "Una batería de tracción bien mantenida suele durar entre 5 y 7 años (unos 1500 ciclos de carga)."
+      }
+    ],
+    "emailAuteur": "expert.logistique@omnilog.ma",
+    "dateQuestion": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatQst": "code_4268",
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 22,
+    "provenance": "code_211",
+    "etatDePublication": "code_3417"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001113"
+    },
+    "reference": "Q-FAQ-023",
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Comment optimiser l'espace dans mon petit entrepôt à Casablanca ?",
+        "reponse": "L'utilisation de rayonnages mobiles ou de chariots à mât rétractable permet de réduire la largeur des allées et d'augmenter la densité de stockage."
+      },
+      {
+        "language": "en",
+        "question": "How to optimize space in my small warehouse in Casablanca?",
+        "reponse": "Using mobile racking or reach trucks can reduce aisle widths and increase storage density."
+      },
+      {
+        "language": "ar",
+        "question": "كيف يمكنني تحسين المساحة في مستودعي الصغير في الدار البيضاء؟",
+        "reponse": "يسمح استخدام الرفوف المتنقلة أو الرافعات ذات الصاري المرتد بتقليل عرض الممرات وزيادة كثافة التخزين."
+      },
+      {
+        "language": "es",
+        "question": "¿Cómo optimizar el espacio en mi pequeño almacén en Casablanca?",
+        "reponse": "El uso de estanterías móviles o carretillas retráctiles permite reducir el ancho de los pasillos y aumentar la densidad de almacenamiento."
+      }
+    ],
+    "emailAuteur": "expert.logistique@omnilog.ma",
+    "dateQuestion": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatQst": "code_4268",
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 23,
+    "provenance": "code_211",
+    "etatDePublication": "code_3417"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001114"
+    },
+    "reference": "Q-FAQ-024",
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Quelles sont les normes de sécurité pour les quais de chargement ?",
+        "reponse": "Les quais doivent être équipés de butoirs, de cales de roues, de projecteurs de quai et de systèmes anti-chute pour les opérateurs."
+      },
+      {
+        "language": "en",
+        "question": "What are the safety standards for loading docks?",
+        "reponse": "Docks must be equipped with bumpers, wheel chocks, dock lights, and fall protection systems for operators."
+      },
+      {
+        "language": "ar",
+        "question": "ما هي معايير السلامة لأرصفة التحميل؟",
+        "reponse": "يجب أن تكون الأرصفة مجهزة بمصدات، وحواجز للعجلات، وكشافات رصيف، وأنظمة حماية من السقوط للمشغلين."
+      },
+      {
+        "language": "es",
+        "question": "¿Cuáles son las normas de seguridad para los muelles de carga?",
+        "reponse": "Los muelles deben equiparse con topes, calzos para ruedas, proyectores de muelle y sistemas anticaída para los operarios."
+      }
+    ],
+    "emailAuteur": "expert.logistique@omnilog.ma",
+    "dateQuestion": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatQst": "code_4268",
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 24,
+    "provenance": "code_211",
+    "etatDePublication": "code_3417"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001115"
+    },
+    "reference": "Q-FAQ-025",
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Proposez-vous des solutions de manutention automatisée (AGV) ?",
+        "reponse": "Oui, nous accompagnons les entreprises dans la transition vers l'automatisation avec des solutions de véhicules autoguidés (AGV) pour les flux répétitifs."
+      },
+      {
+        "language": "en",
+        "question": "Do you offer automated handling solutions (AGV)?",
+        "reponse": "Yes, we support companies in transitioning to automation with Automated Guided Vehicle (AGV) solutions for repetitive flows."
+      },
+      {
+        "language": "ar",
+        "question": "هل تقدمون حلول مناولة مؤتمتة (AGV)؟",
+        "reponse": "نعم، نحن نرافق الشركات في الانتقال نحو الأتمتة من خلال حلول المركبات الموجهة آلياً (AGV) للتدفقات المتكررة."
+      },
+      {
+        "language": "es",
+        "question": "¿Ofrecen soluciones de manutención automatizada (AGV)?",
+        "reponse": "Sí, acompañamos a las empresas en la transición hacia la automatización con soluciones de vehículos de guiado automático (AGV) para flujos repetitivos."
+      }
+    ],
+    "emailAuteur": "expert.logistique@omnilog.ma",
+    "dateQuestion": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatQst": "code_4268",
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 25,
+    "provenance": "code_211",
+    "etatDePublication": "code_3417"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001116"
+    },
+    "reference": "Q-FAQ-026",
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Comment tester la résistance de mon sol avant l'installation d'un rack ?",
+        "reponse": "Une étude de sol par un bureau d'études est nécessaire pour vérifier la dalle béton et s'assurer qu'elle peut supporter les charges localisées des montants du rack."
+      },
+      {
+        "language": "en",
+        "question": "How to test my floor resistance before installing a rack?",
+        "reponse": "A soil study by a design office is necessary to check the concrete slab and ensure it can support the concentrated loads from the rack uprights."
+      },
+      {
+        "language": "ar",
+        "question": "كيف يمكنني اختبار مقاومة الأرضية قبل تركيب الرفوف؟",
+        "reponse": "من الضروري إجراء دراسة للأرضية من قبل مكتب دراسات للتحقق من البلاطة الخرسانية والتأكد من قدرتها على تحمل الأحمال المركزة لأعمدة الرفوف."
+      },
+      {
+        "language": "es",
+        "question": "¿Cómo probar la resistencia de mi suelo antes de instalar una estantería?",
+        "reponse": "Es necesario un estudio del suelo por parte de una oficina técnica para comprobar la solera de hormigón y asegurar que puede soportar las cargas localizadas de los puntales de la estantería."
+      }
+    ],
+    "emailAuteur": "expert.logistique@omnilog.ma",
+    "dateQuestion": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatQst": "code_4268",
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 26,
+    "provenance": "code_211",
+    "etatDePublication": "code_3417"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001117"
+    },
+    "reference": "Q-FAQ-027",
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Qu'est-ce que le pesage embarqué sur transpalette ?",
+        "reponse": "C'est un système de capteurs intégrés aux fourches qui permet de peser la marchandise pendant la manipulation, optimisant ainsi les temps de chargement."
+      },
+      {
+        "language": "en",
+        "question": "What is onboard weighing on a pallet truck?",
+        "reponse": "It is a system of sensors integrated into the forks that allows weighing the goods during handling, thus optimizing loading times."
+      },
+      {
+        "language": "ar",
+        "question": "ما هو الوزن المدمج في رافعة المنصات؟",
+        "reponse": "هو نظام من أجهزة الاستشعار المدمجة في الشوك يسمح بوزن البضائع أثناء المناولة، مما يحسن أوقات التحميل."
+      },
+      {
+        "language": "es",
+        "question": "¿Qué es el pesaje a bordo en transpaleta?",
+        "reponse": "Es un sistema de sensores integrados en las horquillas que permite pesar la mercancía durante la manipulación, optimizando así los tiempos de carga."
+      }
+    ],
+    "emailAuteur": "expert.logistique@omnilog.ma",
+    "dateQuestion": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatQst": "code_4268",
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 27,
+    "provenance": "code_211",
+    "etatDePublication": "code_3417"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001118"
+    },
+    "reference": "Q-FAQ-028",
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Comment protéger les rayonnages contre les chocs de chariots ?",
+        "reponse": "L'installation de protections de montants et de barrières de sécurité en acier ou en polymère est indispensable pour préserver l'intégrité de la structure."
+      },
+      {
+        "language": "en",
+        "question": "How to protect racking from forklift impacts?",
+        "reponse": "Installing upright protectors and safety barriers made of steel or polymer is essential to preserve the structure's integrity."
+      },
+      {
+        "language": "ar",
+        "question": "كيف يمكن حماية الرفوف من صدمات الرافعات؟",
+        "reponse": "يعد تركيب واقيات الأعمدة وحواجز السلامة الفولاذية أو البوليمرية أمراً ضرورياً للحفاظ على سلامة الهيكل."
+      },
+      {
+        "language": "es",
+        "question": "¿Cómo proteger las estanterías contra los choques de las carretillas?",
+        "reponse": "La instalación de protectores de puntales y barreras de seguridad de acero o polímero es indispensable para preservar la integridad de la estructura."
+      }
+    ],
+    "emailAuteur": "expert.logistique@omnilog.ma",
+    "dateQuestion": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatQst": "code_4268",
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 28,
+    "provenance": "code_211",
+    "etatDePublication": "code_3417"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001119"
+    },
+    "reference": "Q-FAQ-029",
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Les EPI sont-ils obligatoires pour les visiteurs en entrepôt ?",
+        "reponse": "Oui, le port des chaussures de sécurité et du gilet haute visibilité est généralement obligatoire pour toute personne circulant dans les zones de manutention."
+      },
+      {
+        "language": "en",
+        "question": "Is PPE mandatory for warehouse visitors?",
+        "reponse": "Yes, wearing safety shoes and a high-visibility vest is generally mandatory for anyone walking in handling areas."
+      },
+      {
+        "language": "ar",
+        "question": "هل معدات الحماية الشخصية (EPI) إلزامية لزوار المستودع؟",
+        "reponse": "نعم، عادة ما يكون ارتداء أحذية السلامة وسترة عاكسة للضوء إلزامياً لأي شخص يتواجد في مناطق المناولة."
+      },
+      {
+        "language": "es",
+        "question": "¿Son obligatorios los EPI para los visitantes en el almacén?",
+        "reponse": "Sí, el uso de calzado de seguridad y chaleco de alta visibilidad es generalmente obligatorio para cualquier persona que transite por las zonas de manutención."
+      }
+    ],
+    "emailAuteur": "expert.logistique@omnilog.ma",
+    "dateQuestion": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatQst": "code_4268",
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 29,
+    "provenance": "code_211",
+    "etatDePublication": "code_3417"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001120"
+    },
+    "reference": "Q-FAQ-030",
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Quelle est la différence entre une roue en nylon et une roue en polyuréthane ?",
+        "reponse": "Le nylon est plus dur et facile à rouler sur sol lisse mais bruyant. Le polyuréthane est plus souple, silencieux et offre une meilleure adhérence."
+      },
+      {
+        "language": "en",
+        "question": "What is the difference between a nylon wheel and a polyurethane wheel?",
+        "reponse": "Nylon is harder and easier to roll on smooth floors but noisy. Polyurethane is softer, quieter and offers better grip."
+      },
+      {
+        "language": "ar",
+        "question": "ما الفرق بين عجلة النايلون وعجلة البولي يوريثان؟",
+        "reponse": "النايلون أكثر صلابة ويسهل دحرجته على الأرضيات الملساء ولكنه يصدر ضجيجاً. البولي يوريثان أكثر مرونة وهدوءاً ويوفر تماسكاً أفضل."
+      },
+      {
+        "language": "es",
+        "question": "¿Cuál es la diferencia entre una rueda de nailon y una de poliuretano?",
+        "reponse": "El nailon es más duro y fácil de rodar en suelos lisos pero ruidoso. El poliuretano es más suave, silencioso y ofrece mejor agarre."
+      }
+    ],
+    "emailAuteur": "expert.logistique@omnilog.ma",
+    "dateQuestion": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatQst": "code_4268",
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 30,
+    "provenance": "code_211",
+    "etatDePublication": "code_3417"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001121"
+    },
+    "reference": "Q-FAQ-031",
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Comment signaler une panne sur un équipement loué ?",
+        "reponse": "Contactez immédiatement notre service SAV via le numéro dédié ou votre espace client. Une intervention sera programmée sous 4 à 8 heures."
+      },
+      {
+        "language": "en",
+        "question": "How to report a breakdown on rented equipment?",
+        "reponse": "Immediately contact our after-sales service via the dedicated number or your customer area. An intervention will be scheduled within 4 to 8 hours."
+      },
+      {
+        "language": "ar",
+        "question": "كيف يمكن الإبلاغ عن عطل في جهاز مستأجر؟",
+        "reponse": "اتصل فوراً بخدمة ما بعد البيع لدينا عبر الرقم المخصص أو من خلال حسابك الخاص. سيتم تحديد موعد للتدخل الفني في غضون 4 إلى 8 ساعات."
+      },
+      {
+        "language": "es",
+        "question": "¿Cómo informar de una avería en un equipo alquilado?",
+        "reponse": "Póngase en contacto inmediatamente con nuestro servicio posventa a través del número dedicado o su área de cliente. Se programará una intervención en un plazo de 4 a 8 horas."
+      }
+    ],
+    "emailAuteur": "expert.logistique@omnilog.ma",
+    "dateQuestion": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatQst": "code_4268",
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 31,
+    "provenance": "code_211",
+    "etatDePublication": "code_3417"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001122"
+    },
+    "reference": "Q-FAQ-032",
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Existe-t-il des transpalettes adaptés aux sols irréguliers ?",
+        "reponse": "Oui, les transpalettes tout-terrain avec de grandes roues pneumatiques sont conçus pour les chantiers ou les surfaces non bitumées."
+      },
+      {
+        "language": "en",
+        "question": "Are there pallet trucks suitable for uneven floors?",
+        "reponse": "Yes, all-terrain pallet trucks with large pneumatic wheels are designed for construction sites or unpaved surfaces."
+      },
+      {
+        "language": "ar",
+        "question": "هل توجد رافعات منصات مناسبة للأرضيات غير المستوية؟",
+        "reponse": "نعم، تم تصميم رافعات المنصات المخصصة لجميع التضاريس بعجلات هوائية كبيرة للاستخدام في مواقع البناء أو الأسطح غير المعبدة."
+      },
+      {
+        "language": "es",
+        "question": "¿Existen transpaletas adecuadas para suelos irregulares?",
+        "reponse": "Sí, las transpaletas todoterreno con grandes ruedas neumáticas están diseñadas para obras o superficies no asfaltadas."
+      }
+    ],
+    "emailAuteur": "expert.logistique@omnilog.ma",
+    "dateQuestion": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatQst": "code_4268",
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 32,
+    "provenance": "code_211",
+    "etatDePublication": "code_3417"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001123"
+    },
+    "reference": "Q-FAQ-033",
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Quels sont les critères pour choisir un gerbeur à conducteur porté ?",
+        "reponse": "Le choix dépend de la distance de transfert, de la fréquence des cycles et de la nécessité de protéger l'opérateur dans des allées étroites."
+      },
+      {
+        "language": "en",
+        "question": "What are the criteria for choosing a ride-on stacker?",
+        "reponse": "The choice depends on the transfer distance, cycle frequency, and the need to protect the operator in narrow aisles."
+      },
+      {
+        "language": "ar",
+        "question": "ما هي معايير اختيار مكدس بـسائق؟",
+        "reponse": "يعتمد الاختيار على مسافة النقل، وتكرار الدورات، والحاجة لحماية المشغل في الممرات الضيقة."
+      },
+      {
+        "language": "es",
+        "question": "¿Cuáles son los criterios para elegir un apilador de conductor a bordo?",
+        "reponse": "La elección depende de la distancia de transferencia, la frecuencia de los ciclos y la necesidad de proteger al operario en pasillos estrechos."
+      }
+    ],
+    "emailAuteur": "expert.logistique@omnilog.ma",
+    "dateQuestion": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatQst": "code_4268",
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 33,
+    "provenance": "code_211",
+    "etatDePublication": "code_3417"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001124"
+    },
+    "reference": "Q-FAQ-034",
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Comment recycler les batteries usagées de nos engins ?",
+        "reponse": "OMNILOG propose un service de collecte et de recyclage des batteries usagées en conformité avec les normes environnementales marocaines."
+      },
+      {
+        "language": "en",
+        "question": "How to recycle used batteries from our machines?",
+        "reponse": "OMNILOG offers a collection and recycling service for used batteries in compliance with Moroccan environmental standards."
+      },
+      {
+        "language": "ar",
+        "question": "كيف يمكن إعادة تدوير البطاريات المستعملة لآلياتنا؟",
+        "reponse": "تقدم OMNILOG خدمة جمع وإعادة تدوير البطاريات المستعملة بما يتماشى مع المعايير البيئية المغربية."
+      },
+      {
+        "language": "es",
+        "question": "¿Cómo reciclar las baterías usadas de nuestras máquinas?",
+        "reponse": "OMNILOG ofrece un servicio de recogida y reciclaje de baterías usadas de acuerdo con las normas medioambientales marroquíes."
+      }
+    ],
+    "emailAuteur": "expert.logistique@omnilog.ma",
+    "dateQuestion": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatQst": "code_4268",
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 34,
+    "provenance": "code_211",
+    "etatDePublication": "code_3417"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001125"
+    },
+    "reference": "Q-FAQ-035",
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Quelle est la hauteur de levée maximale de vos chariots élévateurs ?",
+        "reponse": "Nos chariots tridirectionnels et à mât rétractable peuvent atteindre des hauteurs de levée allant jusqu'à 13 mètres."
+      },
+      {
+        "language": "en",
+        "question": "What is the maximum lift height of your forklifts?",
+        "reponse": "Our very narrow aisle (VNA) and reach trucks can reach lift heights of up to 13 meters."
+      },
+      {
+        "language": "ar",
+        "question": "ما هو أقصى ارتفاع لرفع الرافعات الشوكية لديكم؟",
+        "reponse": "يمكن لرافعاتنا ثلاثية الاتجاه والرافعات ذات الصاري المرتد الوصول إلى ارتفاعات رفع تصل إلى 13 متراً."
+      },
+      {
+        "language": "es",
+        "question": "¿Cuál es la altura máxima de elevación de sus carretillas elevadoras?",
+        "reponse": "Nuestras carretillas tridireccionales y retráctiles pueden alcanzar alturas de elevación de hasta 13 metros."
+      }
+    ],
+    "emailAuteur": "expert.logistique@omnilog.ma",
+    "dateQuestion": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatQst": "code_4268",
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 35,
+    "provenance": "code_211",
+    "etatDePublication": "code_3417"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001126"
+    },
+    "reference": "Q-FAQ-036",
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Les équipements sont-ils livrés montés ?",
+        "reponse": "La plupart des équipements de manutention légère sont livrés prêts à l'emploi. Pour les rayonnages, une équipe de montage OMNILOG intervient sur site."
+      },
+      {
+        "language": "en",
+        "question": "Are the equipments delivered assembled?",
+        "reponse": "Most light handling equipment is delivered ready to use. For racking, an OMNILOG assembly team intervenes on site."
+      },
+      {
+        "language": "ar",
+        "question": "هل يتم تسليم المعدات مركبة؟",
+        "reponse": "يتم تسليم معظم معدات المناولة الخفيفة جاهزة للاستخدام. بالنسبة للرفوف، يتدخل فريق تركيب OMNILOG في الموقع."
+      },
+      {
+        "language": "es",
+        "question": "¿Se entregan los equipos montados?",
+        "reponse": "La mayoría de los equipos de manutención ligera se entregan listos para su uso. Para las estanterías, un equipo de montaje de OMNILOG interviene en las instalaciones."
+      }
+    ],
+    "emailAuteur": "expert.logistique@omnilog.ma",
+    "dateQuestion": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatQst": "code_4268",
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 36,
+    "provenance": "code_211",
+    "etatDePublication": "code_3417"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001127"
+    },
+    "reference": "Q-FAQ-037",
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Comment former mes équipes à la sécurité incendie en entrepôt ?",
+        "reponse": "Nous organisons des sessions de formation pratique sur site avec manipulation d'extincteurs et simulation d'évacuation."
+      },
+      {
+        "language": "en",
+        "question": "How to train my teams in warehouse fire safety?",
+        "reponse": "We organize practical training sessions on site with fire extinguisher handling and evacuation simulations."
+      },
+      {
+        "language": "ar",
+        "question": "كيف يمكنني تدريب فرقي على السلامة من الحرائق في المستودع؟",
+        "reponse": "نحن ننظم دورات تدريبية عملية في الموقع مع استخدام طفايات الحريق ومحاكاة الإخلاء."
+      },
+      {
+        "language": "es",
+        "question": "¿Cómo formar a mis equipos en seguridad contra incendios en almacenes?",
+        "reponse": "Organizamos sesiones de formación práctica en sus instalaciones con manejo de extintores y simulacros de evacuación."
+      }
+    ],
+    "emailAuteur": "expert.logistique@omnilog.ma",
+    "dateQuestion": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatQst": "code_4268",
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 37,
+    "provenance": "code_211",
+    "etatDePublication": "code_3417"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001128"
+    },
+    "reference": "Q-FAQ-038",
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Quels sont les avantages du leasing par rapport à l'achat ?",
+        "reponse": "Le leasing préserve votre trésorerie, permet de déduire les loyers en charges et assure le renouvellement régulier de votre parc machine."
+      },
+      {
+        "language": "en",
+        "question": "What are the advantages of leasing compared to purchasing?",
+        "reponse": "Leasing preserves your cash flow, allows rent to be deducted as an expense, and ensures regular renewal of your machine fleet."
+      },
+      {
+        "language": "ar",
+        "question": "ما هي مزايا التأجير التمويلي (Leasing) مقارنة بالشراء؟",
+        "reponse": "يحافظ التأجير التمويلي على السيولة النقدية لديك، ويسمح بخصم الإيجارات كمصاريف ويضمن التجديد الدوري لأسطول آلياتك."
+      },
+      {
+        "language": "es",
+        "question": "¿Cuáles son las ventajas del leasing frente a la compra?",
+        "reponse": "El leasing preserva su tesorería, permite deducir las cuotas como gasto y garantiza la renovación periódica de su flota de máquinas."
+      }
+    ],
+    "emailAuteur": "expert.logistique@omnilog.ma",
+    "dateQuestion": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatQst": "code_4268",
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 38,
+    "provenance": "code_211",
+    "etatDePublication": "code_3417"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001129"
+    },
+    "reference": "Q-FAQ-039",
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Peut-on personnaliser la couleur des équipements ?",
+        "reponse": "Oui, pour les commandes en volume, nous pouvons appliquer les couleurs de votre charte graphique sur certains types d'équipements."
+      },
+      {
+        "language": "en",
+        "question": "Can we customize the color of the equipment?",
+        "reponse": "Yes, for volume orders, we can apply your corporate colors to certain types of equipment."
+      },
+      {
+        "language": "ar",
+        "question": "هل يمكن تخصيص لون المعدات؟",
+        "reponse": "نعم، بالنسبة للطلبات الكبيرة، يمكننا تطبيق ألوان هويتكم البصرية على أنواع معينة من المعدات."
+      },
+      {
+        "language": "es",
+        "question": "¿Se puede personalizar el color de los equipos?",
+        "reponse": "Sí, para pedidos por volumen, podemos aplicar los colores de su identidad corporativa en ciertos tipos de equipos."
+      }
+    ],
+    "emailAuteur": "expert.logistique@omnilog.ma",
+    "dateQuestion": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatQst": "code_4268",
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 39,
+    "provenance": "code_211",
+    "etatDePublication": "code_3417"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001130"
+    },
+    "reference": "Q-FAQ-040",
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Comment estimer mes besoins en équipements pour un nouvel entrepôt ?",
+        "reponse": "Nos consultants logistiques réalisent des audits de flux pour dimensionner votre parc en fonction de vos volumes prévisionnels."
+      },
+      {
+        "language": "en",
+        "question": "How to estimate my equipment needs for a new warehouse?",
+        "reponse": "Our logistics consultants perform flow audits to size your fleet based on your projected volumes."
+      },
+      {
+        "language": "ar",
+        "question": "كيف يمكنني تقدير احتياجاتي من المعدات لمستودع جديد؟",
+        "reponse": "يقوم مستشارونا اللوجستيون بإجراء تدقيق للتدفقات لتحديد حجم أسطولكم بناءً على أحجام التداول المتوقعة."
+      },
+      {
+        "language": "es",
+        "question": "¿Cómo calcular mis necesidades de equipamiento para un nuevo almacén?",
+        "reponse": "Nuestros consultores logísticos realizan auditorías de flujo para dimensionar su flota en función de sus volúmenes previstos."
+      }
+    ],
+    "emailAuteur": "expert.logistique@omnilog.ma",
+    "dateQuestion": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatQst": "code_4268",
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 40,
+    "provenance": "code_211",
+    "etatDePublication": "code_3417"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001141"
+    },
+    "reference": "Q-FAQ-041",
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Quels sont les délais pour une pièce de rechange ?",
+        "reponse": "Réponse détaillée pour Quels sont les délais pour une pièce de rechange ?"
+      },
+      {
+        "language": "en",
+        "question": "What are the lead times for spare parts?",
+        "reponse": "Standard parts are available within 24 to 48 hours for common models. Specific parts may require 7 to 10 working days."
+      },
+      {
+        "language": "ar",
+        "question": "ما هي الآجال اللازمة لقطع الغيار؟",
+        "reponse": "تتوفر القطع القياسية في غضون 24 إلى 48 ساعة للموديلات الشائعة. قد تتطلب القطع الخاصة من 7 إلى 10 أيام عمل."
+      },
+      {
+        "language": "es",
+        "question": "¿Cuáles son los plazos para una pieza de repuesto?",
+        "reponse": "Las piezas estándar están disponibles en un plazo de 24 a 48 horas para los modelos comunes. Las piezas específicas pueden requerir de 7 a 10 días laborables."
+      }
+    ],
+    "emailAuteur": "support@omnilog.ma",
+    "dateQuestion": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatQst": "code_4268",
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 41,
+    "provenance": "code_211",
+    "etatDePublication": "code_3417"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001142"
+    },
+    "reference": "Q-FAQ-042",
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Proposez-vous des contrats de maintenance préventive ?",
+        "reponse": "Réponse détaillée pour Proposez-vous des contrats de maintenance préventive ?"
+      },
+      {
+        "language": "en",
+        "question": "Do you offer preventive maintenance contracts?",
+        "reponse": "Yes, we offer tailored contracts including periodic visits to ensure the safety and longevity of your handling equipment."
+      },
+      {
+        "language": "ar",
+        "question": "هل تقدمون عقود صيانة وقائية؟",
+        "reponse": "نعم، نحن نقدم عقوداً مخصصة تشمل زيارات دورية لضمان سلامة وطول عمر معدات المناولة الخاصة بكم."
+      },
+      {
+        "language": "es",
+        "question": "¿Ofrecen contratos de mantenimiento preventivo?",
+        "reponse": "Sí, ofrecemos contratos a medida que incluyen visitas periódicas para garantizar la seguridad y longevidad de sus equipos de manutención."
+      }
+    ],
+    "emailAuteur": "support@omnilog.ma",
+    "dateQuestion": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatQst": "code_4268",
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 42,
+    "provenance": "code_211",
+    "etatDePublication": "code_3417"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001143"
+    },
+    "reference": "Q-FAQ-043",
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Le matériel est-il garanti ?",
+        "reponse": "Réponse détaillée pour Le matériel est-il garanti ?"
+      },
+      {
+        "language": "en",
+        "question": "Is the equipment guaranteed?",
+        "reponse": "All our products are covered by a legal warranty against hidden defects and a manufacturer's warranty ranging from 1 to 5 years depending on the model."
+      },
+      {
+        "language": "ar",
+        "question": "هل المعدات مضمونة؟",
+        "reponse": "جميع منتجاتنا مشمولة بضمان قانوني ضد العيوب الخفية وضمان الشركة المصنعة الذي يتراوح من سنة إلى 5 سنوات حسب الموديل."
+      },
+      {
+        "language": "es",
+        "question": "¿Tiene garantía el material?",
+        "reponse": "Todos nuestros productos están cubiertos por una garantía legal contra vicios ocultos y una garantía de fabricante de entre 1 y 5 años según el modelo."
+      }
+    ],
+    "emailAuteur": "support@omnilog.ma",
+    "dateQuestion": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatQst": "code_4268",
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 43,
+    "provenance": "code_211",
+    "etatDePublication": "code_3417"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001144"
+    },
+    "reference": "Q-FAQ-044",
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Comment suivre ma commande ?",
+        "reponse": "Réponse détaillée pour Comment suivre ma commande ?"
+      },
+      {
+        "language": "en",
+        "question": "How to track my order?",
+        "reponse": "You can track the status of your order in real time from your customer area or by contacting our logistics department."
+      },
+      {
+        "language": "ar",
+        "question": "كيف أتتبع طلبي؟",
+        "reponse": "يمكنك تتبع حالة طلبك في الوقت الفعلي من خلال فضاء الزبون الخاص بك أو عبر الاتصال بقسم اللوجستيك لدينا."
+      },
+      {
+        "language": "es",
+        "question": "¿Cómo puedo seguir mi pedido?",
+        "reponse": "Puede seguir el estado de su pedido en tiempo real desde su área de cliente o contactando con nuestro departamento logístico."
+      }
+    ],
+    "emailAuteur": "support@omnilog.ma",
+    "dateQuestion": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatQst": "code_4268",
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 44,
+    "provenance": "code_211",
+    "etatDePublication": "code_3417"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001145"
+    },
+    "reference": "Q-FAQ-045",
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Puis-je louer pour une seule journée ?",
+        "reponse": "Réponse détaillée pour Puis-je louer pour une seule journée ?"
+      },
+      {
+        "language": "en",
+        "question": "Can I rent for a single day?",
+        "reponse": "Yes, we offer short-term rental solutions starting from one day for all our standard handling equipment."
+      },
+      {
+        "language": "ar",
+        "question": "هل يمكنني الكراء ليوم واحد فقط؟",
+        "reponse": "نعم، نحن نقدم حلول كراء قصيرة المدى تبدأ من يوم واحد لجميع معدات المناولة القياسية لدينا."
+      },
+      {
+        "language": "es",
+        "question": "¿Puedo alquilar por un solo día?",
+        "reponse": "Sí, ofrecemos soluciones de alquiler a corto plazo a partir de un día para todos nuestros equipos de manutención estándar."
+      }
+    ],
+    "emailAuteur": "support@omnilog.ma",
+    "dateQuestion": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatQst": "code_4268",
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 45,
+    "provenance": "code_211",
+    "etatDePublication": "code_3417"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001146"
+    },
+    "reference": "Q-FAQ-046",
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Quelles sont les modalités de paiement ?",
+        "reponse": "Réponse détaillée pour Quelles sont les modalités de paiement ?"
+      },
+      {
+        "language": "en",
+        "question": "What are the payment terms?",
+        "reponse": "We accept payment by bank transfer, certified check, or via our financial leasing partners."
+      },
+      {
+        "language": "ar",
+        "question": "ما هي طرق الدفع؟",
+        "reponse": "نحن نقبل الدفع عن طريق التحويل البنكي، أو الشيك المصادق عليه، أو عبر شركائنا في التأجير التمويلي."
+      },
+      {
+        "language": "es",
+        "question": "¿Cuáles son las condiciones de pago?",
+        "reponse": "Aceptamos el pago mediante transferencia bancaria, cheque certificado o a través de nuestros socios de leasing financiero."
+      }
+    ],
+    "emailAuteur": "support@omnilog.ma",
+    "dateQuestion": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatQst": "code_4268",
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 46,
+    "provenance": "code_211",
+    "etatDePublication": "code_3417"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001147"
+    },
+    "reference": "Q-FAQ-047",
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Avez-vous des équipements d'occasion ?",
+        "reponse": "Réponse détaillée pour Avez-vous des équipements d'occasion ?"
+      },
+      {
+        "language": "en",
+        "question": "Do you have used equipment?",
+        "reponse": "Yes, we have a constantly renewed stock of certified used equipment, inspected and guaranteed by OMNILOG."
+      },
+      {
+        "language": "ar",
+        "question": "هل لديكم معدات مستعملة؟",
+        "reponse": "نعم، لدينا مخزون متجدد باستمرار من المعدات المستعملة المعتمدة، والتي تم فحصها وضمانها من قبل OMNILOG."
+      },
+      {
+        "language": "es",
+        "question": "¿Tienen equipos de ocasión?",
+        "reponse": "Sí, disponemos de un stock en constante renovación de equipos de ocasión certificados, revisados y garantizados por OMNILOG."
+      }
+    ],
+    "emailAuteur": "support@omnilog.ma",
+    "dateQuestion": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatQst": "code_4268",
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 47,
+    "provenance": "code_211",
+    "etatDePublication": "code_3417"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001148"
+    },
+    "reference": "Q-FAQ-048",
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Les prix sont-ils négociables ?",
+        "reponse": "Réponse détaillée pour Les prix sont-ils négociables ?"
+      },
+      {
+        "language": "en",
+        "question": "Are prices negotiable?",
+        "reponse": "Our prices are calculated to be competitive. However, discounts can be granted for volume orders or long-term partnerships."
+      },
+      {
+        "language": "ar",
+        "question": "هل الأسعار قابلة للتفاوض؟",
+        "reponse": "أسعارنا مدروسة لتكون تنافسية. ومع ذلك، يمكن منح خصومات للطلبات الكبيرة أو للشراكات طويلة الأمد."
+      },
+      {
+        "language": "es",
+        "question": "¿Son negociables los precios?",
+        "reponse": "Nuestros precios están calculados para ser competitivos. No obstante, se pueden conceder descuentos para pedidos por volumen o colaboraciones a largo plazo."
+      }
+    ],
+    "emailAuteur": "support@omnilog.ma",
+    "dateQuestion": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatQst": "code_4268",
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 48,
+    "provenance": "code_211",
+    "etatDePublication": "code_3417"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001149"
+    },
+    "reference": "Q-FAQ-049",
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Comment annuler une demande de devis ?",
+        "reponse": "Réponse détaillée pour Comment annuler une demande de devis ?"
+      },
+      {
+        "language": "en",
+        "question": "How to cancel a quote request?",
+        "reponse": "You can cancel your request directly from your dashboard or by sending an email to our commercial department."
+      },
+      {
+        "language": "ar",
+        "question": "كيف ألغي طلب عرض سعر؟",
+        "reponse": "يمكنك إلغاء طلبك مباشرة من لوحة التحكم الخاصة بك أو عن طريق إرسال بريد إلكتروني إلى قسمنا التجاري."
+      },
+      {
+        "language": "es",
+        "question": "¿Cómo cancelar una solicitud de presupuesto?",
+        "reponse": "Puede cancelar su solicitud directamente desde su panel de control o enviando un correo electrónico a nuestro departamento comercial."
+      }
+    ],
+    "emailAuteur": "support@omnilog.ma",
+    "dateQuestion": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatQst": "code_4268",
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 49,
+    "provenance": "code_211",
+    "etatDePublication": "code_3417"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001150"
+    },
+    "reference": "Q-FAQ-050",
+    "faq": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Où se trouve votre showroom ?",
+        "reponse": "Réponse détaillée pour Où se trouve votre showroom ?"
+      },
+      {
+        "language": "en",
+        "question": "Where is your showroom located?",
+        "reponse": "Our main showroom is located in the Mghogha Industrial Zone in Tangier. We also have points of presence in Casablanca and Agadir."
+      },
+      {
+        "language": "ar",
+        "question": "أين يقع معرضكم؟",
+        "reponse": "يقع معرضنا الرئيسي في المنطقة الصناعية مغوغة بطنجة. ولدينا أيضاً نقاط تواجد في الدار البيضاء وأكادير."
+      },
+      {
+        "language": "es",
+        "question": "¿Dónde está su showroom?",
+        "reponse": "Nuestro showroom principal se encuentra en la Zona Industrial Mghogha en Tánger. También tenemos puntos de presencia en Casablanca y Agadir."
+      }
+    ],
+    "emailAuteur": "support@omnilog.ma",
+    "dateQuestion": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "etatQst": "code_4268",
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 50,
+    "provenance": "code_211",
+    "etatDePublication": "code_3417"
+  }
+]

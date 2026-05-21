@@ -1,0 +1,1084 @@
+[
+  {
+    "_id": {
+      "$oid": "53c27ee95e5626aa763e41f3"
+    },
+    "etatDePublication": null,
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Casablanca",
+        "adresse": "Casablanca, Maroc"
+      }
+    ],
+    "secteursActivitees": null,
+    "codePostal": null,
+    "typeZone": null,
+    "typeCoordGeo": null,
+    "pays": "MA",
+    "region": null,
+    "province": null,
+    "ville": "Casablanca",
+    "commune": null,
+    "quartier": null,
+    "etatCoord": null,
+    "longitude": -7.5898,
+    "latitude": 33.5731,
+    "planAcces": null,
+    "email": null,
+    "mobile": null,
+    "teleFixe": null,
+    "fax": null,
+    "web": null,
+    "instancesCoordonnee": null,
+    "horaire": null,
+    "contact": null,
+    "coordonnesNumeriques": null,
+    "transports": null,
+    "indications": null,
+    "zones": null,
+    "objetsAssocies": null,
+    "objetsConcernes": null
+  },
+  {
+    "_id": {
+      "$oid": "67b991b0a28c388807a6d95b"
+    },
+    "etatDePublication": null,
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Rabat",
+        "adresse": "Rabat, Maroc"
+      }
+    ],
+    "secteursActivitees": null,
+    "codePostal": null,
+    "typeZone": null,
+    "typeCoordGeo": null,
+    "pays": "MA",
+    "region": null,
+    "province": null,
+    "ville": "Rabat",
+    "commune": null,
+    "quartier": null,
+    "etatCoord": null,
+    "longitude": -6.84165,
+    "latitude": 34.020882,
+    "planAcces": null,
+    "email": null,
+    "mobile": null,
+    "teleFixe": null,
+    "fax": null,
+    "web": null,
+    "instancesCoordonnee": null,
+    "horaire": null,
+    "contact": null,
+    "coordonnesNumeriques": null,
+    "transports": null,
+    "indications": null,
+    "zones": null,
+    "objetsAssocies": null,
+    "objetsConcernes": null
+  },
+  {
+    "_id": {
+      "$oid": "c1092bc80a7154f5b5a59727"
+    },
+    "etatDePublication": null,
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Marrakech",
+        "adresse": "Marrakech, Maroc"
+      }
+    ],
+    "secteursActivitees": null,
+    "codePostal": null,
+    "typeZone": null,
+    "typeCoordGeo": null,
+    "pays": "MA",
+    "region": null,
+    "province": null,
+    "ville": "Marrakech",
+    "commune": null,
+    "quartier": null,
+    "etatCoord": null,
+    "longitude": -7.9811,
+    "latitude": 31.6295,
+    "planAcces": null,
+    "email": null,
+    "mobile": null,
+    "teleFixe": null,
+    "fax": null,
+    "web": null,
+    "instancesCoordonnee": null,
+    "horaire": null,
+    "contact": null,
+    "coordonnesNumeriques": null,
+    "transports": null,
+    "indications": null,
+    "zones": null,
+    "objetsAssocies": null,
+    "objetsConcernes": null
+  },
+  {
+    "_id": {
+      "$oid": "113e4b766e4ce5403f3e264e"
+    },
+    "etatDePublication": null,
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Fès",
+        "adresse": "Fès, Maroc"
+      }
+    ],
+    "secteursActivitees": null,
+    "codePostal": null,
+    "typeZone": null,
+    "typeCoordGeo": null,
+    "pays": "MA",
+    "region": null,
+    "province": null,
+    "ville": "Fès",
+    "commune": null,
+    "quartier": null,
+    "etatCoord": null,
+    "longitude": -5.004,
+    "latitude": 34.0372,
+    "planAcces": null,
+    "email": null,
+    "mobile": null,
+    "teleFixe": null,
+    "fax": null,
+    "web": null,
+    "instancesCoordonnee": null,
+    "horaire": null,
+    "contact": null,
+    "coordonnesNumeriques": null,
+    "transports": null,
+    "indications": null,
+    "zones": null,
+    "objetsAssocies": null,
+    "objetsConcernes": null
+  },
+  {
+    "_id": {
+      "$oid": "801096177f01186ffb3d7972"
+    },
+    "etatDePublication": null,
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Agadir",
+        "adresse": "Agadir, Maroc"
+      }
+    ],
+    "secteursActivitees": null,
+    "codePostal": null,
+    "typeZone": null,
+    "typeCoordGeo": null,
+    "pays": "MA",
+    "region": null,
+    "province": null,
+    "ville": "Agadir",
+    "commune": null,
+    "quartier": null,
+    "etatCoord": null,
+    "longitude": -9.5981,
+    "latitude": 30.4278,
+    "planAcces": null,
+    "email": null,
+    "mobile": null,
+    "teleFixe": null,
+    "fax": null,
+    "web": null,
+    "instancesCoordonnee": null,
+    "horaire": null,
+    "contact": null,
+    "coordonnesNumeriques": null,
+    "transports": null,
+    "indications": null,
+    "zones": null,
+    "objetsAssocies": null,
+    "objetsConcernes": null
+  },
+  {
+    "_id": {
+      "$oid": "49e23707230721c1ae5a4cff"
+    },
+    "etatDePublication": null,
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Tanger",
+        "adresse": "Tanger, Maroc"
+      }
+    ],
+    "secteursActivitees": null,
+    "codePostal": null,
+    "typeZone": null,
+    "typeCoordGeo": null,
+    "pays": "MA",
+    "region": null,
+    "province": null,
+    "ville": "Tanger",
+    "commune": null,
+    "quartier": null,
+    "etatCoord": null,
+    "longitude": -5.7998,
+    "latitude": 35.7673,
+    "planAcces": null,
+    "email": null,
+    "mobile": null,
+    "teleFixe": null,
+    "fax": null,
+    "web": null,
+    "instancesCoordonnee": null,
+    "horaire": null,
+    "contact": null,
+    "coordonnesNumeriques": null,
+    "transports": null,
+    "indications": null,
+    "zones": null,
+    "objetsAssocies": null,
+    "objetsConcernes": null
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000000950"
+    },
+    "etatDePublication": "code_3417",
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Siège social",
+        "description": "Adresse principale",
+        "adresse": "Zone Industrielle Mghogha, Tanger"
+      },
+      {
+        "language": "en",
+        "designation": "Headquarters",
+        "description": "Main address",
+        "adresse": "Mghogha Industrial Zone, Tangier"
+      },
+      {
+        "language": "ar",
+        "designation": "المقر الرئيسي",
+        "description": "العنوان الرئيسي",
+        "adresse": "المنطقة الصناعية مغوغة، طنجة"
+      },
+      {
+        "language": "es",
+        "designation": "Sede principal",
+        "description": "Dirección principal",
+        "adresse": "Zona Industrial Mghogha, Tánger"
+      }
+    ],
+    "secteursActivitees": [],
+    "codePostal": "90000",
+    "typeZone": "code_4383",
+    "typeCoordGeo": "65f000000000000000000614",
+    "pays": {
+      "$oid": "65f000000000000000000610"
+    },
+    "region": {
+      "$oid": "65f000000000000000000611"
+    },
+    "province": {
+      "$oid": "65f000000000000000000612"
+    },
+    "ville": {
+      "$oid": "65f000000000000000000613"
+    },
+    "commune": null,
+    "quartier": null,
+    "etatCoord": "code_4316",
+    "longitude": -5.83395,
+    "latitude": 35.7595,
+    "planAcces": null,
+    "email": null,
+    "mobile": null,
+    "teleFixe": null,
+    "fax": null,
+    "web": null,
+    "instancesCoordonnee": [],
+    "horaire": [],
+    "contact": [],
+    "coordonnesNumeriques": [],
+    "transports": [],
+    "indications": [],
+    "zones": [],
+    "objetsAssocies": [],
+    "objetsConcernes": [
+      {
+        "refObjetConcerne": {
+          "$oid": "65f000000000000000000900"
+        },
+        "typeObjetConcerne": "ACTEURSPRO_ACTEURPROFESSIONEL"
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-30T00:00:00.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000000951"
+    },
+    "etatDePublication": "code_3417",
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Siège social",
+        "description": "Adresse principale",
+        "adresse": "Zone Industrielle Aïn Sebaâ, Casablanca"
+      },
+      {
+        "language": "en",
+        "designation": "Headquarters",
+        "description": "Main address",
+        "adresse": "Ain Sebaa Industrial Zone, Casablanca"
+      },
+      {
+        "language": "ar",
+        "designation": "المقر الرئيسي",
+        "description": "العنوان الرئيسي",
+        "adresse": "المنطقة الصناعية عين السبع، الدار البيضاء"
+      },
+      {
+        "language": "es",
+        "designation": "Sede principal",
+        "description": "Dirección principal",
+        "adresse": "Zona Industrial Ain Sebaa, Casablanca"
+      }
+    ],
+    "secteursActivitees": [],
+    "codePostal": "20250",
+    "typeZone": "code_4383",
+    "typeCoordGeo": "65f000000000000000000614",
+    "pays": {
+      "$oid": "65f000000000000000000610"
+    },
+    "region": {
+      "$oid": "65f000000000000000000611"
+    },
+    "province": {
+      "$oid": "65f000000000000000000612"
+    },
+    "ville": {
+      "$oid": "65f000000000000000000613"
+    },
+    "commune": null,
+    "quartier": null,
+    "etatCoord": "code_4316",
+    "longitude": -7.564,
+    "latitude": 33.601,
+    "planAcces": null,
+    "email": null,
+    "mobile": null,
+    "teleFixe": null,
+    "fax": null,
+    "web": null,
+    "instancesCoordonnee": [],
+    "horaire": [],
+    "contact": [],
+    "coordonnesNumeriques": [],
+    "transports": [],
+    "indications": [],
+    "zones": [],
+    "objetsAssocies": [],
+    "objetsConcernes": [
+      {
+        "refObjetConcerne": {
+          "$oid": "65f000000000000000000901"
+        },
+        "typeObjetConcerne": "ACTEURSPRO_ACTEURPROFESSIONEL"
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-30T00:00:00.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000000952"
+    },
+    "etatDePublication": "code_3417",
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Siège social",
+        "description": "Adresse principale",
+        "adresse": "Technopolis, Sala Al Jadida, Rabat"
+      },
+      {
+        "language": "en",
+        "designation": "Headquarters",
+        "description": "Main address",
+        "adresse": "Technopolis, Sala Al Jadida, Rabat"
+      },
+      {
+        "language": "ar",
+        "designation": "المقر الرئيسي",
+        "description": "العنوان الرئيسي",
+        "adresse": "تكنوبوليس، سلا الجديدة، الرباط"
+      },
+      {
+        "language": "es",
+        "designation": "Sede principal",
+        "description": "Dirección principal",
+        "adresse": "Technopolis, Sala Al Jadida, Rabat"
+      }
+    ],
+    "secteursActivitees": [],
+    "codePostal": "11100",
+    "typeZone": "code_4383",
+    "typeCoordGeo": "65f000000000000000000614",
+    "pays": {
+      "$oid": "65f000000000000000000610"
+    },
+    "region": {
+      "$oid": "65f000000000000000000611"
+    },
+    "province": {
+      "$oid": "65f000000000000000000612"
+    },
+    "ville": {
+      "$oid": "65f000000000000000000613"
+    },
+    "commune": null,
+    "quartier": null,
+    "etatCoord": "code_4316",
+    "longitude": -6.738,
+    "latitude": 34.047,
+    "planAcces": null,
+    "email": null,
+    "mobile": null,
+    "teleFixe": null,
+    "fax": null,
+    "web": null,
+    "instancesCoordonnee": [],
+    "horaire": [],
+    "contact": [],
+    "coordonnesNumeriques": [],
+    "transports": [],
+    "indications": [],
+    "zones": [],
+    "objetsAssocies": [],
+    "objetsConcernes": [
+      {
+        "refObjetConcerne": {
+          "$oid": "65f000000000000000000902"
+        },
+        "typeObjetConcerne": "ACTEURSPRO_ACTEURPROFESSIONEL"
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-30T00:00:00.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000000953"
+    },
+    "etatDePublication": "code_3417",
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Siège social",
+        "description": "Adresse principale",
+        "adresse": "Zone Industrielle Sidi Ghanem, Marrakech"
+      },
+      {
+        "language": "en",
+        "designation": "Headquarters",
+        "description": "Main address",
+        "adresse": "Sidi Ghanem Industrial Zone, Marrakech"
+      },
+      {
+        "language": "ar",
+        "designation": "المقر الرئيسي",
+        "description": "العنوان الرئيسي",
+        "adresse": "المنطقة الصناعية سيدي غانم، مراكش"
+      },
+      {
+        "language": "es",
+        "designation": "Sede principal",
+        "description": "Dirección principal",
+        "adresse": "Zona Industrial Sidi Ghanem, Marrakech"
+      }
+    ],
+    "secteursActivitees": [],
+    "codePostal": "40000",
+    "typeZone": "code_4383",
+    "typeCoordGeo": "65f000000000000000000614",
+    "pays": {
+      "$oid": "65f000000000000000000610"
+    },
+    "region": {
+      "$oid": "65f000000000000000000611"
+    },
+    "province": {
+      "$oid": "65f000000000000000000612"
+    },
+    "ville": {
+      "$oid": "65f000000000000000000613"
+    },
+    "commune": null,
+    "quartier": null,
+    "etatCoord": "code_4316",
+    "longitude": -8.0502,
+    "latitude": 31.6738,
+    "planAcces": null,
+    "email": null,
+    "mobile": null,
+    "teleFixe": null,
+    "fax": null,
+    "web": null,
+    "instancesCoordonnee": [],
+    "horaire": [],
+    "contact": [],
+    "coordonnesNumeriques": [],
+    "transports": [],
+    "indications": [],
+    "zones": [],
+    "objetsAssocies": [],
+    "objetsConcernes": [
+      {
+        "refObjetConcerne": {
+          "$oid": "65f000000000000000000903"
+        },
+        "typeObjetConcerne": "ACTEURSPRO_ACTEURPROFESSIONEL"
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-30T00:00:00.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000000954"
+    },
+    "etatDePublication": "code_3417",
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Siège social",
+        "description": "Adresse principale",
+        "adresse": "Zone Industrielle Dokkarat, Fès"
+      },
+      {
+        "language": "en",
+        "designation": "Headquarters",
+        "description": "Main address",
+        "adresse": "Dokkarat Industrial Zone, Fez"
+      },
+      {
+        "language": "ar",
+        "designation": "المقر الرئيسي",
+        "description": "العنوان الرئيسي",
+        "adresse": "المنطقة الصناعية الدكارات، فاس"
+      },
+      {
+        "language": "es",
+        "designation": "Sede principal",
+        "description": "Dirección principal",
+        "adresse": "Zona Industrial Dokkarat, Fez"
+      }
+    ],
+    "secteursActivitees": [],
+    "codePostal": "30000",
+    "typeZone": "code_4383",
+    "typeCoordGeo": "65f000000000000000000614",
+    "pays": {
+      "$oid": "65f000000000000000000610"
+    },
+    "region": {
+      "$oid": "65f000000000000000000611"
+    },
+    "province": {
+      "$oid": "65f000000000000000000612"
+    },
+    "ville": {
+      "$oid": "65f000000000000000000613"
+    },
+    "commune": null,
+    "quartier": null,
+    "etatCoord": "code_4316",
+    "longitude": -5.009,
+    "latitude": 34.043,
+    "planAcces": null,
+    "email": null,
+    "mobile": null,
+    "teleFixe": null,
+    "fax": null,
+    "web": null,
+    "instancesCoordonnee": [],
+    "horaire": [],
+    "contact": [],
+    "coordonnesNumeriques": [],
+    "transports": [],
+    "indications": [],
+    "zones": [],
+    "objetsAssocies": [],
+    "objetsConcernes": [
+      {
+        "refObjetConcerne": {
+          "$oid": "65f000000000000000000904"
+        },
+        "typeObjetConcerne": "ACTEURSPRO_ACTEURPROFESSIONEL"
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-30T00:00:00.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000000955"
+    },
+    "etatDePublication": "code_3417",
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Siège social",
+        "description": "Adresse principale",
+        "adresse": "Zone Industrielle Tassila, Agadir"
+      },
+      {
+        "language": "en",
+        "designation": "Headquarters",
+        "description": "Main address",
+        "adresse": "Tassila Industrial Zone, Agadir"
+      },
+      {
+        "language": "ar",
+        "designation": "المقر الرئيسي",
+        "description": "العنوان الرئيسي",
+        "adresse": "المنطقة الصناعية تاسيلا، أكادير"
+      },
+      {
+        "language": "es",
+        "designation": "Sede principal",
+        "description": "Dirección principal",
+        "adresse": "Zona Industrial Tassila, Agadir"
+      }
+    ],
+    "secteursActivitees": [],
+    "codePostal": "80000",
+    "typeZone": "code_4383",
+    "typeCoordGeo": "65f000000000000000000614",
+    "pays": {
+      "$oid": "65f000000000000000000610"
+    },
+    "region": {
+      "$oid": "65f000000000000000000611"
+    },
+    "province": {
+      "$oid": "65f000000000000000000612"
+    },
+    "ville": {
+      "$oid": "65f000000000000000000613"
+    },
+    "commune": null,
+    "quartier": null,
+    "etatCoord": "code_4316",
+    "longitude": -9.583,
+    "latitude": 30.427,
+    "planAcces": null,
+    "email": null,
+    "mobile": null,
+    "teleFixe": null,
+    "fax": null,
+    "web": null,
+    "instancesCoordonnee": [],
+    "horaire": [],
+    "contact": [],
+    "coordonnesNumeriques": [],
+    "transports": [],
+    "indications": [],
+    "zones": [],
+    "objetsAssocies": [],
+    "objetsConcernes": [
+      {
+        "refObjetConcerne": {
+          "$oid": "65f000000000000000000905"
+        },
+        "typeObjetConcerne": "ACTEURSPRO_ACTEURPROFESSIONEL"
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-30T00:00:00.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000000956"
+    },
+    "etatDePublication": "code_3417",
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Siège social",
+        "description": "Adresse principale",
+        "adresse": "Zone Industrielle Selouane, Nador"
+      },
+      {
+        "language": "en",
+        "designation": "Headquarters",
+        "description": "Main address",
+        "adresse": "Selouane Industrial Zone, Nador"
+      },
+      {
+        "language": "ar",
+        "designation": "المقر الرئيسي",
+        "description": "العنوان الرئيسي",
+        "adresse": "المنطقة الصناعية سلوان، الناظور"
+      },
+      {
+        "language": "es",
+        "designation": "Sede principal",
+        "description": "Dirección principal",
+        "adresse": "Zona Industrial Selouane, Nador"
+      }
+    ],
+    "secteursActivitees": [],
+    "codePostal": "62000",
+    "typeZone": "code_4383",
+    "typeCoordGeo": "65f000000000000000000614",
+    "pays": {
+      "$oid": "65f000000000000000000610"
+    },
+    "region": {
+      "$oid": "65f000000000000000000611"
+    },
+    "province": {
+      "$oid": "65f000000000000000000612"
+    },
+    "ville": {
+      "$oid": "65f000000000000000000613"
+    },
+    "commune": null,
+    "quartier": null,
+    "etatCoord": "code_4316",
+    "longitude": -2.93,
+    "latitude": 35.073,
+    "planAcces": null,
+    "email": null,
+    "mobile": null,
+    "teleFixe": null,
+    "fax": null,
+    "web": null,
+    "instancesCoordonnee": [],
+    "horaire": [],
+    "contact": [],
+    "coordonnesNumeriques": [],
+    "transports": [],
+    "indications": [],
+    "zones": [],
+    "objetsAssocies": [],
+    "objetsConcernes": [
+      {
+        "refObjetConcerne": {
+          "$oid": "65f000000000000000000906"
+        },
+        "typeObjetConcerne": "ACTEURSPRO_ACTEURPROFESSIONEL"
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-30T00:00:00.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000000957"
+    },
+    "etatDePublication": "code_3417",
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Siège social",
+        "description": "Adresse principale",
+        "adresse": "Zone Industrielle Béni Mellal, Béni Mellal"
+      },
+      {
+        "language": "en",
+        "designation": "Headquarters",
+        "description": "Main address",
+        "adresse": "Beni Mellal Industrial Zone, Beni Mellal"
+      },
+      {
+        "language": "ar",
+        "designation": "المقر الرئيسي",
+        "description": "العنوان الرئيسي",
+        "adresse": "المنطقة الصناعية بني ملال، بني ملال"
+      },
+      {
+        "language": "es",
+        "designation": "Sede principal",
+        "description": "Dirección principal",
+        "adresse": "Zona Industrial Beni Mellal, Beni Mellal"
+      }
+    ],
+    "secteursActivitees": [],
+    "codePostal": "23000",
+    "typeZone": "code_4383",
+    "typeCoordGeo": "65f000000000000000000614",
+    "pays": {
+      "$oid": "65f000000000000000000610"
+    },
+    "region": {
+      "$oid": "65f000000000000000000611"
+    },
+    "province": {
+      "$oid": "65f000000000000000000612"
+    },
+    "ville": {
+      "$oid": "65f000000000000000000613"
+    },
+    "commune": null,
+    "quartier": null,
+    "etatCoord": "code_4316",
+    "longitude": -6.3498,
+    "latitude": 32.3373,
+    "planAcces": null,
+    "email": null,
+    "mobile": null,
+    "teleFixe": null,
+    "fax": null,
+    "web": null,
+    "instancesCoordonnee": [],
+    "horaire": [],
+    "contact": [],
+    "coordonnesNumeriques": [],
+    "transports": [],
+    "indications": [],
+    "zones": [],
+    "objetsAssocies": [],
+    "objetsConcernes": [
+      {
+        "refObjetConcerne": {
+          "$oid": "65f000000000000000000907"
+        },
+        "typeObjetConcerne": "ACTEURSPRO_ACTEURPROFESSIONEL"
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-30T00:00:00.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000000958"
+    },
+    "etatDePublication": "code_3417",
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Siège social",
+        "description": "Adresse principale",
+        "adresse": "Zone Industrielle Guelmim, Guelmim"
+      },
+      {
+        "language": "en",
+        "designation": "Headquarters",
+        "description": "Main address",
+        "adresse": "Guelmim Industrial Zone, Guelmim"
+      },
+      {
+        "language": "ar",
+        "designation": "المقر الرئيسي",
+        "description": "العنوان الرئيسي",
+        "adresse": "المنطقة الصناعية كلميم، كلميم"
+      },
+      {
+        "language": "es",
+        "designation": "Sede principal",
+        "description": "Dirección principal",
+        "adresse": "Zona Industrial Guelmim, Guelmim"
+      }
+    ],
+    "secteursActivitees": [],
+    "codePostal": "81000",
+    "typeZone": "code_4383",
+    "typeCoordGeo": "65f000000000000000000614",
+    "pays": {
+      "$oid": "65f000000000000000000610"
+    },
+    "region": {
+      "$oid": "65f000000000000000000611"
+    },
+    "province": {
+      "$oid": "65f000000000000000000612"
+    },
+    "ville": {
+      "$oid": "65f000000000000000000613"
+    },
+    "commune": null,
+    "quartier": null,
+    "etatCoord": "code_4316",
+    "longitude": -10.067,
+    "latitude": 28.987,
+    "planAcces": null,
+    "email": null,
+    "mobile": null,
+    "teleFixe": null,
+    "fax": null,
+    "web": null,
+    "instancesCoordonnee": [],
+    "horaire": [],
+    "contact": [],
+    "coordonnesNumeriques": [],
+    "transports": [],
+    "indications": [],
+    "zones": [],
+    "objetsAssocies": [],
+    "objetsConcernes": [
+      {
+        "refObjetConcerne": {
+          "$oid": "65f000000000000000000908"
+        },
+        "typeObjetConcerne": "ACTEURSPRO_ACTEURPROFESSIONEL"
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-30T00:00:00.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000000959"
+    },
+    "etatDePublication": "code_3417",
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Siège social",
+        "description": "Adresse principale",
+        "adresse": "Zone logistique de Dakhla, Dakhla"
+      },
+      {
+        "language": "en",
+        "designation": "Headquarters",
+        "description": "Main address",
+        "adresse": "Dakhla Logistics Zone, Dakhla"
+      },
+      {
+        "language": "ar",
+        "designation": "المقر الرئيسي",
+        "description": "العنوان الرئيسي",
+        "adresse": "المنطقة اللوجستية الداخلة، الداخلة"
+      },
+      {
+        "language": "es",
+        "designation": "Sede principal",
+        "description": "Dirección principal",
+        "adresse": "Zona logística de Dakhla, Dakhla"
+      }
+    ],
+    "secteursActivitees": [],
+    "codePostal": "73000",
+    "typeZone": "code_4383",
+    "typeCoordGeo": "65f000000000000000000614",
+    "pays": {
+      "$oid": "65f000000000000000000610"
+    },
+    "region": {
+      "$oid": "65f000000000000000000611"
+    },
+    "province": {
+      "$oid": "65f000000000000000000612"
+    },
+    "ville": {
+      "$oid": "65f000000000000000000613"
+    },
+    "commune": null,
+    "quartier": null,
+    "etatCoord": "code_4316",
+    "longitude": -15.9368,
+    "latitude": 23.6848,
+    "planAcces": null,
+    "email": null,
+    "mobile": null,
+    "teleFixe": null,
+    "fax": null,
+    "web": null,
+    "instancesCoordonnee": [],
+    "horaire": [],
+    "contact": [],
+    "coordonnesNumeriques": [],
+    "transports": [],
+    "indications": [],
+    "zones": [],
+    "objetsAssocies": [],
+    "objetsConcernes": [
+      {
+        "refObjetConcerne": {
+          "$oid": "65f000000000000000000909"
+        },
+        "typeObjetConcerne": "ACTEURSPRO_ACTEURPROFESSIONEL"
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-30T00:00:00.000Z"
+    },
+    "__v": 0
+  }
+]

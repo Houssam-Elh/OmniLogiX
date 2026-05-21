@@ -1,0 +1,29 @@
+# Dependency directories
+node_modules/
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Compiled outputs
+dist/
+tmp/
+out-tsc/
+bazel-out/
+/.angular/
+
+# IDE and Editor configs
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.vscode/
+
+# System / OS files
+.DS_Store
+Thumbs.db

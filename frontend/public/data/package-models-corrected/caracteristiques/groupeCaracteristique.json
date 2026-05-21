@@ -1,0 +1,4152 @@
+[
+  {
+    "_id": {
+      "$oid": "8981089fe9f486f88520dd9c"
+    },
+    "reference": "general_filters",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "General Filters",
+        "description": ""
+      }
+    ],
+    "etatValidation": "code_4268",
+    "caracteristiques": [
+      {
+        "$oid": "ee467f6aefc6aa0fa64cc47f"
+      },
+      {
+        "$oid": "3ff9bd152dd9c44cacb404a4"
+      },
+      {
+        "$oid": "a90ba4c96754634fd65b7b1b"
+      },
+      {
+        "$oid": "5b623fa2731ebeb230497529"
+      },
+      {
+        "$oid": "8db02259bb5a304da64a8e4e"
+      },
+      {
+        "$oid": "93bb2d4316409564764b8cc7"
+      },
+      {
+        "$oid": "c20e52c0ea737fd36d9b848d"
+      },
+      {
+        "$oid": "598e86429a60c898893c0cd5"
+      },
+      {
+        "$oid": "3aaf2bc574d50e9281e74729"
+      },
+      {
+        "$oid": "6c711cccd19a70899fef6e5b"
+      },
+      {
+        "$oid": "450f447527dc6ddb0dfd1092"
+      },
+      {
+        "$oid": "0f7d7f39339426bf7dedfc98"
+      },
+      {
+        "$oid": "13ff5c0ac711a2a530b4876c"
+      },
+      {
+        "$oid": "a682dfeae511c0289bfcb19b"
+      },
+      {
+        "$oid": "a98f91285be9026762b6c9fc"
+      },
+      {
+        "$oid": "d7d769784b5a092121b1d7a6"
+      },
+      {
+        "$oid": "5111d776a44eb166a75cc4b0"
+      },
+      {
+        "$oid": "b10ce576e61d23b34d5a78b7"
+      },
+      {
+        "$oid": "ff91dea8d07126ddb4c6b8c9"
+      },
+      {
+        "$oid": "e571bfaf628d159ca6c743a0"
+      },
+      {
+        "$oid": "00047bd6159b0a3812cec22f"
+      },
+      {
+        "$oid": "ae76f1fbd3efe54bacfded94"
+      },
+      {
+        "$oid": "26bde6a37fd17bcb62d59a3e"
+      },
+      {
+        "$oid": "ac74fb4198681d69a5707cda"
+      },
+      {
+        "$oid": "2739f6e17707a991bea15be6"
+      },
+      {
+        "$oid": "e03b9ea2d549d2934bf5c592"
+      },
+      {
+        "$oid": "236edac5c5b69c655bf5b6d5"
+      },
+      {
+        "$oid": "f1c4384a1f9350c3a3f12c68"
+      },
+      {
+        "$oid": "0d5febca579394d956a70a33"
+      },
+      {
+        "$oid": "fe8f94a2c96c9d21c9779e6c"
+      },
+      {
+        "$oid": "58b5b17e1b306eb126d9eacf"
+      },
+      {
+        "$oid": "084d42bd4c186f1758e5e2bb"
+      },
+      {
+        "$oid": "2b3ec9f30b2e2c264a5f59d5"
+      },
+      {
+        "$oid": "ab74e79a38cd3ed3482505bf"
+      },
+      {
+        "$oid": "bc150ce6cd48d4f6998e9951"
+      },
+      {
+        "$oid": "2681aac682106a3b64501b03"
+      },
+      {
+        "$oid": "b9e2fdab14a43d19ab6e9c06"
+      },
+      {
+        "$oid": "31639760c2f375e8b94baa34"
+      },
+      {
+        "$oid": "75006b7afa8b1137a4b039ce"
+      },
+      {
+        "$oid": "9c03f8b69bfe16b9ba4cb88c"
+      },
+      {
+        "$oid": "df18a20b23b358a31362f0f6"
+      },
+      {
+        "$oid": "eb7af7f8cdb028314e9db602"
+      },
+      {
+        "$oid": "f8fcc41e9e07f26016602ef4"
+      },
+      {
+        "$oid": "dec7b95d4b8e89a03f124656"
+      },
+      {
+        "$oid": "5b1e69fe802c475089be2312"
+      },
+      {
+        "$oid": "ca9e7aad239f3e39788897a0"
+      },
+      {
+        "$oid": "70240bb79e9178dd43154b94"
+      },
+      {
+        "$oid": "e9faa942b283e8eeaabe7a7a"
+      },
+      {
+        "$oid": "0808b0c5038ee43e362331e3"
+      },
+      {
+        "$oid": "de0a25170d559737d1947bf8"
+      },
+      {
+        "$oid": "3f6045fc9649cd1e175d599b"
+      },
+      {
+        "$oid": "e4461fd120411fa5169bbfad"
+      },
+      {
+        "$oid": "0c3f0d4c92fb0176908ff890"
+      },
+      {
+        "$oid": "4939c89031683c87b7541804"
+      },
+      {
+        "$oid": "9bf57ce1f89d726a6fcd90db"
+      },
+      {
+        "$oid": "61b19005645e8bec3eab0e3b"
+      },
+      {
+        "$oid": "64650ed55941eddeff036b92"
+      },
+      {
+        "$oid": "7d42145c542df5f3c04c4a75"
+      },
+      {
+        "$oid": "f761df87a36df86f2e061600"
+      },
+      {
+        "$oid": "4ed263a9fcde7f775f09d7e5"
+      },
+      {
+        "$oid": "6a0575ce796485406e37d90d"
+      },
+      {
+        "$oid": "f90b206cd4fe96484226428f"
+      },
+      {
+        "$oid": "1e08d304f0091fd191f79cf7"
+      },
+      {
+        "$oid": "cce7c080fa1b9d2acd5819fa"
+      },
+      {
+        "$oid": "b29b291a63835e50f6845bd1"
+      },
+      {
+        "$oid": "f677c287ca6e2449e98ae7f7"
+      },
+      {
+        "$oid": "7a6482f8416b4d0107a5cd18"
+      },
+      {
+        "$oid": "4fa8c35831926852e225d49d"
+      },
+      {
+        "$oid": "a8012db89de0edf1974e53e9"
+      },
+      {
+        "$oid": "f48ba2049f8d18d6c299988f"
+      },
+      {
+        "$oid": "0961cd968aa987b49bf20e59"
+      },
+      {
+        "$oid": "a92db63200d058ee4780ff1b"
+      },
+      {
+        "$oid": "5d4e412c928c8dd10ddd03c8"
+      },
+      {
+        "$oid": "699f940f19aaa2867dbdd160"
+      },
+      {
+        "$oid": "d548ab75d8c63de841a280ff"
+      },
+      {
+        "$oid": "24d70d8c99124ebac471a282"
+      },
+      {
+        "$oid": "62f3d3d112ec1afb782d6fe7"
+      },
+      {
+        "$oid": "2a7dd39aa9ab23e4c5ed89f3"
+      },
+      {
+        "$oid": "10bbb1042a0a46143542f36d"
+      },
+      {
+        "$oid": "a9cf4ecfbe2909823bb9660e"
+      },
+      {
+        "$oid": "851f54f1d07a1db8155cc060"
+      },
+      {
+        "$oid": "6c7f255f814cc080566ef3e9"
+      },
+      {
+        "$oid": "154c3dc7c58dba650ee58228"
+      },
+      {
+        "$oid": "ef9b93b92d91ac1cb655b04c"
+      },
+      {
+        "$oid": "c3b348ae7883ae1b90bf474a"
+      },
+      {
+        "$oid": "4e9a338d03ed76bf8c19cba7"
+      },
+      {
+        "$oid": "dc9ef40ba3b4a201a48ec1ba"
+      },
+      {
+        "$oid": "5b0a33f95bc2e0b3b7696147"
+      },
+      {
+        "$oid": "73c83f35a71a3c51b53cd2a2"
+      },
+      {
+        "$oid": "deb646a2a31d70cde623c922"
+      },
+      {
+        "$oid": "3bd106db5540e64fb80db97b"
+      },
+      {
+        "$oid": "bbbdaaf116ef6df9e4c17076"
+      },
+      {
+        "$oid": "4c7438a22bc25fc0eae17ea9"
+      },
+      {
+        "$oid": "c41b3f0c32a111317b87b642"
+      },
+      {
+        "$oid": "9ac38eef26fb49213a2e4aee"
+      },
+      {
+        "$oid": "f6e744a7f4670ae8689b3f17"
+      },
+      {
+        "$oid": "a8aafe6b112f8bc3cc39550a"
+      },
+      {
+        "$oid": "e912847d7c14db666c16f7f0"
+      },
+      {
+        "$oid": "15c6238a4a12ffbc8850c178"
+      },
+      {
+        "$oid": "3c2903d9546ce6a550acf05f"
+      },
+      {
+        "$oid": "1e45fb57ba5b484b740c84b2"
+      },
+      {
+        "$oid": "f6d9d5c986a4e5d41ebb7042"
+      },
+      {
+        "$oid": "40a8887bb52007bba13ed866"
+      },
+      {
+        "$oid": "ea088c0888af8115cf6801cb"
+      },
+      {
+        "$oid": "415c95d4d1b273c692b5aac7"
+      },
+      {
+        "$oid": "5b3b8eb10c328ae0063a68b2"
+      }
+    ],
+    "domainsConcernes": [
+      {
+        "domaine": {
+          "$oid": "d3a469af77a2399d69b779d5"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": {
+          "$oid": "fd91b7bc0069f40cf1adbb4f"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": {
+          "$oid": "bd9e19005ca4c937a3fb1f4a"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": {
+          "$oid": "3fbf73a2044cc89f14f14c05"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": {
+          "$oid": "250dac0ab7103ca09a3de55f"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": {
+          "$oid": "569d56a5043d19bca57f8db8"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": {
+          "$oid": "43144269a0ca9179fc78ab00"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": {
+          "$oid": "23b9e10370ebfc9b5006b957"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": {
+          "$oid": "1882699d1c0cfb06962f50df"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": {
+          "$oid": "c3ea28cd2634d0ddc0701c16"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": {
+          "$oid": "46ad4c1e75c9d9d3afc013df"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": {
+          "$oid": "06b6871d02854b07b47d833d"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": {
+          "$oid": "ebbc986dd24ff3ebfc7b13cc"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": {
+          "$oid": "32339d60c883ff7fd779ad0e"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": {
+          "$oid": "af67e8eb26ec9fdce01543b5"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": {
+          "$oid": "545e96ae18f1dedfc258923d"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": {
+          "$oid": "2b8015bd253217d086899365"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": {
+          "$oid": "5f75591426a93df389a6ba45"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": {
+          "$oid": "5fff5ce09cda01210d1a1935"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": {
+          "$oid": "13359332cf985ae19d341e08"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      }
+    ],
+    "etatObjet": "code-1",
+    "parent": null,
+    "sousGroupe": []
+  },
+  {
+    "_id": {
+      "$oid": "920d68fe3882599ce1c2b9b4"
+    },
+    "reference": "location",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Location",
+        "description": ""
+      }
+    ],
+    "etatValidation": "code_4268",
+    "caracteristiques": [
+      {
+        "$oid": "b998142f6c26bbf92a1f721e"
+      },
+      {
+        "$oid": "9352add81e9a9188fb11868c"
+      }
+    ],
+    "domainsConcernes": [
+      {
+        "domaine": {
+          "$oid": "d3a469af77a2399d69b779d5"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": {
+          "$oid": "fd91b7bc0069f40cf1adbb4f"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": {
+          "$oid": "bd9e19005ca4c937a3fb1f4a"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": {
+          "$oid": "3fbf73a2044cc89f14f14c05"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": {
+          "$oid": "250dac0ab7103ca09a3de55f"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": {
+          "$oid": "569d56a5043d19bca57f8db8"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": {
+          "$oid": "43144269a0ca9179fc78ab00"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": {
+          "$oid": "23b9e10370ebfc9b5006b957"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": {
+          "$oid": "1882699d1c0cfb06962f50df"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": {
+          "$oid": "c3ea28cd2634d0ddc0701c16"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": {
+          "$oid": "46ad4c1e75c9d9d3afc013df"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": {
+          "$oid": "06b6871d02854b07b47d833d"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": {
+          "$oid": "ebbc986dd24ff3ebfc7b13cc"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": {
+          "$oid": "32339d60c883ff7fd779ad0e"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": {
+          "$oid": "af67e8eb26ec9fdce01543b5"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": {
+          "$oid": "545e96ae18f1dedfc258923d"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": {
+          "$oid": "2b8015bd253217d086899365"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": {
+          "$oid": "5f75591426a93df389a6ba45"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": {
+          "$oid": "5fff5ce09cda01210d1a1935"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": {
+          "$oid": "13359332cf985ae19d341e08"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      }
+    ],
+    "etatObjet": "code-1",
+    "parent": null,
+    "sousGroupe": []
+  },
+  {
+    "_id": {
+      "$oid": "8f95ac83b50946d4e92af7fb"
+    },
+    "reference": "engine_gearbox",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Engine gearbox",
+        "description": ""
+      }
+    ],
+    "etatValidation": "code_4268",
+    "caracteristiques": [
+      {
+        "$oid": "84707f781bfdd321f750f016"
+      },
+      {
+        "$oid": "6053f9a9abf3c3485669892b"
+      },
+      {
+        "$oid": "5647dc97a138805c69d89eff"
+      },
+      {
+        "$oid": "54d1c0c1dfa7c7035818a712"
+      },
+      {
+        "$oid": "8b8e1b8376f877313b535962"
+      },
+      {
+        "$oid": "4e8f39b54ec382d1e65e9dcc"
+      }
+    ],
+    "domainsConcernes": [
+      {
+        "domaine": {
+          "$oid": "d3a469af77a2399d69b779d5"
+        },
+        "typeRelation": "code_12348",
+        "taxonomieConcerne": [
+          {
+            "$oid": "2f13998023dc18c2df46c5f7"
+          },
+          {
+            "$oid": "fac11772e409261faceaa2d2"
+          },
+          {
+            "$oid": "44ac947a938ab70a4a4b4645"
+          },
+          {
+            "$oid": "e6ac9da5686d385b3c1076b7"
+          },
+          {
+            "$oid": "7c303b01a0efbe4115b01b59"
+          },
+          {
+            "$oid": "b0ca1b33c497293b4b7561b1"
+          },
+          {
+            "$oid": "cf147fae01f8b475570514c0"
+          },
+          {
+            "$oid": "79c6a3eb37267bf46a1602e0"
+          },
+          {
+            "$oid": "059a2e9d2be24dbd613fc69a"
+          },
+          {
+            "$oid": "98e7f18f288e9774afc99aa9"
+          },
+          {
+            "$oid": "cb9c0e3e543379e6f8ed7b4b"
+          },
+          {
+            "$oid": "c164a6054621ec90512e521a"
+          },
+          {
+            "$oid": "cf5a9bf71fb3f32ebe7e3dae"
+          },
+          {
+            "$oid": "2cf96a7aa1282726775c827c"
+          },
+          {
+            "$oid": "3338de7251fc02abf76e025d"
+          },
+          {
+            "$oid": "b9e1a04eb23f15d71d07bf40"
+          },
+          {
+            "$oid": "286e834aef0b55b7ccd5ec74"
+          },
+          {
+            "$oid": "3dc1f341e9020969c8611fe8"
+          },
+          {
+            "$oid": "587d90ddc53efceb25362da8"
+          },
+          {
+            "$oid": "bc27674aa38efcecfbf134c8"
+          },
+          {
+            "$oid": "7dc333d57eb50941715c630c"
+          },
+          {
+            "$oid": "74c026dc2b64fe46f123dc7a"
+          },
+          {
+            "$oid": "0fd59188b61240408df2b626"
+          },
+          {
+            "$oid": "2aaafc00dfeceaa157393006"
+          },
+          {
+            "$oid": "db7e271dbfeed2a8a203d531"
+          },
+          {
+            "$oid": "6927b56ed80412ee42bc446f"
+          },
+          {
+            "$oid": "e22e326d88d834403214ea99"
+          },
+          {
+            "$oid": "83cef92bc020afc7caed03be"
+          },
+          {
+            "$oid": "c920892ae6003fc0945d1821"
+          },
+          {
+            "$oid": "6828b01ef10202e771c2438f"
+          },
+          {
+            "$oid": "e483845a1be617044ebdb42b"
+          },
+          {
+            "$oid": "83aeee2e23aaf9d1bbf8a4dc"
+          },
+          {
+            "$oid": "7895dba25c6f4317f4321fff"
+          },
+          {
+            "$oid": "3818919d02499afbc03cd953"
+          },
+          {
+            "$oid": "5d9b2b2978f157a8ff349552"
+          },
+          {
+            "$oid": "24191604ca8aebd6093494f1"
+          },
+          {
+            "$oid": "3133695fd82f5b9e6fb102a9"
+          },
+          {
+            "$oid": "1d39207df785f06f362aabb4"
+          },
+          {
+            "$oid": "b6d2d96675f8568f1706c92b"
+          },
+          {
+            "$oid": "c070b14ede602a73da444008"
+          },
+          {
+            "$oid": "bdbee128901dac9932913365"
+          },
+          {
+            "$oid": "d9b4fe933d92c5a61fc37449"
+          },
+          {
+            "$oid": "4fe01ed2bd82f52a1f79d774"
+          },
+          {
+            "$oid": "e0aebc1b6bfffaf3d4733315"
+          },
+          {
+            "$oid": "614f7affe58eff620ef9ca0b"
+          },
+          {
+            "$oid": "d626c4633ed92107a3f8dd2c"
+          },
+          {
+            "$oid": "ec085c38e2dfe2a08e0f9f15"
+          },
+          {
+            "$oid": "14df40616c320475f3923cf9"
+          },
+          {
+            "$oid": "3cb323cc878f732002991093"
+          },
+          {
+            "$oid": "6816bab31c74d0f8a9862531"
+          },
+          {
+            "$oid": "74012233f547971d10ff7cc0"
+          },
+          {
+            "$oid": "fe60ea6f5860ab08348e6d4d"
+          },
+          {
+            "$oid": "e6dc2fc36977b8ec8a2d53fc"
+          },
+          {
+            "$oid": "ab44154ffad528cc167687dc"
+          },
+          {
+            "$oid": "88dcd538b86b9324cf1249fb"
+          }
+        ]
+      },
+      {
+        "domaine": {
+          "$oid": "fd91b7bc0069f40cf1adbb4f"
+        },
+        "typeRelation": "code_12348",
+        "taxonomieConcerne": [
+          {
+            "$oid": "7a34d3a7fd1928735dd5702f"
+          },
+          {
+            "$oid": "449ea1788393d33a724dc3a6"
+          },
+          {
+            "$oid": "0952dad94a2ba22ef7a5e6ad"
+          },
+          {
+            "$oid": "c585fda801dc98bdfbb69bd9"
+          },
+          {
+            "$oid": "d96ba230858b2dd7a4383705"
+          },
+          {
+            "$oid": "b2ef94c310bff62bb6a3a048"
+          },
+          {
+            "$oid": "20ff24e687882110b8187e0b"
+          },
+          {
+            "$oid": "6908edfdb527d19eb40e84a1"
+          }
+        ]
+      },
+      {
+        "domaine": {
+          "$oid": "bd9e19005ca4c937a3fb1f4a"
+        },
+        "typeRelation": "code_12348",
+        "taxonomieConcerne": [
+          {
+            "$oid": "ed3d4ce06276e5c0fac87d4a"
+          },
+          {
+            "$oid": "66eec8a24809011d79301c62"
+          },
+          {
+            "$oid": "0fe2f49155df36517c3d3a00"
+          },
+          {
+            "$oid": "6f68109b037018559912b84e"
+          },
+          {
+            "$oid": "9a563daf88614394ab410129"
+          },
+          {
+            "$oid": "52fe7b0d0514c7ddba015837"
+          },
+          {
+            "$oid": "70fe92a5afcb4753c65d314c"
+          },
+          {
+            "$oid": "65c722c4ec4b35fa01e90a74"
+          },
+          {
+            "$oid": "844d9a61f3e45404ad161add"
+          },
+          {
+            "$oid": "7fd666e8dd1c1f8d42144d61"
+          },
+          {
+            "$oid": "ee6fff4e2f6b521f8dde6f0f"
+          },
+          {
+            "$oid": "331416b5e3cb30da5b8a8b49"
+          },
+          {
+            "$oid": "40388d7b09e1fdf926bddb33"
+          },
+          {
+            "$oid": "13f1d4552b2487615fcd436b"
+          },
+          {
+            "$oid": "987f1a0543ee9821da6f6352"
+          },
+          {
+            "$oid": "8227d704e740852a23c01087"
+          },
+          {
+            "$oid": "fac74d0e6ed96e369df414d7"
+          },
+          {
+            "$oid": "2c598f3936807148bd266f04"
+          },
+          {
+            "$oid": "60259ee14b15573a028ded73"
+          },
+          {
+            "$oid": "1683d4d55412a18bbe2a87b9"
+          },
+          {
+            "$oid": "10568368cb9a5eddd3e3d198"
+          },
+          {
+            "$oid": "656e1e1d5ff4257c0e30a261"
+          },
+          {
+            "$oid": "07a77010035a7e7f61a365e7"
+          },
+          {
+            "$oid": "f860d515de23b559e8b6b2b9"
+          },
+          {
+            "$oid": "a23f2cbc1432f23a8a08fe18"
+          },
+          {
+            "$oid": "33f2e524dd59e9aa57fdc763"
+          },
+          {
+            "$oid": "4b868b9e5fe88e702d7b2e06"
+          }
+        ]
+      },
+      {
+        "domaine": {
+          "$oid": "43144269a0ca9179fc78ab00"
+        },
+        "typeRelation": "code_12348",
+        "taxonomieConcerne": [
+          {
+            "$oid": "20e8e337eefd9a4a17430d06"
+          },
+          {
+            "$oid": "71da92fd8437fe3db9bf0d93"
+          },
+          {
+            "$oid": "5ad4bd6314fc2e3b248b955f"
+          },
+          {
+            "$oid": "a97ac4e9a59626ed814146f0"
+          },
+          {
+            "$oid": "6517c1288c22dae5ab018c5c"
+          },
+          {
+            "$oid": "015c3f4a9137a8db69a1c737"
+          },
+          {
+            "$oid": "26000f0ad6c2ad4a9eadf80a"
+          },
+          {
+            "$oid": "ad52ef4004b5aedd647bd16f"
+          },
+          {
+            "$oid": "843c495bea7bded9cb1644d6"
+          },
+          {
+            "$oid": "a818ba30b07bf22c624b07e1"
+          },
+          {
+            "$oid": "4525fabeed0ae2a8a6bb7bcc"
+          },
+          {
+            "$oid": "1d105056ffb7a5292b6d0c57"
+          },
+          {
+            "$oid": "f4eb002a9e31933f5396fc39"
+          },
+          {
+            "$oid": "5618bbde6fd6dc9e42d77305"
+          },
+          {
+            "$oid": "1f8a147b8f98f276733f9846"
+          },
+          {
+            "$oid": "c716414046f73a54eae48d53"
+          },
+          {
+            "$oid": "5b93b253dadf248002d2fb5c"
+          },
+          {
+            "$oid": "862670c19631fb0fd06a087b"
+          },
+          {
+            "$oid": "6b1fb8dfcac219dd09bd9fef"
+          },
+          {
+            "$oid": "83d20b41adf8f14d0c56d260"
+          },
+          {
+            "$oid": "3c84041e655b5dd6b70128b2"
+          },
+          {
+            "$oid": "4b1c1b3eb734e071dd8d3b07"
+          },
+          {
+            "$oid": "068f134f0cf394e73c49ecd5"
+          },
+          {
+            "$oid": "835302e23f1f33c196214838"
+          }
+        ]
+      },
+      {
+        "domaine": {
+          "$oid": "545e96ae18f1dedfc258923d"
+        },
+        "typeRelation": "code_12348",
+        "taxonomieConcerne": [
+          {
+            "$oid": "a4d96e69e07fc1634336f6a6"
+          },
+          {
+            "$oid": "5fd749b1b70da5ce4d48f688"
+          },
+          {
+            "$oid": "472b78bf2be6561be760a2c1"
+          },
+          {
+            "$oid": "4fcaa9f44b6460c678fc9c3c"
+          },
+          {
+            "$oid": "9dba1d31f2b664ac43a4dfdf"
+          },
+          {
+            "$oid": "4805864b79200f7ec6ef9457"
+          },
+          {
+            "$oid": "7c1918e71594cd0f8460a688"
+          },
+          {
+            "$oid": "3679e0fea8a78e30f2f65759"
+          },
+          {
+            "$oid": "0cf2e515c62e828eb9fdf998"
+          },
+          {
+            "$oid": "e70b2d5901eb748fd9bf6cab"
+          },
+          {
+            "$oid": "f51511ffde67a45dbf83724a"
+          },
+          {
+            "$oid": "bacc3b9ca52614e361814c29"
+          },
+          {
+            "$oid": "8dd20d4d0574577ca5815cca"
+          },
+          {
+            "$oid": "3964235fab8ccb9f79f44d28"
+          }
+        ]
+      },
+      {
+        "domaine": {
+          "$oid": "af67e8eb26ec9fdce01543b5"
+        },
+        "typeRelation": "code_12348",
+        "taxonomieConcerne": [
+          {
+            "$oid": "458b0663fb150670a2ae87ef"
+          },
+          {
+            "$oid": "96a75227ba21fad02ede6747"
+          },
+          {
+            "$oid": "3484f247c6ff4795c3e403f5"
+          },
+          {
+            "$oid": "8a1326543b8919cf212b5489"
+          },
+          {
+            "$oid": "7354b43894157c1b0de88ef1"
+          },
+          {
+            "$oid": "3f24f51895b4a8111ecd69a9"
+          },
+          {
+            "$oid": "1d6306681d71831a78de14b9"
+          },
+          {
+            "$oid": "47c0a0364304588a5dbcdc30"
+          },
+          {
+            "$oid": "cae1e63df849ece4eaeefdeb"
+          },
+          {
+            "$oid": "4cda351ecce83255a0efe2aa"
+          },
+          {
+            "$oid": "e983cb42bbf986c312eab9ea"
+          }
+        ]
+      },
+      {
+        "domaine": {
+          "$oid": "5f75591426a93df389a6ba45"
+        },
+        "typeRelation": "code_12348",
+        "taxonomieConcerne": [
+          {
+            "$oid": "a58235292aadb15bc9de6896"
+          },
+          {
+            "$oid": "8eb0bc01355b899219329331"
+          },
+          {
+            "$oid": "0b18215f3e0ec6f4cd2039dd"
+          },
+          {
+            "$oid": "2a36f76299cca510ae5b81a7"
+          },
+          {
+            "$oid": "bae2cd648fb7364d00353a0b"
+          },
+          {
+            "$oid": "ac9b8550e45183e966507a58"
+          },
+          {
+            "$oid": "c830503e5a0049db2d9e2458"
+          },
+          {
+            "$oid": "6a75da3ac00e4af47e575267"
+          },
+          {
+            "$oid": "b183bbdf3d5f530131dd92ea"
+          },
+          {
+            "$oid": "24669a35c3fa81b551862fe2"
+          },
+          {
+            "$oid": "086b032dc24be05402436a5c"
+          },
+          {
+            "$oid": "67e40bc11e783262f3185d7e"
+          },
+          {
+            "$oid": "1155102cb2f4127107bd1099"
+          },
+          {
+            "$oid": "432a5a428945dc3b251b15cb"
+          }
+        ]
+      },
+      {
+        "domaine": {
+          "$oid": "c3ea28cd2634d0ddc0701c16"
+        },
+        "typeRelation": "code_12348",
+        "taxonomieConcerne": [
+          {
+            "$oid": "9075a426081f085b03622bc9"
+          },
+          {
+            "$oid": "7a2e0f6a505eab1a7c24c2f7"
+          },
+          {
+            "$oid": "c176e48f61a8df21d8dec043"
+          },
+          {
+            "$oid": "284e06dc5dc2225b6f834f0c"
+          },
+          {
+            "$oid": "034ba40fc3cfeb9b0c26dbba"
+          },
+          {
+            "$oid": "857910b33415bc50ec000a20"
+          },
+          {
+            "$oid": "5c3dc0f7dea79fea0a9a5672"
+          },
+          {
+            "$oid": "4e323a4b29b1875cc8c64e44"
+          },
+          {
+            "$oid": "3168d9266078061e3b9d77f7"
+          },
+          {
+            "$oid": "28766158a5474f0a10772fe5"
+          },
+          {
+            "$oid": "5c57b62824e2f9ff642549aa"
+          },
+          {
+            "$oid": "98f0db1a8ac529b3dd5073c8"
+          },
+          {
+            "$oid": "8ed8690851531fe96aaa1cf2"
+          },
+          {
+            "$oid": "708bd7f105b3f4dbcb5da24c"
+          },
+          {
+            "$oid": "3e056af386451b78412f5acc"
+          }
+        ]
+      },
+      {
+        "domaine": {
+          "$oid": "46ad4c1e75c9d9d3afc013df"
+        },
+        "typeRelation": "code_12348",
+        "taxonomieConcerne": [
+          {
+            "$oid": "0140f5807d9f098db7a72768"
+          },
+          {
+            "$oid": "bd0b195ed17f78d65f936d42"
+          },
+          {
+            "$oid": "3dbcf9d4742f5500ad18e4a6"
+          },
+          {
+            "$oid": "40874c10735d609fe199920e"
+          },
+          {
+            "$oid": "ac796ea5c2cad558612f1864"
+          },
+          {
+            "$oid": "3a84ca89e49f2a8d6313c309"
+          },
+          {
+            "$oid": "1d64f677d00b15d4872be69c"
+          },
+          {
+            "$oid": "736657611bca364064b3639a"
+          },
+          {
+            "$oid": "4e55f23fd4bc90833840a1fb"
+          },
+          {
+            "$oid": "5935b3f50567405f30a1c3a6"
+          },
+          {
+            "$oid": "167710e6f198fcbaeb8aa599"
+          },
+          {
+            "$oid": "9b35df03ff61c6efcebed7db"
+          },
+          {
+            "$oid": "9d5d7c18e2dd08955d5c6082"
+          },
+          {
+            "$oid": "b52c714f303528f80fb0d369"
+          },
+          {
+            "$oid": "f143035124d93b0797af650d"
+          },
+          {
+            "$oid": "ba9f653c76c8eb5d0ef39da3"
+          },
+          {
+            "$oid": "6c79642e95d076c97b34b3ae"
+          },
+          {
+            "$oid": "242ef658b8faf611e397d18f"
+          },
+          {
+            "$oid": "441b0862065a6b36061fb85f"
+          },
+          {
+            "$oid": "8d9f01542a8a478406c4d11b"
+          }
+        ]
+      }
+    ],
+    "etatObjet": "code-1",
+    "parent": null,
+    "sousGroupe": []
+  },
+  {
+    "_id": {
+      "$oid": "f4dd75e12336955b31fc1ce2"
+    },
+    "reference": "characteristics",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Characteristics",
+        "description": ""
+      }
+    ],
+    "etatValidation": "code_4268",
+    "caracteristiques": [
+      {
+        "$oid": "a7117b94af067fe25feb3531"
+      },
+      {
+        "$oid": "fe0e09eff3cc3c593786a381"
+      },
+      {
+        "$oid": "4e4c921743c32f540b5e5351"
+      },
+      {
+        "$oid": "5511950c8767755074a8768d"
+      },
+      {
+        "$oid": "ee29e1787c6beccc975ae952"
+      },
+      {
+        "$oid": "7edb5979bdecf3b2455c0b81"
+      },
+      {
+        "$oid": "0a18ce926658adf5253b47f5"
+      },
+      {
+        "$oid": "f463808223b9c2e0b8015557"
+      },
+      {
+        "$oid": "801d094d9c539bb8c09a5830"
+      },
+      {
+        "$oid": "36bb873519b0982246704675"
+      },
+      {
+        "$oid": "e8103c37260eb8bf0bd54369"
+      },
+      {
+        "$oid": "c833d35c38b8c4175a815f0a"
+      },
+      {
+        "$oid": "92357b2c72713e2b54944abf"
+      },
+      {
+        "$oid": "601be51586fa858ee4634c61"
+      },
+      {
+        "$oid": "12fb88f027be246a49b56206"
+      },
+      {
+        "$oid": "8bd31da5eaad3db478e0d325"
+      },
+      {
+        "$oid": "f6d7853db3626fed37ec0883"
+      },
+      {
+        "$oid": "30e8d30686df8f16d14dac5c"
+      },
+      {
+        "$oid": "99d85e411af6ad24a01f26be"
+      },
+      {
+        "$oid": "c4d72ccbdeb27e04769c1ca4"
+      },
+      {
+        "$oid": "57a48d3fa0c9f597bad0db41"
+      },
+      {
+        "$oid": "2c24b53cb6636f0f45215647"
+      },
+      {
+        "$oid": "60030e11675e405782e94267"
+      },
+      {
+        "$oid": "5c7cccc0672b5f4ceaf4324d"
+      },
+      {
+        "$oid": "144f215e87783cbfb280ff5f"
+      },
+      {
+        "$oid": "d3b92fc8bb9ab06dfa3ba6b9"
+      },
+      {
+        "$oid": "97974ca0897f1a6b5c810f11"
+      },
+      {
+        "$oid": "c76cd2c44db9d68163d5619c"
+      },
+      {
+        "$oid": "ec15755fc69c1cfef17496c3"
+      },
+      {
+        "$oid": "8a58b031c7fff58e36447405"
+      },
+      {
+        "$oid": "d2c438cc5402ebf1e9ea1995"
+      },
+      {
+        "$oid": "699076436eecab6abf8df6ff"
+      },
+      {
+        "$oid": "20c3870e67638a8a147fcc20"
+      },
+      {
+        "$oid": "5b9c0853481e45e6f34d3fdc"
+      },
+      {
+        "$oid": "5b332477cb32ee3b28ff0a54"
+      },
+      {
+        "$oid": "1138126e08bd1919ade6323b"
+      },
+      {
+        "$oid": "ebdb9bca99c5f6874a22edc5"
+      },
+      {
+        "$oid": "87f3494ddcfc0d743fc0d78a"
+      },
+      {
+        "$oid": "50329511cb0b3850b5f51508"
+      },
+      {
+        "$oid": "64ce203adc97f9983277898e"
+      },
+      {
+        "$oid": "fe206ca492cd0ad0d93058ae"
+      }
+    ],
+    "domainsConcernes": [
+      {
+        "domaine": {
+          "$oid": "d3a469af77a2399d69b779d5"
+        },
+        "typeRelation": "code_12348",
+        "taxonomieConcerne": [
+          {
+            "$oid": "2f13998023dc18c2df46c5f7"
+          },
+          {
+            "$oid": "fac11772e409261faceaa2d2"
+          },
+          {
+            "$oid": "44ac947a938ab70a4a4b4645"
+          },
+          {
+            "$oid": "e6ac9da5686d385b3c1076b7"
+          },
+          {
+            "$oid": "7c303b01a0efbe4115b01b59"
+          },
+          {
+            "$oid": "b0ca1b33c497293b4b7561b1"
+          },
+          {
+            "$oid": "cf147fae01f8b475570514c0"
+          },
+          {
+            "$oid": "79c6a3eb37267bf46a1602e0"
+          },
+          {
+            "$oid": "059a2e9d2be24dbd613fc69a"
+          },
+          {
+            "$oid": "98e7f18f288e9774afc99aa9"
+          },
+          {
+            "$oid": "cb9c0e3e543379e6f8ed7b4b"
+          },
+          {
+            "$oid": "c164a6054621ec90512e521a"
+          },
+          {
+            "$oid": "cf5a9bf71fb3f32ebe7e3dae"
+          },
+          {
+            "$oid": "2cf96a7aa1282726775c827c"
+          },
+          {
+            "$oid": "3338de7251fc02abf76e025d"
+          },
+          {
+            "$oid": "b9e1a04eb23f15d71d07bf40"
+          },
+          {
+            "$oid": "286e834aef0b55b7ccd5ec74"
+          },
+          {
+            "$oid": "3dc1f341e9020969c8611fe8"
+          },
+          {
+            "$oid": "587d90ddc53efceb25362da8"
+          },
+          {
+            "$oid": "bc27674aa38efcecfbf134c8"
+          },
+          {
+            "$oid": "7dc333d57eb50941715c630c"
+          },
+          {
+            "$oid": "74c026dc2b64fe46f123dc7a"
+          },
+          {
+            "$oid": "0fd59188b61240408df2b626"
+          },
+          {
+            "$oid": "2aaafc00dfeceaa157393006"
+          },
+          {
+            "$oid": "db7e271dbfeed2a8a203d531"
+          },
+          {
+            "$oid": "6927b56ed80412ee42bc446f"
+          },
+          {
+            "$oid": "e22e326d88d834403214ea99"
+          },
+          {
+            "$oid": "83cef92bc020afc7caed03be"
+          },
+          {
+            "$oid": "c920892ae6003fc0945d1821"
+          },
+          {
+            "$oid": "6828b01ef10202e771c2438f"
+          },
+          {
+            "$oid": "e483845a1be617044ebdb42b"
+          },
+          {
+            "$oid": "83aeee2e23aaf9d1bbf8a4dc"
+          },
+          {
+            "$oid": "7895dba25c6f4317f4321fff"
+          },
+          {
+            "$oid": "3818919d02499afbc03cd953"
+          },
+          {
+            "$oid": "5d9b2b2978f157a8ff349552"
+          },
+          {
+            "$oid": "24191604ca8aebd6093494f1"
+          },
+          {
+            "$oid": "3133695fd82f5b9e6fb102a9"
+          },
+          {
+            "$oid": "1d39207df785f06f362aabb4"
+          },
+          {
+            "$oid": "b6d2d96675f8568f1706c92b"
+          },
+          {
+            "$oid": "c070b14ede602a73da444008"
+          },
+          {
+            "$oid": "bdbee128901dac9932913365"
+          },
+          {
+            "$oid": "d9b4fe933d92c5a61fc37449"
+          },
+          {
+            "$oid": "4fe01ed2bd82f52a1f79d774"
+          },
+          {
+            "$oid": "e0aebc1b6bfffaf3d4733315"
+          },
+          {
+            "$oid": "614f7affe58eff620ef9ca0b"
+          },
+          {
+            "$oid": "d626c4633ed92107a3f8dd2c"
+          },
+          {
+            "$oid": "ec085c38e2dfe2a08e0f9f15"
+          },
+          {
+            "$oid": "14df40616c320475f3923cf9"
+          },
+          {
+            "$oid": "3cb323cc878f732002991093"
+          },
+          {
+            "$oid": "6816bab31c74d0f8a9862531"
+          },
+          {
+            "$oid": "74012233f547971d10ff7cc0"
+          },
+          {
+            "$oid": "fe60ea6f5860ab08348e6d4d"
+          },
+          {
+            "$oid": "e6dc2fc36977b8ec8a2d53fc"
+          },
+          {
+            "$oid": "ab44154ffad528cc167687dc"
+          },
+          {
+            "$oid": "88dcd538b86b9324cf1249fb"
+          }
+        ]
+      },
+      {
+        "domaine": {
+          "$oid": "fd91b7bc0069f40cf1adbb4f"
+        },
+        "typeRelation": "code_12348",
+        "taxonomieConcerne": [
+          {
+            "$oid": "7a34d3a7fd1928735dd5702f"
+          },
+          {
+            "$oid": "449ea1788393d33a724dc3a6"
+          },
+          {
+            "$oid": "0952dad94a2ba22ef7a5e6ad"
+          },
+          {
+            "$oid": "c585fda801dc98bdfbb69bd9"
+          },
+          {
+            "$oid": "d96ba230858b2dd7a4383705"
+          },
+          {
+            "$oid": "b2ef94c310bff62bb6a3a048"
+          },
+          {
+            "$oid": "20ff24e687882110b8187e0b"
+          },
+          {
+            "$oid": "6908edfdb527d19eb40e84a1"
+          }
+        ]
+      },
+      {
+        "domaine": {
+          "$oid": "bd9e19005ca4c937a3fb1f4a"
+        },
+        "typeRelation": "code_12348",
+        "taxonomieConcerne": [
+          {
+            "$oid": "ed3d4ce06276e5c0fac87d4a"
+          },
+          {
+            "$oid": "66eec8a24809011d79301c62"
+          },
+          {
+            "$oid": "0fe2f49155df36517c3d3a00"
+          },
+          {
+            "$oid": "6f68109b037018559912b84e"
+          },
+          {
+            "$oid": "9a563daf88614394ab410129"
+          },
+          {
+            "$oid": "52fe7b0d0514c7ddba015837"
+          },
+          {
+            "$oid": "70fe92a5afcb4753c65d314c"
+          },
+          {
+            "$oid": "65c722c4ec4b35fa01e90a74"
+          },
+          {
+            "$oid": "844d9a61f3e45404ad161add"
+          },
+          {
+            "$oid": "7fd666e8dd1c1f8d42144d61"
+          },
+          {
+            "$oid": "ee6fff4e2f6b521f8dde6f0f"
+          },
+          {
+            "$oid": "331416b5e3cb30da5b8a8b49"
+          },
+          {
+            "$oid": "40388d7b09e1fdf926bddb33"
+          },
+          {
+            "$oid": "13f1d4552b2487615fcd436b"
+          },
+          {
+            "$oid": "987f1a0543ee9821da6f6352"
+          },
+          {
+            "$oid": "8227d704e740852a23c01087"
+          },
+          {
+            "$oid": "fac74d0e6ed96e369df414d7"
+          },
+          {
+            "$oid": "2c598f3936807148bd266f04"
+          },
+          {
+            "$oid": "60259ee14b15573a028ded73"
+          },
+          {
+            "$oid": "1683d4d55412a18bbe2a87b9"
+          },
+          {
+            "$oid": "10568368cb9a5eddd3e3d198"
+          },
+          {
+            "$oid": "656e1e1d5ff4257c0e30a261"
+          },
+          {
+            "$oid": "07a77010035a7e7f61a365e7"
+          },
+          {
+            "$oid": "f860d515de23b559e8b6b2b9"
+          },
+          {
+            "$oid": "a23f2cbc1432f23a8a08fe18"
+          },
+          {
+            "$oid": "33f2e524dd59e9aa57fdc763"
+          },
+          {
+            "$oid": "4b868b9e5fe88e702d7b2e06"
+          }
+        ]
+      },
+      {
+        "domaine": {
+          "$oid": "3fbf73a2044cc89f14f14c05"
+        },
+        "typeRelation": "code_12348",
+        "taxonomieConcerne": [
+          {
+            "$oid": "fd19b2d0f2ade19a71944784"
+          },
+          {
+            "$oid": "4c9c21217ab7acaa9f2c29fb"
+          },
+          {
+            "$oid": "8f8b62f86d7df406e3d236fb"
+          },
+          {
+            "$oid": "b04bedc4b936ec133bfaa208"
+          },
+          {
+            "$oid": "ac9900051b4611c53a4fb432"
+          },
+          {
+            "$oid": "f35139265336baa956c52121"
+          },
+          {
+            "$oid": "a01d8aa799ff6b70933b4b62"
+          },
+          {
+            "$oid": "8c0feab3c4f32342b7027eec"
+          },
+          {
+            "$oid": "c668b46fd020424571f149e4"
+          },
+          {
+            "$oid": "4557f66a0b04cdcfc64daafb"
+          },
+          {
+            "$oid": "511ebbee63046a03ff7db953"
+          },
+          {
+            "$oid": "d75bb95073c959bcb06c931c"
+          },
+          {
+            "$oid": "7f7e782faa17b5da12775fb8"
+          },
+          {
+            "$oid": "fd4b44cda3eddc9edd729171"
+          },
+          {
+            "$oid": "642b7751ee6bf9aa27d9c195"
+          },
+          {
+            "$oid": "07b282ff6fdc4ee19a6660c3"
+          },
+          {
+            "$oid": "418b507f04d7ba32e46ecc97"
+          },
+          {
+            "$oid": "88fc87130eef47ec829db8e7"
+          },
+          {
+            "$oid": "c1b46e8031631ebd595189fd"
+          },
+          {
+            "$oid": "e7c730f1e2299af6bd09fd43"
+          },
+          {
+            "$oid": "222ce85ac1523ab233d4e1c4"
+          },
+          {
+            "$oid": "3a57b35aa53f810ed8748bed"
+          },
+          {
+            "$oid": "fc95dad6314ef8c7a314342e"
+          },
+          {
+            "$oid": "667ab39c9594a4efbeb71de9"
+          },
+          {
+            "$oid": "fdb05b6b2f8bc749e9365a1f"
+          },
+          {
+            "$oid": "f8dc4ff0160ef0fa3f2e50a0"
+          },
+          {
+            "$oid": "5dd7bcfa264bf37610d5d00b"
+          },
+          {
+            "$oid": "145fb564ae9645cfc4942564"
+          },
+          {
+            "$oid": "f7c0ffb344cbde7c7dfbfab0"
+          },
+          {
+            "$oid": "0d96bfab95693bac95d985f3"
+          },
+          {
+            "$oid": "fa5f959dc628723687ce4be4"
+          },
+          {
+            "$oid": "d4ece8f68ba8a76a87cbaf40"
+          },
+          {
+            "$oid": "be73a2bb0bb4f4f30e6b37ef"
+          },
+          {
+            "$oid": "b871a111df54ba217d5c38da"
+          },
+          {
+            "$oid": "6ef5a8c3edd4a8e9c6f94e33"
+          },
+          {
+            "$oid": "6d1f2b59f61141938044e423"
+          },
+          {
+            "$oid": "6715400ca1a20d92cd26834a"
+          },
+          {
+            "$oid": "d49961ce5c2d11ef79d60dbe"
+          },
+          {
+            "$oid": "081af79688853202b9c42e43"
+          },
+          {
+            "$oid": "138ab66c9eb7428f611a3eb3"
+          }
+        ]
+      },
+      {
+        "domaine": {
+          "$oid": "250dac0ab7103ca09a3de55f"
+        },
+        "typeRelation": "code_12348",
+        "taxonomieConcerne": [
+          {
+            "$oid": "0acbf5e30a5ca71f8af51462"
+          },
+          {
+            "$oid": "3f8e769f996568fad9c35adc"
+          },
+          {
+            "$oid": "b8954352292ec1b4deee2639"
+          },
+          {
+            "$oid": "751f8051ff1630268d1055b2"
+          },
+          {
+            "$oid": "c088a0bdf996472915388e77"
+          },
+          {
+            "$oid": "c5af4fa71b90d75b8844fb67"
+          },
+          {
+            "$oid": "1400b17cca54670328d815be"
+          },
+          {
+            "$oid": "60e668370e4afaebc6ae41a2"
+          },
+          {
+            "$oid": "5e6c9334a73f442c11c1a967"
+          },
+          {
+            "$oid": "55d86d86b7d03625f36e481c"
+          },
+          {
+            "$oid": "48c24ff1e46aa2d2ff37d04b"
+          },
+          {
+            "$oid": "9000462f0916bc9d0d34122c"
+          },
+          {
+            "$oid": "cf402e0aaad94bf4a590499d"
+          },
+          {
+            "$oid": "2c89009bc2a2faaf57794928"
+          },
+          {
+            "$oid": "6b04742ac1fc21a4661a1745"
+          },
+          {
+            "$oid": "336da5e2d9531b6e993a179a"
+          },
+          {
+            "$oid": "33b251f3bc8e0037dae19ecc"
+          },
+          {
+            "$oid": "29ff438d36ea2ad9df481e8c"
+          },
+          {
+            "$oid": "6e49f6261769ee886dfca9d8"
+          },
+          {
+            "$oid": "9443b789bdfb034f59ace207"
+          },
+          {
+            "$oid": "057ed88b87c09f3aa695f683"
+          },
+          {
+            "$oid": "23232567ad193e759827d177"
+          },
+          {
+            "$oid": "5346706ba967a0a91fcdc4e7"
+          },
+          {
+            "$oid": "31004691c6af00d0bd2bab36"
+          },
+          {
+            "$oid": "0a9ba8cb85e05ac0069971a9"
+          },
+          {
+            "$oid": "b1d9b16c9d4951ae79592a5d"
+          },
+          {
+            "$oid": "9a361335d541a90218c574c2"
+          },
+          {
+            "$oid": "c58e99e2006b81998fe092f8"
+          },
+          {
+            "$oid": "57d8c93f039de4fe7aaeda6d"
+          },
+          {
+            "$oid": "0f69aacfecc19fc7f1cd0601"
+          },
+          {
+            "$oid": "1bee594e23f41f4390bb7e8b"
+          },
+          {
+            "$oid": "041f70b26c872a61ce696b0c"
+          },
+          {
+            "$oid": "c29f12e7532c7dea0921be46"
+          },
+          {
+            "$oid": "822b724ef5c188e76d5b2c6d"
+          },
+          {
+            "$oid": "e19bbeee0fba73ce1fb7cb57"
+          },
+          {
+            "$oid": "0e565bcfb7d30727eccd352b"
+          },
+          {
+            "$oid": "95a3191d2cd5af6de07c4b56"
+          },
+          {
+            "$oid": "0d5431e2e784353cf5750814"
+          },
+          {
+            "$oid": "96ae08ca917b8d198cc022b2"
+          },
+          {
+            "$oid": "9e97c73abe8d08506067cecf"
+          },
+          {
+            "$oid": "3f0d6d67829d22d0c7a2bdf6"
+          },
+          {
+            "$oid": "8fcc00b69ed62d28e2f9c3c6"
+          },
+          {
+            "$oid": "516cab2bf3d47e5a3b2539e2"
+          },
+          {
+            "$oid": "0c8561eb148f9e049b989f5b"
+          },
+          {
+            "$oid": "75a04c07b9c688b33c1df718"
+          },
+          {
+            "$oid": "38f8b85a3a895fe8802743b3"
+          },
+          {
+            "$oid": "3144b064bb73d500c0d403dd"
+          },
+          {
+            "$oid": "5d42b0b98f3a0f1346ed0f76"
+          }
+        ]
+      },
+      {
+        "domaine": {
+          "$oid": "569d56a5043d19bca57f8db8"
+        },
+        "typeRelation": "code_12348",
+        "taxonomieConcerne": [
+          {
+            "$oid": "e1c793c7389e6472ffdb1899"
+          },
+          {
+            "$oid": "10a9e3fcccea1a68f8c01a41"
+          },
+          {
+            "$oid": "0effe3aa7c4275779ad00d69"
+          },
+          {
+            "$oid": "659a40c16785a38c510f142d"
+          },
+          {
+            "$oid": "14356e2c2b8e2693283c05c3"
+          },
+          {
+            "$oid": "02db35e2c068e0fcfe44b23e"
+          },
+          {
+            "$oid": "13f507a820b290ac12c7c5a0"
+          },
+          {
+            "$oid": "e0039816e2f14b2ac7fe18be"
+          },
+          {
+            "$oid": "6fc9902f006d40bf071130be"
+          },
+          {
+            "$oid": "e4ee18974b096059a16b201c"
+          },
+          {
+            "$oid": "1e0c35267b9d6ccd879567be"
+          },
+          {
+            "$oid": "c02b97b36c47fb3e946f15c3"
+          },
+          {
+            "$oid": "472fd3b2c56cb7185c433109"
+          },
+          {
+            "$oid": "d1ccc1315b90a2819b11df4a"
+          },
+          {
+            "$oid": "63e35d4bfe9c104935d84bc5"
+          },
+          {
+            "$oid": "389d7f4307986d1ccf0128bd"
+          },
+          {
+            "$oid": "54b7dec8813ea9f4d27d9bf2"
+          },
+          {
+            "$oid": "cf7f3419a24bd9e3188a6eb3"
+          },
+          {
+            "$oid": "a3e8df5355759882d1efc706"
+          },
+          {
+            "$oid": "ce38847cfe1c2bb460f10714"
+          },
+          {
+            "$oid": "d20010987fd32a02d0875505"
+          },
+          {
+            "$oid": "4d32d614ca159bdb3c456fb6"
+          }
+        ]
+      },
+      {
+        "domaine": {
+          "$oid": "43144269a0ca9179fc78ab00"
+        },
+        "typeRelation": "code_12348",
+        "taxonomieConcerne": [
+          {
+            "$oid": "20e8e337eefd9a4a17430d06"
+          },
+          {
+            "$oid": "71da92fd8437fe3db9bf0d93"
+          },
+          {
+            "$oid": "5ad4bd6314fc2e3b248b955f"
+          },
+          {
+            "$oid": "a97ac4e9a59626ed814146f0"
+          },
+          {
+            "$oid": "6517c1288c22dae5ab018c5c"
+          },
+          {
+            "$oid": "015c3f4a9137a8db69a1c737"
+          },
+          {
+            "$oid": "26000f0ad6c2ad4a9eadf80a"
+          },
+          {
+            "$oid": "ad52ef4004b5aedd647bd16f"
+          },
+          {
+            "$oid": "843c495bea7bded9cb1644d6"
+          },
+          {
+            "$oid": "a818ba30b07bf22c624b07e1"
+          },
+          {
+            "$oid": "4525fabeed0ae2a8a6bb7bcc"
+          },
+          {
+            "$oid": "1d105056ffb7a5292b6d0c57"
+          },
+          {
+            "$oid": "f4eb002a9e31933f5396fc39"
+          },
+          {
+            "$oid": "5618bbde6fd6dc9e42d77305"
+          },
+          {
+            "$oid": "1f8a147b8f98f276733f9846"
+          },
+          {
+            "$oid": "c716414046f73a54eae48d53"
+          },
+          {
+            "$oid": "5b93b253dadf248002d2fb5c"
+          },
+          {
+            "$oid": "862670c19631fb0fd06a087b"
+          },
+          {
+            "$oid": "6b1fb8dfcac219dd09bd9fef"
+          },
+          {
+            "$oid": "83d20b41adf8f14d0c56d260"
+          },
+          {
+            "$oid": "3c84041e655b5dd6b70128b2"
+          },
+          {
+            "$oid": "4b1c1b3eb734e071dd8d3b07"
+          },
+          {
+            "$oid": "068f134f0cf394e73c49ecd5"
+          },
+          {
+            "$oid": "835302e23f1f33c196214838"
+          }
+        ]
+      },
+      {
+        "domaine": {
+          "$oid": "23b9e10370ebfc9b5006b957"
+        },
+        "typeRelation": "code_12348",
+        "taxonomieConcerne": [
+          {
+            "$oid": "7efb6d54e809aec4c3c5115c"
+          },
+          {
+            "$oid": "f52daaad6181199429173bfb"
+          },
+          {
+            "$oid": "c16b0e0f066b741730437a8a"
+          },
+          {
+            "$oid": "b5a2ee7c77bca4cf22923c45"
+          },
+          {
+            "$oid": "5e40ef85a5e86c4908c700aa"
+          },
+          {
+            "$oid": "a6ec81a6ed85a4445d0a8c7c"
+          },
+          {
+            "$oid": "94d7366a78e87fe799343736"
+          },
+          {
+            "$oid": "467f5cef101906c2354888f1"
+          },
+          {
+            "$oid": "2620aa7243f5dba87c8e83e0"
+          },
+          {
+            "$oid": "84f6c928c7aa682a61eae821"
+          },
+          {
+            "$oid": "a7ad7195a6a740e26c90580e"
+          },
+          {
+            "$oid": "8d8f44544640171482cd8310"
+          },
+          {
+            "$oid": "f6f4d80eed9910f90b2be3b2"
+          },
+          {
+            "$oid": "1f75bf2b7d51026ca3e332e4"
+          },
+          {
+            "$oid": "5ce3345951e11061e6bbe6e6"
+          },
+          {
+            "$oid": "d5fd2168618fa908658edcc1"
+          },
+          {
+            "$oid": "7f3196f0d1b0b160cdeac697"
+          },
+          {
+            "$oid": "5cc21f09c9afc0e974563e96"
+          },
+          {
+            "$oid": "da8d3642e6c79abdd82e10b5"
+          },
+          {
+            "$oid": "f60870819a5d4f6220c64833"
+          },
+          {
+            "$oid": "9d23eb2c5f30fa79a07ed070"
+          },
+          {
+            "$oid": "e54925285ffc7d0b2c9ec3d7"
+          },
+          {
+            "$oid": "abee07b3f82fd432bd1005d9"
+          },
+          {
+            "$oid": "887ba541ee448423506ce717"
+          },
+          {
+            "$oid": "531b3f4caa64271df4119fb2"
+          },
+          {
+            "$oid": "791dfc2589d64b2d71acc49d"
+          },
+          {
+            "$oid": "24776689ccef800d9432caa9"
+          },
+          {
+            "$oid": "c6df412457a63fda11e98f88"
+          },
+          {
+            "$oid": "8226a243e66e3e7c91f63e84"
+          },
+          {
+            "$oid": "496a89218623ef9f3cf5912b"
+          },
+          {
+            "$oid": "5d5a35785607bf9c178dcb4c"
+          },
+          {
+            "$oid": "f4145f469eadbb1c50ae5748"
+          }
+        ]
+      },
+      {
+        "domaine": {
+          "$oid": "545e96ae18f1dedfc258923d"
+        },
+        "typeRelation": "code_12348",
+        "taxonomieConcerne": [
+          {
+            "$oid": "a4d96e69e07fc1634336f6a6"
+          },
+          {
+            "$oid": "5fd749b1b70da5ce4d48f688"
+          },
+          {
+            "$oid": "472b78bf2be6561be760a2c1"
+          },
+          {
+            "$oid": "4fcaa9f44b6460c678fc9c3c"
+          },
+          {
+            "$oid": "9dba1d31f2b664ac43a4dfdf"
+          },
+          {
+            "$oid": "4805864b79200f7ec6ef9457"
+          },
+          {
+            "$oid": "7c1918e71594cd0f8460a688"
+          },
+          {
+            "$oid": "3679e0fea8a78e30f2f65759"
+          },
+          {
+            "$oid": "0cf2e515c62e828eb9fdf998"
+          },
+          {
+            "$oid": "e70b2d5901eb748fd9bf6cab"
+          },
+          {
+            "$oid": "f51511ffde67a45dbf83724a"
+          },
+          {
+            "$oid": "bacc3b9ca52614e361814c29"
+          },
+          {
+            "$oid": "8dd20d4d0574577ca5815cca"
+          },
+          {
+            "$oid": "3964235fab8ccb9f79f44d28"
+          }
+        ]
+      },
+      {
+        "domaine": {
+          "$oid": "2b8015bd253217d086899365"
+        },
+        "typeRelation": "code_12348",
+        "taxonomieConcerne": [
+          {
+            "$oid": "2b7caf45018f871691aa5362"
+          },
+          {
+            "$oid": "1e52f39cf69faa8159ce152d"
+          },
+          {
+            "$oid": "e56102ec7f73e8a90890ab51"
+          },
+          {
+            "$oid": "f3ef19c617254a92b33e8962"
+          },
+          {
+            "$oid": "efd68907fef581c42537ed10"
+          },
+          {
+            "$oid": "0481e0bf8c4bfa6a39612fa4"
+          },
+          {
+            "$oid": "30aafad4f2dba399c93d975d"
+          },
+          {
+            "$oid": "225843bc7b0dac54677fee42"
+          },
+          {
+            "$oid": "fcf24cf7f82410fab7a44bbb"
+          },
+          {
+            "$oid": "c8298612ecfc9dcfcb6f9c3b"
+          },
+          {
+            "$oid": "5ea9650507c9af9017dd7d87"
+          },
+          {
+            "$oid": "ce61f8c269376f48b7143bc2"
+          },
+          {
+            "$oid": "6a015898eeaad9c7ecbbd7a1"
+          },
+          {
+            "$oid": "49a0ff75e45d0568480e9efd"
+          },
+          {
+            "$oid": "e291eeed3b5bf7f9856caaf6"
+          },
+          {
+            "$oid": "192eb749ebf2987e257ddc0b"
+          }
+        ]
+      },
+      {
+        "domaine": {
+          "$oid": "5f75591426a93df389a6ba45"
+        },
+        "typeRelation": "code_12348",
+        "taxonomieConcerne": [
+          {
+            "$oid": "a58235292aadb15bc9de6896"
+          },
+          {
+            "$oid": "8eb0bc01355b899219329331"
+          },
+          {
+            "$oid": "0b18215f3e0ec6f4cd2039dd"
+          },
+          {
+            "$oid": "2a36f76299cca510ae5b81a7"
+          },
+          {
+            "$oid": "bae2cd648fb7364d00353a0b"
+          },
+          {
+            "$oid": "ac9b8550e45183e966507a58"
+          },
+          {
+            "$oid": "c830503e5a0049db2d9e2458"
+          },
+          {
+            "$oid": "6a75da3ac00e4af47e575267"
+          },
+          {
+            "$oid": "b183bbdf3d5f530131dd92ea"
+          },
+          {
+            "$oid": "24669a35c3fa81b551862fe2"
+          },
+          {
+            "$oid": "086b032dc24be05402436a5c"
+          },
+          {
+            "$oid": "67e40bc11e783262f3185d7e"
+          },
+          {
+            "$oid": "1155102cb2f4127107bd1099"
+          },
+          {
+            "$oid": "432a5a428945dc3b251b15cb"
+          }
+        ]
+      },
+      {
+        "domaine": {
+          "$oid": "5fff5ce09cda01210d1a1935"
+        },
+        "typeRelation": "code_12348",
+        "taxonomieConcerne": [
+          {
+            "$oid": "56b1802b55f21166d835f48e"
+          },
+          {
+            "$oid": "ea7a67cc9bbe03366ed551d7"
+          },
+          {
+            "$oid": "dfb7a35ad54d40f8d3942f41"
+          },
+          {
+            "$oid": "7396bf4ba52629167bcbc4f2"
+          },
+          {
+            "$oid": "c2b324abf9a26ccb13f58f13"
+          },
+          {
+            "$oid": "80efdf2dd5fda657b700bfd8"
+          },
+          {
+            "$oid": "eec2a2c2901a9f40f33ccdf5"
+          },
+          {
+            "$oid": "9138b9a2e964dbf22ae4e74a"
+          }
+        ]
+      },
+      {
+        "domaine": {
+          "$oid": "13359332cf985ae19d341e08"
+        },
+        "typeRelation": "code_12348",
+        "taxonomieConcerne": [
+          {
+            "$oid": "61470195545954f2e5671091"
+          },
+          {
+            "$oid": "db59cca2e09f42ec9dff820a"
+          },
+          {
+            "$oid": "bb894b7e637740342effbc20"
+          },
+          {
+            "$oid": "3cfe695c3552fea62aae6b60"
+          },
+          {
+            "$oid": "71060d3466f8116bd3c83ad5"
+          }
+        ]
+      },
+      {
+        "domaine": {
+          "$oid": "c3ea28cd2634d0ddc0701c16"
+        },
+        "typeRelation": "code_12348",
+        "taxonomieConcerne": [
+          {
+            "$oid": "9075a426081f085b03622bc9"
+          },
+          {
+            "$oid": "7a2e0f6a505eab1a7c24c2f7"
+          },
+          {
+            "$oid": "c176e48f61a8df21d8dec043"
+          },
+          {
+            "$oid": "284e06dc5dc2225b6f834f0c"
+          },
+          {
+            "$oid": "034ba40fc3cfeb9b0c26dbba"
+          },
+          {
+            "$oid": "857910b33415bc50ec000a20"
+          },
+          {
+            "$oid": "5c3dc0f7dea79fea0a9a5672"
+          },
+          {
+            "$oid": "4e323a4b29b1875cc8c64e44"
+          },
+          {
+            "$oid": "3168d9266078061e3b9d77f7"
+          },
+          {
+            "$oid": "28766158a5474f0a10772fe5"
+          },
+          {
+            "$oid": "5c57b62824e2f9ff642549aa"
+          },
+          {
+            "$oid": "98f0db1a8ac529b3dd5073c8"
+          },
+          {
+            "$oid": "8ed8690851531fe96aaa1cf2"
+          },
+          {
+            "$oid": "708bd7f105b3f4dbcb5da24c"
+          },
+          {
+            "$oid": "3e056af386451b78412f5acc"
+          }
+        ]
+      },
+      {
+        "domaine": {
+          "$oid": "af67e8eb26ec9fdce01543b5"
+        },
+        "typeRelation": "code_12348",
+        "taxonomieConcerne": [
+          {
+            "$oid": "458b0663fb150670a2ae87ef"
+          },
+          {
+            "$oid": "96a75227ba21fad02ede6747"
+          },
+          {
+            "$oid": "3484f247c6ff4795c3e403f5"
+          },
+          {
+            "$oid": "8a1326543b8919cf212b5489"
+          },
+          {
+            "$oid": "7354b43894157c1b0de88ef1"
+          },
+          {
+            "$oid": "3f24f51895b4a8111ecd69a9"
+          },
+          {
+            "$oid": "1d6306681d71831a78de14b9"
+          },
+          {
+            "$oid": "47c0a0364304588a5dbcdc30"
+          },
+          {
+            "$oid": "cae1e63df849ece4eaeefdeb"
+          },
+          {
+            "$oid": "4cda351ecce83255a0efe2aa"
+          },
+          {
+            "$oid": "e983cb42bbf986c312eab9ea"
+          }
+        ]
+      },
+      {
+        "domaine": {
+          "$oid": "46ad4c1e75c9d9d3afc013df"
+        },
+        "typeRelation": "code_12348",
+        "taxonomieConcerne": [
+          {
+            "$oid": "0140f5807d9f098db7a72768"
+          },
+          {
+            "$oid": "bd0b195ed17f78d65f936d42"
+          },
+          {
+            "$oid": "3dbcf9d4742f5500ad18e4a6"
+          },
+          {
+            "$oid": "40874c10735d609fe199920e"
+          },
+          {
+            "$oid": "ac796ea5c2cad558612f1864"
+          },
+          {
+            "$oid": "3a84ca89e49f2a8d6313c309"
+          },
+          {
+            "$oid": "1d64f677d00b15d4872be69c"
+          },
+          {
+            "$oid": "736657611bca364064b3639a"
+          },
+          {
+            "$oid": "4e55f23fd4bc90833840a1fb"
+          },
+          {
+            "$oid": "5935b3f50567405f30a1c3a6"
+          },
+          {
+            "$oid": "167710e6f198fcbaeb8aa599"
+          },
+          {
+            "$oid": "9b35df03ff61c6efcebed7db"
+          },
+          {
+            "$oid": "9d5d7c18e2dd08955d5c6082"
+          },
+          {
+            "$oid": "b52c714f303528f80fb0d369"
+          },
+          {
+            "$oid": "f143035124d93b0797af650d"
+          },
+          {
+            "$oid": "ba9f653c76c8eb5d0ef39da3"
+          },
+          {
+            "$oid": "6c79642e95d076c97b34b3ae"
+          },
+          {
+            "$oid": "242ef658b8faf611e397d18f"
+          },
+          {
+            "$oid": "441b0862065a6b36061fb85f"
+          },
+          {
+            "$oid": "8d9f01542a8a478406c4d11b"
+          }
+        ]
+      },
+      {
+        "domaine": {
+          "$oid": "06b6871d02854b07b47d833d"
+        },
+        "typeRelation": "code_12348",
+        "taxonomieConcerne": [
+          {
+            "$oid": "00cd8a50012ed45147844edc"
+          },
+          {
+            "$oid": "fc53df6a9bf6b8d55cb403e9"
+          },
+          {
+            "$oid": "38c3520342e2f200fbe46605"
+          },
+          {
+            "$oid": "3a12d7c0c4ffc20dff7c89e5"
+          }
+        ]
+      }
+    ],
+    "etatObjet": "code-1",
+    "parent": null,
+    "sousGroupe": []
+  },
+  {
+    "_id": {
+      "$oid": "4465782a1ba1ec5d4448f450"
+    },
+    "reference": "body_options",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Body options",
+        "description": ""
+      }
+    ],
+    "etatValidation": "code_4268",
+    "caracteristiques": [
+      {
+        "$oid": "9fc9ce0044d7371f9ad495b3"
+      },
+      {
+        "$oid": "1d14d6a491ef51be205eebb4"
+      },
+      {
+        "$oid": "ed530995dba835b4c5132710"
+      },
+      {
+        "$oid": "3d7e25a187170498622cf112"
+      },
+      {
+        "$oid": "d508714ee4faf51b7008a8e2"
+      },
+      {
+        "$oid": "b59543e0b9828e69159dcaf4"
+      },
+      {
+        "$oid": "93eba762a9b819ee7454e6cd"
+      },
+      {
+        "$oid": "828caf65dfb7aeacdc0ffea5"
+      },
+      {
+        "$oid": "f87ce753208e6ff7f2568e90"
+      },
+      {
+        "$oid": "47219be7a294c6eb6b05df4a"
+      },
+      {
+        "$oid": "85da729fa7e591d4b0432bfb"
+      },
+      {
+        "$oid": "6f0b8f3c4263ea5a3c76b128"
+      },
+      {
+        "$oid": "64106106bf8579cd260bc04c"
+      },
+      {
+        "$oid": "8b312c7fd9b8179cff066b34"
+      },
+      {
+        "$oid": "cf49c3433a8e7ea6c8d670a2"
+      },
+      {
+        "$oid": "a07b56b098c3facfb8826d90"
+      },
+      {
+        "$oid": "18d968d5f8d2f032356af799"
+      },
+      {
+        "$oid": "4865a9b78bfb02c3b9e79d19"
+      },
+      {
+        "$oid": "281d8383121530f01685ead7"
+      },
+      {
+        "$oid": "0793bb0a78a82fc122490557"
+      },
+      {
+        "$oid": "9d3c8b355474312e6f0b5f98"
+      },
+      {
+        "$oid": "6b0013963f6502fff7fa2400"
+      },
+      {
+        "$oid": "8406954024dd18bced04954b"
+      },
+      {
+        "$oid": "40ba8ea77e787d5a16d9b0d4"
+      },
+      {
+        "$oid": "5f989b04989eff9189dc2140"
+      },
+      {
+        "$oid": "9be76acbd2488f257eed485c"
+      },
+      {
+        "$oid": "34ffa74ed12b51fc433e85a1"
+      },
+      {
+        "$oid": "406181a6611965704d2c42d4"
+      },
+      {
+        "$oid": "bd7f0ed2b12c3afa777252c0"
+      },
+      {
+        "$oid": "3b4e13b0e0ca5d50132a497a"
+      },
+      {
+        "$oid": "61e84503068f09da937fc8f4"
+      },
+      {
+        "$oid": "3764f27a61040b90cda87c58"
+      },
+      {
+        "$oid": "740edf625beb8c1e6eb63fa7"
+      },
+      {
+        "$oid": "5d168019fd19595c72c7e5ac"
+      },
+      {
+        "$oid": "5342ee3b7cf80ff2c72c2499"
+      },
+      {
+        "$oid": "36a2038271ad81557912e14a"
+      },
+      {
+        "$oid": "27a3394f69a6cc7a92fb1120"
+      },
+      {
+        "$oid": "38c2f26cf1008764df99930e"
+      },
+      {
+        "$oid": "4151f0b61b432a50155f71bd"
+      },
+      {
+        "$oid": "7cc60df715bf570702db8944"
+      },
+      {
+        "$oid": "6fe78ba46867ed62a1b4f23d"
+      },
+      {
+        "$oid": "6eaf6ec2ab8c236226b02a79"
+      },
+      {
+        "$oid": "51638d08e9850acba309b5ab"
+      },
+      {
+        "$oid": "b20cf9ba00618c1d3e4fbc50"
+      },
+      {
+        "$oid": "23dcfafffc5385c57cdcf798"
+      },
+      {
+        "$oid": "2b06c3cb77aa30550acf98ee"
+      },
+      {
+        "$oid": "2513f7a72a44eb5816626f44"
+      }
+    ],
+    "domainsConcernes": [
+      {
+        "domaine": {
+          "$oid": "d3a469af77a2399d69b779d5"
+        },
+        "typeRelation": "code_12348",
+        "taxonomieConcerne": [
+          {
+            "$oid": "2f13998023dc18c2df46c5f7"
+          },
+          {
+            "$oid": "fac11772e409261faceaa2d2"
+          },
+          {
+            "$oid": "44ac947a938ab70a4a4b4645"
+          },
+          {
+            "$oid": "e6ac9da5686d385b3c1076b7"
+          },
+          {
+            "$oid": "7c303b01a0efbe4115b01b59"
+          },
+          {
+            "$oid": "b0ca1b33c497293b4b7561b1"
+          },
+          {
+            "$oid": "cf147fae01f8b475570514c0"
+          },
+          {
+            "$oid": "79c6a3eb37267bf46a1602e0"
+          },
+          {
+            "$oid": "059a2e9d2be24dbd613fc69a"
+          },
+          {
+            "$oid": "98e7f18f288e9774afc99aa9"
+          },
+          {
+            "$oid": "cb9c0e3e543379e6f8ed7b4b"
+          },
+          {
+            "$oid": "c164a6054621ec90512e521a"
+          },
+          {
+            "$oid": "cf5a9bf71fb3f32ebe7e3dae"
+          },
+          {
+            "$oid": "2cf96a7aa1282726775c827c"
+          },
+          {
+            "$oid": "3338de7251fc02abf76e025d"
+          },
+          {
+            "$oid": "b9e1a04eb23f15d71d07bf40"
+          },
+          {
+            "$oid": "286e834aef0b55b7ccd5ec74"
+          },
+          {
+            "$oid": "3dc1f341e9020969c8611fe8"
+          },
+          {
+            "$oid": "587d90ddc53efceb25362da8"
+          },
+          {
+            "$oid": "bc27674aa38efcecfbf134c8"
+          },
+          {
+            "$oid": "7dc333d57eb50941715c630c"
+          },
+          {
+            "$oid": "74c026dc2b64fe46f123dc7a"
+          },
+          {
+            "$oid": "0fd59188b61240408df2b626"
+          },
+          {
+            "$oid": "2aaafc00dfeceaa157393006"
+          },
+          {
+            "$oid": "db7e271dbfeed2a8a203d531"
+          },
+          {
+            "$oid": "6927b56ed80412ee42bc446f"
+          },
+          {
+            "$oid": "e22e326d88d834403214ea99"
+          },
+          {
+            "$oid": "83cef92bc020afc7caed03be"
+          },
+          {
+            "$oid": "c920892ae6003fc0945d1821"
+          },
+          {
+            "$oid": "6828b01ef10202e771c2438f"
+          },
+          {
+            "$oid": "e483845a1be617044ebdb42b"
+          },
+          {
+            "$oid": "83aeee2e23aaf9d1bbf8a4dc"
+          },
+          {
+            "$oid": "7895dba25c6f4317f4321fff"
+          },
+          {
+            "$oid": "3818919d02499afbc03cd953"
+          },
+          {
+            "$oid": "5d9b2b2978f157a8ff349552"
+          },
+          {
+            "$oid": "24191604ca8aebd6093494f1"
+          },
+          {
+            "$oid": "3133695fd82f5b9e6fb102a9"
+          },
+          {
+            "$oid": "1d39207df785f06f362aabb4"
+          },
+          {
+            "$oid": "b6d2d96675f8568f1706c92b"
+          },
+          {
+            "$oid": "c070b14ede602a73da444008"
+          },
+          {
+            "$oid": "bdbee128901dac9932913365"
+          },
+          {
+            "$oid": "d9b4fe933d92c5a61fc37449"
+          },
+          {
+            "$oid": "4fe01ed2bd82f52a1f79d774"
+          },
+          {
+            "$oid": "e0aebc1b6bfffaf3d4733315"
+          },
+          {
+            "$oid": "614f7affe58eff620ef9ca0b"
+          },
+          {
+            "$oid": "d626c4633ed92107a3f8dd2c"
+          },
+          {
+            "$oid": "ec085c38e2dfe2a08e0f9f15"
+          },
+          {
+            "$oid": "14df40616c320475f3923cf9"
+          },
+          {
+            "$oid": "3cb323cc878f732002991093"
+          },
+          {
+            "$oid": "6816bab31c74d0f8a9862531"
+          },
+          {
+            "$oid": "74012233f547971d10ff7cc0"
+          },
+          {
+            "$oid": "fe60ea6f5860ab08348e6d4d"
+          },
+          {
+            "$oid": "e6dc2fc36977b8ec8a2d53fc"
+          },
+          {
+            "$oid": "ab44154ffad528cc167687dc"
+          },
+          {
+            "$oid": "88dcd538b86b9324cf1249fb"
+          }
+        ]
+      },
+      {
+        "domaine": {
+          "$oid": "fd91b7bc0069f40cf1adbb4f"
+        },
+        "typeRelation": "code_12348",
+        "taxonomieConcerne": [
+          {
+            "$oid": "7a34d3a7fd1928735dd5702f"
+          },
+          {
+            "$oid": "449ea1788393d33a724dc3a6"
+          },
+          {
+            "$oid": "0952dad94a2ba22ef7a5e6ad"
+          },
+          {
+            "$oid": "c585fda801dc98bdfbb69bd9"
+          },
+          {
+            "$oid": "d96ba230858b2dd7a4383705"
+          },
+          {
+            "$oid": "b2ef94c310bff62bb6a3a048"
+          },
+          {
+            "$oid": "20ff24e687882110b8187e0b"
+          },
+          {
+            "$oid": "6908edfdb527d19eb40e84a1"
+          }
+        ]
+      },
+      {
+        "domaine": {
+          "$oid": "bd9e19005ca4c937a3fb1f4a"
+        },
+        "typeRelation": "code_12348",
+        "taxonomieConcerne": [
+          {
+            "$oid": "ed3d4ce06276e5c0fac87d4a"
+          },
+          {
+            "$oid": "66eec8a24809011d79301c62"
+          },
+          {
+            "$oid": "0fe2f49155df36517c3d3a00"
+          },
+          {
+            "$oid": "6f68109b037018559912b84e"
+          },
+          {
+            "$oid": "9a563daf88614394ab410129"
+          },
+          {
+            "$oid": "52fe7b0d0514c7ddba015837"
+          },
+          {
+            "$oid": "70fe92a5afcb4753c65d314c"
+          },
+          {
+            "$oid": "65c722c4ec4b35fa01e90a74"
+          },
+          {
+            "$oid": "844d9a61f3e45404ad161add"
+          },
+          {
+            "$oid": "7fd666e8dd1c1f8d42144d61"
+          },
+          {
+            "$oid": "ee6fff4e2f6b521f8dde6f0f"
+          },
+          {
+            "$oid": "331416b5e3cb30da5b8a8b49"
+          },
+          {
+            "$oid": "40388d7b09e1fdf926bddb33"
+          },
+          {
+            "$oid": "13f1d4552b2487615fcd436b"
+          },
+          {
+            "$oid": "987f1a0543ee9821da6f6352"
+          },
+          {
+            "$oid": "8227d704e740852a23c01087"
+          },
+          {
+            "$oid": "fac74d0e6ed96e369df414d7"
+          },
+          {
+            "$oid": "2c598f3936807148bd266f04"
+          },
+          {
+            "$oid": "60259ee14b15573a028ded73"
+          },
+          {
+            "$oid": "1683d4d55412a18bbe2a87b9"
+          },
+          {
+            "$oid": "10568368cb9a5eddd3e3d198"
+          },
+          {
+            "$oid": "656e1e1d5ff4257c0e30a261"
+          },
+          {
+            "$oid": "07a77010035a7e7f61a365e7"
+          },
+          {
+            "$oid": "f860d515de23b559e8b6b2b9"
+          },
+          {
+            "$oid": "a23f2cbc1432f23a8a08fe18"
+          },
+          {
+            "$oid": "33f2e524dd59e9aa57fdc763"
+          },
+          {
+            "$oid": "4b868b9e5fe88e702d7b2e06"
+          }
+        ]
+      },
+      {
+        "domaine": {
+          "$oid": "3fbf73a2044cc89f14f14c05"
+        },
+        "typeRelation": "code_12348",
+        "taxonomieConcerne": [
+          {
+            "$oid": "fd19b2d0f2ade19a71944784"
+          },
+          {
+            "$oid": "4c9c21217ab7acaa9f2c29fb"
+          },
+          {
+            "$oid": "8f8b62f86d7df406e3d236fb"
+          },
+          {
+            "$oid": "b04bedc4b936ec133bfaa208"
+          },
+          {
+            "$oid": "ac9900051b4611c53a4fb432"
+          },
+          {
+            "$oid": "f35139265336baa956c52121"
+          },
+          {
+            "$oid": "a01d8aa799ff6b70933b4b62"
+          },
+          {
+            "$oid": "8c0feab3c4f32342b7027eec"
+          },
+          {
+            "$oid": "c668b46fd020424571f149e4"
+          },
+          {
+            "$oid": "4557f66a0b04cdcfc64daafb"
+          },
+          {
+            "$oid": "511ebbee63046a03ff7db953"
+          },
+          {
+            "$oid": "d75bb95073c959bcb06c931c"
+          },
+          {
+            "$oid": "7f7e782faa17b5da12775fb8"
+          },
+          {
+            "$oid": "fd4b44cda3eddc9edd729171"
+          },
+          {
+            "$oid": "642b7751ee6bf9aa27d9c195"
+          },
+          {
+            "$oid": "07b282ff6fdc4ee19a6660c3"
+          },
+          {
+            "$oid": "418b507f04d7ba32e46ecc97"
+          },
+          {
+            "$oid": "88fc87130eef47ec829db8e7"
+          },
+          {
+            "$oid": "c1b46e8031631ebd595189fd"
+          },
+          {
+            "$oid": "e7c730f1e2299af6bd09fd43"
+          },
+          {
+            "$oid": "222ce85ac1523ab233d4e1c4"
+          },
+          {
+            "$oid": "3a57b35aa53f810ed8748bed"
+          },
+          {
+            "$oid": "fc95dad6314ef8c7a314342e"
+          },
+          {
+            "$oid": "667ab39c9594a4efbeb71de9"
+          },
+          {
+            "$oid": "fdb05b6b2f8bc749e9365a1f"
+          },
+          {
+            "$oid": "f8dc4ff0160ef0fa3f2e50a0"
+          },
+          {
+            "$oid": "5dd7bcfa264bf37610d5d00b"
+          },
+          {
+            "$oid": "145fb564ae9645cfc4942564"
+          },
+          {
+            "$oid": "f7c0ffb344cbde7c7dfbfab0"
+          },
+          {
+            "$oid": "0d96bfab95693bac95d985f3"
+          },
+          {
+            "$oid": "fa5f959dc628723687ce4be4"
+          },
+          {
+            "$oid": "d4ece8f68ba8a76a87cbaf40"
+          },
+          {
+            "$oid": "be73a2bb0bb4f4f30e6b37ef"
+          },
+          {
+            "$oid": "b871a111df54ba217d5c38da"
+          },
+          {
+            "$oid": "6ef5a8c3edd4a8e9c6f94e33"
+          },
+          {
+            "$oid": "6d1f2b59f61141938044e423"
+          },
+          {
+            "$oid": "6715400ca1a20d92cd26834a"
+          },
+          {
+            "$oid": "d49961ce5c2d11ef79d60dbe"
+          },
+          {
+            "$oid": "081af79688853202b9c42e43"
+          },
+          {
+            "$oid": "138ab66c9eb7428f611a3eb3"
+          }
+        ]
+      },
+      {
+        "domaine": {
+          "$oid": "250dac0ab7103ca09a3de55f"
+        },
+        "typeRelation": "code_12348",
+        "taxonomieConcerne": [
+          {
+            "$oid": "0acbf5e30a5ca71f8af51462"
+          },
+          {
+            "$oid": "3f8e769f996568fad9c35adc"
+          },
+          {
+            "$oid": "b8954352292ec1b4deee2639"
+          },
+          {
+            "$oid": "751f8051ff1630268d1055b2"
+          },
+          {
+            "$oid": "c088a0bdf996472915388e77"
+          },
+          {
+            "$oid": "c5af4fa71b90d75b8844fb67"
+          },
+          {
+            "$oid": "1400b17cca54670328d815be"
+          },
+          {
+            "$oid": "60e668370e4afaebc6ae41a2"
+          },
+          {
+            "$oid": "5e6c9334a73f442c11c1a967"
+          },
+          {
+            "$oid": "55d86d86b7d03625f36e481c"
+          },
+          {
+            "$oid": "48c24ff1e46aa2d2ff37d04b"
+          },
+          {
+            "$oid": "9000462f0916bc9d0d34122c"
+          },
+          {
+            "$oid": "cf402e0aaad94bf4a590499d"
+          },
+          {
+            "$oid": "2c89009bc2a2faaf57794928"
+          },
+          {
+            "$oid": "6b04742ac1fc21a4661a1745"
+          },
+          {
+            "$oid": "336da5e2d9531b6e993a179a"
+          },
+          {
+            "$oid": "33b251f3bc8e0037dae19ecc"
+          },
+          {
+            "$oid": "29ff438d36ea2ad9df481e8c"
+          },
+          {
+            "$oid": "6e49f6261769ee886dfca9d8"
+          },
+          {
+            "$oid": "9443b789bdfb034f59ace207"
+          },
+          {
+            "$oid": "057ed88b87c09f3aa695f683"
+          },
+          {
+            "$oid": "23232567ad193e759827d177"
+          },
+          {
+            "$oid": "5346706ba967a0a91fcdc4e7"
+          },
+          {
+            "$oid": "31004691c6af00d0bd2bab36"
+          },
+          {
+            "$oid": "0a9ba8cb85e05ac0069971a9"
+          },
+          {
+            "$oid": "b1d9b16c9d4951ae79592a5d"
+          },
+          {
+            "$oid": "9a361335d541a90218c574c2"
+          },
+          {
+            "$oid": "c58e99e2006b81998fe092f8"
+          },
+          {
+            "$oid": "57d8c93f039de4fe7aaeda6d"
+          },
+          {
+            "$oid": "0f69aacfecc19fc7f1cd0601"
+          },
+          {
+            "$oid": "1bee594e23f41f4390bb7e8b"
+          },
+          {
+            "$oid": "041f70b26c872a61ce696b0c"
+          },
+          {
+            "$oid": "c29f12e7532c7dea0921be46"
+          },
+          {
+            "$oid": "822b724ef5c188e76d5b2c6d"
+          },
+          {
+            "$oid": "e19bbeee0fba73ce1fb7cb57"
+          },
+          {
+            "$oid": "0e565bcfb7d30727eccd352b"
+          },
+          {
+            "$oid": "95a3191d2cd5af6de07c4b56"
+          },
+          {
+            "$oid": "0d5431e2e784353cf5750814"
+          },
+          {
+            "$oid": "96ae08ca917b8d198cc022b2"
+          },
+          {
+            "$oid": "9e97c73abe8d08506067cecf"
+          },
+          {
+            "$oid": "3f0d6d67829d22d0c7a2bdf6"
+          },
+          {
+            "$oid": "8fcc00b69ed62d28e2f9c3c6"
+          },
+          {
+            "$oid": "516cab2bf3d47e5a3b2539e2"
+          },
+          {
+            "$oid": "0c8561eb148f9e049b989f5b"
+          },
+          {
+            "$oid": "75a04c07b9c688b33c1df718"
+          },
+          {
+            "$oid": "38f8b85a3a895fe8802743b3"
+          },
+          {
+            "$oid": "3144b064bb73d500c0d403dd"
+          },
+          {
+            "$oid": "5d42b0b98f3a0f1346ed0f76"
+          }
+        ]
+      },
+      {
+        "domaine": {
+          "$oid": "569d56a5043d19bca57f8db8"
+        },
+        "typeRelation": "code_12348",
+        "taxonomieConcerne": [
+          {
+            "$oid": "e1c793c7389e6472ffdb1899"
+          },
+          {
+            "$oid": "10a9e3fcccea1a68f8c01a41"
+          },
+          {
+            "$oid": "0effe3aa7c4275779ad00d69"
+          },
+          {
+            "$oid": "659a40c16785a38c510f142d"
+          },
+          {
+            "$oid": "14356e2c2b8e2693283c05c3"
+          },
+          {
+            "$oid": "02db35e2c068e0fcfe44b23e"
+          },
+          {
+            "$oid": "13f507a820b290ac12c7c5a0"
+          },
+          {
+            "$oid": "e0039816e2f14b2ac7fe18be"
+          },
+          {
+            "$oid": "6fc9902f006d40bf071130be"
+          },
+          {
+            "$oid": "e4ee18974b096059a16b201c"
+          },
+          {
+            "$oid": "1e0c35267b9d6ccd879567be"
+          },
+          {
+            "$oid": "c02b97b36c47fb3e946f15c3"
+          },
+          {
+            "$oid": "472fd3b2c56cb7185c433109"
+          },
+          {
+            "$oid": "d1ccc1315b90a2819b11df4a"
+          },
+          {
+            "$oid": "63e35d4bfe9c104935d84bc5"
+          },
+          {
+            "$oid": "389d7f4307986d1ccf0128bd"
+          },
+          {
+            "$oid": "54b7dec8813ea9f4d27d9bf2"
+          },
+          {
+            "$oid": "cf7f3419a24bd9e3188a6eb3"
+          },
+          {
+            "$oid": "a3e8df5355759882d1efc706"
+          },
+          {
+            "$oid": "ce38847cfe1c2bb460f10714"
+          },
+          {
+            "$oid": "d20010987fd32a02d0875505"
+          },
+          {
+            "$oid": "4d32d614ca159bdb3c456fb6"
+          }
+        ]
+      },
+      {
+        "domaine": {
+          "$oid": "43144269a0ca9179fc78ab00"
+        },
+        "typeRelation": "code_12348",
+        "taxonomieConcerne": [
+          {
+            "$oid": "20e8e337eefd9a4a17430d06"
+          },
+          {
+            "$oid": "71da92fd8437fe3db9bf0d93"
+          },
+          {
+            "$oid": "5ad4bd6314fc2e3b248b955f"
+          },
+          {
+            "$oid": "a97ac4e9a59626ed814146f0"
+          },
+          {
+            "$oid": "6517c1288c22dae5ab018c5c"
+          },
+          {
+            "$oid": "015c3f4a9137a8db69a1c737"
+          },
+          {
+            "$oid": "26000f0ad6c2ad4a9eadf80a"
+          },
+          {
+            "$oid": "ad52ef4004b5aedd647bd16f"
+          },
+          {
+            "$oid": "843c495bea7bded9cb1644d6"
+          },
+          {
+            "$oid": "a818ba30b07bf22c624b07e1"
+          },
+          {
+            "$oid": "4525fabeed0ae2a8a6bb7bcc"
+          },
+          {
+            "$oid": "1d105056ffb7a5292b6d0c57"
+          },
+          {
+            "$oid": "f4eb002a9e31933f5396fc39"
+          },
+          {
+            "$oid": "5618bbde6fd6dc9e42d77305"
+          },
+          {
+            "$oid": "1f8a147b8f98f276733f9846"
+          },
+          {
+            "$oid": "c716414046f73a54eae48d53"
+          },
+          {
+            "$oid": "5b93b253dadf248002d2fb5c"
+          },
+          {
+            "$oid": "862670c19631fb0fd06a087b"
+          },
+          {
+            "$oid": "6b1fb8dfcac219dd09bd9fef"
+          },
+          {
+            "$oid": "83d20b41adf8f14d0c56d260"
+          },
+          {
+            "$oid": "3c84041e655b5dd6b70128b2"
+          },
+          {
+            "$oid": "4b1c1b3eb734e071dd8d3b07"
+          },
+          {
+            "$oid": "068f134f0cf394e73c49ecd5"
+          },
+          {
+            "$oid": "835302e23f1f33c196214838"
+          }
+        ]
+      },
+      {
+        "domaine": {
+          "$oid": "2b8015bd253217d086899365"
+        },
+        "typeRelation": "code_12348",
+        "taxonomieConcerne": [
+          {
+            "$oid": "2b7caf45018f871691aa5362"
+          },
+          {
+            "$oid": "1e52f39cf69faa8159ce152d"
+          },
+          {
+            "$oid": "e56102ec7f73e8a90890ab51"
+          },
+          {
+            "$oid": "f3ef19c617254a92b33e8962"
+          },
+          {
+            "$oid": "efd68907fef581c42537ed10"
+          },
+          {
+            "$oid": "0481e0bf8c4bfa6a39612fa4"
+          },
+          {
+            "$oid": "30aafad4f2dba399c93d975d"
+          },
+          {
+            "$oid": "225843bc7b0dac54677fee42"
+          },
+          {
+            "$oid": "fcf24cf7f82410fab7a44bbb"
+          },
+          {
+            "$oid": "c8298612ecfc9dcfcb6f9c3b"
+          },
+          {
+            "$oid": "5ea9650507c9af9017dd7d87"
+          },
+          {
+            "$oid": "ce61f8c269376f48b7143bc2"
+          },
+          {
+            "$oid": "6a015898eeaad9c7ecbbd7a1"
+          },
+          {
+            "$oid": "49a0ff75e45d0568480e9efd"
+          },
+          {
+            "$oid": "e291eeed3b5bf7f9856caaf6"
+          },
+          {
+            "$oid": "192eb749ebf2987e257ddc0b"
+          }
+        ]
+      },
+      {
+        "domaine": {
+          "$oid": "545e96ae18f1dedfc258923d"
+        },
+        "typeRelation": "code_12348",
+        "taxonomieConcerne": [
+          {
+            "$oid": "a4d96e69e07fc1634336f6a6"
+          },
+          {
+            "$oid": "5fd749b1b70da5ce4d48f688"
+          },
+          {
+            "$oid": "472b78bf2be6561be760a2c1"
+          },
+          {
+            "$oid": "4fcaa9f44b6460c678fc9c3c"
+          },
+          {
+            "$oid": "9dba1d31f2b664ac43a4dfdf"
+          },
+          {
+            "$oid": "4805864b79200f7ec6ef9457"
+          },
+          {
+            "$oid": "7c1918e71594cd0f8460a688"
+          },
+          {
+            "$oid": "3679e0fea8a78e30f2f65759"
+          },
+          {
+            "$oid": "0cf2e515c62e828eb9fdf998"
+          },
+          {
+            "$oid": "e70b2d5901eb748fd9bf6cab"
+          },
+          {
+            "$oid": "f51511ffde67a45dbf83724a"
+          },
+          {
+            "$oid": "bacc3b9ca52614e361814c29"
+          },
+          {
+            "$oid": "8dd20d4d0574577ca5815cca"
+          },
+          {
+            "$oid": "3964235fab8ccb9f79f44d28"
+          }
+        ]
+      },
+      {
+        "domaine": {
+          "$oid": "c3ea28cd2634d0ddc0701c16"
+        },
+        "typeRelation": "code_12348",
+        "taxonomieConcerne": [
+          {
+            "$oid": "9075a426081f085b03622bc9"
+          },
+          {
+            "$oid": "7a2e0f6a505eab1a7c24c2f7"
+          },
+          {
+            "$oid": "c176e48f61a8df21d8dec043"
+          },
+          {
+            "$oid": "284e06dc5dc2225b6f834f0c"
+          },
+          {
+            "$oid": "034ba40fc3cfeb9b0c26dbba"
+          },
+          {
+            "$oid": "857910b33415bc50ec000a20"
+          },
+          {
+            "$oid": "5c3dc0f7dea79fea0a9a5672"
+          },
+          {
+            "$oid": "4e323a4b29b1875cc8c64e44"
+          },
+          {
+            "$oid": "3168d9266078061e3b9d77f7"
+          },
+          {
+            "$oid": "28766158a5474f0a10772fe5"
+          },
+          {
+            "$oid": "5c57b62824e2f9ff642549aa"
+          },
+          {
+            "$oid": "98f0db1a8ac529b3dd5073c8"
+          },
+          {
+            "$oid": "8ed8690851531fe96aaa1cf2"
+          },
+          {
+            "$oid": "708bd7f105b3f4dbcb5da24c"
+          },
+          {
+            "$oid": "3e056af386451b78412f5acc"
+          }
+        ]
+      }
+    ],
+    "etatObjet": "code-1",
+    "parent": null,
+    "sousGroupe": []
+  },
+  {
+    "_id": {
+      "$oid": "4ae39254a6b9304c8f7ca430"
+    },
+    "reference": "brands",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Brands",
+        "description": ""
+      }
+    ],
+    "etatValidation": "code_4268",
+    "caracteristiques": [
+      {
+        "$oid": "0734eb692a82dc1991bc5a32"
+      },
+      {
+        "$oid": "d6e58fe29b0bbce9dd62e279"
+      },
+      {
+        "$oid": "49ea43239df4bd100114e07a"
+      },
+      {
+        "$oid": "76cd291ba538035a10d1151b"
+      }
+    ],
+    "domainsConcernes": [
+      {
+        "domaine": {
+          "$oid": "d3a469af77a2399d69b779d5"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": {
+          "$oid": "fd91b7bc0069f40cf1adbb4f"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": {
+          "$oid": "bd9e19005ca4c937a3fb1f4a"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": {
+          "$oid": "3fbf73a2044cc89f14f14c05"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": {
+          "$oid": "250dac0ab7103ca09a3de55f"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": {
+          "$oid": "569d56a5043d19bca57f8db8"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": {
+          "$oid": "43144269a0ca9179fc78ab00"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": {
+          "$oid": "23b9e10370ebfc9b5006b957"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": {
+          "$oid": "545e96ae18f1dedfc258923d"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": {
+          "$oid": "2b8015bd253217d086899365"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": {
+          "$oid": "5f75591426a93df389a6ba45"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": {
+          "$oid": "af67e8eb26ec9fdce01543b5"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": {
+          "$oid": "1882699d1c0cfb06962f50df"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": {
+          "$oid": "c3ea28cd2634d0ddc0701c16"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": {
+          "$oid": "46ad4c1e75c9d9d3afc013df"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": {
+          "$oid": "5fff5ce09cda01210d1a1935"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": {
+          "$oid": "13359332cf985ae19d341e08"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": {
+          "$oid": "06b6871d02854b07b47d833d"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      }
+    ],
+    "etatObjet": "code-1",
+    "parent": null,
+    "sousGroupe": []
+  },
+  {
+    "_id": {
+      "$oid": "bad17ff9887d315bd9a3ad3b"
+    },
+    "reference": "search",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Search",
+        "description": ""
+      }
+    ],
+    "etatValidation": "code_4268",
+    "caracteristiques": [
+      {
+        "$oid": "19ed08a6cdd0aa0d5b8ae5fc"
+      },
+      {
+        "$oid": "8bbed1f3aac84884df3e1a88"
+      },
+      {
+        "$oid": "0813ed7343928ba5eeabb80d"
+      }
+    ],
+    "domainsConcernes": [
+      {
+        "domaine": {
+          "$oid": "32339d60c883ff7fd779ad0e"
+        },
+        "typeRelation": "code_12347",
+        "taxonomieConcerne": []
+      }
+    ],
+    "etatObjet": "code-1",
+    "parent": null,
+    "sousGroupe": []
+  },
+  {
+    "_id": {
+      "$oid": "10c2efb085f4ff76b30f6200"
+    },
+    "reference": "GRP-CHAR-001",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Dimensions"
+      },
+      {
+        "language": "en",
+        "designation": "Diminsions"
+      },
+      {
+        "language": "ar",
+        "designation": "أبعاد"
+      },
+      {
+        "language": "es",
+        "designation": "Dimensiones"
+      }
+    ],
+    "etatValidation": "code_4268",
+    "caracteristiques": [
+      {
+        "$oid": "65f000000000000000000736"
+      },
+      {
+        "$oid": "65f000000000000000000737"
+      },
+      {
+        "$oid": "65f000000000000000000738"
+      },
+      {
+        "$oid": "65f0000000000000000007a2"
+      }
+    ],
+    "parent": null,
+    "sousGroupe": [],
+    "domainsConcernes": [],
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "659dd8098516051b0c2669e4"
+    },
+    "reference": "GRP-CHAR-002",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Capacité et charge"
+      },
+      {
+        "language": "en",
+        "designation": "Capacity and load"
+      },
+      {
+        "language": "ar",
+        "designation": "السعة والحمولة"
+      },
+      {
+        "language": "es",
+        "designation": "Capacidad y carga"
+      }
+    ],
+    "etatValidation": "code_4268",
+    "caracteristiques": [
+      {
+        "$oid": "65f000000000000000000739"
+      },
+      {
+        "$oid": "65f0000000000000000007a1"
+      }
+    ],
+    "parent": null,
+    "sousGroupe": [],
+    "domainsConcernes": [],
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "8320042ee912a7cecf6e6cc3"
+    },
+    "reference": "GRP-CHAR-003",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Matériaux"
+      },
+      {
+        "language": "en",
+        "designation": "Materials"
+      },
+      {
+        "language": "ar",
+        "designation": "المواد"
+      },
+      {
+        "language": "es",
+        "designation": "Materiales"
+      }
+    ],
+    "etatValidation": "code_4268",
+    "caracteristiques": [
+      {
+        "$oid": "65f000000000000000000740"
+      },
+      {
+        "$oid": "65f0000000000000000007a4"
+      }
+    ],
+    "parent": null,
+    "sousGroupe": [],
+    "domainsConcernes": [],
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "17f93f16b3048332e67efa23"
+    },
+    "reference": "GRP-CHAR-004",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Conformité et normes"
+      },
+      {
+        "language": "en",
+        "designation": "Compliance and standards"
+      },
+      {
+        "language": "ar",
+        "designation": "المطابقة والمعايير"
+      },
+      {
+        "language": "es",
+        "designation": "Conformidad y normas"
+      }
+    ],
+    "etatValidation": "code_4268",
+    "caracteristiques": [
+      {
+        "$oid": "65f000000000000000000741"
+      }
+    ],
+    "parent": null,
+    "sousGroupe": [],
+    "domainsConcernes": [],
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "fd87211f0c230fc6d1b65cc2"
+    },
+    "reference": "GRP-CHAR-005",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Caractéristiques électriques"
+      },
+      {
+        "language": "en",
+        "designation": "Electrical characteristics"
+      },
+      {
+        "language": "ar",
+        "designation": "الخصائص الكهربائية"
+      },
+      {
+        "language": "es",
+        "designation": "Características eléctricas"
+      }
+    ],
+    "etatValidation": "code_4268",
+    "caracteristiques": [
+      {
+        "$oid": "65f000000000000000000742"
+      }
+    ],
+    "parent": null,
+    "sousGroupe": [],
+    "domainsConcernes": [],
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    }
+  }
+]

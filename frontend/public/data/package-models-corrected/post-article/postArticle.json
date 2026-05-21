@@ -1,0 +1,1232 @@
+[
+  {
+    "_id": {
+      "$oid": "09fd2f72b3bae7cf4ce8c967"
+    },
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Avis sur le Tracteur John Deere 6155R",
+        "contenu": "Bonjour, je cherche des retours d'expérience sur le John Deere 6155R pour une exploitation de blé dans le Gharb. Est-il fiable pour les longues journées de travail ?"
+      }
+    ],
+    "auteur": "Mehdi Agri",
+    "datePublication": "2026-04-20T10:00:00Z",
+    "etatObjet": "code-1",
+    "classificationArticle": {
+      "$oid": "65f000000000000000000B06"
+    },
+    "langueParDefaut": {
+      "$oid": "65f000000000000000000620"
+    },
+    "typeContenu": "code_6959",
+    "rubriques": [
+      {
+        "$oid": "fbd6a7ee11e96f8480a60fef"
+      }
+    ],
+    "sections": [
+      {
+        "$oid": "091e3d44ec8a7242925a1054"
+      }
+    ],
+    "motscles": [
+      {
+        "$oid": "ca3de850414e311c0214bfaa"
+      },
+      {
+        "$oid": "d785eaf19a9e70b446284d60"
+      }
+    ],
+    "personneAuteur": [],
+    "organisationAuteur": [],
+    "objetsConcernes": [],
+    "telechargeable": false,
+    "partageable": true,
+    "enregistrable": true,
+    "payant": false,
+    "droitLibre": true,
+    "publicationAutorise": true,
+    "articleInformationnel": true,
+    "createdAt": {
+      "$date": "2026-04-20T10:00:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-20T10:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "1ab7dcb13f9951509e9ec576"
+    },
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Conseils entretien mini-pelle Caterpillar",
+        "contenu": "Quelles sont les fréquences de vidange hydraulique recommandées pour une 301.7D ?"
+      }
+    ],
+    "auteur": "TP_Casablanca",
+    "datePublication": "2026-04-25T08:15:00Z",
+    "etatObjet": "code-1",
+    "classificationArticle": {
+      "$oid": "65f000000000000000000B06"
+    },
+    "langueParDefaut": {
+      "$oid": "65f000000000000000000620"
+    },
+    "typeContenu": "code_6959",
+    "rubriques": [
+      {
+        "$oid": "3ce2a077e7829c584c192436"
+      }
+    ],
+    "sections": [
+      {
+        "$oid": "c945c962282375ba304d5442"
+      }
+    ],
+    "motscles": [
+      {
+        "$oid": "d785eaf19a9e70b446284d60"
+      },
+      {
+        "$oid": "0fd90304392461d3d69a7501"
+      }
+    ],
+    "personneAuteur": [],
+    "organisationAuteur": [],
+    "objetsConcernes": [],
+    "telechargeable": false,
+    "partageable": true,
+    "enregistrable": true,
+    "payant": false,
+    "droitLibre": true,
+    "publicationAutorise": true,
+    "articleInformationnel": true,
+    "createdAt": {
+      "$date": "2026-04-25T08:15:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-25T08:15:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "c5770ad057fdd1b91cbc0783"
+    },
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Avis sur la Dacia Duster 2025 - retour après 10 000 km",
+        "contenu": "Bonjour, j'ai acheté une Dacia Duster 1.3 TCe 150 en janvier. Très satisfait du rapport qualité/prix. Consommation réelle autour de 7,5L/100km en ville. Quelqu'un a des retours similaires ?"
+      }
+    ],
+    "auteur": "Rachid_Auto",
+    "datePublication": "2026-04-28T09:00:00Z",
+    "etatObjet": "code-1",
+    "classificationArticle": {
+      "$oid": "65f000000000000000000B06"
+    },
+    "langueParDefaut": {
+      "$oid": "65f000000000000000000620"
+    },
+    "typeContenu": "code_6959",
+    "rubriques": [
+      {
+        "$oid": "a3ed7faa03365a91277da5ab"
+      }
+    ],
+    "sections": [
+      {
+        "$oid": "1c15d3a1fb2b73c5ba55a625"
+      }
+    ],
+    "motscles": [
+      {
+        "$oid": "0fd90304392461d3d69a7501"
+      },
+      {
+        "$oid": "ba9da8cac5d1fefe764f1cdb"
+      }
+    ],
+    "personneAuteur": [],
+    "organisationAuteur": [],
+    "objetsConcernes": [],
+    "telechargeable": false,
+    "partageable": true,
+    "enregistrable": true,
+    "payant": false,
+    "droitLibre": true,
+    "publicationAutorise": true,
+    "articleInformationnel": true,
+    "createdAt": {
+      "$date": "2026-04-28T09:00:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-28T09:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "8a1df601b6a6ebd592155c63"
+    },
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Toyota C-HR hybride vs KIA Sportage - lequel choisir ?",
+        "contenu": "J'hésite entre le Toyota C-HR hybride à 339.900 DH et le KIA Sportage PHEV à 450.000 DH. Mon budget est 350.000 DH. Vos conseils ?"
+      }
+    ],
+    "auteur": "Sara_Maroc",
+    "datePublication": "2026-04-25T15:30:00Z",
+    "etatObjet": "code-1",
+    "classificationArticle": {
+      "$oid": "65f000000000000000000B06"
+    },
+    "langueParDefaut": {
+      "$oid": "65f000000000000000000620"
+    },
+    "typeContenu": "code_6959",
+    "rubriques": [
+      {
+        "$oid": "a95e105ced300c16fbc2ee8f"
+      }
+    ],
+    "sections": [
+      {
+        "$oid": "fe3914fb1b412b17d7c8d944"
+      }
+    ],
+    "motscles": [
+      {
+        "$oid": "ba9da8cac5d1fefe764f1cdb"
+      },
+      {
+        "$oid": "9081a3067c1dad433b1538c1"
+      }
+    ],
+    "personneAuteur": [],
+    "organisationAuteur": [],
+    "objetsConcernes": [],
+    "telechargeable": false,
+    "partageable": true,
+    "enregistrable": true,
+    "payant": false,
+    "droitLibre": true,
+    "publicationAutorise": true,
+    "articleInformationnel": true,
+    "createdAt": {
+      "$date": "2026-04-25T15:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-25T15:30:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "0097c0e34690b547efbc292d"
+    },
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "BYD Seal U PHEV - Expérience après 3 mois",
+        "contenu": "3 mois avec la BYD Seal U PHEV 217ch à 359.900 DH. En mode électrique, je fais 60-70 km facilement. La qualité intérieure est surprenante pour ce prix. Qui l'a essayée ?"
+      }
+    ],
+    "auteur": "TechDriver_MA",
+    "datePublication": "2026-04-20T08:00:00Z",
+    "etatObjet": "code-1",
+    "classificationArticle": {
+      "$oid": "65f000000000000000000B06"
+    },
+    "langueParDefaut": {
+      "$oid": "65f000000000000000000620"
+    },
+    "typeContenu": "code_6959",
+    "rubriques": [
+      {
+        "$oid": "fe4704f429f47636ec4b285e"
+      }
+    ],
+    "sections": [
+      {
+        "$oid": "c3fe7d7381ef79812641dd26"
+      }
+    ],
+    "motscles": [
+      {
+        "$oid": "9081a3067c1dad433b1538c1"
+      },
+      {
+        "$oid": "9651c4caf5c0eecc9a8606da"
+      }
+    ],
+    "personneAuteur": [],
+    "organisationAuteur": [],
+    "objetsConcernes": [],
+    "telechargeable": false,
+    "partageable": true,
+    "enregistrable": true,
+    "payant": false,
+    "droitLibre": true,
+    "publicationAutorise": true,
+    "articleInformationnel": true,
+    "createdAt": {
+      "$date": "2026-04-20T08:00:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-20T08:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "3dec090b84074c12c4cc6b52"
+    },
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "DACIA Logan 2025 - Le meilleur rapport qualité/prix au Maroc ?",
+        "contenu": "Bonjour, je cherche une première voiture avec un budget de 150.000 DH. La Dacia Logan est à 137.000 DH. Est-ce que c'est un bon choix ? Fiabilité ? SAV au Maroc ?"
+      }
+    ],
+    "auteur": "Hassan_FES",
+    "datePublication": "2026-04-30T10:00:00Z",
+    "etatObjet": "code-1",
+    "classificationArticle": {
+      "$oid": "65f000000000000000000B06"
+    },
+    "langueParDefaut": {
+      "$oid": "65f000000000000000000620"
+    },
+    "typeContenu": "code_6959",
+    "rubriques": [
+      {
+        "$oid": "e667d52e1234c25270ea2576"
+      }
+    ],
+    "sections": [
+      {
+        "$oid": "163d5fe90f6c2cd8c5db10ad"
+      }
+    ],
+    "motscles": [
+      {
+        "$oid": "9651c4caf5c0eecc9a8606da"
+      },
+      {
+        "$oid": "9b6b333345f74a34f2fe0382"
+      }
+    ],
+    "personneAuteur": [],
+    "organisationAuteur": [],
+    "objetsConcernes": [],
+    "telechargeable": false,
+    "partageable": true,
+    "enregistrable": true,
+    "payant": false,
+    "droitLibre": true,
+    "publicationAutorise": true,
+    "articleInformationnel": true,
+    "createdAt": {
+      "$date": "2026-04-30T10:00:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-30T10:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "9ed47dd5313b4de63d095192"
+    },
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Hyundai Tucson HEV vs Toyota RAV4 Hybride - Lequel choisir ?",
+        "contenu": "Budget 360.000 DH. J'hésite entre Hyundai Tucson HEV (359.900 DH) et Toyota RAV4 HEV (358.900 DH). Vos avis sur la fiabilité et le SAV au Maroc ?"
+      }
+    ],
+    "auteur": "Mehdi_CasaMoto",
+    "datePublication": "2026-04-27T08:00:00Z",
+    "etatObjet": "code-1",
+    "classificationArticle": {
+      "$oid": "65f000000000000000000B06"
+    },
+    "langueParDefaut": {
+      "$oid": "65f000000000000000000620"
+    },
+    "typeContenu": "code_6959",
+    "rubriques": [
+      {
+        "$oid": "92efedc74d433e59dc311fa9"
+      }
+    ],
+    "sections": [
+      {
+        "$oid": "504abaf6713a7ce79160b6b3"
+      }
+    ],
+    "motscles": [
+      {
+        "$oid": "9b6b333345f74a34f2fe0382"
+      },
+      {
+        "$oid": "584797bffcccb1e9fe3b7d61"
+      }
+    ],
+    "personneAuteur": [],
+    "organisationAuteur": [],
+    "objetsConcernes": [],
+    "telechargeable": false,
+    "partageable": true,
+    "enregistrable": true,
+    "payant": false,
+    "droitLibre": true,
+    "publicationAutorise": true,
+    "articleInformationnel": true,
+    "createdAt": {
+      "$date": "2026-04-27T08:00:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-27T08:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "939570043071897c4f45b30e"
+    },
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Avis sur les voitures XPENG au Maroc - Réelles infos ?",
+        "contenu": "XPENG vient de lancer sa gamme au Maroc. Quelqu'un a des infos réelles sur le SAV, les pièces de rechange disponibles ? Les prix semblent attractifs (G6 à 389.000 DH)."
+      }
+    ],
+    "auteur": "Digital_Driver",
+    "datePublication": "2026-04-22T14:00:00Z",
+    "etatObjet": "code-1",
+    "classificationArticle": {
+      "$oid": "65f000000000000000000B06"
+    },
+    "langueParDefaut": {
+      "$oid": "65f000000000000000000620"
+    },
+    "typeContenu": "code_6959",
+    "rubriques": [
+      {
+        "$oid": "13332c56554c246df065781d"
+      }
+    ],
+    "sections": [
+      {
+        "$oid": "567cf0b7a30a949f302e2def"
+      }
+    ],
+    "motscles": [
+      {
+        "$oid": "584797bffcccb1e9fe3b7d61"
+      },
+      {
+        "$oid": "85d9c79f14d6c3664c4718b0"
+      }
+    ],
+    "personneAuteur": [],
+    "organisationAuteur": [],
+    "objetsConcernes": [],
+    "telechargeable": false,
+    "partageable": true,
+    "enregistrable": true,
+    "payant": false,
+    "droitLibre": true,
+    "publicationAutorise": true,
+    "articleInformationnel": true,
+    "createdAt": {
+      "$date": "2026-04-22T14:00:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-22T14:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "c0ab5470335b8dd4d23313b3"
+    },
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Avis sur la fiabilité des mini-pelles Bobcat vs Kubota",
+        "contenu": "Bonjour, je cherche une mini-pelle 2.5 tonnes d'occasion. Quel est votre retour d'expérience sur Kubota U27-4 comparé à Bobcat E27 ? Les pompes hydrauliques tiennent-elles après 3000 heures ?"
+      }
+    ],
+    "auteur": "BTP_Expert",
+    "datePublication": "2026-05-01T10:00:00Z",
+    "etatObjet": "code-1",
+    "classificationArticle": {
+      "$oid": "65f000000000000000000B06"
+    },
+    "langueParDefaut": {
+      "$oid": "65f000000000000000000620"
+    },
+    "typeContenu": "code_6959",
+    "rubriques": [
+      {
+        "$oid": "ab443b9311d8f47072b7092a"
+      }
+    ],
+    "sections": [
+      {
+        "$oid": "65f000000000000000000A01"
+      }
+    ],
+    "motscles": [
+      {
+        "$oid": "85d9c79f14d6c3664c4718b0"
+      },
+      {
+        "$oid": "524497a066b5ba9d0a4f7d2f"
+      }
+    ],
+    "personneAuteur": [],
+    "organisationAuteur": [],
+    "objetsConcernes": [],
+    "telechargeable": false,
+    "partageable": true,
+    "enregistrable": true,
+    "payant": false,
+    "droitLibre": true,
+    "publicationAutorise": true,
+    "articleInformationnel": true,
+    "createdAt": {
+      "$date": "2026-05-01T10:00:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-01T10:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "aa5b71542a3b8b55e42c4cf5"
+    },
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Transport d'un tracteur forestier Ponsse",
+        "contenu": "Je viens de trouver un porteur forestier sur Mascus en Finlande. Connaissez-vous un transporteur sérieux pour l'amener en France ou au Maroc ?"
+      }
+    ],
+    "auteur": "ForêtBois",
+    "datePublication": "2026-04-28T09:00:00Z",
+    "etatObjet": "code-1",
+    "classificationArticle": {
+      "$oid": "65f000000000000000000B06"
+    },
+    "langueParDefaut": {
+      "$oid": "65f000000000000000000620"
+    },
+    "typeContenu": "code_6959",
+    "rubriques": [
+      {
+        "$oid": "ead688fee716ffc2d0d0008c"
+      }
+    ],
+    "sections": [
+      {
+        "$oid": "65f000000000000000000A02"
+      }
+    ],
+    "motscles": [
+      {
+        "$oid": "524497a066b5ba9d0a4f7d2f"
+      },
+      {
+        "$oid": "81fc2f815d0296a9d66ece90"
+      }
+    ],
+    "personneAuteur": [],
+    "organisationAuteur": [],
+    "objetsConcernes": [],
+    "telechargeable": false,
+    "partageable": true,
+    "enregistrable": true,
+    "payant": false,
+    "droitLibre": true,
+    "publicationAutorise": true,
+    "articleInformationnel": true,
+    "createdAt": {
+      "$date": "2026-04-28T09:00:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-28T09:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "1482546a59a57886ff3cb7c6"
+    },
+    "etatObjet": "code-1",
+    "codeArticle": "ART-0001",
+    "typeAuteur": [
+      "code_2521"
+    ],
+    "classificationArticle": {
+      "$oid": "65f000000000000000000B06"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titreArticle": "Comment choisir son transpalette pour son entrepôt au Maroc ?",
+        "sousTitreArticle": "",
+        "resumeArticle": "Guide complet pour sélectionner le bon transpalette selon votre activité, votre charge utile et la configuration de votre entrepôt au Maroc.",
+        "contenuArticle": "Le transpalette est un équipement indispensable dans tout entrepôt. Il en existe plusieurs types : manuel, électrique accompagné, électrique autoporté. Le choix dépend de la charge à déplacer (capacité de 1 500 à 3 000 kg), de la fréquence d'utilisation, de la hauteur de gerbage requise et de la superficie de votre zone de stockage. Un transpalette manuel convient pour des usages ponctuels et des charges inférieures à 2 000 kg. Pour un usage intensif, le transpalette électrique accompagné ou autoporté offre un gain de productivité significatif et réduit la fatigue des opérateurs. Dans le contexte marocain, les entrepôts de Tanger, Tanger et Kénitra nécessitent des équipements robustes adaptés aux contraintes locales. Consultez le catalogue OMNILOG pour comparer les modèles disponibles auprès de nos fournisseurs partenaires.",
+        "etiquetteAffichage": "Guide"
+      },
+      {
+        "language": "en",
+        "titreArticle": "How to choose a pallet truck for your warehouse in Morocco?",
+        "sousTitreArticle": "",
+        "resumeArticle": "Complete guide to selecting the right pallet truck according to your activity, load capacity and warehouse layout in Morocco.",
+        "contenuArticle": "A pallet truck is essential equipment in any warehouse. Several types exist: manual, pedestrian electric and ride-on electric. The choice depends on the load to be moved, frequency of use, required lifting height and storage area. A manual pallet truck is suitable for occasional use and lighter loads, while an electric pallet truck improves productivity for intensive use. OMNILOG helps Moroccan professionals compare available models and request quotes from partner suppliers.",
+        "etiquetteAffichage": "Guide"
+      },
+      {
+        "language": "ar",
+        "titreArticle": "كيف تختار رافعة منصات لمستودعك في المغرب؟",
+        "sousTitreArticle": "",
+        "resumeArticle": "دليل شامل لاختيار رافعة المنصات المناسبة حسب نشاطك والحمولة المطلوبة وتنظيم المستودع في المغرب.",
+        "contenuArticle": "رافعة المنصات معدات أساسية في أي مستودع. توجد عدة أنواع: يدوية، كهربائية مرافقة وكهربائية ذاتية الحركة. يعتمد الاختيار على الحمولة، وتكرار الاستخدام، وارتفاع الرفع المطلوب ومساحة التخزين. الرافعة اليدوية مناسبة للاستخدام المتقطع والحمولات الخفيفة، بينما تحسن الرافعة الكهربائية الإنتاجية في الاستخدام المكثف. تساعد OMNILOG المهنيين المغاربة على مقارنة النماذج وطلب عروض أسعار من الموردين الشركاء.",
+        "etiquetteAffichage": "Guide"
+      },
+      {
+        "language": "es",
+        "titreArticle": "¿Cómo elegir una transpaleta para su almacén en Marruecos?",
+        "sousTitreArticle": "",
+        "resumeArticle": "Guía completa para seleccionar la transpaleta adecuada según su actividad, la carga útil y la configuración de su almacén en Marruecos.",
+        "contenuArticle": "La transpaleta es un equipo indispensable en cualquier almacén. Existen varios tipos: manual, eléctrica acompañante y eléctrica autopropulsada. La elección depende de la carga que se debe mover, la frecuencia de uso, la altura de elevación requerida y la superficie de almacenamiento. Una transpaleta manual conviene para usos puntuales y cargas ligeras, mientras que una transpaleta eléctrica mejora la productividad en uso intensivo. OMNILOG ayuda a los profesionales marroquíes a comparar modelos disponibles y solicitar presupuestos a proveedores asociados.",
+        "etiquetteAffichage": "Guide"
+      }
+    ],
+    "typeContenu": "code_6959",
+    "photoArticle": null,
+    "dateCreationArticle": {
+      "$date": "2024-02-18T09:00:00.000Z"
+    },
+    "datePublication": {
+      "$date": "2024-02-20T09:00:00.000Z"
+    },
+    "dateArret": null,
+    "causeArret": null,
+    "telechargeable": false,
+    "partageable": true,
+    "enregistrable": true,
+    "langueParDefaut": {
+      "$oid": "65f000000000000000000620"
+    },
+    "provenonceInterne": "code_211",
+    "payant": false,
+    "droitLibre": true,
+    "publicationAutorise": true,
+    "preuveAutorisation": null,
+    "dateEnregistrement": {
+      "$date": "2024-02-18T09:00:00.000Z"
+    },
+    "dateValidation": {
+      "$date": "2024-02-20T09:00:00.000Z"
+    },
+    "etatDePublication": "code_3417",
+    "sections": [
+      {
+        "$oid": "65f000000000000000000817"
+      }
+    ],
+    "rubriques": [
+      {
+        "$oid": "a3ed7faa03365a91277da5ab"
+      }
+    ],
+    "motscles": [
+      {
+        "$oid": "65f000000000000000000822"
+      },
+      {
+        "$oid": "65f000000000000000000823"
+      },
+      {
+        "$oid": "65f000000000000000000827"
+      }
+    ],
+    "personneAuteur": [],
+    "organisationAuteur": [
+      {
+        "$oid": "65f000000000000000000807"
+      }
+    ],
+    "objetsConcernes": [
+      {
+        "refObjet": {
+          "$oid": "65f000000000000000000254"
+        },
+        "typeObjet": "OMNILOG_MARKETPLACE_MANUTENTION"
+      }
+    ],
+    "articleInformationnel": true,
+    "createdAt": {
+      "$date": "2024-02-18T09:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-20T09:00:00.000Z"
+    },
+    "auteur": {
+      "$oid": "e72ab0dd3dac4adb845f7c20"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "84dd28507a83cdd9278b5057"
+    },
+    "etatObjet": "code-1",
+    "codeArticle": "ART-0002",
+    "typeAuteur": [
+      "code_2521"
+    ],
+    "classificationArticle": {
+      "$oid": "65f000000000000000000B07"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titreArticle": "Sécurité et conformité des équipements de levage dans les entrepôts marocains",
+        "sousTitreArticle": "",
+        "resumeArticle": "Panorama des exigences réglementaires et des bonnes pratiques de sécurité applicables aux équipements de levage industriel dans les entrepôts au Maroc.",
+        "contenuArticle": "Les équipements de levage utilisés dans les entrepôts industriels marocains doivent respecter des exigences de sécurité strictes. La vérification générale périodique (VGP) est obligatoire et doit être réalisée par un organisme agréé. Les chariots gerbeurs, ponts roulants et tables élévatrices doivent être accompagnés de leur documentation technique complète. Le marquage CE est exigé pour les équipements importés. Sur la plateforme OMNILOG, tous les équipements de levage proposés par nos fournisseurs partenaires sont accompagnés de leur documentation de conformité. La sécurité des opérateurs en entrepôt passe également par le port des équipements de protection individuelle (EPI) adaptés : casques, chaussures de sécurité, gilets réfléchissants.",
+        "etiquetteAffichage": "Sécurité"
+      },
+      {
+        "language": "en",
+        "titreArticle": "Safety and compliance of lifting equipment in Moroccan warehouses",
+        "sousTitreArticle": "",
+        "resumeArticle": "Overview of regulatory requirements and best practices for industrial lifting equipment safety in warehouses in Morocco.",
+        "contenuArticle": "Lifting equipment used in Moroccan industrial warehouses must comply with strict safety requirements. Periodic inspections, technical documentation and compliance markings are essential. On OMNILOG, partner suppliers provide lifting equipment with the necessary technical and compliance information. Operator safety also requires appropriate PPE such as helmets, safety shoes and reflective vests.",
+        "etiquetteAffichage": "Sécurité"
+      },
+      {
+        "language": "ar",
+        "titreArticle": "سلامة ومطابقة معدات الرفع في المستودعات المغربية",
+        "sousTitreArticle": "",
+        "resumeArticle": "نظرة عامة على المتطلبات التنظيمية وأفضل ممارسات السلامة الخاصة بمعدات الرفع الصناعية في مستودعات المغرب.",
+        "contenuArticle": "يجب أن تستوفي معدات الرفع المستخدمة في المستودعات الصناعية المغربية متطلبات سلامة صارمة. وتُعد الفحوصات الدورية والوثائق التقنية وعلامات المطابقة عناصر أساسية. في OMNILOG، يقدم الموردون الشركاء معدات رفع مرفقة بالمعلومات التقنية ومعلومات المطابقة اللازمة. كما تتطلب سلامة العمال معدات حماية مناسبة مثل الخوذات وأحذية السلامة والسترات العاكسة.",
+        "etiquetteAffichage": "Sécurité"
+      },
+      {
+        "language": "es",
+        "titreArticle": "Seguridad y conformidad de los equipos de elevación en almacenes marroquíes",
+        "sousTitreArticle": "",
+        "resumeArticle": "Panorama de los requisitos reglamentarios y las buenas prácticas de seguridad aplicables a los equipos de elevación industrial en almacenes de Marruecos.",
+        "contenuArticle": "Los equipos de elevación utilizados en almacenes industriales marroquíes deben cumplir requisitos estrictos de seguridad. Las inspecciones periódicas, la documentación técnica y los marcados de conformidad son esenciales. En OMNILOG, los proveedores asociados ofrecen equipos de elevación con la información técnica y de conformidad necesaria. La seguridad de los operarios también requiere EPI adecuados, como cascos, calzado de seguridad y chalecos reflectantes.",
+        "etiquetteAffichage": "Sécurité"
+      }
+    ],
+    "typeContenu": "code_6959",
+    "photoArticle": null,
+    "dateCreationArticle": {
+      "$date": "2024-03-03T09:00:00.000Z"
+    },
+    "datePublication": {
+      "$date": "2024-03-05T09:00:00.000Z"
+    },
+    "dateArret": null,
+    "causeArret": null,
+    "telechargeable": false,
+    "partageable": true,
+    "enregistrable": true,
+    "langueParDefaut": {
+      "$oid": "65f000000000000000000620"
+    },
+    "provenonceInterne": "code_211",
+    "payant": false,
+    "droitLibre": true,
+    "publicationAutorise": true,
+    "preuveAutorisation": null,
+    "dateEnregistrement": {
+      "$date": "2024-03-03T09:00:00.000Z"
+    },
+    "dateValidation": {
+      "$date": "2024-03-05T09:00:00.000Z"
+    },
+    "etatDePublication": "code_3417",
+    "sections": [
+      {
+        "$oid": "65f000000000000000000818"
+      }
+    ],
+    "rubriques": [
+      {
+        "$oid": "a3ed7faa03365a91277da5ab"
+      }
+    ],
+    "motscles": [
+      {
+        "$oid": "65f000000000000000000824"
+      },
+      {
+        "$oid": "65f000000000000000000826"
+      },
+      {
+        "$oid": "65f000000000000000000823"
+      }
+    ],
+    "personneAuteur": [],
+    "organisationAuteur": [
+      {
+        "$oid": "65f000000000000000000807"
+      }
+    ],
+    "objetsConcernes": [
+      {
+        "refObjet": {
+          "$oid": "65f000000000000000000487"
+        },
+        "typeObjet": "OMNILOG_MARKETPLACE_MANUTENTION"
+      }
+    ],
+    "articleInformationnel": true,
+    "createdAt": {
+      "$date": "2024-03-03T09:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-05T09:00:00.000Z"
+    },
+    "auteur": {
+      "$oid": "e72ab0dd3dac4adb845f7c20"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "d0a7d27a4d117e87434280fc"
+    },
+    "etatObjet": "code-1",
+    "codeArticle": "ART-0003",
+    "translations": [
+      {
+        "language": "fr",
+        "titreArticle": "L'essor de la logistique à Tanger Med",
+        "resumeArticle": "Résumé sur L'essor de la logistique à Tanger Med.",
+        "contenuArticle": "Contenu complet sur L'essor de la logistique à Tanger Med."
+      },
+      {
+        "language": "en",
+        "titreArticle": "The rise of logistics at Tangier Med",
+        "resumeArticle": "Summary on The rise of logistics at Tangier Med.",
+        "contenuArticle": "Full content on The rise of logistics at Tangier Med."
+      },
+      {
+        "language": "ar",
+        "titreArticle": "ازدهار اللوجستيك في طنجة المتوسط",
+        "resumeArticle": "ملخص حول ازدهار اللوجستيك في طنجة المتوسط.",
+        "contenuArticle": "محتوى كامل حول ازدهار اللوجستيك في طنجة المتوسط."
+      },
+      {
+        "language": "es",
+        "titreArticle": "El auge de la logística en Tánger Med",
+        "resumeArticle": "Resumen sobre la logística de Tanger Med.",
+        "contenuArticle": "Contenido completo sobre la logística de Tanger Med."
+      }
+    ],
+    "dateCreationArticle": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "sections": [
+      {
+        "$oid": "65f000000000000000000A01"
+      }
+    ],
+    "rubriques": [
+      {
+        "$oid": "a3ed7faa03365a91277da5ab"
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "classificationArticle": {
+      "$oid": "65f000000000000000000B06"
+    },
+    "langueParDefaut": {
+      "$oid": "65f000000000000000000620"
+    },
+    "typeContenu": "code_6959",
+    "motscles": [
+      {
+        "$oid": "10f68ebada0c92d989fc255e"
+      },
+      {
+        "$oid": "bba9becbeede5715a96fb2ef"
+      }
+    ],
+    "personneAuteur": [],
+    "organisationAuteur": [],
+    "objetsConcernes": [],
+    "telechargeable": false,
+    "partageable": true,
+    "enregistrable": true,
+    "payant": false,
+    "droitLibre": true,
+    "publicationAutorise": true,
+    "articleInformationnel": true,
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "auteur": {
+      "$oid": "e72ab0dd3dac4adb845f7c20"
+    },
+    "datePublication": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "etatDePublication": "code_3417"
+  },
+  {
+    "_id": {
+      "$oid": "d057cba06bbf88693df12352"
+    },
+    "etatObjet": "code-1",
+    "codeArticle": "ART-0004",
+    "translations": [
+      {
+        "language": "fr",
+        "titreArticle": "Guide : Maintenance des chariots élévateurs",
+        "resumeArticle": "Résumé sur Guide : Maintenance des chariots élévateurs.",
+        "contenuArticle": "Contenu complet sur Guide : Maintenance des chariots élévateurs."
+      },
+      {
+        "language": "en",
+        "titreArticle": "Guide: Forklift maintenance",
+        "resumeArticle": "Summary on Guide: Forklift maintenance.",
+        "contenuArticle": "Full content on Guide: Forklift maintenance."
+      },
+      {
+        "language": "ar",
+        "titreArticle": "دليل: صيانة الرافعات الشوكية",
+        "resumeArticle": "ملخص حول دليل: صيانة الرافعات الشوكية.",
+        "contenuArticle": "محتوى كامل حول دليل: صيانة الرافعات الشوكية."
+      },
+      {
+        "language": "es",
+        "titreArticle": "Guía: Mantenimiento de teléfonos móviles",
+        "resumeArticle": "Resumen sobre Guía: Mantenimiento de teléfonos móviles.",
+        "contenuArticle": "El contenido es totalmente completo. Guía: Mantenimiento de dispositivos móviles."
+      }
+    ],
+    "dateCreationArticle": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "sections": [
+      {
+        "$oid": "65f000000000000000000A02"
+      }
+    ],
+    "rubriques": [
+      {
+        "$oid": "a3ed7faa03365a91277da5ab"
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "classificationArticle": {
+      "$oid": "65f000000000000000000B06"
+    },
+    "langueParDefaut": {
+      "$oid": "65f000000000000000000620"
+    },
+    "typeContenu": "code_6959",
+    "motscles": [
+      {
+        "$oid": "bba9becbeede5715a96fb2ef"
+      },
+      {
+        "$oid": "22ae9a427f817cff1dcd6219"
+      }
+    ],
+    "personneAuteur": [],
+    "organisationAuteur": [],
+    "objetsConcernes": [],
+    "telechargeable": false,
+    "partageable": true,
+    "enregistrable": true,
+    "payant": false,
+    "droitLibre": true,
+    "publicationAutorise": true,
+    "articleInformationnel": true,
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "auteur": {
+      "$oid": "e72ab0dd3dac4adb845f7c20"
+    },
+    "datePublication": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "etatDePublication": "code_3417"
+  },
+  {
+    "_id": {
+      "$oid": "6177399279f7eb0e0f874f49"
+    },
+    "etatObjet": "code-1",
+    "codeArticle": "ART-0005",
+    "translations": [
+      {
+        "language": "fr",
+        "titreArticle": "Les nouvelles normes CACES au Maroc",
+        "resumeArticle": "Résumé sur Les nouvelles normes CACES au Maroc.",
+        "contenuArticle": "Contenu complet sur Les nouvelles normes CACES au Maroc."
+      },
+      {
+        "language": "en",
+        "titreArticle": "New CACES standards in Morocco",
+        "resumeArticle": "Summary on New CACES standards in Morocco.",
+        "contenuArticle": "Full content on New CACES standards in Morocco."
+      },
+      {
+        "language": "ar",
+        "titreArticle": "معايير CACES الجديدة في المغرب",
+        "resumeArticle": "ملخص حول معايير CACES الجديدة في المغرب.",
+        "contenuArticle": "محتوى كامل حول معايير CACES الجديدة في المغرب."
+      },
+      {
+        "language": "es",
+        "titreArticle": "Los nuevos estándares CACES en Marruecos",
+        "resumeArticle": "Resumen de las nuevas normas CACES en Marruecos.",
+        "contenuArticle": "Contenido completo sobre las nuevas normas CACES en Marruecos."
+      }
+    ],
+    "dateCreationArticle": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "sections": [
+      {
+        "$oid": "65f000000000000000000A03"
+      }
+    ],
+    "rubriques": [
+      {
+        "$oid": "a3ed7faa03365a91277da5ab"
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "classificationArticle": {
+      "$oid": "65f000000000000000000B06"
+    },
+    "langueParDefaut": {
+      "$oid": "65f000000000000000000620"
+    },
+    "typeContenu": "code_6959",
+    "motscles": [
+      {
+        "$oid": "22ae9a427f817cff1dcd6219"
+      },
+      {
+        "$oid": "894e77b6ec590fdc92ef9073"
+      }
+    ],
+    "personneAuteur": [],
+    "organisationAuteur": [],
+    "objetsConcernes": [],
+    "telechargeable": false,
+    "partageable": true,
+    "enregistrable": true,
+    "payant": false,
+    "droitLibre": true,
+    "publicationAutorise": true,
+    "articleInformationnel": true,
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "auteur": {
+      "$oid": "e72ab0dd3dac4adb845f7c20"
+    },
+    "datePublication": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "etatDePublication": "code_3417"
+  },
+  {
+    "_id": {
+      "$oid": "c0f782128dfaf3b5617906f6"
+    },
+    "etatObjet": "code-1",
+    "codeArticle": "ART-0006",
+    "translations": [
+      {
+        "language": "fr",
+        "titreArticle": "Optimiser son rayonnage dynamique",
+        "resumeArticle": "Résumé sur Optimiser son rayonnage dynamique.",
+        "contenuArticle": "Contenu complet sur Optimiser son rayonnage dynamique."
+      },
+      {
+        "language": "en",
+        "titreArticle": "Optimizing your dynamic racking",
+        "resumeArticle": "Summary on Optimizing your dynamic racking.",
+        "contenuArticle": "Full content on Optimizing your dynamic racking."
+      },
+      {
+        "language": "ar",
+        "titreArticle": "تحسين الرفوف الديناميكية",
+        "resumeArticle": "ملخص حول تحسين الرفوف الديناميكية.",
+        "contenuArticle": "محتوى كامل حول تحسين الرفوف الديناميكية."
+      },
+      {
+        "language": "es",
+        "titreArticle": "Optimización de sus estanterías dinámicas",
+        "resumeArticle": "Resumen sobre cómo optimizar sus estanterías dinámicas.",
+        "contenuArticle": "Contenido completo sobre la optimización de sus estanterías dinámicas."
+      }
+    ],
+    "dateCreationArticle": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "sections": [
+      {
+        "$oid": "65f000000000000000000A04"
+      }
+    ],
+    "rubriques": [
+      {
+        "$oid": "a3ed7faa03365a91277da5ab"
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "classificationArticle": {
+      "$oid": "65f000000000000000000B06"
+    },
+    "langueParDefaut": {
+      "$oid": "65f000000000000000000620"
+    },
+    "typeContenu": "code_6959",
+    "motscles": [
+      {
+        "$oid": "894e77b6ec590fdc92ef9073"
+      },
+      {
+        "$oid": "1d13a3a48108ffd767419f73"
+      }
+    ],
+    "personneAuteur": [],
+    "organisationAuteur": [],
+    "objetsConcernes": [],
+    "telechargeable": false,
+    "partageable": true,
+    "enregistrable": true,
+    "payant": false,
+    "droitLibre": true,
+    "publicationAutorise": true,
+    "articleInformationnel": true,
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "auteur": {
+      "$oid": "e72ab0dd3dac4adb845f7c20"
+    },
+    "datePublication": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "etatDePublication": "code_3417"
+  },
+  {
+    "_id": {
+      "$oid": "fe18092519b3b79c2ae702d6"
+    },
+    "etatObjet": "code-1",
+    "codeArticle": "ART-0007",
+    "translations": [
+      {
+        "language": "fr",
+        "titreArticle": "Digitalisation de la supply chain",
+        "resumeArticle": "Résumé sur Digitalisation de la supply chain.",
+        "contenuArticle": "Contenu complet sur Digitalisation de la supply chain."
+      },
+      {
+        "language": "en",
+        "titreArticle": "Digitalization of the supply chain",
+        "resumeArticle": "Summary on Digitalization of the supply chain.",
+        "contenuArticle": "Full content on Digitalization of the supply chain."
+      },
+      {
+        "language": "ar",
+        "titreArticle": "رقمنة سلسلة التوريد",
+        "resumeArticle": "ملخص حول رقمنة سلسلة التوريد.",
+        "contenuArticle": "محتوى كامل حول رقمنة سلسلة التوريد."
+      },
+      {
+        "language": "es",
+        "titreArticle": "Digitalización de la cadena de suministro",
+        "resumeArticle": "Resumen objetivo: La digitalización de la cadena de suministro. ",
+        "contenuArticle": "Contenido completo sobre la digitalización de la cadena de suministro."
+      }
+    ],
+    "dateCreationArticle": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "sections": [
+      {
+        "$oid": "65f000000000000000000A05"
+      }
+    ],
+    "rubriques": [
+      {
+        "$oid": "a3ed7faa03365a91277da5ab"
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "classificationArticle": {
+      "$oid": "65f000000000000000000B06"
+    },
+    "langueParDefaut": {
+      "$oid": "65f000000000000000000620"
+    },
+    "typeContenu": "code_6959",
+    "motscles": [
+      {
+        "$oid": "1d13a3a48108ffd767419f73"
+      },
+      {
+        "$oid": "cd8668b95efde1668e195fd2"
+      }
+    ],
+    "personneAuteur": [],
+    "organisationAuteur": [],
+    "objetsConcernes": [],
+    "telechargeable": false,
+    "partageable": true,
+    "enregistrable": true,
+    "payant": false,
+    "droitLibre": true,
+    "publicationAutorise": true,
+    "articleInformationnel": true,
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "auteur": {
+      "$oid": "e72ab0dd3dac4adb845f7c20"
+    },
+    "datePublication": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "etatDePublication": "code_3417"
+  }
+]

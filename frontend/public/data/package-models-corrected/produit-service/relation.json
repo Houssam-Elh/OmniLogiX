@@ -1,0 +1,234 @@
+[
+  {
+    "_id": {
+      "$oid": "98f8049b0ef8bb7d9be6cfd4"
+    },
+    "etatObjet": "code-1",
+    "acteur1": {
+      "$oid": "66323c2a0000000000000400"
+    },
+    "acteur2": {
+      "$oid": "66323c2a0000000000000401"
+    },
+    "typeRelation": "Partenaire"
+  },
+  {
+    "_id": {
+      "$oid": "3247d8eb15e9dc4757edfd99"
+    },
+    "etatObjet": "code-1",
+    "acteur1": {
+      "$oid": "66323c2a0000000000000401"
+    },
+    "acteur2": {
+      "$oid": "66323c2a0000000000000402"
+    },
+    "typeRelation": "Fournisseur"
+  },
+  {
+    "_id": {
+      "$oid": "057d3b21160d2d48b6032697"
+    },
+    "etatObjet": "code-1",
+    "acteur1": {
+      "$oid": "66323c2a0000000000000400"
+    },
+    "acteur2": {
+      "$oid": "66323c2a0000000000000403"
+    },
+    "typeRelation": "Concurrent"
+  },
+  {
+    "_id": {
+      "$oid": "7ea9dc287b6eae082a3b6c87"
+    },
+    "etatObjet": "code-1",
+    "acteur1": {
+      "$oid": "66323c2a0000000000000402"
+    },
+    "acteur2": {
+      "$oid": "66323c2a0000000000000404"
+    },
+    "typeRelation": "Distributeur"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000000718"
+    },
+    "reference": "REL-001",
+    "produitSource": {
+      "$oid": "65f000000000000000000598"
+    },
+    "produitCible": {
+      "$oid": "65f000000000000000000606"
+    },
+    "typeRelation": "code_3034",
+    "ordre": 1,
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "produitPrincipale": {
+      "$oid": "65f000000000000000000598"
+    },
+    "produitAssocie": [
+      {
+        "$oid": "65f000000000000000000606"
+      }
+    ],
+    "etatDePublication": "etatDeCreation.creation"
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000000719"
+    },
+    "reference": "REL-002",
+    "produitSource": {
+      "$oid": "65f000000000000000000606"
+    },
+    "produitCible": {
+      "$oid": "65f000000000000000000613"
+    },
+    "typeRelation": "code_3034",
+    "ordre": 2,
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "produitPrincipale": {
+      "$oid": "65f000000000000000000606"
+    },
+    "produitAssocie": [
+      {
+        "$oid": "65f000000000000000000613"
+      }
+    ],
+    "etatDePublication": "etatDeCreation.creation"
+  },
+  {
+    "_id": {
+      "$oid": "21f6a6e2176b95e12cb64efc"
+    },
+    "reference": "REL-003",
+    "produitSource": {
+      "$oid": "65f000000000000000000613"
+    },
+    "produitCible": {
+      "$oid": "65f000000000000000000621"
+    },
+    "typeRelation": "code_3034",
+    "ordre": 3,
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "produitPrincipale": {
+      "$oid": "65f000000000000000000613"
+    },
+    "produitAssocie": [
+      {
+        "$oid": "65f000000000000000000621"
+      }
+    ],
+    "etatDePublication": "etatDeCreation.creation"
+  },
+  {
+    "_id": {
+      "$oid": "c30f6a0265d849c590b5daa7"
+    },
+    "reference": "REL-004",
+    "produitSource": {
+      "$oid": "65f000000000000000000621"
+    },
+    "produitCible": {
+      "$oid": "65f000000000000000000628"
+    },
+    "typeRelation": "code_3034",
+    "ordre": 4,
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "produitPrincipale": {
+      "$oid": "65f000000000000000000621"
+    },
+    "produitAssocie": [
+      {
+        "$oid": "65f000000000000000000628"
+      }
+    ],
+    "etatDePublication": "etatDeCreation.creation"
+  },
+  {
+    "_id": {
+      "$oid": "ae56e544add821d957e13078"
+    },
+    "reference": "REL-005",
+    "produitSource": {
+      "$oid": "65f000000000000000000628"
+    },
+    "produitCible": {
+      "$oid": "65f000000000000000000635"
+    },
+    "typeRelation": "code_3034",
+    "ordre": 5,
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "produitPrincipale": {
+      "$oid": "65f000000000000000000628"
+    },
+    "produitAssocie": [
+      {
+        "$oid": "65f000000000000000000635"
+      }
+    ],
+    "etatDePublication": "etatDeCreation.creation"
+  },
+  {
+    "_id": {
+      "$oid": "44f42cd97b9866cff5720bef"
+    },
+    "reference": "REL-006",
+    "produitSource": {
+      "$oid": "65f000000000000000000635"
+    },
+    "produitCible": {
+      "$oid": "65f000000000000000000642"
+    },
+    "typeRelation": "code_3034",
+    "ordre": 6,
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "produitPrincipale": {
+      "$oid": "65f000000000000000000635"
+    },
+    "produitAssocie": [
+      {
+        "$oid": "65f000000000000000000642"
+      }
+    ],
+    "etatDePublication": "etatDeCreation.creation"
+  }
+]

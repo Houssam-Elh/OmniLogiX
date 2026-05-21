@@ -1,0 +1,61 @@
+[
+  {
+    "_id": {
+      "$oid": "78ca061d7c4db915d2a3a827"
+    },
+    "etatObjet": "code-1",
+    "quantiteMaxProduit": null,
+    "prixInclus": null,
+    "tarifIndicatif": null,
+    "refProduit": null,
+    "produitAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "80841b947614a75683be6e1d"
+    },
+    "etatObjet": "code-1",
+    "quantiteMaxProduit": null,
+    "prixInclus": null,
+    "tarifIndicatif": null,
+    "refProduit": null,
+    "produitAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "f695c18dc897d5338dfe3dab"
+    },
+    "etatObjet": "code-1",
+    "quantiteMaxProduit": null,
+    "prixInclus": null,
+    "tarifIndicatif": null,
+    "refProduit": null,
+    "produitAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "d0a690996c93f89091317172"
+    },
+    "etatObjet": "code-1",
+    "quantiteMaxProduit": null,
+    "prixInclus": null,
+    "tarifIndicatif": null,
+    "refProduit": null,
+    "produitAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "0bdf8d90f9a9f7aa1ba80ca6"
+    },
+    "etatObjet": "code-1",
+    "quantiteMaxProduit": 1,
+    "prixInclus": false,
+    "tarifIndicatif": [],
+    "refProduit": {
+      "$oid": "65f000000000000000000598"
+    },
+    "produitAssocie": {
+      "$oid": "65f000000000000000000724"
+    }
+  }
+]

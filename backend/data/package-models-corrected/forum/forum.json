@@ -1,0 +1,198 @@
+[
+  {
+    "_id": {
+      "$oid": "6d72d59e25ce86356deae62b"
+    },
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Forum MarketBook",
+        "description": "Espace de discussion général"
+      }
+    ],
+    "reference": "forum_general",
+    "etatDePublication": "code_3417",
+    "categorie": [
+      {
+        "$oid": "65f000000000000000000631"
+      }
+    ],
+    "themes": [],
+    "acteurs": [],
+    "nombreGlobalDesMembres": 0,
+    "nombreDesMembresActifs": 0,
+    "nombreDesEchanges": 0,
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "objetsAssocies": [],
+    "rubrique": {
+      "$oid": "fbd6a7ee11e96f8480a60fef"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "10ef292f2c10938a487f01f4"
+    },
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Forum Technique",
+        "description": "Questions techniques matériel"
+      }
+    ],
+    "reference": "forum_technique",
+    "etatDePublication": "code_3417",
+    "categorie": [
+      {
+        "$oid": "65f000000000000000000632"
+      }
+    ],
+    "themes": [],
+    "acteurs": [],
+    "nombreGlobalDesMembres": 0,
+    "nombreDesMembresActifs": 0,
+    "nombreDesEchanges": 0,
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "objetsAssocies": [],
+    "rubrique": {
+      "$oid": "3ce2a077e7829c584c192436"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "2110d82d50be24ddb97b6ffe"
+    },
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Forum Marchés",
+        "description": "Annonces et opportunités"
+      }
+    ],
+    "reference": "forum_marche",
+    "etatDePublication": "code_3417",
+    "categorie": [
+      {
+        "$oid": "65f000000000000000000634"
+      }
+    ],
+    "themes": [],
+    "acteurs": [],
+    "nombreGlobalDesMembres": 0,
+    "nombreDesMembresActifs": 0,
+    "nombreDesEchanges": 0,
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "objetsAssocies": [],
+    "rubrique": {
+      "$oid": "a3ed7faa03365a91277da5ab"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "1a6c878c7992ab41a30f2876"
+    },
+    "reference": "FORUM-OMNILOG-MANUT-2024-001",
+    "categorie": [
+      {
+        "\\$oid": "4a7b23b82a925b752e1a5fed"
+      }
+    ],
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Forum OMNILOG Manutention",
+        "description": "Espace communautaire dédié aux professionnels de la manutention, de la logistique et de la gestion d'entrepôt. Échangez sur les équipements de manutention, les normes de sécurité, la maintenance et l'optimisation du stockage."
+      },
+      {
+        "language": "en",
+        "designation": "OMNILOG Handling Forum",
+        "description": "Community space dedicated to handling, logistics and warehouse management professionals. Exchange about handling equipment, safety standards, maintenance and storage optimization."
+      },
+      {
+        "language": "ar",
+        "designation": "منتدى OMNILOG للمناولة",
+        "description": "فضاء مجتمعي مخصص لمهنيي المناولة واللوجستيك وإدارة المستودعات. تبادلوا الخبرات حول معدات المناولة ومعايير السلامة والصيانة وتحسين التخزين."
+      },
+      {
+        "language": "es",
+        "designation": "Foro OMNILOG de manutención",
+        "description": "Espacio comunitario dedicado a profesionales de la manutención, la logística y la gestión de almacenes. Intercambie sobre equipos de manutención, normas de seguridad, mantenimiento y optimización del almacenamiento."
+      }
+    ],
+    "refresponsable": {
+      "$oid": "65f000000000000000000782"
+    },
+    "dateOuverture": {
+      "$date": "2024-03-15T08:00:00.000Z"
+    },
+    "dateCloture": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "imageRepresentative": null,
+    "nombreGlobalDesMembres": 3,
+    "nombreDesMembresActifs": 3,
+    "nombreDesEchanges": 3,
+    "themes": [
+      {
+        "$oid": "65f000000000000000001201"
+      },
+      {
+        "$oid": "65f000000000000000001202"
+      },
+      {
+        "$oid": "65f000000000000000001203"
+      },
+      {
+        "$oid": "65f000000000000000001204"
+      },
+      {
+        "$oid": "65f000000000000000001205"
+      },
+      {
+        "$oid": "65f000000000000000001206"
+      },
+      {
+        "$oid": "65f000000000000000001207"
+      },
+      {
+        "$oid": "65f000000000000000001208"
+      },
+      {
+        "$oid": "65f000000000000000001209"
+      },
+      {
+        "$oid": "65f000000000000000001210"
+      }
+    ],
+    "acteurs": [],
+    "etatDePublication": "code_3417",
+    "etatObjet": "code-1",
+    "objetsAssocies": [],
+    "createdAt": {
+      "$date": "2024-03-15T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-15T08:00:00.000Z"
+    },
+    "rubrique": {
+      "$oid": "a95e105ced300c16fbc2ee8f"
+    }
+  }
+]

@@ -1,0 +1,356 @@
+[
+  {
+    "_id": {
+      "$oid": "091e3d44ec8a7242925a1054"
+    },
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Introduction",
+        "description": ""
+      }
+    ],
+    "typeContenu": null,
+    "ordreSection": null,
+    "sectionParent": null,
+    "sectionChildren": null,
+    "postArticle": null,
+    "motsCles": null,
+    "instanceElementAssocie": null,
+    "contenuMMedia": null,
+    "path": null
+  },
+  {
+    "_id": {
+      "$oid": "c945c962282375ba304d5442"
+    },
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Corps",
+        "description": ""
+      }
+    ],
+    "typeContenu": null,
+    "ordreSection": null,
+    "sectionParent": null,
+    "sectionChildren": null,
+    "postArticle": null,
+    "motsCles": null,
+    "instanceElementAssocie": null,
+    "contenuMMedia": null,
+    "path": null
+  },
+  {
+    "_id": {
+      "$oid": "1c15d3a1fb2b73c5ba55a625"
+    },
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Conclusion",
+        "description": ""
+      }
+    ],
+    "typeContenu": null,
+    "ordreSection": null,
+    "sectionParent": null,
+    "sectionChildren": null,
+    "postArticle": null,
+    "motsCles": null,
+    "instanceElementAssocie": null,
+    "contenuMMedia": null,
+    "path": null
+  },
+  {
+    "_id": {
+      "$oid": "fe3914fb1b412b17d7c8d944"
+    },
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Annexes",
+        "description": ""
+      }
+    ],
+    "typeContenu": null,
+    "ordreSection": null,
+    "sectionParent": null,
+    "sectionChildren": null,
+    "postArticle": null,
+    "motsCles": null,
+    "instanceElementAssocie": null,
+    "contenuMMedia": null,
+    "path": null
+  },
+  {
+    "_id": {
+      "$oid": "c3fe7d7381ef79812641dd26"
+    },
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Références",
+        "description": ""
+      }
+    ],
+    "typeContenu": null,
+    "ordreSection": null,
+    "sectionParent": null,
+    "sectionChildren": null,
+    "postArticle": null,
+    "motsCles": null,
+    "instanceElementAssocie": null,
+    "contenuMMedia": null,
+    "path": null
+  },
+  {
+    "_id": {
+      "$oid": "163d5fe90f6c2cd8c5db10ad"
+    },
+    "reference": "SEC-0001",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Introduction",
+        "description": "Section introductive présentant le contexte, les enjeux et les objectifs de l'article ou du guide dans le cadre de la plateforme OMNILOG Marketplace Manutention au Maroc.",
+        "titreSection": "Introduction",
+        "contenuSection": "Section introductive présentant le contexte, les enjeux et les objectifs de l'article ou du guide dans le cadre de la plateforme OMNILOG Marketplace Manutention au Maroc.",
+        "sousTitre": ""
+      },
+      {
+        "language": "en",
+        "designation": "Introduction",
+        "description": "Introductory section presenting the context, issues and objectives of the article or guide within the OMNILOG marketplace.",
+        "titreSection": "Introduction",
+        "contenuSection": "Introductory section presenting the context, issues and objectives of the article or guide within the OMNILOG marketplace.",
+        "sousTitre": ""
+      },
+      {
+        "language": "ar",
+        "designation": "مقدمة",
+        "description": "قسم تمهيدي يعرض سياق المقال أو الدليل وأهدافه داخل سوق OMNILOG.",
+        "titreSection": "مقدمة",
+        "contenuSection": "قسم تمهيدي يعرض سياق المقال أو الدليل وأهدافه داخل سوق OMNILOG.",
+        "sousTitre": ""
+      },
+      {
+        "language": "es",
+        "designation": "Introducción",
+        "description": "Sección introductoria que presenta el contexto, los desafíos y los objetivos del artículo o guía dentro del marketplace OMNILOG.",
+        "titreSection": "Introducción",
+        "contenuSection": "Sección introductoria que presenta el contexto, los desafíos y los objetivos del artículo o guía dentro del marketplace OMNILOG.",
+        "sousTitre": ""
+      }
+    ],
+    "ordre": 1,
+    "etatObjet": "code-1",
+    "etatCreation": "valide",
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "__v": 0,
+    "typeContenu": "code_6959",
+    "ordreSection": 1,
+    "sectionChildren": [],
+    "motsCles": [],
+    "instanceElementAssocie": [],
+    "contenuMMedia": [],
+    "postArticle": {
+      "$oid": "65f000000000000000000820"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "504abaf6713a7ce79160b6b3"
+    },
+    "reference": "SEC-0002",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Critères de choix",
+        "description": "Section détaillant les critères essentiels pour choisir le bon équipement de manutention selon l'activité et les contraintes des entrepôts marocains.",
+        "titreSection": "Critères de choix",
+        "contenuSection": "Section détaillant les critères essentiels pour choisir le bon équipement de manutention selon l'activité et les contraintes des entrepôts marocains.",
+        "sousTitre": ""
+      },
+      {
+        "language": "en",
+        "designation": "Selection criteria",
+        "description": "Section detailing key criteria for choosing the right handling equipment according to activity and warehouse constraints.",
+        "titreSection": "Selection criteria",
+        "contenuSection": "Section detailing key criteria for choosing the right handling equipment according to activity and warehouse constraints.",
+        "sousTitre": ""
+      },
+      {
+        "language": "ar",
+        "designation": "معايير الاختيار",
+        "description": "قسم يوضح المعايير الأساسية لاختيار معدات المناولة المناسبة حسب النشاط وقيود المستودع.",
+        "titreSection": "معايير الاختيار",
+        "contenuSection": "قسم يوضح المعايير الأساسية لاختيار معدات المناولة المناسبة حسب النشاط وقيود المستودع.",
+        "sousTitre": ""
+      },
+      {
+        "language": "es",
+        "designation": "Criterios de selección",
+        "description": "Sección que detalla los criterios esenciales para elegir el equipo de manutención adecuado según la actividad y las limitaciones del almacén.",
+        "titreSection": "Criterios de selección",
+        "contenuSection": "Sección que detalla los criterios esenciales para elegir el equipo de manutención adecuado según la actividad y las limitaciones del almacén.",
+        "sousTitre": ""
+      }
+    ],
+    "ordre": 2,
+    "etatObjet": "code-1",
+    "etatCreation": "valide",
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "__v": 0,
+    "typeContenu": "code_6959",
+    "ordreSection": 2,
+    "sectionChildren": [],
+    "motsCles": [],
+    "instanceElementAssocie": [],
+    "contenuMMedia": [],
+    "postArticle": {
+      "$oid": "65f000000000000000000821"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "567cf0b7a30a949f302e2def"
+    },
+    "reference": "SEC-0003",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Conclusion",
+        "description": "Section conclusive synthétisant les points clés de l'article et orientant le lecteur vers les ressources et fournisseurs disponibles sur la plateforme OMNILOG Marketplace Manutention.",
+        "titreSection": "Conclusion",
+        "contenuSection": "Section conclusive synthétisant les points clés de l'article et orientant le lecteur vers les ressources et fournisseurs disponibles sur la plateforme OMNILOG Marketplace Manutention.",
+        "sousTitre": ""
+      },
+      {
+        "language": "en",
+        "designation": "Conclusion",
+        "description": "Final section summarizing key points and directing the reader to OMNILOG resources and supplier offers.",
+        "titreSection": "Conclusion",
+        "contenuSection": "Final section summarizing key points and directing the reader to OMNILOG resources and supplier offers.",
+        "sousTitre": ""
+      },
+      {
+        "language": "ar",
+        "designation": "خاتمة",
+        "description": "قسم ختامي يلخص النقاط الأساسية ويوجه القارئ نحو موارد OMNILOG وعروض الموردين.",
+        "titreSection": "خاتمة",
+        "contenuSection": "قسم ختامي يلخص النقاط الأساسية ويوجه القارئ نحو موارد OMNILOG وعروض الموردين.",
+        "sousTitre": ""
+      },
+      {
+        "language": "es",
+        "designation": "Conclusión",
+        "description": "Sección final que resume los puntos clave y orienta al lector hacia los recursos y proveedores disponibles en OMNILOG.",
+        "titreSection": "Conclusión",
+        "contenuSection": "Sección final que resume los puntos clave y orienta al lector hacia los recursos y proveedores disponibles en OMNILOG.",
+        "sousTitre": ""
+      }
+    ],
+    "ordre": 3,
+    "etatObjet": "code-1",
+    "etatCreation": "valide",
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "__v": 0,
+    "typeContenu": "code_6959",
+    "ordreSection": 3,
+    "sectionChildren": [],
+    "motsCles": [],
+    "instanceElementAssocie": [],
+    "contenuMMedia": []
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000000A01"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Section 1",
+        "contenu": "Contenu de la section 1."
+      }
+    ],
+    "etatObjet": "code-1",
+    "ordreSection": 9
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000000A02"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Section 2",
+        "contenu": "Contenu de la section 2."
+      }
+    ],
+    "etatObjet": "code-1",
+    "ordreSection": 10
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000000A03"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Section 3",
+        "contenu": "Contenu de la section 3."
+      }
+    ],
+    "etatObjet": "code-1",
+    "ordreSection": 11
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000000A04"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Section 4",
+        "contenu": "Contenu de la section 4."
+      }
+    ],
+    "etatObjet": "code-1",
+    "ordreSection": 12
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000000A05"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Section 5",
+        "contenu": "Contenu de la section 5."
+      }
+    ],
+    "etatObjet": "code-1",
+    "ordreSection": 13
+  }
+]

@@ -1,0 +1,409 @@
+[
+  {
+    "_id": {
+      "$oid": "fbd6a7ee11e96f8480a60fef"
+    },
+    "etatObjet": "code-1",
+    "refRubrique": null,
+    "taxoCategorie": {
+      "$oid": "65f000000000000000000B05"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Marché",
+        "description": "Rubrique Marché"
+      }
+    ],
+    "photoRubrique": null,
+    "iconeRubrique": null,
+    "etatDePublication": null,
+    "postArticle": null,
+    "menu": null,
+    "blogs": null,
+    "objetsConcernes": null
+  },
+  {
+    "_id": {
+      "$oid": "3ce2a077e7829c584c192436"
+    },
+    "etatObjet": "code-1",
+    "refRubrique": null,
+    "taxoCategorie": {
+      "$oid": "65f000000000000000000006"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Technique",
+        "description": "Rubrique Technique"
+      }
+    ],
+    "photoRubrique": null,
+    "iconeRubrique": null,
+    "etatDePublication": null,
+    "postArticle": null,
+    "menu": null,
+    "blogs": null,
+    "objetsConcernes": null
+  },
+  {
+    "_id": {
+      "$oid": "a3ed7faa03365a91277da5ab"
+    },
+    "etatObjet": "code-1",
+    "refRubrique": null,
+    "taxoCategorie": {
+      "$oid": "65f000000000000000000487"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Réglementation",
+        "description": "Rubrique Réglementation"
+      }
+    ],
+    "photoRubrique": null,
+    "iconeRubrique": null,
+    "etatDePublication": null,
+    "postArticle": null,
+    "menu": null,
+    "blogs": null,
+    "objetsConcernes": null
+  },
+  {
+    "_id": {
+      "$oid": "a95e105ced300c16fbc2ee8f"
+    },
+    "etatObjet": "code-1",
+    "refRubrique": null,
+    "taxoCategorie": {
+      "$oid": "65f000000000000000000B05"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Actualités",
+        "description": "Rubrique Actualités"
+      }
+    ],
+    "photoRubrique": null,
+    "iconeRubrique": null,
+    "etatDePublication": null,
+    "postArticle": null,
+    "menu": null,
+    "blogs": null,
+    "objetsConcernes": null
+  },
+  {
+    "_id": {
+      "$oid": "fe4704f429f47636ec4b285e"
+    },
+    "etatObjet": "code-1",
+    "refRubrique": null,
+    "taxoCategorie": {
+      "$oid": "65f000000000000000000254"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Conseils",
+        "description": "Rubrique Conseils"
+      }
+    ],
+    "photoRubrique": null,
+    "iconeRubrique": null,
+    "etatDePublication": null,
+    "postArticle": null,
+    "menu": null,
+    "blogs": null,
+    "objetsConcernes": null
+  },
+  {
+    "_id": {
+      "$oid": "e667d52e1234c25270ea2576"
+    },
+    "etatObjet": "code-1",
+    "refRubrique": null,
+    "taxoCategorie": {
+      "$oid": "65f000000000000000000B06"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Partenaires",
+        "description": "Rubrique Partenaires"
+      }
+    ],
+    "photoRubrique": null,
+    "iconeRubrique": null,
+    "etatDePublication": null,
+    "postArticle": null,
+    "menu": null,
+    "blogs": null,
+    "objetsConcernes": null
+  },
+  {
+    "_id": {
+      "$oid": "92efedc74d433e59dc311fa9"
+    },
+    "reference": "RUB-0001",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Actualités manutention",
+        "description": "Toutes les actualités du secteur de la manutention au Maroc : nouveaux équipements, tendances du marché B2B, innovations technologiques et événements professionnels organisés par OMNILOG et Smart Automation Technology.",
+        "titreRubrique": "Actualités manutention",
+        "descriptif": "Toutes les actualités du secteur de la manutention au Maroc : nouveaux équipements, tendances du marché B2B, innovations technologiques et événements professionnels organisés par OMNILOG et Smart Automation Technology."
+      },
+      {
+        "language": "en",
+        "designation": "Handling news",
+        "description": "All news from the handling sector in Morocco: new equipment, B2B market trends, technological innovations and professional events organized by OMNILOG and Smart Automation Technology.",
+        "titreRubrique": "Handling news",
+        "descriptif": "All news from the handling sector in Morocco: new equipment, B2B market trends, technological innovations and professional events organized by OMNILOG and Smart Automation Technology."
+      },
+      {
+        "language": "ar",
+        "designation": "أخبار المناولة",
+        "description": "كل أخبار قطاع المناولة في المغرب: معدات جديدة، اتجاهات سوق B2B، ابتكارات تقنية وفعاليات مهنية تنظمها OMNILOG وSmart Automation Technology.",
+        "titreRubrique": "أخبار المناولة",
+        "descriptif": "كل أخبار قطاع المناولة في المغرب: معدات جديدة، اتجاهات سوق B2B، ابتكارات تقنية وفعاليات مهنية تنظمها OMNILOG وSmart Automation Technology."
+      },
+      {
+        "language": "es",
+        "designation": "Noticias de manutención",
+        "description": "Todas las noticias del sector de la manutención en Marruecos: nuevos equipos, tendencias del mercado B2B, innovaciones tecnológicas y eventos profesionales organizados por OMNILOG y Smart Automation Technology.",
+        "titreRubrique": "Noticias de manutención",
+        "descriptif": "Todas las noticias del sector de la manutención en Marruecos: nuevos equipos, tendencias del mercado B2B, innovaciones tecnológicas y eventos profesionales organizados por OMNILOG y Smart Automation Technology."
+      }
+    ],
+    "ordre": 1,
+    "etatObjet": "code-1",
+    "etatCreation": "valide",
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "__v": 0,
+    "refRubrique": "RUB-0001",
+    "taxoCategorie": {
+      "$oid": "65f000000000000000000B05"
+    },
+    "etatDePublication": "code_3417",
+    "postArticle": [],
+    "menu": [],
+    "blogs": [],
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "13332c56554c246df065781d"
+    },
+    "reference": "RUB-0002",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Guides d'achat",
+        "description": "Guides complets pour les acheteurs professionnels marocains : transpalettes, chariots élévateurs, rayonnage et équipements de quai.",
+        "titreRubrique": "Guides d'achat",
+        "descriptif": "Guides complets pour les acheteurs professionnels marocains : transpalettes, chariots élévateurs, rayonnage et équipements de quai."
+      },
+      {
+        "language": "en",
+        "designation": "Buying guides",
+        "description": "Comprehensive guides for Moroccan professional buyers: pallet trucks, forklifts, racking and dock equipment.",
+        "titreRubrique": "Buying guides",
+        "descriptif": "Comprehensive guides for Moroccan professional buyers: pallet trucks, forklifts, racking and dock equipment."
+      },
+      {
+        "language": "ar",
+        "designation": "أدلة الشراء",
+        "description": "أدلة شاملة للمشترين المهنيين المغاربة: رافعات المنصات، الرافعات الشوكية، الرفوف ومعدات الأرصفة.",
+        "titreRubrique": "أدلة الشراء",
+        "descriptif": "أدلة شاملة للمشترين المهنيين المغاربة: رافعات المنصات، الرافعات الشوكية، الرفوف ومعدات الأرصفة."
+      },
+      {
+        "language": "es",
+        "designation": "Guías de compra",
+        "description": "Guías completas para compradores profesionales marroquíes: transpaletas, carretillas elevadoras, estanterías y equipos de muelle.",
+        "titreRubrique": "Guías de compra",
+        "descriptif": "Guías completas para compradores profesionales marroquíes: transpaletas, carretillas elevadoras, estanterías y equipos de muelle."
+      }
+    ],
+    "ordre": 2,
+    "etatObjet": "code-1",
+    "etatCreation": "valide",
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "__v": 0,
+    "refRubrique": "RUB-0002",
+    "taxoCategorie": {
+      "$oid": "65f000000000000000000B06"
+    },
+    "etatDePublication": "code_3417",
+    "postArticle": [
+      {
+        "$oid": "65f000000000000000000820"
+      }
+    ],
+    "menu": [],
+    "blogs": [],
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "ab443b9311d8f47072b7092a"
+    },
+    "reference": "RUB-0003",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Réglementation et normes",
+        "description": "Réglementation applicable aux équipements de manutention dans le contexte marocain : normes de sécurité, vérifications périodiques, marquage CE pour équipements importés et règles de sécurité en entrepôt.",
+        "titreRubrique": "Réglementation et normes",
+        "descriptif": "Réglementation applicable aux équipements de manutention dans le contexte marocain : normes de sécurité, vérifications périodiques, marquage CE pour équipements importés et règles de sécurité en entrepôt."
+      },
+      {
+        "language": "en",
+        "designation": "Regulations and standards",
+        "description": "Regulations applicable to handling equipment in the Moroccan context: safety standards, periodic inspections, CE marking for imported equipment and warehouse safety rules.",
+        "titreRubrique": "Regulations and standards",
+        "descriptif": "Regulations applicable to handling equipment in the Moroccan context: safety standards, periodic inspections, CE marking for imported equipment and warehouse safety rules."
+      },
+      {
+        "language": "ar",
+        "designation": "اللوائح والمعايير",
+        "description": "اللوائح المطبقة على معدات المناولة في السياق المغربي: معايير السلامة، الفحوصات الدورية، علامة CE للمعدات المستوردة وقواعد السلامة في المستودعات.",
+        "titreRubrique": "اللوائح والمعايير",
+        "descriptif": "اللوائح المطبقة على معدات المناولة في السياق المغربي: معايير السلامة، الفحوصات الدورية، علامة CE للمعدات المستوردة وقواعد السلامة في المستودعات."
+      },
+      {
+        "language": "es",
+        "designation": "Normativa y normas",
+        "description": "Normativa aplicable a los equipos de manutención en el contexto marroquí: normas de seguridad, inspecciones periódicas, marcado CE para equipos importados y reglas de seguridad en almacén.",
+        "titreRubrique": "Normativa y normas",
+        "descriptif": "Normativa aplicable a los equipos de manutención en el contexto marroquí: normas de seguridad, inspecciones periódicas, marcado CE para equipos importados y reglas de seguridad en almacén."
+      }
+    ],
+    "ordre": 3,
+    "etatObjet": "code-1",
+    "etatCreation": "valide",
+    "createdAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "__v": 0,
+    "refRubrique": "RUB-0003",
+    "taxoCategorie": {
+      "$oid": "65f000000000000000000B07"
+    },
+    "etatDePublication": "code_3417",
+    "postArticle": [
+      {
+        "$oid": "65f000000000000000000821"
+      }
+    ],
+    "menu": [],
+    "blogs": [],
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "ead688fee716ffc2d0d0008c"
+    },
+    "reference": "RUB-0004",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Entretien et SAV",
+        "description": "Conseils pour l'entretien de vos équipements."
+      },
+      {
+        "language": "en",
+        "designation": "Maintenance and After-sales",
+        "description": "Tips for maintaining your equipment."
+      },
+      {
+        "language": "ar",
+        "designation": "الصيانة وخدمة ما بعد البيع",
+        "description": "نصائح لصيانة معداتكم."
+      },
+      {
+        "language": "es",
+        "designation": "Mantenimiento y SAV",
+        "description": "Consejos para el mantenimiento de sus equipos."
+      }
+    ],
+    "ordre": 4,
+    "etatObjet": "code-1",
+    "etatCreation": "valide",
+    "postArticle": [
+      {
+        "$oid": "65f000000000000000000B01"
+      },
+      {
+        "$oid": "65f000000000000000000B02"
+      },
+      {
+        "$oid": "65f000000000000000000B03"
+      },
+      {
+        "$oid": "65f000000000000000000B04"
+      },
+      {
+        "$oid": "65f000000000000000000B05"
+      }
+    ],
+    "refRubrique": "RUB-0004",
+    "taxoCategorie": {
+      "$oid": "65f000000000000000000006"
+    },
+    "etatDePublication": "code_3417"
+  },
+  {
+    "_id": {
+      "$oid": "09257c7bdf50c05c1e1b9623"
+    },
+    "reference": "RUB-0005",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Témoignages Clients",
+        "description": "Retours d'expérience des utilisateurs OMNILOG."
+      },
+      {
+        "language": "en",
+        "designation": "Customer Testimonials",
+        "description": "Feedback from OMNILOG users."
+      },
+      {
+        "language": "ar",
+        "designation": "شهادات العملاء",
+        "description": "تجارب مستخدمي OMNILOG."
+      },
+      {
+        "language": "es",
+        "designation": "Testimonios de Clientes",
+        "description": "Comentarios de los usuarios de OMNILOG."
+      }
+    ],
+    "ordre": 5,
+    "etatObjet": "code-1",
+    "etatCreation": "valide",
+    "postArticle": [],
+    "refRubrique": "RUB-0005",
+    "taxoCategorie": {
+      "$oid": "65f000000000000000000B05"
+    },
+    "etatDePublication": "code_3417"
+  }
+]

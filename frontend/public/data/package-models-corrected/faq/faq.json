@@ -1,0 +1,331 @@
+[
+  {
+    "_id": {
+      "$oid": "793f022de13d224dffcf58be"
+    },
+    "etatDePublication": null,
+    "etatObjet": "code-1",
+    "reference": "support",
+    "classeFaq": {
+      "$oid": "65f000000000000000000630"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Aide et support",
+        "description": ""
+      }
+    ],
+    "refResponsable": null,
+    "emailResponsable": null,
+    "imageRepresentative": null,
+    "dateOuverture": null,
+    "dateCloture": null,
+    "nbrQuestion": null,
+    "nbrParticipants": null,
+    "nbrVue": null,
+    "etatFaq": null,
+    "questions": [],
+    "objetsAssocies": null,
+    "etatObject": null,
+    "objetsConcernes": null,
+    "etats": null
+  },
+  {
+    "_id": {
+      "$oid": "b2109464994b7a851cc38fa6"
+    },
+    "etatDePublication": null,
+    "etatObjet": "code-1",
+    "reference": "vente",
+    "classeFaq": {
+      "$oid": "65f000000000000000000630"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Comment vendre ?",
+        "description": ""
+      }
+    ],
+    "refResponsable": null,
+    "emailResponsable": null,
+    "imageRepresentative": null,
+    "dateOuverture": null,
+    "dateCloture": null,
+    "nbrQuestion": null,
+    "nbrParticipants": null,
+    "nbrVue": null,
+    "etatFaq": null,
+    "questions": [],
+    "objetsAssocies": null,
+    "etatObject": null,
+    "objetsConcernes": null,
+    "etats": null
+  },
+  {
+    "_id": {
+      "$oid": "c55f1adbc943cf1f9d9a70e8"
+    },
+    "etatDePublication": null,
+    "etatObjet": "code-1",
+    "reference": "achat",
+    "classeFaq": {
+      "$oid": "65f000000000000000000630"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Comment acheter ?",
+        "description": ""
+      }
+    ],
+    "refResponsable": null,
+    "emailResponsable": null,
+    "imageRepresentative": null,
+    "dateOuverture": null,
+    "dateCloture": null,
+    "nbrQuestion": null,
+    "nbrParticipants": null,
+    "nbrVue": null,
+    "etatFaq": null,
+    "questions": [],
+    "objetsAssocies": null,
+    "etatObject": null,
+    "objetsConcernes": null,
+    "etats": null
+  },
+  {
+    "_id": {
+      "$oid": "6accc1c42f6e40bba8b1cec5"
+    },
+    "etatDePublication": null,
+    "etatObjet": "code-1",
+    "reference": "compte",
+    "classeFaq": {
+      "$oid": "65f000000000000000000630"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Gestion du compte",
+        "description": ""
+      }
+    ],
+    "refResponsable": null,
+    "emailResponsable": null,
+    "imageRepresentative": null,
+    "dateOuverture": null,
+    "dateCloture": null,
+    "nbrQuestion": null,
+    "nbrParticipants": null,
+    "nbrVue": null,
+    "etatFaq": null,
+    "questions": [],
+    "objetsAssocies": null,
+    "etatObject": null,
+    "objetsConcernes": null,
+    "etats": null
+  },
+  {
+    "_id": {
+      "$oid": "a2fa92cd276432a7f613bacd"
+    },
+    "reference": "FAQ-ML-001",
+    "classeFaq": {
+      "$oid": "65f000000000000000000630"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "nomResponsable": "Direction Logistique OMNILOG",
+        "designation": "FAQ OMNILOG Marketplace Manutention",
+        "description": "Questions fréquemment posées concernant l'utilisation de la marketplace OMNILOG pour les équipements de manutention au Maroc."
+      },
+      {
+        "language": "en",
+        "nomResponsable": "Direction Logistics OMNILOG",
+        "designation": "OMNILOG FAQ",
+        "description": "Frequently asked questions about using the OMNILOG marketplace for handling equipment in Morocco."
+      },
+      {
+        "language": "ar",
+        "nomResponsable": "قسم الخدمات اللوجستية في أومنيلوج",
+        "designation": "الأسئلة الشائعة حول OMNILOG",
+        "description": "أسئلة شائعة حول استخدام سوق OMNILOG لمعدات المناولة في المغرب."
+      },
+      {
+        "language": "es",
+        "nomResponsable": "Direction Logística OMNILOG",
+        "designation": "Preguntas frecuentes de OMNILOG",
+        "description": "Preguntas frecuentes sobre el uso del marketplace OMNILOG para equipos de manutención en Marruecos."
+      }
+    ],
+    "emailResponsable": "faq@omnilog.ma",
+    "dateOuverture": {
+      "$date": "2024-03-01T00:00:00.000Z"
+    },
+    "etatFaq": "code_4268",
+    "etatDePublication": "code_3417",
+    "etatObjet": "code-1",
+    "questions": [
+      {
+        "$oid": "65f000000000000000000756"
+      },
+      {
+        "$oid": "65f000000000000000000758"
+      },
+      {
+        "$oid": "65f000000000000000000760"
+      },
+      {
+        "$oid": "65f000000000000000000762"
+      },
+      {
+        "$oid": "65f000000000000000000764"
+      },
+      {
+        "$oid": "65f000000000000000000766"
+      },
+      {
+        "$oid": "65f000000000000000000768"
+      },
+      {
+        "$oid": "65f000000000000000000770"
+      },
+      {
+        "$oid": "65f000000000000000000772"
+      },
+      {
+        "$oid": "65f000000000000000000774"
+      },
+      {
+        "$oid": "65f000000000000000001101"
+      },
+      {
+        "$oid": "65f000000000000000001102"
+      },
+      {
+        "$oid": "65f000000000000000001103"
+      },
+      {
+        "$oid": "65f000000000000000001104"
+      },
+      {
+        "$oid": "65f000000000000000001105"
+      },
+      {
+        "$oid": "65f000000000000000001106"
+      },
+      {
+        "$oid": "65f000000000000000001107"
+      },
+      {
+        "$oid": "65f000000000000000001108"
+      },
+      {
+        "$oid": "65f000000000000000001109"
+      },
+      {
+        "$oid": "65f000000000000000001110"
+      },
+      {
+        "$oid": "65f000000000000000001111"
+      },
+      {
+        "$oid": "65f000000000000000001112"
+      },
+      {
+        "$oid": "65f000000000000000001113"
+      },
+      {
+        "$oid": "65f000000000000000001114"
+      },
+      {
+        "$oid": "65f000000000000000001115"
+      },
+      {
+        "$oid": "65f000000000000000001116"
+      },
+      {
+        "$oid": "65f000000000000000001117"
+      },
+      {
+        "$oid": "65f000000000000000001118"
+      },
+      {
+        "$oid": "65f000000000000000001119"
+      },
+      {
+        "$oid": "65f000000000000000001120"
+      },
+      {
+        "$oid": "65f000000000000000001121"
+      },
+      {
+        "$oid": "65f000000000000000001122"
+      },
+      {
+        "$oid": "65f000000000000000001123"
+      },
+      {
+        "$oid": "65f000000000000000001124"
+      },
+      {
+        "$oid": "65f000000000000000001125"
+      },
+      {
+        "$oid": "65f000000000000000001126"
+      },
+      {
+        "$oid": "65f000000000000000001127"
+      },
+      {
+        "$oid": "65f000000000000000001128"
+      },
+      {
+        "$oid": "65f000000000000000001129"
+      },
+      {
+        "$oid": "65f000000000000000001130"
+      },
+      {
+        "$oid": "65f000000000000000001141"
+      },
+      {
+        "$oid": "65f000000000000000001142"
+      },
+      {
+        "$oid": "65f000000000000000001143"
+      },
+      {
+        "$oid": "65f000000000000000001144"
+      },
+      {
+        "$oid": "65f000000000000000001145"
+      },
+      {
+        "$oid": "65f000000000000000001146"
+      },
+      {
+        "$oid": "65f000000000000000001147"
+      },
+      {
+        "$oid": "65f000000000000000001148"
+      },
+      {
+        "$oid": "65f000000000000000001149"
+      },
+      {
+        "$oid": "65f000000000000000001150"
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-03-15T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-15T08:00:00.000Z"
+    },
+    "__v": 0
+  }
+]

@@ -1,0 +1,3323 @@
+[
+  {
+    "_id": {
+      "$oid": "616bc74b36f8792bc455a683"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "contenu": "C'est un excellent tracteur, très polyvalent. Assurez-vous d'avoir un bon SAV à proximité pour l'entretien régulier."
+      }
+    ],
+    "dateHeureParticipation": null,
+    "ordre": null,
+    "etatValidation": null,
+    "parent": null,
+    "children": null,
+    "theme": null,
+    "acteur": null,
+    "etatObjet": "code-1",
+    "objetAssocie": null,
+    "elementsAdditionnels": null
+  },
+  {
+    "_id": {
+      "$oid": "896a446e4c9d370eb556466f"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "contenu": "Pareil pour moi, excellent choix pour le prix. Le coffre est très spacieux."
+      }
+    ],
+    "dateHeureParticipation": null,
+    "ordre": null,
+    "etatValidation": null,
+    "parent": null,
+    "children": null,
+    "theme": null,
+    "acteur": null,
+    "etatObjet": "code-1",
+    "objetAssocie": null,
+    "elementsAdditionnels": null
+  },
+  {
+    "_id": {
+      "$oid": "0c9cc930192f15e7b31f62fe"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "contenu": "Pour ce budget le C-HR hybride est excellent. Faible conso en ville (~4L/100) et très fiable."
+      }
+    ],
+    "dateHeureParticipation": null,
+    "ordre": null,
+    "etatValidation": null,
+    "parent": null,
+    "children": null,
+    "theme": null,
+    "acteur": null,
+    "etatObjet": "code-1",
+    "objetAssocie": null,
+    "elementsAdditionnels": null
+  },
+  {
+    "_id": {
+      "$oid": "96b59e45e8cc78a0cf68d717"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "contenu": "Très bon choix ! La Logan est assembée à la SOMACA (Casablanca). SAV Renault très présent au Maroc. Idéale pour débuter."
+      }
+    ],
+    "dateHeureParticipation": null,
+    "ordre": null,
+    "etatValidation": null,
+    "parent": null,
+    "children": null,
+    "theme": null,
+    "acteur": null,
+    "etatObjet": "code-1",
+    "objetAssocie": null,
+    "elementsAdditionnels": null
+  },
+  {
+    "_id": {
+      "$oid": "f7481b4b2175a31dcf345c3b"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "contenu": "J'ai la Logan diesel depuis 3 ans, 0 panne. Consommation 5L/100 sur route. Très recommandée."
+      }
+    ],
+    "dateHeureParticipation": null,
+    "ordre": null,
+    "etatValidation": null,
+    "parent": null,
+    "children": null,
+    "theme": null,
+    "acteur": null,
+    "etatObjet": "code-1",
+    "objetAssocie": null,
+    "elementsAdditionnels": null
+  },
+  {
+    "_id": {
+      "$oid": "d546b4bad7b8c31013c0e99c"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "contenu": "Le RAV4 hybride est légèrement plus fiable selon les stats mondiales. Toyota du Maroc a 22 points de SAV. Mais Hyundai a aussi un bon réseau."
+      }
+    ],
+    "dateHeureParticipation": null,
+    "ordre": null,
+    "etatValidation": null,
+    "parent": null,
+    "children": null,
+    "theme": null,
+    "acteur": null,
+    "etatObjet": "code-1",
+    "objetAssocie": null,
+    "elementsAdditionnels": null
+  },
+  {
+    "_id": {
+      "$oid": "4729f67f53690f5e60253aa2"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "contenu": "J'ai visité le showroom à Casa. Les vendeurs sont bien formés. Le SAV est assuré, garantie 6 ans/150.000km. Très impressionnée par le G6."
+      }
+    ],
+    "dateHeureParticipation": null,
+    "ordre": null,
+    "etatValidation": null,
+    "parent": null,
+    "children": null,
+    "theme": null,
+    "acteur": null,
+    "etatObjet": "code-1",
+    "objetAssocie": null,
+    "elementsAdditionnels": null
+  },
+  {
+    "_id": {
+      "$oid": "c40b06b7eee2cd8ad63bcd76"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "contenu": "Kubota a un moteur increvable. Bobcat est très bien mais parfois l'hydraulique chauffe un peu plus."
+      }
+    ],
+    "dateHeureParticipation": null,
+    "ordre": null,
+    "etatValidation": null,
+    "parent": null,
+    "children": null,
+    "theme": null,
+    "acteur": null,
+    "etatObjet": "code-1",
+    "objetAssocie": null,
+    "elementsAdditionnels": null
+  },
+  {
+    "_id": {
+      "$oid": "fb97dfa6497fe9de8449af19"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Quel transpalette pour 2 tonnes en usage intensif ?",
+        "message": "Bonjour à tous, je cherche un transpalette manuel capable de supporter une charge de 2 tonnes en usage intensif quotidien dans notre entrepôt. Quelles marques ou modèles recommandez-vous ? Merci."
+      },
+      {
+        "language": "en",
+        "titre": "Which pallet truck for 2 tonnes in intensive use?",
+        "message": "Hello everyone, I am looking for a manual pallet truck capable of carrying a 2-tonne load for intensive daily use in our warehouse. Which brands or models do you recommend? Thank you."
+      },
+      {
+        "language": "ar",
+        "titre": "أي رافعة منصات لحمل 2 طن في الاستخدام المكثف؟",
+        "message": "مرحباً للجميع، أبحث عن رافعة منصات يدوية قادرة على تحمل حمولة 2 طن في الاستخدام اليومي المكثف داخل مستودعنا. ما العلامات أو النماذج التي تنصحون بها؟ شكراً."
+      },
+      {
+        "language": "es",
+        "titre": "¿Qué transpaleta para 2 toneladas en uso intensivo?",
+        "message": "Hola a todos, busco una transpaleta manual capaz de soportar una carga de 2 toneladas en uso intensivo diario en nuestro almacén. ¿Qué marcas o modelos recomiendan? Gracias."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-03-10T10:00:00.000Z"
+    },
+    "ordre": 1,
+    "etatValidation": "code_1407",
+    "parent": null,
+    "children": [
+      {
+        "$oid": "65f000000000000000000785"
+      }
+    ],
+    "theme": {
+      "$oid": "65f000000000000000000777"
+    },
+    "acteur": {
+      "$oid": "65f000000000000000000781"
+    },
+    "etatObjet": "code-1",
+    "objetAssocie": [],
+    "elementsAdditionnels": [],
+    "createdAt": {
+      "$date": "2024-03-10T10:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-10T10:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "ba174b352ecff47ab4a389a6"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Réponse : Transpalette pour usage intensif 2 tonnes",
+        "message": "Bonjour, pour un usage intensif avec 2 tonnes de charge, je recommande le Jungheinrich AM22 ou le BT LHM230 selon votre budget. Les deux offrent une excellente robustesse, une fourche longue de 1150 mm et des roues tandem polyuréthane pour une meilleure durabilité sur sol béton. Pensez également à planifier une maintenance préventive tous les 500 heures d'utilisation."
+      },
+      {
+        "language": "en",
+        "titre": "Reply: Pallet truck for intensive 2-tonne use",
+        "message": "Hello, for intensive use with a 2-tonne load, I recommend the Jungheinrich AM22 or the BT LHM230 depending on your budget. Both offer excellent robustness, 1150 mm long forks and polyurethane tandem wheels for better durability on concrete floors. Also plan preventive maintenance every 500 hours of use."
+      },
+      {
+        "language": "ar",
+        "titre": "رد: رافعة منصات للاستخدام المكثف بحمولة 2 طن",
+        "message": "مرحباً، للاستخدام المكثف مع حمولة 2 طن، أنصح بـ Jungheinrich AM22 أو BT LHM230 حسب الميزانية. كلاهما يوفر متانة عالية، شوكات طويلة 1150 مم وعجلات مزدوجة من البولي يوريثان لمتانة أفضل على الأرضيات الخرسانية. يُنصح أيضاً ببرمجة صيانة وقائية كل 500 ساعة استخدام."
+      },
+      {
+        "language": "es",
+        "titre": "Respuesta: transpaleta para uso intensivo de 2 toneladas",
+        "message": "Hola, para un uso intensivo con una carga de 2 toneladas, recomiendo el Jungheinrich AM22 o el BT LHM230 según su presupuesto. Ambos ofrecen una excelente robustez, horquillas de 1150 mm de largo y ruedas tándem de poliuretano para una mejor durabilidad en suelos de hormigón. También considere planificar un mantenimiento preventivo cada 500 horas de uso."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-03-10T11:30:00.000Z"
+    },
+    "ordre": 2,
+    "etatValidation": "code_1407",
+    "parent": {
+      "$oid": "65f000000000000000000784"
+    },
+    "children": [],
+    "theme": {
+      "$oid": "65f000000000000000000777"
+    },
+    "acteur": {
+      "$oid": "65f000000000000000000782"
+    },
+    "etatObjet": "code-1",
+    "objetAssocie": [],
+    "elementsAdditionnels": [],
+    "createdAt": {
+      "$date": "2024-03-10T11:30:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-10T11:30:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "790f37599358feadf05c3c29"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Normes obligatoires pour le marquage au sol en entrepôt",
+        "message": "Bonjour, pourriez-vous m'indiquer quelles sont les normes obligatoires concernant le marquage au sol dans un entrepôt logistique ? Nous devons mettre notre site en conformité avant la prochaine inspection. Merci d'avance."
+      },
+      {
+        "language": "en",
+        "titre": "Mandatory standards for warehouse floor marking",
+        "message": "Hello, could you tell me which mandatory standards apply to floor marking in a logistics warehouse? We need to bring our site into compliance before the next inspection. Thank you in advance."
+      },
+      {
+        "language": "ar",
+        "titre": "المعايير الإلزامية لتخطيط الأرضيات في المستودع",
+        "message": "مرحباً، هل يمكنكم توضيح المعايير الإلزامية المتعلقة بتخطيط الأرضيات في مستودع لوجستي؟ يجب أن نجعل موقعنا مطابقاً قبل التفتيش القادم. شكراً مسبقاً."
+      },
+      {
+        "language": "es",
+        "titre": "Normas obligatorias para la señalización del suelo en almacén",
+        "message": "Hola, ¿podrían indicarme qué normas obligatorias se aplican a la señalización del suelo en un almacén logístico? Debemos poner nuestro sitio en conformidad antes de la próxima inspección. Gracias de antemano."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-03-12T09:00:00.000Z"
+    },
+    "ordre": 1,
+    "etatValidation": "code_1407",
+    "parent": null,
+    "children": [],
+    "theme": {
+      "$oid": "65f000000000000000000779"
+    },
+    "acteur": {
+      "$oid": "65f000000000000000000783"
+    },
+    "etatObjet": "code-1",
+    "objetAssocie": [],
+    "elementsAdditionnels": [],
+    "createdAt": {
+      "$date": "2024-03-12T09:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-12T09:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001301"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Question sur Sécurité des chariots élévateurs",
+        "message": "Bonjour, j'aimerais avoir vos avis sur Sécurité des chariots élévateurs."
+      },
+      {
+        "language": "en",
+        "titre": "Question on Forklift safety",
+        "message": "Hello, I would like to have your opinions on Forklift safety."
+      },
+      {
+        "language": "es",
+        "titre": "Pregunta sobre Seguridad de las carretillas elevadoras",
+        "message": "Hola, me gustaría tener sus opiniones sobre Seguridad de las carretillas elevadoras."
+      },
+      {
+        "language": "ar",
+        "titre": "سؤال حول سلامة الرافعات الشوكية",
+        "message": "مرحباً، أود معرفة آرائكم حول سلامة الرافعات الشوكية."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 1,
+    "etatValidation": "code_1407",
+    "parent": null,
+    "children": [
+      {
+        "$oid": "65f000000000000000001302"
+      }
+    ],
+    "theme": {
+      "$oid": "65f000000000000000001201"
+    },
+    "acteur": {
+      "$oid": "65f00000000000000000000000000000000000000781"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001302"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Réponse : Sécurité des chariots élévateurs",
+        "message": "C'est une excellente question. D'après mon expérience, Sécurité des chariots élévateurs est crucial pour l'efficacité."
+      },
+      {
+        "language": "en",
+        "titre": "Reply: Forklift safety",
+        "message": "That's an excellent question. From my experience, Forklift safety is crucial for efficiency."
+      },
+      {
+        "language": "es",
+        "titre": "Respuesta: Seguridad de las carretillas elevadoras",
+        "message": "Es una excelente pregunta. Según mi experiencia, Seguridad de las carretillas elevadoras es crucial para la eficiencia."
+      },
+      {
+        "language": "ar",
+        "titre": "رد: سلامة الرافعات الشوكية",
+        "message": "هذا سؤال ممتاز. من واقع خبرتي، سلامة الرافعات الشوكية أمر بالغ الأهمية للكفاءة."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 2,
+    "etatValidation": "code_1407",
+    "parent": {
+      "$oid": "65f000000000000000001301"
+    },
+    "children": [],
+    "theme": {
+      "$oid": "65f000000000000000001201"
+    },
+    "acteur": {
+      "$oid": "65f00000000000000000000000000000000000000782"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001303"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Question sur Transition vers l'électrique",
+        "message": "Bonjour, j'aimerais avoir vos avis sur Transition vers l'électrique."
+      },
+      {
+        "language": "en",
+        "titre": "Question on Transition to electric",
+        "message": "Hello, I would like to have your opinions on Transition to electric."
+      },
+      {
+        "language": "es",
+        "titre": "Pregunta sobre Transición a lo eléctrico",
+        "message": "Hola, me gustaría tener sus opiniones sobre Transición a lo eléctrico."
+      },
+      {
+        "language": "ar",
+        "titre": "سؤال حول التحول نحو الكهرباء",
+        "message": "مرحباً، أود معرفة آرائكم حول التحول نحو الكهرباء."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 1,
+    "etatValidation": "code_1407",
+    "parent": null,
+    "children": [
+      {
+        "$oid": "65f000000000000000001304"
+      }
+    ],
+    "theme": {
+      "$oid": "65f000000000000000001202"
+    },
+    "acteur": {
+      "$oid": "65f00000000000000000000000000000000000000781"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001304"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Réponse : Transition vers l'électrique",
+        "message": "C'est une excellente question. D'après mon expérience, Transition vers l'électrique est crucial pour l'efficacité."
+      },
+      {
+        "language": "en",
+        "titre": "Reply: Transition to electric",
+        "message": "That's an excellent question. From my experience, Transition to electric is crucial for efficiency."
+      },
+      {
+        "language": "es",
+        "titre": "Respuesta: Transición a lo eléctrico",
+        "message": "Es una excelente pregunta. Según mi experiencia, Transición a lo eléctrico es crucial para la eficiencia."
+      },
+      {
+        "language": "ar",
+        "titre": "رد: التحول نحو الكهرباء",
+        "message": "هذا سؤال ممتاز. من واقع خبرتي، التحول نحو الكهرباء أمر بالغ الأهمية للكفاءة."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 2,
+    "etatValidation": "code_1407",
+    "parent": {
+      "$oid": "65f000000000000000001303"
+    },
+    "children": [],
+    "theme": {
+      "$oid": "65f000000000000000001202"
+    },
+    "acteur": {
+      "$oid": "65f00000000000000000000000000000000000000782"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001305"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Question sur Gestion des stocks en zone franche",
+        "message": "Bonjour, j'aimerais avoir vos avis sur Gestion des stocks en zone franche."
+      },
+      {
+        "language": "en",
+        "titre": "Question on Stock management in free zones",
+        "message": "Hello, I would like to have your opinions on Stock management in free zones."
+      },
+      {
+        "language": "es",
+        "titre": "Pregunta sobre Gestión de stocks en zona franca",
+        "message": "Hola, me gustaría tener sus opiniones sobre Gestión de stocks en zona franca."
+      },
+      {
+        "language": "ar",
+        "titre": "سؤال حول إدارة المخزون في المنطقة الحرة",
+        "message": "مرحباً، أود معرفة آرائكم حول إدارة المخزون في المنطقة الحرة."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 1,
+    "etatValidation": "code_1407",
+    "parent": null,
+    "children": [
+      {
+        "$oid": "65f000000000000000001306"
+      }
+    ],
+    "theme": {
+      "$oid": "65f000000000000000001203"
+    },
+    "acteur": {
+      "$oid": "65f00000000000000000000000000000000000000781"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001306"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Réponse : Gestion des stocks en zone franche",
+        "message": "C'est une excellente question. D'après mon expérience, Gestion des stocks en zone franche est crucial pour l'efficacité."
+      },
+      {
+        "language": "en",
+        "titre": "Reply: Stock management in free zones",
+        "message": "That's an excellent question. From my experience, Stock management in free zones is crucial for efficiency."
+      },
+      {
+        "language": "es",
+        "titre": "Respuesta: Gestión de stocks en zona franca",
+        "message": "Es una excelente pregunta. Según mi experiencia, Gestión de stocks en zona franca es crucial para la eficiencia."
+      },
+      {
+        "language": "ar",
+        "titre": "رد: إدارة المخزون في المنطقة الحرة",
+        "message": "هذا سؤال ممتاز. من واقع خبرتي، إدارة المخزون في المنطقة الحرة أمر بالغ الأهمية للكفاءة."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 2,
+    "etatValidation": "code_1407",
+    "parent": {
+      "$oid": "65f000000000000000001305"
+    },
+    "children": [],
+    "theme": {
+      "$oid": "65f000000000000000001203"
+    },
+    "acteur": {
+      "$oid": "65f00000000000000000000000000000000000000782"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001307"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Question sur Maintenance préventive des gerbeurs",
+        "message": "Bonjour, j'aimerais avoir vos avis sur Maintenance préventive des gerbeurs."
+      },
+      {
+        "language": "en",
+        "titre": "Question on Preventive maintenance of stackers",
+        "message": "Hello, I would like to have your opinions on Preventive maintenance of stackers."
+      },
+      {
+        "language": "es",
+        "titre": "Pregunta sobre Mantenimiento preventivo de apiladores",
+        "message": "Hola, me gustaría tener sus opiniones sobre Mantenimiento preventivo de apiladores."
+      },
+      {
+        "language": "ar",
+        "titre": "سؤال حول الصيانة الوقائية للمكدسات",
+        "message": "مرحباً، أود معرفة آرائكم حول الصيانة الوقائية للمكدسات."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 1,
+    "etatValidation": "code_1407",
+    "parent": null,
+    "children": [
+      {
+        "$oid": "65f000000000000000001308"
+      }
+    ],
+    "theme": {
+      "$oid": "65f000000000000000001204"
+    },
+    "acteur": {
+      "$oid": "65f00000000000000000000000000000000000000781"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001308"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Réponse : Maintenance préventive des gerbeurs",
+        "message": "C'est une excellente question. D'après mon expérience, Maintenance préventive des gerbeurs est crucial pour l'efficacité."
+      },
+      {
+        "language": "en",
+        "titre": "Reply: Preventive maintenance of stackers",
+        "message": "That's an excellent question. From my experience, Preventive maintenance of stackers is crucial for efficiency."
+      },
+      {
+        "language": "es",
+        "titre": "Respuesta: Mantenimiento preventivo de apiladores",
+        "message": "Es una excelente pregunta. Según mi experiencia, Mantenimiento preventivo de apiladores es crucial para la eficiencia."
+      },
+      {
+        "language": "ar",
+        "titre": "رد: الصيانة الوقائية للمكدسات",
+        "message": "هذا سؤال ممتاز. من واقع خبرتي، الصيانة الوقائية للمكدسات أمر بالغ الأهمية للكفاءة."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 2,
+    "etatValidation": "code_1407",
+    "parent": {
+      "$oid": "65f000000000000000001307"
+    },
+    "children": [],
+    "theme": {
+      "$oid": "65f000000000000000001204"
+    },
+    "acteur": {
+      "$oid": "65f00000000000000000000000000000000000000782"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001309"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Question sur Logiciels WMS au Maroc",
+        "message": "Bonjour, j'aimerais avoir vos avis sur Logiciels WMS au Maroc."
+      },
+      {
+        "language": "en",
+        "titre": "Question on WMS software in Morocco",
+        "message": "Hello, I would like to have your opinions on WMS software in Morocco."
+      },
+      {
+        "language": "es",
+        "titre": "Pregunta sobre Software WMS en Marruecos",
+        "message": "Hola, me gustaría tener sus opiniones sobre Software WMS en Marruecos."
+      },
+      {
+        "language": "ar",
+        "titre": "سؤال حول برامج WMS في المغرب",
+        "message": "مرحباً، أود معرفة آرائكم حول برامج WMS في المغرب."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 1,
+    "etatValidation": "code_1407",
+    "parent": null,
+    "children": [
+      {
+        "$oid": "65f000000000000000001310"
+      }
+    ],
+    "theme": {
+      "$oid": "65f000000000000000001205"
+    },
+    "acteur": {
+      "$oid": "65f00000000000000000000000000000000000000781"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001310"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Réponse : Logiciels WMS au Maroc",
+        "message": "C'est une excellente question. D'après mon expérience, Logiciels WMS au Maroc est crucial pour l'efficacité."
+      },
+      {
+        "language": "en",
+        "titre": "Reply: WMS software in Morocco",
+        "message": "That's an excellent question. From my experience, WMS software in Morocco is crucial for efficiency."
+      },
+      {
+        "language": "es",
+        "titre": "Respuesta: Software WMS en Marruecos",
+        "message": "Es una excelente pregunta. Según mi experiencia, Software WMS en Marruecos es crucial para la eficiencia."
+      },
+      {
+        "language": "ar",
+        "titre": "رد: برامج WMS في المغرب",
+        "message": "هذا سؤال ممتاز. من واقع خبرتي، برامج WMS في المغرب أمر بالغ الأهمية للكفاءة."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 2,
+    "etatValidation": "code_1407",
+    "parent": {
+      "$oid": "65f000000000000000001309"
+    },
+    "children": [],
+    "theme": {
+      "$oid": "65f000000000000000001205"
+    },
+    "acteur": {
+      "$oid": "65f00000000000000000000000000000000000000782"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001311"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Question sur Aménagement d'un entrepôt frigorifique",
+        "message": "Bonjour, j'aimerais avoir vos avis sur Aménagement d'un entrepôt frigorifique."
+      },
+      {
+        "language": "en",
+        "titre": "Question on Cold storage warehouse layout",
+        "message": "Hello, I would like to have your opinions on Cold storage warehouse layout."
+      },
+      {
+        "language": "es",
+        "titre": "Pregunta sobre Diseño de un almacén frigorífico",
+        "message": "Hola, me gustaría tener sus opiniones sobre Diseño de un almacén frigorífico."
+      },
+      {
+        "language": "ar",
+        "titre": "سؤال حول تجهيز مستودع تبريد",
+        "message": "مرحباً، أود معرفة آرائكم حول تجهيز مستودع تبريد."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 1,
+    "etatValidation": "code_1407",
+    "parent": null,
+    "children": [
+      {
+        "$oid": "65f000000000000000001312"
+      }
+    ],
+    "theme": {
+      "$oid": "65f000000000000000001206"
+    },
+    "acteur": {
+      "$oid": "65f00000000000000000000000000000000000000781"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001312"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Réponse : Aménagement d'un entrepôt frigorifique",
+        "message": "C'est une excellente question. D'après mon expérience, Aménagement d'un entrepôt frigorifique est crucial pour l'efficacité."
+      },
+      {
+        "language": "en",
+        "titre": "Reply: Cold storage warehouse layout",
+        "message": "That's an excellent question. From my experience, Cold storage warehouse layout is crucial for efficiency."
+      },
+      {
+        "language": "es",
+        "titre": "Respuesta: Diseño de un almacén frigorífico",
+        "message": "Es una excelente pregunta. Según mi experiencia, Diseño de un almacén frigorífico es crucial para la eficiencia."
+      },
+      {
+        "language": "ar",
+        "titre": "رد: تجهيز مستودع تبريد",
+        "message": "هذا سؤال ممتاز. من واقع خبرتي، تجهيز مستودع تبريد أمر بالغ الأهمية للكفاءة."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 2,
+    "etatValidation": "code_1407",
+    "parent": {
+      "$oid": "65f000000000000000001311"
+    },
+    "children": [],
+    "theme": {
+      "$oid": "65f000000000000000001206"
+    },
+    "acteur": {
+      "$oid": "65f00000000000000000000000000000000000000782"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001313"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Question sur Formation des caristes",
+        "message": "Bonjour, j'aimerais avoir vos avis sur Formation des caristes."
+      },
+      {
+        "language": "en",
+        "titre": "Question on Forklift driver training",
+        "message": "Hello, I would like to have your opinions on Forklift driver training."
+      },
+      {
+        "language": "es",
+        "titre": "Pregunta sobre Formación de carretilleros",
+        "message": "Hola, me gustaría tener sus opiniones sobre Formación de carretilleros."
+      },
+      {
+        "language": "ar",
+        "titre": "سؤال حول تدريب سائقي الرافعات الشوكية",
+        "message": "مرحباً، أود معرفة آرائكم حول تدريب سائقي الرافعات الشوكية."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 1,
+    "etatValidation": "code_1407",
+    "parent": null,
+    "children": [
+      {
+        "$oid": "65f000000000000000001314"
+      }
+    ],
+    "theme": {
+      "$oid": "65f000000000000000001207"
+    },
+    "acteur": {
+      "$oid": "65f00000000000000000000000000000000000000781"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001314"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Réponse : Formation des caristes",
+        "message": "C'est une excellente question. D'après mon expérience, Formation des caristes est crucial pour l'efficacité."
+      },
+      {
+        "language": "en",
+        "titre": "Reply: Forklift driver training",
+        "message": "That's an excellent question. From my experience, Forklift driver training is crucial for efficiency."
+      },
+      {
+        "language": "es",
+        "titre": "Respuesta: Formación de carretilleros",
+        "message": "Es una excelente pregunta. Según mi experiencia, Formación de carretilleros es crucial para la eficiencia."
+      },
+      {
+        "language": "ar",
+        "titre": "رد: تدريب سائقي الرافعات الشوكية",
+        "message": "هذا سؤال ممتاز. من واقع خبرتي، تدريب سائقي الرافعات الشوكية أمر بالغ الأهمية للكفاءة."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 2,
+    "etatValidation": "code_1407",
+    "parent": {
+      "$oid": "65f000000000000000001313"
+    },
+    "children": [],
+    "theme": {
+      "$oid": "65f000000000000000001207"
+    },
+    "acteur": {
+      "$oid": "65f00000000000000000000000000000000000000782"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001315"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Question sur Rayonnage dynamique",
+        "message": "Bonjour, j'aimerais avoir vos avis sur Rayonnage dynamique."
+      },
+      {
+        "language": "en",
+        "titre": "Question on Dynamic racking",
+        "message": "Hello, I would like to have your opinions on Dynamic racking."
+      },
+      {
+        "language": "es",
+        "titre": "Pregunta sobre Estantería dinámica",
+        "message": "Hola, me gustaría tener sus opiniones sobre Estantería dinámica."
+      },
+      {
+        "language": "ar",
+        "titre": "سؤال حول الرفوف الديناميكية",
+        "message": "مرحباً، أود معرفة آرائكم حول الرفوف الديناميكية."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 1,
+    "etatValidation": "code_1407",
+    "parent": null,
+    "children": [
+      {
+        "$oid": "65f000000000000000001316"
+      }
+    ],
+    "theme": {
+      "$oid": "65f000000000000000001208"
+    },
+    "acteur": {
+      "$oid": "65f00000000000000000000000000000000000000781"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001316"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Réponse : Rayonnage dynamique",
+        "message": "C'est une excellente question. D'après mon expérience, Rayonnage dynamique est crucial pour l'efficacité."
+      },
+      {
+        "language": "en",
+        "titre": "Reply: Dynamic racking",
+        "message": "That's an excellent question. From my experience, Dynamic racking is crucial for efficiency."
+      },
+      {
+        "language": "es",
+        "titre": "Respuesta: Estantería dinámica",
+        "message": "Es una excelente pregunta. Según mi experiencia, Estantería dinámica es crucial para la eficiencia."
+      },
+      {
+        "language": "ar",
+        "titre": "رد: الرفوف الديناميكية",
+        "message": "هذا سؤال ممتاز. من واقع خبرتي، الرفوف الديناميكية أمر بالغ الأهمية للكفاءة."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 2,
+    "etatValidation": "code_1407",
+    "parent": {
+      "$oid": "65f000000000000000001315"
+    },
+    "children": [],
+    "theme": {
+      "$oid": "65f000000000000000001208"
+    },
+    "acteur": {
+      "$oid": "65f00000000000000000000000000000000000000782"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001317"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Question sur Optimisation du dernier kilomètre",
+        "message": "Bonjour, j'aimerais avoir vos avis sur Optimisation du dernier kilomètre."
+      },
+      {
+        "language": "en",
+        "titre": "Question on Last-mile optimization",
+        "message": "Hello, I would like to have your opinions on Last-mile optimization."
+      },
+      {
+        "language": "es",
+        "titre": "Pregunta sobre Optimización de la última milla",
+        "message": "Hola, me gustaría tener sus opiniones sobre Optimización de la última milla."
+      },
+      {
+        "language": "ar",
+        "titre": "سؤال حول تحسين الميل الأخير",
+        "message": "مرحباً، أود معرفة آرائكم حول تحسين الميل الأخير."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 1,
+    "etatValidation": "code_1407",
+    "parent": null,
+    "children": [
+      {
+        "$oid": "65f000000000000000001318"
+      }
+    ],
+    "theme": {
+      "$oid": "65f000000000000000001209"
+    },
+    "acteur": {
+      "$oid": "65f00000000000000000000000000000000000000781"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001318"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Réponse : Optimisation du dernier kilomètre",
+        "message": "C'est une excellente question. D'après mon expérience, Optimisation du dernier kilomètre est crucial pour l'efficacité."
+      },
+      {
+        "language": "en",
+        "titre": "Reply: Last-mile optimization",
+        "message": "That's an excellent question. From my experience, Last-mile optimization is crucial for efficiency."
+      },
+      {
+        "language": "es",
+        "titre": "Respuesta: Optimización de la última milla",
+        "message": "Es una excelente pregunta. Según mi experiencia, Optimización de la última milla es crucial para la eficiencia."
+      },
+      {
+        "language": "ar",
+        "titre": "رد: تحسين الميل الأخير",
+        "message": "هذا سؤال ممتاز. من واقع خبرتي، تحسين الميل الأخير أمر بالغ الأهمية للكفاءة."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 2,
+    "etatValidation": "code_1407",
+    "parent": {
+      "$oid": "65f000000000000000001317"
+    },
+    "children": [],
+    "theme": {
+      "$oid": "65f000000000000000001209"
+    },
+    "acteur": {
+      "$oid": "65f00000000000000000000000000000000000000782"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001319"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Question sur Palettes plastiques vs bois",
+        "message": "Bonjour, j'aimerais avoir vos avis sur Palettes plastiques vs bois."
+      },
+      {
+        "language": "en",
+        "titre": "Question on Plastic vs wood pallets",
+        "message": "Hello, I would like to have your opinions on Plastic vs wood pallets."
+      },
+      {
+        "language": "es",
+        "titre": "Pregunta sobre Paletas de plástico vs madera",
+        "message": "Hola, me gustaría tener sus opiniones sobre Paletas de plástico vs madera."
+      },
+      {
+        "language": "ar",
+        "titre": "سؤال حول المنصات البلاستيكية مقابل الخشبية",
+        "message": "مرحباً، أود معرفة آرائكم حول المنصات البلاستيكية مقابل الخشبية."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 1,
+    "etatValidation": "code_1407",
+    "parent": null,
+    "children": [
+      {
+        "$oid": "65f000000000000000001320"
+      }
+    ],
+    "theme": {
+      "$oid": "65f000000000000000001210"
+    },
+    "acteur": {
+      "$oid": "65f00000000000000000000000000000000000000781"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001320"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Réponse : Palettes plastiques vs bois",
+        "message": "C'est une excellente question. D'après mon expérience, Palettes plastiques vs bois est crucial pour l'efficacité."
+      },
+      {
+        "language": "en",
+        "titre": "Reply: Plastic vs wood pallets",
+        "message": "That's an excellent question. From my experience, Plastic vs wood pallets is crucial for efficiency."
+      },
+      {
+        "language": "es",
+        "titre": "Respuesta: Paletas de plástico vs madera",
+        "message": "Es una excelente pregunta. Según mi experiencia, Paletas de plástico vs madera es crucial para la eficiencia."
+      },
+      {
+        "language": "ar",
+        "titre": "رد: المنصات البلاستيكية مقابل الخشبية",
+        "message": "هذا سؤال ممتاز. من واقع خبرتي، المنصات البلاستيكية مقابل الخشبية أمر بالغ الأهمية للكفاءة."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 2,
+    "etatValidation": "code_1407",
+    "parent": {
+      "$oid": "65f000000000000000001319"
+    },
+    "children": [],
+    "theme": {
+      "$oid": "65f000000000000000001210"
+    },
+    "acteur": {
+      "$oid": "65f00000000000000000000000000000000000000782"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001321"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Question sur Manutention de charges lourdes (>5t)",
+        "message": "Bonjour, j'aimerais avoir vos avis sur Manutention de charges lourdes (>5t)."
+      },
+      {
+        "language": "en",
+        "titre": "Question on Heavy load handling (>5t)",
+        "message": "Hello, I would like to have your opinions on Heavy load handling (>5t)."
+      },
+      {
+        "language": "es",
+        "titre": "Pregunta sobre Manutención de cargas pesadas (>5t)",
+        "message": "Hola, me gustaría tener sus opiniones sobre Manutención de cargas pesadas (>5t)."
+      },
+      {
+        "language": "ar",
+        "titre": "سؤال حول مناولة الأحمال الثقيلة (>5 طن)",
+        "message": "مرحباً، أود معرفة آرائكم حول مناولة الأحمال الثقيلة (>5 طن)."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 1,
+    "etatValidation": "code_1407",
+    "parent": null,
+    "children": [
+      {
+        "$oid": "65f000000000000000001322"
+      }
+    ],
+    "theme": {
+      "$oid": "65f000000000000000001211"
+    },
+    "acteur": {
+      "$oid": "65f00000000000000000000000000000000000000781"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001322"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Réponse : Manutention de charges lourdes (>5t)",
+        "message": "C'est une excellente question. D'après mon expérience, Manutention de charges lourdes (>5t) est crucial pour l'efficacité."
+      },
+      {
+        "language": "en",
+        "titre": "Reply: Heavy load handling (>5t)",
+        "message": "That's an excellent question. From my experience, Heavy load handling (>5t) is crucial for efficiency."
+      },
+      {
+        "language": "es",
+        "titre": "Respuesta: Manutención de cargas pesadas (>5t)",
+        "message": "Es una excelente pregunta. Según mi experiencia, Manutención de cargas pesadas (>5t) es crucial para la eficiencia."
+      },
+      {
+        "language": "ar",
+        "titre": "رد: مناولة الأحمال الثقيلة (>5 طن)",
+        "message": "هذا سؤال ممتاز. من واقع خبرتي، مناولة الأحمال الثقيلة (>5 طن) أمر بالغ الأهمية للكفاءة."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 2,
+    "etatValidation": "code_1407",
+    "parent": {
+      "$oid": "65f000000000000000001321"
+    },
+    "children": [],
+    "theme": {
+      "$oid": "65f000000000000000001211"
+    },
+    "acteur": {
+      "$oid": "65f00000000000000000000000000000000000000782"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001323"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Question sur Éclairage LED en entrepôt",
+        "message": "Bonjour, j'aimerais avoir vos avis sur Éclairage LED en entrepôt."
+      },
+      {
+        "language": "en",
+        "titre": "Question on LED warehouse lighting",
+        "message": "Hello, I would like to have your opinions on LED warehouse lighting."
+      },
+      {
+        "language": "es",
+        "titre": "Pregunta sobre Iluminación LED en almacén",
+        "message": "Hola, me gustaría tener sus opiniones sobre Iluminación LED en almacén."
+      },
+      {
+        "language": "ar",
+        "titre": "سؤال حول إضاءة LED في المستودعات",
+        "message": "مرحباً، أود معرفة آرائكم حول إضاءة LED في المستودعات."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 1,
+    "etatValidation": "code_1407",
+    "parent": null,
+    "children": [
+      {
+        "$oid": "65f000000000000000001324"
+      }
+    ],
+    "theme": {
+      "$oid": "65f000000000000000001212"
+    },
+    "acteur": {
+      "$oid": "65f00000000000000000000000000000000000000781"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001324"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Réponse : Éclairage LED en entrepôt",
+        "message": "C'est une excellente question. D'après mon expérience, Éclairage LED en entrepôt est crucial pour l'efficacité."
+      },
+      {
+        "language": "en",
+        "titre": "Reply: LED warehouse lighting",
+        "message": "That's an excellent question. From my experience, LED warehouse lighting is crucial for efficiency."
+      },
+      {
+        "language": "es",
+        "titre": "Respuesta: Iluminación LED en almacén",
+        "message": "Es una excelente pregunta. Según mi experiencia, Iluminación LED en almacén es crucial para la eficiencia."
+      },
+      {
+        "language": "ar",
+        "titre": "رد: إضاءة LED في المستودعات",
+        "message": "هذا سؤال ممتاز. من واقع خبرتي، إضاءة LED في المستودعات أمر بالغ الأهمية للكفاءة."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 2,
+    "etatValidation": "code_1407",
+    "parent": {
+      "$oid": "65f000000000000000001323"
+    },
+    "children": [],
+    "theme": {
+      "$oid": "65f000000000000000001212"
+    },
+    "acteur": {
+      "$oid": "65f00000000000000000000000000000000000000782"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001325"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Question sur Signalétique de sécurité",
+        "message": "Bonjour, j'aimerais avoir vos avis sur Signalétique de sécurité."
+      },
+      {
+        "language": "en",
+        "titre": "Question on Safety signage",
+        "message": "Hello, I would like to have your opinions on Safety signage."
+      },
+      {
+        "language": "es",
+        "titre": "Pregunta sobre Señalización de seguridad",
+        "message": "Hola, me gustaría tener sus opiniones sobre Señalización de seguridad."
+      },
+      {
+        "language": "ar",
+        "titre": "سؤال حول لوحات السلامة الإرشادية",
+        "message": "مرحباً، أود معرفة آرائكم حول لوحات السلامة الإرشادية."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 1,
+    "etatValidation": "code_1407",
+    "parent": null,
+    "children": [
+      {
+        "$oid": "65f000000000000000001326"
+      }
+    ],
+    "theme": {
+      "$oid": "65f000000000000000001213"
+    },
+    "acteur": {
+      "$oid": "65f00000000000000000000000000000000000000781"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001326"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Réponse : Signalétique de sécurité",
+        "message": "C'est une excellente question. D'après mon expérience, Signalétique de sécurité est crucial pour l'efficacité."
+      },
+      {
+        "language": "en",
+        "titre": "Reply: Safety signage",
+        "message": "That's an excellent question. From my experience, Safety signage is crucial for efficiency."
+      },
+      {
+        "language": "es",
+        "titre": "Respuesta: Señalización de seguridad",
+        "message": "Es una excelente pregunta. Según mi experiencia, Señalización de seguridad es crucial para la eficiencia."
+      },
+      {
+        "language": "ar",
+        "titre": "رد: لوحات السلامة الإرشادية",
+        "message": "هذا سؤال ممتاز. من واقع خبرتي، لوحات السلامة الإرشادية أمر بالغ الأهمية للكفاءة."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 2,
+    "etatValidation": "code_1407",
+    "parent": {
+      "$oid": "65f000000000000000001325"
+    },
+    "children": [],
+    "theme": {
+      "$oid": "65f000000000000000001213"
+    },
+    "acteur": {
+      "$oid": "65f00000000000000000000000000000000000000782"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001327"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Question sur Audit logistique",
+        "message": "Bonjour, j'aimerais avoir vos avis sur Audit logistique."
+      },
+      {
+        "language": "en",
+        "titre": "Question on Logistics audit",
+        "message": "Hello, I would like to have your opinions on Logistics audit."
+      },
+      {
+        "language": "es",
+        "titre": "Pregunta sobre Auditoría logística",
+        "message": "Hola, me gustaría tener sus opiniones sobre Auditoría logística."
+      },
+      {
+        "language": "ar",
+        "titre": "سؤال حول تدقيق لوجستي",
+        "message": "مرحباً، أود معرفة آرائكم حول تدقيق لوجستي."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 1,
+    "etatValidation": "code_1407",
+    "parent": null,
+    "children": [
+      {
+        "$oid": "65f000000000000000001328"
+      }
+    ],
+    "theme": {
+      "$oid": "65f000000000000000001214"
+    },
+    "acteur": {
+      "$oid": "65f00000000000000000000000000000000000000781"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001328"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Réponse : Audit logistique",
+        "message": "C'est une excellente question. D'après mon expérience, Audit logistique est crucial pour l'efficacité."
+      },
+      {
+        "language": "en",
+        "titre": "Reply: Logistics audit",
+        "message": "That's an excellent question. From my experience, Logistics audit is crucial for efficiency."
+      },
+      {
+        "language": "es",
+        "titre": "Respuesta: Auditoría logística",
+        "message": "Es una excelente pregunta. Según mi experiencia, Auditoría logística es crucial para la eficiencia."
+      },
+      {
+        "language": "ar",
+        "titre": "رد: تدقيق لوجستي",
+        "message": "هذا سؤال ممتاز. من واقع خبرتي، تدقيق لوجستي أمر بالغ الأهمية للكفاءة."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 2,
+    "etatValidation": "code_1407",
+    "parent": {
+      "$oid": "65f000000000000000001327"
+    },
+    "children": [],
+    "theme": {
+      "$oid": "65f000000000000000001214"
+    },
+    "acteur": {
+      "$oid": "65f00000000000000000000000000000000000000782"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001329"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Question sur Gestion des retours (Logistique inverse)",
+        "message": "Bonjour, j'aimerais avoir vos avis sur Gestion des retours (Logistique inverse)."
+      },
+      {
+        "language": "en",
+        "titre": "Question on Returns management (Reverse logistics)",
+        "message": "Hello, I would like to have your opinions on Returns management (Reverse logistics)."
+      },
+      {
+        "language": "es",
+        "titre": "Pregunta sobre Gestión de devoluciones (Logística inversa)",
+        "message": "Hola, me gustaría tener sus opiniones sobre Gestión de devoluciones (Logística inversa)."
+      },
+      {
+        "language": "ar",
+        "titre": "سؤال حول إدارة المرتجعات (الخدمات اللوجستية العكسية)",
+        "message": "مرحباً، أود معرفة آرائكم حول إدارة المرتجعات (الخدمات اللوجستية العكسية)."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 1,
+    "etatValidation": "code_1407",
+    "parent": null,
+    "children": [
+      {
+        "$oid": "65f000000000000000001330"
+      }
+    ],
+    "theme": {
+      "$oid": "65f000000000000000001215"
+    },
+    "acteur": {
+      "$oid": "65f00000000000000000000000000000000000000781"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001330"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Réponse : Gestion des retours (Logistique inverse)",
+        "message": "C'est une excellente question. D'après mon expérience, Gestion des retours (Logistique inverse) est crucial pour l'efficacité."
+      },
+      {
+        "language": "en",
+        "titre": "Reply: Returns management (Reverse logistics)",
+        "message": "That's an excellent question. From my experience, Returns management (Reverse logistics) is crucial for efficiency."
+      },
+      {
+        "language": "es",
+        "titre": "Respuesta: Gestión de devoluciones (Logística inversa)",
+        "message": "Es una excelente pregunta. Según mi experiencia, Gestión de devoluciones (Logística inversa) es crucial para la eficiencia."
+      },
+      {
+        "language": "ar",
+        "titre": "رد: إدارة المرتجعات (الخدمات اللوجستية العكسية)",
+        "message": "هذا سؤال ممتاز. من واقع خبرتي، إدارة المرتجعات (الخدمات اللوجستية العكسية) أمر بالغ الأهمية للكفاءة."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 2,
+    "etatValidation": "code_1407",
+    "parent": {
+      "$oid": "65f000000000000000001329"
+    },
+    "children": [],
+    "theme": {
+      "$oid": "65f000000000000000001215"
+    },
+    "acteur": {
+      "$oid": "65f00000000000000000000000000000000000000782"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001331"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Question sur Ergonomie au poste de travail",
+        "message": "Bonjour, j'aimerais avoir vos avis sur Ergonomie au poste de travail."
+      },
+      {
+        "language": "en",
+        "titre": "Question on Workplace ergonomics",
+        "message": "Hello, I would like to have your opinions on Workplace ergonomics."
+      },
+      {
+        "language": "es",
+        "titre": "Pregunta sobre Ergonomía en el puesto de trabajo",
+        "message": "Hola, me gustaría tener sus opiniones sobre Ergonomía en el puesto de trabajo."
+      },
+      {
+        "language": "ar",
+        "titre": "سؤال حول بيئة العمل في مركز العمل",
+        "message": "مرحباً، أود معرفة آرائكم حول بيئة العمل في مركز العمل."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 1,
+    "etatValidation": "code_1407",
+    "parent": null,
+    "children": [
+      {
+        "$oid": "65f000000000000000001332"
+      }
+    ],
+    "theme": {
+      "$oid": "65f000000000000000001216"
+    },
+    "acteur": {
+      "$oid": "65f00000000000000000000000000000000000000781"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001332"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Réponse : Ergonomie au poste de travail",
+        "message": "C'est une excellente question. D'après mon expérience, Ergonomie au poste de travail est crucial pour l'efficacité."
+      },
+      {
+        "language": "en",
+        "titre": "Reply: Workplace ergonomics",
+        "message": "That's an excellent question. From my experience, Workplace ergonomics is crucial for efficiency."
+      },
+      {
+        "language": "es",
+        "titre": "Respuesta: Ergonomía en el puesto de trabajo",
+        "message": "Es una excelente pregunta. Según mi experiencia, Ergonomía en el puesto de trabajo es crucial para la eficiencia."
+      },
+      {
+        "language": "ar",
+        "titre": "رد: بيئة العمل في مركز العمل",
+        "message": "هذا سؤال ممتاز. من واقع خبرتي، بيئة العمل في مركز العمل أمر بالغ الأهمية للكفاءة."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 2,
+    "etatValidation": "code_1407",
+    "parent": {
+      "$oid": "65f000000000000000001331"
+    },
+    "children": [],
+    "theme": {
+      "$oid": "65f000000000000000001216"
+    },
+    "acteur": {
+      "$oid": "65f00000000000000000000000000000000000000782"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001333"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Question sur Équipements de quai connectés",
+        "message": "Bonjour, j'aimerais avoir vos avis sur Équipements de quai connectés."
+      },
+      {
+        "language": "en",
+        "titre": "Question on Connected dock equipment",
+        "message": "Hello, I would like to have your opinions on Connected dock equipment."
+      },
+      {
+        "language": "es",
+        "titre": "Pregunta sobre Equipamiento de muelle conectado",
+        "message": "Hola, me gustaría tener sus opiniones sobre Equipamiento de muelle conectado."
+      },
+      {
+        "language": "ar",
+        "titre": "سؤال حول معدات رصيف متصلة",
+        "message": "مرحباً، أود معرفة آرائكم حول معدات رصيف متصلة."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 1,
+    "etatValidation": "code_1407",
+    "parent": null,
+    "children": [
+      {
+        "$oid": "65f000000000000000001334"
+      }
+    ],
+    "theme": {
+      "$oid": "65f000000000000000001217"
+    },
+    "acteur": {
+      "$oid": "65f00000000000000000000000000000000000000781"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001334"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Réponse : Équipements de quai connectés",
+        "message": "C'est une excellente question. D'après mon expérience, Équipements de quai connectés est crucial pour l'efficacité."
+      },
+      {
+        "language": "en",
+        "titre": "Reply: Connected dock equipment",
+        "message": "That's an excellent question. From my experience, Connected dock equipment is crucial for efficiency."
+      },
+      {
+        "language": "es",
+        "titre": "Respuesta: Equipamiento de muelle conectado",
+        "message": "Es una excelente pregunta. Según mi experiencia, Equipamiento de muelle conectado es crucial para la eficiencia."
+      },
+      {
+        "language": "ar",
+        "titre": "رد: معدات رصيف متصلة",
+        "message": "هذا سؤال ممتاز. من واقع خبرتي، معدات رصيف متصلة أمر بالغ الأهمية للكفاءة."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 2,
+    "etatValidation": "code_1407",
+    "parent": {
+      "$oid": "65f000000000000000001333"
+    },
+    "children": [],
+    "theme": {
+      "$oid": "65f000000000000000001217"
+    },
+    "acteur": {
+      "$oid": "65f00000000000000000000000000000000000000782"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001335"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Question sur Stockage de produits dangereux",
+        "message": "Bonjour, j'aimerais avoir vos avis sur Stockage de produits dangereux."
+      },
+      {
+        "language": "en",
+        "titre": "Question on Hazardous materials storage",
+        "message": "Hello, I would like to have your opinions on Hazardous materials storage."
+      },
+      {
+        "language": "es",
+        "titre": "Pregunta sobre Almacenamiento de productos peligrosos",
+        "message": "Hola, me gustaría tener sus opiniones sobre Almacenamiento de productos peligrosos."
+      },
+      {
+        "language": "ar",
+        "titre": "سؤال حول تخزين المواد الخطرة",
+        "message": "مرحباً، أود معرفة آرائكم حول تخزين المواد الخطرة."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 1,
+    "etatValidation": "code_1407",
+    "parent": null,
+    "children": [
+      {
+        "$oid": "65f000000000000000001336"
+      }
+    ],
+    "theme": {
+      "$oid": "65f000000000000000001218"
+    },
+    "acteur": {
+      "$oid": "65f00000000000000000000000000000000000000781"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001336"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Réponse : Stockage de produits dangereux",
+        "message": "C'est une excellente question. D'après mon expérience, Stockage de produits dangereux est crucial pour l'efficacité."
+      },
+      {
+        "language": "en",
+        "titre": "Reply: Hazardous materials storage",
+        "message": "That's an excellent question. From my experience, Hazardous materials storage is crucial for efficiency."
+      },
+      {
+        "language": "es",
+        "titre": "Respuesta: Almacenamiento de productos peligrosos",
+        "message": "Es una excelente pregunta. Según mi experiencia, Almacenamiento de productos peligrosos es crucial para la eficiencia."
+      },
+      {
+        "language": "ar",
+        "titre": "رد: تخزين المواد الخطرة",
+        "message": "هذا سؤال ممتاز. من واقع خبرتي، تخزين المواد الخطرة أمر بالغ الأهمية للكفاءة."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 2,
+    "etatValidation": "code_1407",
+    "parent": {
+      "$oid": "65f000000000000000001335"
+    },
+    "children": [],
+    "theme": {
+      "$oid": "65f000000000000000001218"
+    },
+    "acteur": {
+      "$oid": "65f00000000000000000000000000000000000000782"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001337"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Question sur Location longue durée (LLD)",
+        "message": "Bonjour, j'aimerais avoir vos avis sur Location longue durée (LLD)."
+      },
+      {
+        "language": "en",
+        "titre": "Question on Long-term rental (LTR)",
+        "message": "Hello, I would like to have your opinions on Long-term rental (LTR)."
+      },
+      {
+        "language": "es",
+        "titre": "Pregunta sobre Alquiler de larga duración (LLD)",
+        "message": "Hola, me gustaría tener sus opiniones sobre Alquiler de larga duración (LLD)."
+      },
+      {
+        "language": "ar",
+        "titre": "سؤال حول الإيجار طويل الأمد",
+        "message": "مرحباً، أود معرفة آرائكم حول الإيجار طويل الأمد."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 1,
+    "etatValidation": "code_1407",
+    "parent": null,
+    "children": [
+      {
+        "$oid": "65f000000000000000001338"
+      }
+    ],
+    "theme": {
+      "$oid": "65f000000000000000001219"
+    },
+    "acteur": {
+      "$oid": "65f00000000000000000000000000000000000000781"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001338"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Réponse : Location longue durée (LLD)",
+        "message": "C'est une excellente question. D'après mon expérience, Location longue durée (LLD) est crucial pour l'efficacité."
+      },
+      {
+        "language": "en",
+        "titre": "Reply: Long-term rental (LTR)",
+        "message": "That's an excellent question. From my experience, Long-term rental (LTR) is crucial for efficiency."
+      },
+      {
+        "language": "es",
+        "titre": "Respuesta: Alquiler de larga duración (LLD)",
+        "message": "Es una excelente pregunta. Según mi experiencia, Alquiler de larga duración (LLD) es crucial para la eficiencia."
+      },
+      {
+        "language": "ar",
+        "titre": "رد: الإيجار طويل الأمد",
+        "message": "هذا سؤال ممتاز. من واقع خبرتي، الإيجار طويل الأمد أمر بالغ الأهمية للكفاءة."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 2,
+    "etatValidation": "code_1407",
+    "parent": {
+      "$oid": "65f000000000000000001337"
+    },
+    "children": [],
+    "theme": {
+      "$oid": "65f000000000000000001219"
+    },
+    "acteur": {
+      "$oid": "65f00000000000000000000000000000000000000782"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001339"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Question sur Intelligence artificielle en logistique",
+        "message": "Bonjour, j'aimerais avoir vos avis sur Intelligence artificielle en logistique."
+      },
+      {
+        "language": "en",
+        "titre": "Question on AI in logistics",
+        "message": "Hello, I would like to have your opinions on AI in logistics."
+      },
+      {
+        "language": "es",
+        "titre": "Pregunta sobre Inteligencia artificial en logística",
+        "message": "Hola, me gustaría tener sus opiniones sobre Inteligencia artificial en logística."
+      },
+      {
+        "language": "ar",
+        "titre": "سؤال حول الذكاء الاصطناعي في اللوجستيات",
+        "message": "مرحباً، أود معرفة آرائكم حول الذكاء الاصطناعي في اللوجستيات."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 1,
+    "etatValidation": "code_1407",
+    "parent": null,
+    "children": [
+      {
+        "$oid": "65f000000000000000001340"
+      }
+    ],
+    "theme": {
+      "$oid": "65f000000000000000001220"
+    },
+    "acteur": {
+      "$oid": "65f00000000000000000000000000000000000000781"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001340"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Réponse : Intelligence artificielle en logistique",
+        "message": "C'est une excellente question. D'après mon expérience, Intelligence artificielle en logistique est crucial pour l'efficacité."
+      },
+      {
+        "language": "en",
+        "titre": "Reply: AI in logistics",
+        "message": "That's an excellent question. From my experience, AI in logistics is crucial for efficiency."
+      },
+      {
+        "language": "es",
+        "titre": "Respuesta: Inteligencia artificial en logística",
+        "message": "Es una excelente pregunta. Según mi experiencia, Inteligencia artificial en logística es crucial para la eficiencia."
+      },
+      {
+        "language": "ar",
+        "titre": "رد: الذكاء الاصطناعي في اللوجستيات",
+        "message": "هذا سؤال ممتاز. من واقع خبرتي، الذكاء الاصطناعي في اللوجستيات أمر بالغ الأهمية للكفاءة."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 2,
+    "etatValidation": "code_1407",
+    "parent": {
+      "$oid": "65f000000000000000001339"
+    },
+    "children": [],
+    "theme": {
+      "$oid": "65f000000000000000001220"
+    },
+    "acteur": {
+      "$oid": "65f00000000000000000000000000000000000000782"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001343"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Question sur Sécurité incendie en entrepôt",
+        "message": "Bonjour, quel est votre avis sur Sécurité incendie en entrepôt ?"
+      },
+      {
+        "language": "en",
+        "titre": "Question on Warehouse fire safety",
+        "message": "Hello, I would like to have your opinions on Warehouse fire safety."
+      },
+      {
+        "language": "ar",
+        "titre": "سؤال حول السلامة من الحرائق في المستودعات",
+        "message": "مرحباً، أود معرفة آرائكم حول السلامة من الحرائق في المستودعات."
+      },
+      {
+        "language": "es",
+        "titre": "Pregunta sobre Seguridad contra incendios en almacén",
+        "message": "Hola, me gustaría tener sus opiniones sobre Seguridad contra incendios en almacén."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 1,
+    "etatValidation": "code_1407",
+    "parent": null,
+    "children": [
+      {
+        "$oid": "65f000000000000000001344"
+      }
+    ],
+    "theme": {
+      "$oid": "65f000000000000000001221"
+    },
+    "acteur": {
+      "$oid": "65f000000000000000000781"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001344"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Réponse : Sécurité incendie en entrepôt",
+        "message": "C'est un sujet crucial pour la manutention moderne. Sécurité incendie en entrepôt permet d'optimiser les flux."
+      },
+      {
+        "language": "en",
+        "titre": "Reply: Warehouse fire safety",
+        "message": "That's an excellent question. From my experience, Warehouse fire safety is crucial for efficiency."
+      },
+      {
+        "language": "ar",
+        "titre": "رد: السلامة من الحرائق في المستودعات",
+        "message": "هذا سؤال ممتاز. من واقع خبرتي، السلامة من الحرائق في المستودعات أمر بالغ الأهمية للكفاءة."
+      },
+      {
+        "language": "es",
+        "titre": "Respuesta: Seguridad contra incendios en almacén",
+        "message": "Es una excelente pregunta. Según mi experiencia, Seguridad contra incendios en almacén es crucial para la eficiencia."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 2,
+    "etatValidation": "code_1407",
+    "parent": {
+      "$oid": "65f000000000000000001343"
+    },
+    "children": [],
+    "theme": {
+      "$oid": "65f000000000000000001221"
+    },
+    "acteur": {
+      "$oid": "65f000000000000000000782"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001345"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Question sur Optimisation du picking",
+        "message": "Bonjour, quel est votre avis sur Optimisation du picking ?"
+      },
+      {
+        "language": "en",
+        "titre": "Question about Optimisation du picking",
+        "message": "Hello, what is your opinion on Optimisation du picking?"
+      },
+      {
+        "language": "ar",
+        "titre": "سؤال حول Optimisation du picking",
+        "message": "مرحباً، ما هو رأيكم في Optimisation du picking؟"
+      },
+      {
+        "language": "es",
+        "titre": "Pregunta sobre Optimisation du picking",
+        "message": "Hola, ¿cuál es su opinión sobre Optimisation du picking?"
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 1,
+    "etatValidation": "code_1407",
+    "parent": null,
+    "children": [
+      {
+        "$oid": "65f000000000000000001346"
+      }
+    ],
+    "theme": {
+      "$oid": "65f000000000000000001222"
+    },
+    "acteur": {
+      "$oid": "65f000000000000000000781"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001346"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Réponse : Optimisation du picking",
+        "message": "C'est un sujet crucial pour la manutention moderne. Optimisation du picking permet d'optimiser les flux."
+      },
+      {
+        "language": "en",
+        "titre": "Reply: Optimisation du picking",
+        "message": "This is a crucial subject for modern handling. Optimisation du picking helps optimize flows."
+      },
+      {
+        "language": "ar",
+        "titre": "رد: Optimisation du picking",
+        "message": "هذا موضوع بالغ الأهمية للمناولة الحديثة. Optimisation du picking يساعد في تحسين التدفقات."
+      },
+      {
+        "language": "es",
+        "titre": "Respuesta: Optimisation du picking",
+        "message": "Es un tema crucial para la manutención moderna. Optimisation du picking permite optimizar los flujos."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 2,
+    "etatValidation": "code_1407",
+    "parent": {
+      "$oid": "65f000000000000000001345"
+    },
+    "children": [],
+    "theme": {
+      "$oid": "65f000000000000000001222"
+    },
+    "acteur": {
+      "$oid": "65f000000000000000000782"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001347"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Question sur Gestion des retours (Logistique inverse)",
+        "message": "Bonjour, quel est votre avis sur Gestion des retours (Logistique inverse) ?"
+      },
+      {
+        "language": "en",
+        "titre": "Question on Returns management (Reverse logistics)",
+        "message": "Hello, I would like to have your opinions on Returns management (Reverse logistics)."
+      },
+      {
+        "language": "ar",
+        "titre": "سؤال حول إدارة المرتجعات (الخدمات اللوجستية العكسية)",
+        "message": "مرحباً، أود معرفة آرائكم حول إدارة المرتجعات (الخدمات اللوجستية العكسية)."
+      },
+      {
+        "language": "es",
+        "titre": "Pregunta sobre Gestión de devoluciones (Logística inversa)",
+        "message": "Hola, me gustaría tener sus opiniones sobre Gestión de devoluciones (Logística inversa)."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 1,
+    "etatValidation": "code_1407",
+    "parent": null,
+    "children": [
+      {
+        "$oid": "65f000000000000000001348"
+      }
+    ],
+    "theme": {
+      "$oid": "65f000000000000000001223"
+    },
+    "acteur": {
+      "$oid": "65f000000000000000000781"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001348"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Réponse : Gestion des retours (Logistique inverse)",
+        "message": "C'est un sujet crucial pour la manutention moderne. Gestion des retours (Logistique inverse) permet d'optimiser les flux."
+      },
+      {
+        "language": "en",
+        "titre": "Reply: Returns management (Reverse logistics)",
+        "message": "That's an excellent question. From my experience, Returns management (Reverse logistics) is crucial for efficiency."
+      },
+      {
+        "language": "ar",
+        "titre": "رد: إدارة المرتجعات (الخدمات اللوجستية العكسية)",
+        "message": "هذا سؤال ممتاز. من واقع خبرتي، إدارة المرتجعات (الخدمات اللوجستية العكسية) أمر بالغ الأهمية للكفاءة."
+      },
+      {
+        "language": "es",
+        "titre": "Respuesta: Gestión de devoluciones (Logística inversa)",
+        "message": "Es una excelente pregunta. Según mi experiencia, Gestión de devoluciones (Logística inversa) es crucial para la eficiencia."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 2,
+    "etatValidation": "code_1407",
+    "parent": {
+      "$oid": "65f000000000000000001347"
+    },
+    "children": [],
+    "theme": {
+      "$oid": "65f000000000000000001223"
+    },
+    "acteur": {
+      "$oid": "65f000000000000000000782"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001349"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Question sur Chariots élévateurs à hydrogène",
+        "message": "Bonjour, quel est votre avis sur Chariots élévateurs à hydrogène ?"
+      },
+      {
+        "language": "en",
+        "titre": "Question about Chariots élévateurs à hydrogène",
+        "message": "Hello, what is your opinion on Chariots élévateurs à hydrogène?"
+      },
+      {
+        "language": "ar",
+        "titre": "سؤال حول Chariots élévateurs à hydrogène",
+        "message": "مرحباً، ما هو رأيكم في Chariots élévateurs à hydrogène؟"
+      },
+      {
+        "language": "es",
+        "titre": "Pregunta sobre Chariots élévateurs à hydrogène",
+        "message": "Hola, ¿cuál es su opinión sobre Chariots élévateurs à hydrogène?"
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 1,
+    "etatValidation": "code_1407",
+    "parent": null,
+    "children": [
+      {
+        "$oid": "65f000000000000000001350"
+      }
+    ],
+    "theme": {
+      "$oid": "65f000000000000000001224"
+    },
+    "acteur": {
+      "$oid": "65f000000000000000000781"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001350"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Réponse : Chariots élévateurs à hydrogène",
+        "message": "C'est un sujet crucial pour la manutention moderne. Chariots élévateurs à hydrogène permet d'optimiser les flux."
+      },
+      {
+        "language": "en",
+        "titre": "Reply: Chariots élévateurs à hydrogène",
+        "message": "This is a crucial subject for modern handling. Chariots élévateurs à hydrogène helps optimize flows."
+      },
+      {
+        "language": "ar",
+        "titre": "رد: Chariots élévateurs à hydrogène",
+        "message": "هذا موضوع بالغ الأهمية للمناولة الحديثة. Chariots élévateurs à hydrogène يساعد في تحسين التدفقات."
+      },
+      {
+        "language": "es",
+        "titre": "Respuesta: Chariots élévateurs à hydrogène",
+        "message": "Es un tema crucial para la manutención moderna. Chariots élévateurs à hydrogène permite optimizar los flujos."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 2,
+    "etatValidation": "code_1407",
+    "parent": {
+      "$oid": "65f000000000000000001349"
+    },
+    "children": [],
+    "theme": {
+      "$oid": "65f000000000000000001224"
+    },
+    "acteur": {
+      "$oid": "65f000000000000000000782"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001351"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Question sur Normes ISO en logistique",
+        "message": "Bonjour, quel est votre avis sur Normes ISO en logistique ?"
+      },
+      {
+        "language": "en",
+        "titre": "Question about Normes ISO en logistique",
+        "message": "Hello, what is your opinion on Normes ISO en logistique?"
+      },
+      {
+        "language": "ar",
+        "titre": "سؤال حول Normes ISO en logistique",
+        "message": "مرحباً، ما هو رأيكم في Normes ISO en logistique؟"
+      },
+      {
+        "language": "es",
+        "titre": "Pregunta sobre Normes ISO en logistique",
+        "message": "Hola, ¿cuál es su opinión sobre Normes ISO en logistique?"
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 1,
+    "etatValidation": "code_1407",
+    "parent": null,
+    "children": [
+      {
+        "$oid": "65f000000000000000001352"
+      }
+    ],
+    "theme": {
+      "$oid": "65f000000000000000001225"
+    },
+    "acteur": {
+      "$oid": "65f000000000000000000781"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001352"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Réponse : Normes ISO en logistique",
+        "message": "C'est un sujet crucial pour la manutention moderne. Normes ISO en logistique permet d'optimiser les flux."
+      },
+      {
+        "language": "en",
+        "titre": "Reply: Normes ISO en logistique",
+        "message": "This is a crucial subject for modern handling. Normes ISO en logistique helps optimize flows."
+      },
+      {
+        "language": "ar",
+        "titre": "رد: Normes ISO en logistique",
+        "message": "هذا موضوع بالغ الأهمية للمناولة الحديثة. Normes ISO en logistique يساعد في تحسين التدفقات."
+      },
+      {
+        "language": "es",
+        "titre": "Respuesta: Normes ISO en logistique",
+        "message": "Es un tema crucial para la manutención moderna. Normes ISO en logistique permite optimizar los flujos."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 2,
+    "etatValidation": "code_1407",
+    "parent": {
+      "$oid": "65f000000000000000001351"
+    },
+    "children": [],
+    "theme": {
+      "$oid": "65f000000000000000001225"
+    },
+    "acteur": {
+      "$oid": "65f000000000000000000782"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001353"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Question sur Formation des caristes au Maroc",
+        "message": "Bonjour, quel est votre avis sur Formation des caristes au Maroc ?"
+      },
+      {
+        "language": "en",
+        "titre": "Question about Formation des caristes au Maroc",
+        "message": "Hello, what is your opinion on Formation des caristes au Maroc?"
+      },
+      {
+        "language": "ar",
+        "titre": "سؤال حول Formation des caristes au Maroc",
+        "message": "مرحباً، ما هو رأيكم في Formation des caristes au Maroc؟"
+      },
+      {
+        "language": "es",
+        "titre": "Pregunta sobre Formation des caristes au Maroc",
+        "message": "Hola, ¿cuál es su opinión sobre Formation des caristes au Maroc?"
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 1,
+    "etatValidation": "code_1407",
+    "parent": null,
+    "children": [
+      {
+        "$oid": "65f000000000000000001354"
+      }
+    ],
+    "theme": {
+      "$oid": "65f000000000000000001226"
+    },
+    "acteur": {
+      "$oid": "65f000000000000000000781"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001354"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Réponse : Formation des caristes au Maroc",
+        "message": "C'est un sujet crucial pour la manutention moderne. Formation des caristes au Maroc permet d'optimiser les flux."
+      },
+      {
+        "language": "en",
+        "titre": "Reply: Formation des caristes au Maroc",
+        "message": "This is a crucial subject for modern handling. Formation des caristes au Maroc helps optimize flows."
+      },
+      {
+        "language": "ar",
+        "titre": "رد: Formation des caristes au Maroc",
+        "message": "هذا موضوع بالغ الأهمية للمناولة الحديثة. Formation des caristes au Maroc يساعد في تحسين التدفقات."
+      },
+      {
+        "language": "es",
+        "titre": "Respuesta: Formation des caristes au Maroc",
+        "message": "Es un tema crucial para la manutención moderna. Formation des caristes au Maroc permite optimizar los flujos."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 2,
+    "etatValidation": "code_1407",
+    "parent": {
+      "$oid": "65f000000000000000001353"
+    },
+    "children": [],
+    "theme": {
+      "$oid": "65f000000000000000001226"
+    },
+    "acteur": {
+      "$oid": "65f000000000000000000782"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001355"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Question sur Impact de la zone franche de Tanger",
+        "message": "Bonjour, quel est votre avis sur Impact de la zone franche de Tanger ?"
+      },
+      {
+        "language": "en",
+        "titre": "Question about Impact de la zone franche de Tanger",
+        "message": "Hello, what is your opinion on Impact de la zone franche de Tanger?"
+      },
+      {
+        "language": "ar",
+        "titre": "سؤال حول Impact de la zone franche de Tanger",
+        "message": "مرحباً، ما هو رأيكم في Impact de la zone franche de Tanger؟"
+      },
+      {
+        "language": "es",
+        "titre": "Pregunta sobre Impact de la zone franche de Tanger",
+        "message": "Hola, ¿cuál es su opinión sobre Impact de la zone franche de Tanger?"
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 1,
+    "etatValidation": "code_1407",
+    "parent": null,
+    "children": [
+      {
+        "$oid": "65f000000000000000001356"
+      }
+    ],
+    "theme": {
+      "$oid": "65f000000000000000001227"
+    },
+    "acteur": {
+      "$oid": "65f000000000000000000781"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001356"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Réponse : Impact de la zone franche de Tanger",
+        "message": "C'est un sujet crucial pour la manutention moderne. Impact de la zone franche de Tanger permet d'optimiser les flux."
+      },
+      {
+        "language": "en",
+        "titre": "Reply: Impact de la zone franche de Tanger",
+        "message": "This is a crucial subject for modern handling. Impact de la zone franche de Tanger helps optimize flows."
+      },
+      {
+        "language": "ar",
+        "titre": "رد: Impact de la zone franche de Tanger",
+        "message": "هذا موضوع بالغ الأهمية للمناولة الحديثة. Impact de la zone franche de Tanger يساعد في تحسين التدفقات."
+      },
+      {
+        "language": "es",
+        "titre": "Respuesta: Impact de la zone franche de Tanger",
+        "message": "Es un tema crucial para la manutención moderna. Impact de la zone franche de Tanger permite optimizar los flujos."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 2,
+    "etatValidation": "code_1407",
+    "parent": {
+      "$oid": "65f000000000000000001355"
+    },
+    "children": [],
+    "theme": {
+      "$oid": "65f000000000000000001227"
+    },
+    "acteur": {
+      "$oid": "65f000000000000000000782"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001357"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Question sur Maintenance prédictive des engins",
+        "message": "Bonjour, quel est votre avis sur Maintenance prédictive des engins ?"
+      },
+      {
+        "language": "en",
+        "titre": "Question about Maintenance prédictive des engins",
+        "message": "Hello, what is your opinion on Maintenance prédictive des engins?"
+      },
+      {
+        "language": "ar",
+        "titre": "سؤال حول Maintenance prédictive des engins",
+        "message": "مرحباً، ما هو رأيكم في Maintenance prédictive des engins؟"
+      },
+      {
+        "language": "es",
+        "titre": "Pregunta sobre Maintenance prédictive des engins",
+        "message": "Hola, ¿cuál es su opinión sobre Maintenance prédictive des engins?"
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 1,
+    "etatValidation": "code_1407",
+    "parent": null,
+    "children": [
+      {
+        "$oid": "65f000000000000000001358"
+      }
+    ],
+    "theme": {
+      "$oid": "65f000000000000000001228"
+    },
+    "acteur": {
+      "$oid": "65f000000000000000000781"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001358"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Réponse : Maintenance prédictive des engins",
+        "message": "C'est un sujet crucial pour la manutention moderne. Maintenance prédictive des engins permet d'optimiser les flux."
+      },
+      {
+        "language": "en",
+        "titre": "Reply: Maintenance prédictive des engins",
+        "message": "This is a crucial subject for modern handling. Maintenance prédictive des engins helps optimize flows."
+      },
+      {
+        "language": "ar",
+        "titre": "رد: Maintenance prédictive des engins",
+        "message": "هذا موضوع بالغ الأهمية للمناولة الحديثة. Maintenance prédictive des engins يساعد في تحسين التدفقات."
+      },
+      {
+        "language": "es",
+        "titre": "Respuesta: Maintenance prédictive des engins",
+        "message": "Es un tema crucial para la manutención moderna. Maintenance prédictive des engins permite optimizar los flujos."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 2,
+    "etatValidation": "code_1407",
+    "parent": {
+      "$oid": "65f000000000000000001357"
+    },
+    "children": [],
+    "theme": {
+      "$oid": "65f000000000000000001228"
+    },
+    "acteur": {
+      "$oid": "65f000000000000000000782"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001359"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Question sur Logiciels WMS : Comparatif",
+        "message": "Bonjour, quel est votre avis sur Logiciels WMS : Comparatif ?"
+      },
+      {
+        "language": "en",
+        "titre": "Question about Logiciels WMS : Comparatif",
+        "message": "Hello, what is your opinion on Logiciels WMS : Comparatif?"
+      },
+      {
+        "language": "ar",
+        "titre": "سؤال حول Logiciels WMS : Comparatif",
+        "message": "مرحباً، ما هو رأيكم في Logiciels WMS : Comparatif؟"
+      },
+      {
+        "language": "es",
+        "titre": "Pregunta sobre Logiciels WMS : Comparatif",
+        "message": "Hola, ¿cuál es su opinión sobre Logiciels WMS : Comparatif?"
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 1,
+    "etatValidation": "code_1407",
+    "parent": null,
+    "children": [
+      {
+        "$oid": "65f000000000000000001360"
+      }
+    ],
+    "theme": {
+      "$oid": "65f000000000000000001229"
+    },
+    "acteur": {
+      "$oid": "65f000000000000000000781"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001360"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Réponse : Logiciels WMS : Comparatif",
+        "message": "C'est un sujet crucial pour la manutention moderne. Logiciels WMS : Comparatif permet d'optimiser les flux."
+      },
+      {
+        "language": "en",
+        "titre": "Answer: WMS Software: Comparison",
+        "message": "This is a crucial subject for modern handling. Logiciels WMS : Comparatif helps optimize flows."
+      },
+      {
+        "language": "ar",
+        "titre": "الإجابة: برامج إدارة المستودعات: مقارنة",
+        "message": "يُعدّ هذا موضوعًا بالغ الأهمية في مجال مناولة المواد الحديثة. برامج إدارة المستودعات: تتيح المقارنة تحسين تدفقات العمل."
+      },
+      {
+        "language": "es",
+        "titre": "Respuesta: Software WMS: Comparación",
+        "message": "Este es un tema crucial para la gestión moderna de materiales. Software WMS: La comparación permite optimizar los flujos."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 2,
+    "etatValidation": "code_1407",
+    "parent": {
+      "$oid": "65f000000000000000001359"
+    },
+    "children": [],
+    "theme": {
+      "$oid": "65f000000000000000001229"
+    },
+    "acteur": {
+      "$oid": "65f000000000000000000782"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001361"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Question sur Rayonnage dynamique vs statique",
+        "message": "Bonjour, quel est votre avis sur Rayonnage dynamique vs statique ?"
+      },
+      {
+        "language": "en",
+        "titre": "Question on Dynamic vs static racking",
+        "message": "Hello, I would like to have your opinions on Dynamic vs static racking."
+      },
+      {
+        "language": "ar",
+        "titre": "سؤال حول الرفوف الديناميكية مقابل الثابتة",
+        "message": "مرحباً، أود معرفة آرائكم حول الرفوف الديناميكية مقابل الثابتة."
+      },
+      {
+        "language": "es",
+        "titre": "Pregunta sobre Estantería dinámica vs estática",
+        "message": "Hola, me gustaría tener sus opiniones sobre Estantería dinámica vs estática."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 1,
+    "etatValidation": "code_1407",
+    "parent": null,
+    "children": [
+      {
+        "$oid": "65f000000000000000001362"
+      }
+    ],
+    "theme": {
+      "$oid": "65f000000000000000001230"
+    },
+    "acteur": {
+      "$oid": "65f000000000000000000781"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f000000000000000001362"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Réponse : Rayonnage dynamique vs statique",
+        "message": "C'est un sujet crucial pour la manutention moderne. Rayonnage dynamique vs statique permet d'optimiser les flux."
+      },
+      {
+        "language": "en",
+        "titre": "Reply: Dynamic vs static racking",
+        "message": "That's an excellent question. From my experience, Dynamic vs static racking is crucial for efficiency."
+      },
+      {
+        "language": "ar",
+        "titre": "رد: الرفوف الديناميكية مقابل الثابتة",
+        "message": "هذا سؤال ممتاز. من واقع خبرتي، الرفوف الديناميكية مقابل الثابتة أمر بالغ الأهمية للكفاءة."
+      },
+      {
+        "language": "es",
+        "titre": "Respuesta: Estantería dinámica vs estática",
+        "message": "Es una excelente pregunta. Según mi experiencia, Estantería dinámica vs estática es crucial para la eficiencia."
+      }
+    ],
+    "dateHeureParticipation": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "ordre": 2,
+    "etatValidation": "code_1407",
+    "parent": {
+      "$oid": "65f000000000000000001361"
+    },
+    "children": [],
+    "theme": {
+      "$oid": "65f000000000000000001230"
+    },
+    "acteur": {
+      "$oid": "65f000000000000000000782"
+    },
+    "etatObjet": "code-1",
+    "createdAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-05-05T08:00:00.000Z"
+    }
+  }
+]
