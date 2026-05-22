@@ -274,6 +274,45 @@ app.get('/api/devis', async (req, res) => {
   }
 });
 
+// 7. Domains & Taxonomies API
+app.get('/api/domains', async (req, res) => {
+  try {
+    if (!useFallback) {
+      const domainsCollection = mongoose.connection.collection("domains");
+      const list = await domainsCollection.find({}).toArray();
+      if (list.length > 0) return res.json(list);
+    }
+    
+    const backupPath = path.join(__dirname, 'database/taxonomie/autoline_domains.json');
+    if (fs.existsSync(backupPath)) {
+      const raw = fs.readFileSync(backupPath, 'utf8');
+      return res.json(JSON.parse(raw));
+    }
+    res.status(404).json({ message: "No domains found" });
+  } catch (error) {
+    res.status(500).json({ message: "Server error", error: error.message });
+  }
+});
+
+app.get('/api/taxonomies', async (req, res) => {
+  try {
+    if (!useFallback) {
+      const taxonomiesCollection = mongoose.connection.collection("taxonomies");
+      const list = await taxonomiesCollection.find({}).toArray();
+      if (list.length > 0) return res.json(list);
+    }
+    
+    const backupPath = path.join(__dirname, 'database/taxonomie/autoline_taxonomies.json');
+    if (fs.existsSync(backupPath)) {
+      const raw = fs.readFileSync(backupPath, 'utf8');
+      return res.json(JSON.parse(raw));
+    }
+    res.status(404).json({ message: "No taxonomies found" });
+  } catch (error) {
+    res.status(500).json({ message: "Server error", error: error.message });
+  }
+});
+
 // 5. Chatbot IA avec RAG / Base documentaire
 app.post('/api/chat', (req, res) => {
   const { message } = req.body;

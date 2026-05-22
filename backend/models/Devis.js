@@ -1,15 +1,13 @@
 const mongoose = require('mongoose');
 
-const DevisSchema = new mongoose.Schema({
-  productName: { type: String, required: true },
-  userName: { type: String, required: true },
-  company: { type: String, required: true },
-  email: { type: String, required: true },
-  phone: { type: String, required: true },
-  message: { type: String },
-  status: { type: String, default: 'Pending', enum: ['Pending', 'Approved', 'Rejected'] }
-}, { 
-  timestamps: true 
-});
+const devisSchema = new mongoose.Schema({
+  productName: String,
+  userName: String,
+  company: String,
+  email: String,
+  phone: String,
+  message: String,
+  status: { type: String, default: 'Pending' }
+}, { timestamps: true });
 
-module.exports = mongoose.model('Devis', DevisSchema);
+module.exports = mongoose.model('Devis', devisSchema);

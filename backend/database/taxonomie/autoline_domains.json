@@ -1,0 +1,3521 @@
+[
+  {
+    "_id": "737667737667737667000101",
+    "code": "trucks_buses",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Poids lourds & Autobus",
+        "description": "Poids lourds et autobus"
+      },
+      {
+        "language": "en",
+        "designation": "Trucks, buses",
+        "description": "Trucks and buses"
+      }
+    ],
+    "logo": "",
+    "parent": null,
+    "children": [
+      "06b6871d02854b07b47d833d",
+      "250dac0ab7103ca09a3de55f",
+      "2b20f896bdd946579ca1103a",
+      "43144269a0ca9179fc78ab00",
+      "46ad4c1e75c9d9d3afc013df",
+      "d3a469af77a2399d69b779d5",
+      "fd91b7bc0069f40cf1adbb4f"
+    ],
+    "taxonomies": [],
+    "hasTaxonomies": false,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "totalAds": 448936,
+    "count": 448936,
+    "createdAt": "2026-05-22T16:45:04.132Z",
+    "updatedAt": "2026-05-22T16:45:04.133Z"
+  },
+  {
+    "_id": "737667737667737667000102",
+    "code": "cars_motorhomes_motorcycles",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Voitures & Motos",
+        "description": "Voitures, camping-cars et motos"
+      },
+      {
+        "language": "en",
+        "designation": "Cars, motorhomes and motorcycles",
+        "description": "Cars, motorhomes and motorcycles"
+      }
+    ],
+    "logo": "",
+    "parent": null,
+    "children": [
+      "13359332cf985ae19d341e08",
+      "2b8015bd253217d086899365",
+      "545e96ae18f1dedfc258923d",
+      "5f75591426a93df389a6ba45",
+      "5fff5ce09cda01210d1a1935"
+    ],
+    "taxonomies": [],
+    "hasTaxonomies": false,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "totalAds": 14830,
+    "count": 14830,
+    "createdAt": "2026-05-22T16:45:04.133Z",
+    "updatedAt": "2026-05-22T16:45:04.133Z"
+  },
+  {
+    "_id": "737667737667737667000103",
+    "code": "construction_equipment",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Matériel de construction",
+        "description": "Matériel de construction"
+      },
+      {
+        "language": "en",
+        "designation": "Construction equipment",
+        "description": "Construction equipment"
+      }
+    ],
+    "logo": "",
+    "parent": null,
+    "children": [
+      "07e6b4b1feb846cfba10b862",
+      "13e24dcafcd1479080eedc30",
+      "af67e8eb26ec9fdce01543b5",
+      "feb6e3eeeb24446f956a51b5"
+    ],
+    "taxonomies": [],
+    "hasTaxonomies": false,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "totalAds": 356747,
+    "count": 356747,
+    "createdAt": "2026-05-22T16:45:04.133Z",
+    "updatedAt": "2026-05-22T16:45:04.133Z"
+  },
+  {
+    "_id": "737667737667737667000104",
+    "code": "material_handling_equipment",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Matériel de manutention",
+        "description": "Matériel de manutention"
+      },
+      {
+        "language": "en",
+        "designation": "Material handling equipment",
+        "description": "Material handling equipment"
+      }
+    ],
+    "logo": "",
+    "parent": null,
+    "children": [
+      "1882699d1c0cfb06962f50df",
+      "23b9e10370ebfc9b5006b957",
+      "ebbc986dd24ff3ebfc7b13cc"
+    ],
+    "taxonomies": [],
+    "hasTaxonomies": false,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "totalAds": 35423,
+    "count": 35423,
+    "createdAt": "2026-05-22T16:45:04.133Z",
+    "updatedAt": "2026-05-22T16:45:04.133Z"
+  },
+  {
+    "_id": "737667737667737667000105",
+    "code": "attachments_spare_parts_services",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Équipements & Pièces",
+        "description": "Accessoires, pièces de rechange et services"
+      },
+      {
+        "language": "en",
+        "designation": "Attachments, spare parts, services",
+        "description": "Attachments, spare parts and services"
+      }
+    ],
+    "logo": "",
+    "parent": null,
+    "children": [
+      "32339d60c883ff7fd779ad0e",
+      "3fbf73a2044cc89f14f14c05",
+      "569d56a5043d19bca57f8db8",
+      "61c9297cecbe43dfbdb896b9",
+      "66323c2a0000000000000003",
+      "bd9e19005ca4c937a3fb1f4a",
+      "c3ea28cd2634d0ddc0701c16"
+    ],
+    "taxonomies": [],
+    "hasTaxonomies": false,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "totalAds": 340417,
+    "count": 340417,
+    "createdAt": "2026-05-22T16:45:04.133Z",
+    "updatedAt": "2026-05-22T16:45:04.133Z"
+  },
+  {
+    "_id": "636c617373654f7267000000",
+    "code": "classeOrg",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "classeOrg",
+        "description": ""
+      }
+    ],
+    "parent": null,
+    "children": [],
+    "taxonomies": [
+      "66323c2a00000000000001a0",
+      "65f000000000000000000601"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2026-05-07T22:01:21.385Z",
+    "updatedAt": "2026-05-22T16:45:04.139Z"
+  },
+  {
+    "_id": "747970654f72670000000000",
+    "code": "typeOrg",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "typeOrg",
+        "description": ""
+      }
+    ],
+    "parent": null,
+    "children": [],
+    "taxonomies": [
+      "66323c2a00000000000001b0",
+      "747970654f7267636f64655f",
+      "65f000000000000000000602"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2026-05-07T22:01:21.386Z",
+    "updatedAt": "2026-05-22T16:45:04.139Z"
+  },
+  {
+    "_id": "736563746575724163746976",
+    "code": "secteurActivite",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "secteurActivite",
+        "description": ""
+      }
+    ],
+    "parent": null,
+    "children": [],
+    "taxonomies": [
+      "2a4386ca80118f73d4c9f878",
+      "65f000000000000000000603",
+      "65f000000000000000000605"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2026-05-07T22:05:57.336Z",
+    "updatedAt": "2026-05-22T16:45:04.139Z"
+  },
+  {
+    "_id": "747970654163746976697465",
+    "code": "typeActivite",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "typeActivite",
+        "description": ""
+      }
+    ],
+    "parent": null,
+    "children": [],
+    "taxonomies": [
+      "7fcc7f62bb39a52d5a767392",
+      "65f000000000000000000b01",
+      "65f000000000000000000f08"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2026-05-07T22:05:57.341Z",
+    "updatedAt": "2026-05-22T16:45:04.139Z"
+  },
+  {
+    "_id": "706179730000000000000000",
+    "code": "pays",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "pays",
+        "description": ""
+      }
+    ],
+    "parent": null,
+    "children": [],
+    "taxonomies": [
+      "706179734d41000000000000",
+      "706179735a41000000000000",
+      "706179734742000000000000",
+      "706179734652000000000000",
+      "65f000000000000000000604",
+      "65f000000000000000000610"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2026-05-07T22:05:57.341Z",
+    "updatedAt": "2026-05-22T16:45:04.139Z"
+  },
+  {
+    "_id": "6c616e677565000000000000",
+    "code": "langue",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "langue",
+        "description": ""
+      }
+    ],
+    "parent": null,
+    "children": [],
+    "taxonomies": [
+      "65f000000000000000000620",
+      "bc0499833cf04f0cd821c3f5"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2026-05-07T22:05:57.341Z",
+    "updatedAt": "2026-05-22T16:45:04.139Z"
+  },
+  {
+    "_id": "665b9f2c8f1a2c3d4e5f1001",
+    "code": "categorie des produits",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "catégorie des produits et des services",
+        "description": "Catégories globales"
+      }
+    ],
+    "parent": null,
+    "children": [
+      "06b6871d02854b07b47d833d",
+      "07e6b4b1feb846cfba10b862",
+      "13359332cf985ae19d341e08",
+      "13e24dcafcd1479080eedc30",
+      "1882699d1c0cfb06962f50df",
+      "23b9e10370ebfc9b5006b957",
+      "250dac0ab7103ca09a3de55f",
+      "2b20f896bdd946579ca1103a",
+      "2b8015bd253217d086899365",
+      "32339d60c883ff7fd779ad0e",
+      "3fbf73a2044cc89f14f14c05",
+      "43144269a0ca9179fc78ab00",
+      "46ad4c1e75c9d9d3afc013df",
+      "545e96ae18f1dedfc258923d",
+      "569d56a5043d19bca57f8db8",
+      "5f75591426a93df389a6ba45",
+      "5fff5ce09cda01210d1a1935",
+      "61c9297cecbe43dfbdb896b9",
+      "66323c2a0000000000000003",
+      "af67e8eb26ec9fdce01543b5",
+      "bd9e19005ca4c937a3fb1f4a",
+      "c3ea28cd2634d0ddc0701c16",
+      "d3a469af77a2399d69b779d5",
+      "ebbc986dd24ff3ebfc7b13cc",
+      "fd91b7bc0069f40cf1adbb4f",
+      "feb6e3eeeb24446f956a51b5"
+    ],
+    "taxonomies": [],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2026-05-07T22:00:36.849Z",
+    "updatedAt": "2026-05-22T16:45:04.140Z"
+  },
+  {
+    "_id": "06b6871d02854b07b47d833d",
+    "code": "Ferroviaire",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Ferroviaire",
+        "description": "Locomotives et matériel ferroviaire",
+        "_id": {
+          "$oid": "bc47b4ddf06812e28fff1464"
+        }
+      }
+    ],
+    "parent": "737667737667737667000101",
+    "children": [
+      "00cd8a50012ed45147844edc",
+      "fc53df6a9bf6b8d55cb403e9",
+      "38c3520342e2f200fbe46605",
+      "3a12d7c0c4ffc20dff7c89e5"
+    ],
+    "taxonomies": [
+      "00cd8a50012ed45147844edc",
+      "fc53df6a9bf6b8d55cb403e9",
+      "38c3520342e2f200fbe46605",
+      "3a12d7c0c4ffc20dff7c89e5"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2026-05-22T16:45:04.140Z",
+    "updatedAt": "2026-05-22T16:45:04.140Z",
+    "logo": "svgs/Railway equipment.svg",
+    "svgFileName": "Railway equipment.svg",
+    "svgRelativePath": "svgs/Railway equipment.svg"
+  },
+  {
+    "_id": "07e6b4b1feb846cfba10b862",
+    "code": "Espaces Verts",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Espaces Verts",
+        "description": "Matériel d'entretien des espaces verts",
+        "_id": {
+          "$oid": "85052882af65d568c94a4641"
+        }
+      }
+    ],
+    "parent": "737667737667737667000103",
+    "children": [
+      "c42de17620c8444e99dac64c",
+      "047e26db7abb4b8bbebad395",
+      "426a45cc6a2e451481531290",
+      "78b778aa9f014e40855c6eb8",
+      "a7fa8e4d6ec4452aa088e4e6",
+      "42c244da3f3e45ec87203503",
+      "76a9d798764a4b64b9a4159a",
+      "c14de2ff97a849a88f2b0839"
+    ],
+    "taxonomies": [
+      "c42de17620c8444e99dac64c",
+      "047e26db7abb4b8bbebad395",
+      "426a45cc6a2e451481531290",
+      "78b778aa9f014e40855c6eb8",
+      "a7fa8e4d6ec4452aa088e4e6",
+      "42c244da3f3e45ec87203503",
+      "76a9d798764a4b64b9a4159a",
+      "c14de2ff97a849a88f2b0839"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2026-05-22T16:45:04.140Z",
+    "updatedAt": "2026-05-22T16:45:04.140Z",
+    "logo": "svgs/Road construction equipment.svg",
+    "svgFileName": "Road construction equipment.svg",
+    "svgRelativePath": "svgs/Road construction equipment.svg"
+  },
+  {
+    "_id": "13359332cf985ae19d341e08",
+    "code": "Aérien",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Aérien",
+        "description": "Aéronefs et matériel aéronautique",
+        "_id": {
+          "$oid": "86ac7e310b5c14a1563fd78f"
+        }
+      }
+    ],
+    "parent": "737667737667737667000102",
+    "children": [
+      "61470195545954f2e5671091",
+      "db59cca2e09f42ec9dff820a",
+      "bb894b7e637740342effbc20",
+      "3cfe695c3552fea62aae6b60",
+      "71060d3466f8116bd3c83ad5"
+    ],
+    "taxonomies": [
+      "61470195545954f2e5671091",
+      "db59cca2e09f42ec9dff820a",
+      "bb894b7e637740342effbc20",
+      "3cfe695c3552fea62aae6b60",
+      "71060d3466f8116bd3c83ad5"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2026-05-22T16:45:04.140Z",
+    "updatedAt": "2026-05-22T16:45:04.140Z",
+    "logo": "svgs/Air Transport.svg",
+    "svgFileName": "Air Transport.svg",
+    "svgRelativePath": "svgs/Air Transport.svg"
+  },
+  {
+    "_id": "13e24dcafcd1479080eedc30",
+    "code": "Forestier",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Forestier",
+        "description": "Machines forestières et abatteuses",
+        "_id": {
+          "$oid": "336665730a96df7aa1771dfe"
+        }
+      }
+    ],
+    "parent": "737667737667737667000103",
+    "children": [
+      "522dd6d77a104c5795f46254",
+      "24860d1928f348c7b51be85d",
+      "ed99ae222baa4054833f124b",
+      "80e5148f53f34901811cd0d7",
+      "51120eb86f1b4ae9bc62e5ba",
+      "9e0f703316e34faf8a6fbcdb",
+      "6d0a7e51d5f84b03a726d600",
+      "2bbf410a770248c3b3cd9439"
+    ],
+    "taxonomies": [
+      "522dd6d77a104c5795f46254",
+      "24860d1928f348c7b51be85d",
+      "ed99ae222baa4054833f124b",
+      "80e5148f53f34901811cd0d7",
+      "51120eb86f1b4ae9bc62e5ba",
+      "9e0f703316e34faf8a6fbcdb",
+      "6d0a7e51d5f84b03a726d600",
+      "2bbf410a770248c3b3cd9439"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2026-05-22T16:45:04.140Z",
+    "updatedAt": "2026-05-22T16:45:04.140Z",
+    "logo": "svgs/Cranes.svg",
+    "svgFileName": "Cranes.svg",
+    "svgRelativePath": "svgs/Cranes.svg"
+  },
+  {
+    "_id": "1882699d1c0cfb06962f50df",
+    "code": "Manutention",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Manutention",
+        "description": "Chariots élévateurs et matériel de manutention",
+        "_id": {
+          "$oid": "c88101ce30cd2c7b29132098"
+        }
+      }
+    ],
+    "parent": "737667737667737667000104",
+    "children": [
+      "9803e85b5c503dc4cd62d628",
+      "7a1c1d173503c0f9cfd1df0a",
+      "015560ee0c75283a956a1c93",
+      "b7c3f2cfdb666376b5778fc0",
+      "c85e160db81f8692ffc72e25",
+      "7d9d37ea7d49ddfca20d8545",
+      "b72b7014a23ea0417080c8d6",
+      "51efd2167b04136726538873",
+      "3f1077e133c37662d9abef18",
+      "a894083ef5c62e81dbba8912",
+      "d34faeb1b7ddf23b39e3b54a",
+      "d19f298bc8ea88a211b61342",
+      "49db356115e9a363beff0fb2",
+      "f7792867ccbbb649ef6eb319",
+      "8c23bc075d82036415a295d6",
+      "385f72be49a006ad9ac62a74",
+      "a4d32ee31bd75be873a451da",
+      "7e0794f8309dc20791804da9",
+      "61083ec09679371cd382a10a",
+      "a7396b68057b6cdcf510cd08"
+    ],
+    "taxonomies": [
+      "9803e85b5c503dc4cd62d628",
+      "7a1c1d173503c0f9cfd1df0a",
+      "015560ee0c75283a956a1c93",
+      "b7c3f2cfdb666376b5778fc0",
+      "c85e160db81f8692ffc72e25",
+      "7d9d37ea7d49ddfca20d8545",
+      "b72b7014a23ea0417080c8d6",
+      "51efd2167b04136726538873",
+      "3f1077e133c37662d9abef18",
+      "a894083ef5c62e81dbba8912",
+      "49db356115e9a363beff0fb2",
+      "385f72be49a006ad9ac62a74",
+      "7e0794f8309dc20791804da9",
+      "61083ec09679371cd382a10a",
+      "a7396b68057b6cdcf510cd08"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2026-05-22T16:45:04.140Z",
+    "updatedAt": "2026-05-22T16:45:04.140Z",
+    "logo": "svgs/Forklifts.svg",
+    "svgFileName": "Forklifts.svg",
+    "svgRelativePath": "svgs/Forklifts.svg"
+  },
+  {
+    "_id": "23b9e10370ebfc9b5006b957",
+    "code": "Modules & Containers",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Modules & Containers",
+        "description": "Containers modulaires et stockage",
+        "_id": {
+          "$oid": "09f1c635a84fc3d725f36152"
+        }
+      }
+    ],
+    "parent": "737667737667737667000104",
+    "children": [
+      "467f5cef101906c2354888f1",
+      "84f6c928c7aa682a61eae821",
+      "a7ad7195a6a740e26c90580e",
+      "8d8f44544640171482cd8310",
+      "f6f4d80eed9910f90b2be3b2",
+      "da8d3642e6c79abdd82e10b5",
+      "f60870819a5d4f6220c64833",
+      "9d23eb2c5f30fa79a07ed070",
+      "abee07b3f82fd432bd1005d9",
+      "5d5a35785607bf9c178dcb4c",
+      "f4145f469eadbb1c50ae5748",
+      "7efb6d54e809aec4c3c5115c",
+      "f52daaad6181199429173bfb",
+      "c16b0e0f066b741730437a8a",
+      "b5a2ee7c77bca4cf22923c45",
+      "5e40ef85a5e86c4908c700aa",
+      "a6ec81a6ed85a4445d0a8c7c",
+      "94d7366a78e87fe799343736",
+      "2620aa7243f5dba87c8e83e0",
+      "1f75bf2b7d51026ca3e332e4"
+    ],
+    "taxonomies": [
+      "467f5cef101906c2354888f1",
+      "84f6c928c7aa682a61eae821",
+      "da8d3642e6c79abdd82e10b5",
+      "f60870819a5d4f6220c64833",
+      "9d23eb2c5f30fa79a07ed070",
+      "abee07b3f82fd432bd1005d9",
+      "5d5a35785607bf9c178dcb4c",
+      "f4145f469eadbb1c50ae5748",
+      "1f75bf2b7d51026ca3e332e4",
+      "7efb6d54e809aec4c3c5115c",
+      "f52daaad6181199429173bfb",
+      "c16b0e0f066b741730437a8a",
+      "b5a2ee7c77bca4cf22923c45",
+      "5e40ef85a5e86c4908c700aa",
+      "a6ec81a6ed85a4445d0a8c7c",
+      "94d7366a78e87fe799343736",
+      "2620aa7243f5dba87c8e83e0"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2026-05-22T16:45:04.140Z",
+    "updatedAt": "2026-05-22T16:45:04.140Z",
+    "logo": "svgs/Containers.svg",
+    "svgFileName": "Containers.svg",
+    "svgRelativePath": "svgs/Containers.svg"
+  },
+  {
+    "_id": "250dac0ab7103ca09a3de55f",
+    "code": "Remorques",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Remorques",
+        "description": "Remorques et semi-remorques",
+        "_id": {
+          "$oid": "9627350b3d8940cf42f8cbfd"
+        }
+      }
+    ],
+    "parent": "737667737667737667000101",
+    "children": [
+      "0acbf5e30a5ca71f8af51462",
+      "3f8e769f996568fad9c35adc",
+      "b8954352292ec1b4deee2639",
+      "751f8051ff1630268d1055b2",
+      "c088a0bdf996472915388e77",
+      "48c24ff1e46aa2d2ff37d04b",
+      "2c89009bc2a2faaf57794928",
+      "6e49f6261769ee886dfca9d8",
+      "5346706ba967a0a91fcdc4e7",
+      "57d8c93f039de4fe7aaeda6d",
+      "8fcc00b69ed62d28e2f9c3c6",
+      "38f8b85a3a895fe8802743b3",
+      "3144b064bb73d500c0d403dd",
+      "c5af4fa71b90d75b8844fb67",
+      "1400b17cca54670328d815be",
+      "60e668370e4afaebc6ae41a2",
+      "5e6c9334a73f442c11c1a967",
+      "55d86d86b7d03625f36e481c",
+      "9000462f0916bc9d0d34122c",
+      "cf402e0aaad94bf4a590499d"
+    ],
+    "taxonomies": [
+      "0acbf5e30a5ca71f8af51462",
+      "3f8e769f996568fad9c35adc",
+      "b8954352292ec1b4deee2639",
+      "751f8051ff1630268d1055b2",
+      "c088a0bdf996472915388e77",
+      "48c24ff1e46aa2d2ff37d04b",
+      "2c89009bc2a2faaf57794928",
+      "6e49f6261769ee886dfca9d8",
+      "5346706ba967a0a91fcdc4e7",
+      "57d8c93f039de4fe7aaeda6d",
+      "8fcc00b69ed62d28e2f9c3c6",
+      "38f8b85a3a895fe8802743b3",
+      "3144b064bb73d500c0d403dd",
+      "c5af4fa71b90d75b8844fb67",
+      "1400b17cca54670328d815be",
+      "60e668370e4afaebc6ae41a2",
+      "5e6c9334a73f442c11c1a967",
+      "55d86d86b7d03625f36e481c",
+      "9000462f0916bc9d0d34122c",
+      "cf402e0aaad94bf4a590499d"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2026-05-22T16:45:04.140Z",
+    "updatedAt": "2026-05-22T16:45:04.140Z",
+    "logo": "svgs/Trailers.svg",
+    "svgFileName": "Trailers.svg",
+    "svgRelativePath": "svgs/Trailers.svg"
+  },
+  {
+    "_id": "2b20f896bdd946579ca1103a",
+    "code": "Camions Occasion",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Camions Occasion",
+        "description": "Camions et véhicules utilitaires d'occasion",
+        "_id": {
+          "$oid": "a77c4d8f58142932ede62dc0"
+        }
+      }
+    ],
+    "parent": "737667737667737667000101",
+    "children": [
+      "163cc249392541ff9031c990",
+      "a5e52ac77cff442db9eb4015",
+      "2d67a1e2718b468c8af7f40a",
+      "5c74aa8b1eb449f0b8a1eac6",
+      "6b4ebde49ccf404da4eb46f8",
+      "eb15c9656c6e4c9d8f10cdc8",
+      "12671a4f5f73455d905433cb",
+      "abb8ca6350904004901a5b58"
+    ],
+    "taxonomies": [
+      "163cc249392541ff9031c990",
+      "a5e52ac77cff442db9eb4015",
+      "2d67a1e2718b468c8af7f40a",
+      "5c74aa8b1eb449f0b8a1eac6",
+      "6b4ebde49ccf404da4eb46f8",
+      "eb15c9656c6e4c9d8f10cdc8",
+      "12671a4f5f73455d905433cb",
+      "abb8ca6350904004901a5b58"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2026-05-22T16:45:04.140Z",
+    "updatedAt": "2026-05-22T16:45:04.140Z",
+    "logo": "svgs/Trucks.svg",
+    "svgFileName": "Trucks.svg",
+    "svgRelativePath": "svgs/Trucks.svg"
+  },
+  {
+    "_id": "2b8015bd253217d086899365",
+    "code": "Camping",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Camping",
+        "description": "Camping-cars et véhicules de loisirs",
+        "_id": {
+          "$oid": "4f4380bfef66f059d2bfe806"
+        }
+      }
+    ],
+    "parent": "737667737667737667000102",
+    "children": [
+      "f3ef19c617254a92b33e8962",
+      "30aafad4f2dba399c93d975d",
+      "2b7caf45018f871691aa5362",
+      "1e52f39cf69faa8159ce152d",
+      "e56102ec7f73e8a90890ab51",
+      "efd68907fef581c42537ed10",
+      "0481e0bf8c4bfa6a39612fa4",
+      "225843bc7b0dac54677fee42",
+      "fcf24cf7f82410fab7a44bbb",
+      "c8298612ecfc9dcfcb6f9c3b",
+      "5ea9650507c9af9017dd7d87",
+      "ce61f8c269376f48b7143bc2",
+      "6a015898eeaad9c7ecbbd7a1",
+      "49a0ff75e45d0568480e9efd",
+      "e291eeed3b5bf7f9856caaf6",
+      "192eb749ebf2987e257ddc0b"
+    ],
+    "taxonomies": [
+      "192eb749ebf2987e257ddc0b",
+      "49a0ff75e45d0568480e9efd",
+      "2b7caf45018f871691aa5362",
+      "1e52f39cf69faa8159ce152d",
+      "e56102ec7f73e8a90890ab51",
+      "efd68907fef581c42537ed10",
+      "0481e0bf8c4bfa6a39612fa4",
+      "225843bc7b0dac54677fee42",
+      "fcf24cf7f82410fab7a44bbb",
+      "c8298612ecfc9dcfcb6f9c3b",
+      "5ea9650507c9af9017dd7d87",
+      "ce61f8c269376f48b7143bc2",
+      "6a015898eeaad9c7ecbbd7a1",
+      "e291eeed3b5bf7f9856caaf6"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2026-05-22T16:45:04.140Z",
+    "updatedAt": "2026-05-22T16:45:04.140Z",
+    "logo": "svgs/Campers.svg",
+    "svgFileName": "Campers.svg",
+    "svgRelativePath": "svgs/Campers.svg"
+  },
+  {
+    "_id": "32339d60c883ff7fd779ad0e",
+    "code": "Attelages",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Attelages",
+        "description": "Systèmes d'attelage et coupleurs",
+        "_id": {
+          "$oid": "d3516966f525989d52b59ba1"
+        }
+      }
+    ],
+    "parent": "737667737667737667000105",
+    "children": [
+      "2e5583e97f2ed4fd6377e803",
+      "c3ae9ccd4e60ef7825a20c99",
+      "7b0444ca4087fd410c5e4722",
+      "98a851a406210f0bcf52cf77",
+      "0477198df0fa56a12c08364f",
+      "29aff60002502a97606e1b98",
+      "bfc9779df17a86a9cf3226c4",
+      "d8c4201e0cdd3c36b28b1454",
+      "ece05181d11693dec382f13e",
+      "50ed088043c9aecf28989490",
+      "e58ec47a854538d12f07ed3d",
+      "85970145391391007bcbf51a",
+      "f73ac632934b6e9df5ccc8e8",
+      "1012f82c2179a194b9473ee8",
+      "ee176dcbc9ee47c00a976abd",
+      "a9886d49da8cac356398ce5f",
+      "ee24d095a6bf240ed19690ac",
+      "55624e501e998181ce143761",
+      "75ba2972f7e2c9013bc37012",
+      "6c41a4f5510b50d6c25ae965"
+    ],
+    "taxonomies": [
+      "2e5583e97f2ed4fd6377e803",
+      "c3ae9ccd4e60ef7825a20c99",
+      "7b0444ca4087fd410c5e4722",
+      "98a851a406210f0bcf52cf77",
+      "0477198df0fa56a12c08364f",
+      "29aff60002502a97606e1b98",
+      "bfc9779df17a86a9cf3226c4",
+      "d8c4201e0cdd3c36b28b1454",
+      "ece05181d11693dec382f13e",
+      "50ed088043c9aecf28989490",
+      "e58ec47a854538d12f07ed3d",
+      "85970145391391007bcbf51a",
+      "f73ac632934b6e9df5ccc8e8",
+      "1012f82c2179a194b9473ee8",
+      "ee176dcbc9ee47c00a976abd",
+      "a9886d49da8cac356398ce5f",
+      "ee24d095a6bf240ed19690ac",
+      "55624e501e998181ce143761",
+      "75ba2972f7e2c9013bc37012",
+      "6c41a4f5510b50d6c25ae965"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2026-05-22T16:45:04.140Z",
+    "updatedAt": "2026-05-22T16:45:04.140Z",
+    "logo": "svgs/Rent.svg",
+    "svgFileName": "Rent.svg",
+    "svgRelativePath": "svgs/Rent.svg"
+  },
+  {
+    "_id": "3fbf73a2044cc89f14f14c05",
+    "code": "Transport Marchandises",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Transport Marchandises",
+        "description": "Semi-remorques et transport de marchandises",
+        "_id": {
+          "$oid": "7a443995a4c4c848069a398d"
+        }
+      }
+    ],
+    "parent": "737667737667737667000105",
+    "children": [
+      "fd19b2d0f2ade19a71944784",
+      "4c9c21217ab7acaa9f2c29fb",
+      "8f8b62f86d7df406e3d236fb",
+      "b04bedc4b936ec133bfaa208",
+      "ac9900051b4611c53a4fb432",
+      "f35139265336baa956c52121",
+      "a01d8aa799ff6b70933b4b62",
+      "8c0feab3c4f32342b7027eec",
+      "c668b46fd020424571f149e4",
+      "4557f66a0b04cdcfc64daafb",
+      "c1b46e8031631ebd595189fd",
+      "e7c730f1e2299af6bd09fd43",
+      "222ce85ac1523ab233d4e1c4",
+      "3a57b35aa53f810ed8748bed",
+      "fc95dad6314ef8c7a314342e",
+      "667ab39c9594a4efbeb71de9",
+      "fdb05b6b2f8bc749e9365a1f",
+      "f8dc4ff0160ef0fa3f2e50a0",
+      "be73a2bb0bb4f4f30e6b37ef",
+      "b871a111df54ba217d5c38da"
+    ],
+    "taxonomies": [
+      "fd19b2d0f2ade19a71944784",
+      "4c9c21217ab7acaa9f2c29fb",
+      "8f8b62f86d7df406e3d236fb",
+      "b04bedc4b936ec133bfaa208",
+      "ac9900051b4611c53a4fb432",
+      "f35139265336baa956c52121",
+      "a01d8aa799ff6b70933b4b62",
+      "8c0feab3c4f32342b7027eec",
+      "c668b46fd020424571f149e4",
+      "4557f66a0b04cdcfc64daafb",
+      "c1b46e8031631ebd595189fd",
+      "e7c730f1e2299af6bd09fd43",
+      "222ce85ac1523ab233d4e1c4",
+      "3a57b35aa53f810ed8748bed",
+      "fc95dad6314ef8c7a314342e",
+      "667ab39c9594a4efbeb71de9",
+      "fdb05b6b2f8bc749e9365a1f",
+      "f8dc4ff0160ef0fa3f2e50a0",
+      "be73a2bb0bb4f4f30e6b37ef",
+      "b871a111df54ba217d5c38da"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2026-05-22T16:45:04.140Z",
+    "updatedAt": "2026-05-22T16:45:04.140Z",
+    "logo": "svgs/Services.svg",
+    "svgFileName": "Services.svg",
+    "svgRelativePath": "svgs/Services.svg"
+  },
+  {
+    "_id": "43144269a0ca9179fc78ab00",
+    "code": "Transport Passagers",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Transport Passagers",
+        "description": "Bus, cars et transport de personnes",
+        "_id": {
+          "$oid": "4b968bcce5d1c82d79fa10a2"
+        }
+      }
+    ],
+    "parent": "737667737667737667000101",
+    "children": [
+      "20e8e337eefd9a4a17430d06",
+      "71da92fd8437fe3db9bf0d93",
+      "5ad4bd6314fc2e3b248b955f",
+      "015c3f4a9137a8db69a1c737",
+      "843c495bea7bded9cb1644d6",
+      "f4eb002a9e31933f5396fc39",
+      "1f8a147b8f98f276733f9846",
+      "835302e23f1f33c196214838",
+      "a97ac4e9a59626ed814146f0",
+      "6517c1288c22dae5ab018c5c",
+      "26000f0ad6c2ad4a9eadf80a",
+      "ad52ef4004b5aedd647bd16f",
+      "a818ba30b07bf22c624b07e1",
+      "4525fabeed0ae2a8a6bb7bcc",
+      "1d105056ffb7a5292b6d0c57",
+      "5618bbde6fd6dc9e42d77305",
+      "c716414046f73a54eae48d53",
+      "5b93b253dadf248002d2fb5c",
+      "862670c19631fb0fd06a087b",
+      "6b1fb8dfcac219dd09bd9fef"
+    ],
+    "taxonomies": [
+      "20e8e337eefd9a4a17430d06",
+      "71da92fd8437fe3db9bf0d93",
+      "5ad4bd6314fc2e3b248b955f",
+      "015c3f4a9137a8db69a1c737",
+      "843c495bea7bded9cb1644d6",
+      "f4eb002a9e31933f5396fc39",
+      "1f8a147b8f98f276733f9846",
+      "835302e23f1f33c196214838",
+      "ad52ef4004b5aedd647bd16f",
+      "a97ac4e9a59626ed814146f0",
+      "6517c1288c22dae5ab018c5c",
+      "26000f0ad6c2ad4a9eadf80a",
+      "a818ba30b07bf22c624b07e1",
+      "4525fabeed0ae2a8a6bb7bcc",
+      "1d105056ffb7a5292b6d0c57",
+      "5618bbde6fd6dc9e42d77305",
+      "c716414046f73a54eae48d53",
+      "5b93b253dadf248002d2fb5c",
+      "6b1fb8dfcac219dd09bd9fef"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2026-05-22T16:45:04.141Z",
+    "updatedAt": "2026-05-22T16:45:04.141Z",
+    "logo": "svgs/Buses.svg",
+    "svgFileName": "Buses.svg",
+    "svgRelativePath": "svgs/Buses.svg"
+  },
+  {
+    "_id": "46ad4c1e75c9d9d3afc013df",
+    "code": "Aéroportuaire",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Aéroportuaire",
+        "description": "Matériel aéroportuaire et de piste",
+        "_id": {
+          "$oid": "3f8da04ab422291667168f5a"
+        }
+      }
+    ],
+    "parent": "737667737667737667000101",
+    "children": [
+      "0140f5807d9f098db7a72768",
+      "bd0b195ed17f78d65f936d42",
+      "3dbcf9d4742f5500ad18e4a6",
+      "40874c10735d609fe199920e",
+      "3a84ca89e49f2a8d6313c309",
+      "1d64f677d00b15d4872be69c",
+      "4e55f23fd4bc90833840a1fb",
+      "9b35df03ff61c6efcebed7db",
+      "b52c714f303528f80fb0d369",
+      "f143035124d93b0797af650d",
+      "441b0862065a6b36061fb85f",
+      "8d9f01542a8a478406c4d11b",
+      "ac796ea5c2cad558612f1864",
+      "736657611bca364064b3639a",
+      "5935b3f50567405f30a1c3a6",
+      "167710e6f198fcbaeb8aa599",
+      "9d5d7c18e2dd08955d5c6082",
+      "ba9f653c76c8eb5d0ef39da3",
+      "6c79642e95d076c97b34b3ae",
+      "242ef658b8faf611e397d18f"
+    ],
+    "taxonomies": [
+      "0140f5807d9f098db7a72768",
+      "bd0b195ed17f78d65f936d42",
+      "3dbcf9d4742f5500ad18e4a6",
+      "40874c10735d609fe199920e",
+      "3a84ca89e49f2a8d6313c309",
+      "4e55f23fd4bc90833840a1fb",
+      "9b35df03ff61c6efcebed7db",
+      "b52c714f303528f80fb0d369",
+      "f143035124d93b0797af650d",
+      "441b0862065a6b36061fb85f",
+      "8d9f01542a8a478406c4d11b",
+      "ac796ea5c2cad558612f1864",
+      "736657611bca364064b3639a",
+      "5935b3f50567405f30a1c3a6",
+      "167710e6f198fcbaeb8aa599",
+      "9d5d7c18e2dd08955d5c6082",
+      "ba9f653c76c8eb5d0ef39da3",
+      "6c79642e95d076c97b34b3ae",
+      "242ef658b8faf611e397d18f"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2026-05-22T16:45:04.141Z",
+    "updatedAt": "2026-05-22T16:45:04.141Z",
+    "logo": "svgs/Airport equipment.svg",
+    "svgFileName": "Airport equipment.svg",
+    "svgRelativePath": "svgs/Airport equipment.svg"
+  },
+  {
+    "_id": "545e96ae18f1dedfc258923d",
+    "code": "Véhicules Légers",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Véhicules Légers",
+        "description": "Voitures et véhicules légers",
+        "_id": {
+          "$oid": "4bb4fc6855220551d4269462"
+        }
+      }
+    ],
+    "parent": "737667737667737667000102",
+    "children": [
+      "5fd749b1b70da5ce4d48f688",
+      "472b78bf2be6561be760a2c1",
+      "4fcaa9f44b6460c678fc9c3c",
+      "4805864b79200f7ec6ef9457",
+      "7c1918e71594cd0f8460a688",
+      "3679e0fea8a78e30f2f65759",
+      "0cf2e515c62e828eb9fdf998",
+      "e70b2d5901eb748fd9bf6cab",
+      "f51511ffde67a45dbf83724a",
+      "bacc3b9ca52614e361814c29",
+      "8dd20d4d0574577ca5815cca",
+      "3964235fab8ccb9f79f44d28",
+      "a32bb4a758304a28be2d44f5",
+      "9a0f337cc118487aac0169b0",
+      "00155cb3f3c64e4a9f6b94c7",
+      "756fff1edd7243a1bb8b891a",
+      "31037d1724374115893c4abe",
+      "a35ba9fe21674e9797400388",
+      "29362dbb89094c539957e731",
+      "a094552d262243fabd79e9ca"
+    ],
+    "taxonomies": [
+      "5fd749b1b70da5ce4d48f688",
+      "472b78bf2be6561be760a2c1",
+      "4fcaa9f44b6460c678fc9c3c",
+      "4805864b79200f7ec6ef9457",
+      "7c1918e71594cd0f8460a688",
+      "3679e0fea8a78e30f2f65759",
+      "0cf2e515c62e828eb9fdf998",
+      "e70b2d5901eb748fd9bf6cab",
+      "f51511ffde67a45dbf83724a",
+      "bacc3b9ca52614e361814c29",
+      "8dd20d4d0574577ca5815cca",
+      "3964235fab8ccb9f79f44d28",
+      "a32bb4a758304a28be2d44f5",
+      "9a0f337cc118487aac0169b0",
+      "00155cb3f3c64e4a9f6b94c7",
+      "756fff1edd7243a1bb8b891a",
+      "31037d1724374115893c4abe",
+      "a35ba9fe21674e9797400388",
+      "29362dbb89094c539957e731",
+      "a094552d262243fabd79e9ca"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2026-05-22T16:45:04.141Z",
+    "updatedAt": "2026-05-22T16:45:04.141Z",
+    "logo": "svgs/Cars.svg",
+    "svgFileName": "Cars.svg",
+    "svgRelativePath": "svgs/Cars.svg"
+  },
+  {
+    "_id": "569d56a5043d19bca57f8db8",
+    "code": "Transport Carburant",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Transport Carburant",
+        "description": "Camions-citernes et transport de liquides",
+        "_id": {
+          "$oid": "03e2f7aaabdba4b6395af9ec"
+        }
+      }
+    ],
+    "parent": "737667737667737667000105",
+    "children": [
+      "e1c793c7389e6472ffdb1899",
+      "10a9e3fcccea1a68f8c01a41",
+      "0effe3aa7c4275779ad00d69",
+      "02db35e2c068e0fcfe44b23e",
+      "54b7dec8813ea9f4d27d9bf2",
+      "659a40c16785a38c510f142d",
+      "14356e2c2b8e2693283c05c3",
+      "13f507a820b290ac12c7c5a0",
+      "e0039816e2f14b2ac7fe18be",
+      "6fc9902f006d40bf071130be",
+      "e4ee18974b096059a16b201c",
+      "1e0c35267b9d6ccd879567be",
+      "c02b97b36c47fb3e946f15c3",
+      "472fd3b2c56cb7185c433109",
+      "d1ccc1315b90a2819b11df4a",
+      "63e35d4bfe9c104935d84bc5",
+      "389d7f4307986d1ccf0128bd",
+      "cf7f3419a24bd9e3188a6eb3",
+      "a3e8df5355759882d1efc706",
+      "ce38847cfe1c2bb460f10714"
+    ],
+    "taxonomies": [
+      "10a9e3fcccea1a68f8c01a41",
+      "0effe3aa7c4275779ad00d69",
+      "54b7dec8813ea9f4d27d9bf2",
+      "a3e8df5355759882d1efc706",
+      "ce38847cfe1c2bb460f10714",
+      "659a40c16785a38c510f142d",
+      "14356e2c2b8e2693283c05c3",
+      "13f507a820b290ac12c7c5a0",
+      "e0039816e2f14b2ac7fe18be",
+      "6fc9902f006d40bf071130be",
+      "e4ee18974b096059a16b201c",
+      "1e0c35267b9d6ccd879567be",
+      "c02b97b36c47fb3e946f15c3",
+      "472fd3b2c56cb7185c433109",
+      "d1ccc1315b90a2819b11df4a",
+      "63e35d4bfe9c104935d84bc5",
+      "389d7f4307986d1ccf0128bd",
+      "cf7f3419a24bd9e3188a6eb3"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2026-05-22T16:45:04.141Z",
+    "updatedAt": "2026-05-22T16:45:04.141Z",
+    "logo": "svgs/Tank transports.svg",
+    "svgFileName": "Tank transports.svg",
+    "svgRelativePath": "svgs/Tank transports.svg"
+  },
+  {
+    "_id": "5f75591426a93df389a6ba45",
+    "code": "Deux-Roues",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Deux-Roues",
+        "description": "Motos, scooters et deux-roues",
+        "_id": {
+          "$oid": "860ed52500b5477b5686ffc8"
+        }
+      }
+    ],
+    "parent": "737667737667737667000102",
+    "children": [
+      "a58235292aadb15bc9de6896",
+      "8eb0bc01355b899219329331",
+      "0b18215f3e0ec6f4cd2039dd",
+      "2a36f76299cca510ae5b81a7",
+      "bae2cd648fb7364d00353a0b",
+      "ac9b8550e45183e966507a58",
+      "c830503e5a0049db2d9e2458",
+      "6a75da3ac00e4af47e575267",
+      "b183bbdf3d5f530131dd92ea",
+      "24669a35c3fa81b551862fe2",
+      "086b032dc24be05402436a5c",
+      "67e40bc11e783262f3185d7e",
+      "1155102cb2f4127107bd1099",
+      "432a5a428945dc3b251b15cb"
+    ],
+    "taxonomies": [
+      "1155102cb2f4127107bd1099",
+      "a58235292aadb15bc9de6896",
+      "8eb0bc01355b899219329331",
+      "0b18215f3e0ec6f4cd2039dd",
+      "2a36f76299cca510ae5b81a7",
+      "bae2cd648fb7364d00353a0b",
+      "ac9b8550e45183e966507a58",
+      "c830503e5a0049db2d9e2458",
+      "6a75da3ac00e4af47e575267",
+      "b183bbdf3d5f530131dd92ea",
+      "24669a35c3fa81b551862fe2",
+      "086b032dc24be05402436a5c",
+      "67e40bc11e783262f3185d7e",
+      "432a5a428945dc3b251b15cb"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2026-05-22T16:45:04.141Z",
+    "updatedAt": "2026-05-22T16:45:04.141Z",
+    "logo": "svgs/Motorcycles.svg",
+    "svgFileName": "Motorcycles.svg",
+    "svgRelativePath": "svgs/Motorcycles.svg"
+  },
+  {
+    "_id": "5fff5ce09cda01210d1a1935",
+    "code": "Maritime",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Maritime",
+        "description": "Bateaux et matériel nautique",
+        "_id": {
+          "$oid": "7f04def845e58c4dfefe9ac3"
+        }
+      }
+    ],
+    "parent": "737667737667737667000102",
+    "children": [
+      "56b1802b55f21166d835f48e",
+      "ea7a67cc9bbe03366ed551d7",
+      "dfb7a35ad54d40f8d3942f41",
+      "7396bf4ba52629167bcbc4f2",
+      "c2b324abf9a26ccb13f58f13",
+      "80efdf2dd5fda657b700bfd8",
+      "eec2a2c2901a9f40f33ccdf5",
+      "9138b9a2e964dbf22ae4e74a"
+    ],
+    "taxonomies": [
+      "56b1802b55f21166d835f48e",
+      "ea7a67cc9bbe03366ed551d7",
+      "dfb7a35ad54d40f8d3942f41",
+      "7396bf4ba52629167bcbc4f2",
+      "c2b324abf9a26ccb13f58f13",
+      "80efdf2dd5fda657b700bfd8",
+      "eec2a2c2901a9f40f33ccdf5",
+      "9138b9a2e964dbf22ae4e74a"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2026-05-22T16:45:04.141Z",
+    "updatedAt": "2026-05-22T16:45:04.141Z",
+    "logo": "svgs/Water transport.svg",
+    "svgFileName": "Water transport.svg",
+    "svgRelativePath": "svgs/Water transport.svg"
+  },
+  {
+    "_id": "61c9297cecbe43dfbdb896b9",
+    "code": "Agriculture",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Agriculture",
+        "description": "Tracteurs et matériel agricole",
+        "_id": {
+          "$oid": "2575d2e0d2fe1fc5b65d411c"
+        }
+      }
+    ],
+    "parent": "737667737667737667000105",
+    "children": [
+      "1667beffd57f472b8f187b17",
+      "4312028a9d8e4bddad74b77b",
+      "60c44c811e6c4e7d8509cba1",
+      "9b5d01a3b8f04597b0112849",
+      "96dd86715cc54bf683905985",
+      "b57ea6c6293d44c78b9c7cb1",
+      "2195a4c9beb345dfa4645b5f",
+      "64c9f8d2595043a29c39d083",
+      "d1d2eca5fccd4075893c7ab6",
+      "97ec6175f53c46a5ba155858"
+    ],
+    "taxonomies": [
+      "1667beffd57f472b8f187b17",
+      "4312028a9d8e4bddad74b77b",
+      "60c44c811e6c4e7d8509cba1",
+      "9b5d01a3b8f04597b0112849",
+      "96dd86715cc54bf683905985",
+      "b57ea6c6293d44c78b9c7cb1",
+      "2195a4c9beb345dfa4645b5f",
+      "64c9f8d2595043a29c39d083",
+      "d1d2eca5fccd4075893c7ab6",
+      "97ec6175f53c46a5ba155858"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2026-05-22T16:45:04.141Z",
+    "updatedAt": "2026-05-22T16:45:04.141Z",
+    "logo": "svgs/Tires and wheels.svg",
+    "svgFileName": "Tires and wheels.svg",
+    "svgRelativePath": "svgs/Tires and wheels.svg"
+  },
+  {
+    "_id": "66323c2a0000000000000003",
+    "code": "Tracteurs",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Tracteurs",
+        "description": "Tracteurs agricoles et spécialisés",
+        "_id": {
+          "$oid": "ad8ebadff5ad7de12b85a493"
+        }
+      }
+    ],
+    "parent": "737667737667737667000105",
+    "children": [
+      "1c7705f692cb4d328f4de5f7",
+      "6908991323d74d518c1cc09b",
+      "fc16eaa64d714c6c98303248",
+      "4dc35579e65749ddb670c0d8",
+      "0e5ac1487ba842faad7afeb7",
+      "01d460e7d5f5418dbaefac91",
+      "375470baa2ac4a8bab9b92ef",
+      "f0951cff71cb458d8b008919",
+      "df005a68b3e34544b6d629c8",
+      "a46aa22f8e3b40dd93ee9743",
+      "74c7ef8e60ef41f591bf1831",
+      "b2d09bec3f6348058f49e054",
+      "3a531a5c316043b29da18287",
+      "2d7bafb0b3dd48d894f23c79",
+      "b2dcc6883d9f41338f6539a8",
+      "059067038fe44ff3b57d584e",
+      "4f080ba04ef04cac9412c7e7",
+      "a12d829cdc0144a0a01c74df",
+      "03dd8bc0614d4e338b12d1ee",
+      "9ecb6d6cff364e978b4be726"
+    ],
+    "taxonomies": [
+      "a46aa22f8e3b40dd93ee9743",
+      "74c7ef8e60ef41f591bf1831",
+      "b2d09bec3f6348058f49e054",
+      "3a531a5c316043b29da18287",
+      "2d7bafb0b3dd48d894f23c79",
+      "b2dcc6883d9f41338f6539a8",
+      "059067038fe44ff3b57d584e",
+      "4f080ba04ef04cac9412c7e7",
+      "a12d829cdc0144a0a01c74df",
+      "03dd8bc0614d4e338b12d1ee",
+      "9ecb6d6cff364e978b4be726"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2026-05-22T16:45:04.141Z",
+    "updatedAt": "2026-05-22T16:45:04.141Z",
+    "logo": "svgs/Spare parts.svg",
+    "svgFileName": "Spare parts.svg",
+    "svgRelativePath": "svgs/Spare parts.svg"
+  },
+  {
+    "_id": "af67e8eb26ec9fdce01543b5",
+    "code": "BTP",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "BTP",
+        "description": "Engins de chantier et construction",
+        "_id": {
+          "$oid": "f9c111fe1b86618519cf26e5"
+        }
+      }
+    ],
+    "parent": "737667737667737667000103",
+    "children": [
+      "20cd618321bc892d017b91a5",
+      "cb621414ab5dcc26e504a398",
+      "381519c53cf81bfb0ce048b4",
+      "193a722cbca7ec4dd08b26e8",
+      "44d968a595e06c8c95df5fb1",
+      "2ee976616c0d99e22035a138",
+      "10ac76e83a35f3f19edf8c97",
+      "54fc7ed89d02384e248b89bc",
+      "338b98031bc9a3ac7cd11aee",
+      "3a070db50c8cf88376634f42",
+      "914776e96c620a9b9bbfa578",
+      "8a1326543b8919cf212b5489",
+      "7d42d67c0a5c1b2b28f45bfe",
+      "2b61e3e256c92e3073a0ce1f",
+      "80abc30c27e68049f43237d6",
+      "bd504e544126fc91af5d7978",
+      "722f1ab628ce80aa194e422f",
+      "498b883931ef8fd5a2361dcc",
+      "6ba919e50d1727c6c36f26f2",
+      "f2d08c09988ffa5b5242cc54"
+    ],
+    "taxonomies": [
+      "20cd618321bc892d017b91a5",
+      "cb621414ab5dcc26e504a398",
+      "381519c53cf81bfb0ce048b4",
+      "193a722cbca7ec4dd08b26e8",
+      "44d968a595e06c8c95df5fb1",
+      "10ac76e83a35f3f19edf8c97",
+      "8a1326543b8919cf212b5489",
+      "7d42d67c0a5c1b2b28f45bfe",
+      "80abc30c27e68049f43237d6",
+      "722f1ab628ce80aa194e422f",
+      "f2d08c09988ffa5b5242cc54"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2026-05-22T16:45:04.141Z",
+    "updatedAt": "2026-05-22T16:45:04.141Z",
+    "logo": "svgs/Equipment.svg",
+    "svgFileName": "Equipment.svg",
+    "svgRelativePath": "svgs/Equipment.svg"
+  },
+  {
+    "_id": "bd9e19005ca4c937a3fb1f4a",
+    "code": "Utilitaires",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Utilitaires",
+        "description": "Fourgons, camionnettes et utilitaires",
+        "_id": {
+          "$oid": "9cd9a0b0d4bdb150ac3af9ea"
+        }
+      }
+    ],
+    "parent": "737667737667737667000105",
+    "children": [
+      "ed3d4ce06276e5c0fac87d4a",
+      "66eec8a24809011d79301c62",
+      "0fe2f49155df36517c3d3a00",
+      "6f68109b037018559912b84e",
+      "9a563daf88614394ab410129",
+      "52fe7b0d0514c7ddba015837",
+      "70fe92a5afcb4753c65d314c",
+      "65c722c4ec4b35fa01e90a74",
+      "844d9a61f3e45404ad161add",
+      "7fd666e8dd1c1f8d42144d61",
+      "ee6fff4e2f6b521f8dde6f0f",
+      "331416b5e3cb30da5b8a8b49",
+      "987f1a0543ee9821da6f6352",
+      "8227d704e740852a23c01087",
+      "fac74d0e6ed96e369df414d7",
+      "2c598f3936807148bd266f04",
+      "60259ee14b15573a028ded73",
+      "10568368cb9a5eddd3e3d198",
+      "4b868b9e5fe88e702d7b2e06",
+      "40388d7b09e1fdf926bddb33"
+    ],
+    "taxonomies": [
+      "ed3d4ce06276e5c0fac87d4a",
+      "66eec8a24809011d79301c62",
+      "0fe2f49155df36517c3d3a00",
+      "6f68109b037018559912b84e",
+      "9a563daf88614394ab410129",
+      "52fe7b0d0514c7ddba015837",
+      "70fe92a5afcb4753c65d314c",
+      "65c722c4ec4b35fa01e90a74",
+      "844d9a61f3e45404ad161add",
+      "7fd666e8dd1c1f8d42144d61",
+      "ee6fff4e2f6b521f8dde6f0f",
+      "331416b5e3cb30da5b8a8b49",
+      "987f1a0543ee9821da6f6352",
+      "8227d704e740852a23c01087",
+      "fac74d0e6ed96e369df414d7",
+      "2c598f3936807148bd266f04",
+      "60259ee14b15573a028ded73",
+      "10568368cb9a5eddd3e3d198",
+      "40388d7b09e1fdf926bddb33"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2026-05-22T16:45:04.141Z",
+    "updatedAt": "2026-05-22T16:45:04.141Z",
+    "logo": "svgs/Commercial vehicles.svg",
+    "svgFileName": "Commercial vehicles.svg",
+    "svgRelativePath": "svgs/Commercial vehicles.svg"
+  },
+  {
+    "_id": "c3ea28cd2634d0ddc0701c16",
+    "code": "Assainissement",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Assainissement",
+        "description": "Véhicules d'assainissement et voirie",
+        "_id": {
+          "$oid": "a91bb981caf7470377e22026"
+        }
+      }
+    ],
+    "parent": "737667737667737667000105",
+    "children": [
+      "9075a426081f085b03622bc9",
+      "7a2e0f6a505eab1a7c24c2f7",
+      "c176e48f61a8df21d8dec043",
+      "857910b33415bc50ec000a20",
+      "4e323a4b29b1875cc8c64e44",
+      "28766158a5474f0a10772fe5",
+      "5c57b62824e2f9ff642549aa",
+      "8ed8690851531fe96aaa1cf2",
+      "708bd7f105b3f4dbcb5da24c",
+      "3e056af386451b78412f5acc",
+      "284e06dc5dc2225b6f834f0c",
+      "034ba40fc3cfeb9b0c26dbba",
+      "5c3dc0f7dea79fea0a9a5672",
+      "3168d9266078061e3b9d77f7",
+      "98f0db1a8ac529b3dd5073c8"
+    ],
+    "taxonomies": [
+      "9075a426081f085b03622bc9",
+      "7a2e0f6a505eab1a7c24c2f7",
+      "c176e48f61a8df21d8dec043",
+      "857910b33415bc50ec000a20",
+      "5c57b62824e2f9ff642549aa",
+      "284e06dc5dc2225b6f834f0c",
+      "034ba40fc3cfeb9b0c26dbba",
+      "5c3dc0f7dea79fea0a9a5672",
+      "3168d9266078061e3b9d77f7",
+      "98f0db1a8ac529b3dd5073c8"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2026-05-22T16:45:04.142Z",
+    "updatedAt": "2026-05-22T16:45:04.142Z",
+    "logo": "svgs/Municipal vehicles.svg",
+    "svgFileName": "Municipal vehicles.svg",
+    "svgRelativePath": "svgs/Municipal vehicles.svg"
+  },
+  {
+    "_id": "d3a469af77a2399d69b779d5",
+    "code": "Poids Lourds",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Poids Lourds",
+        "description": "Camions porteurs et transport routier",
+        "_id": {
+          "$oid": "7d9d3793d64aa9c9b624d575"
+        }
+      }
+    ],
+    "parent": "737667737667737667000101",
+    "children": [
+      "e6ac9da5686d385b3c1076b7",
+      "7c303b01a0efbe4115b01b59",
+      "b0ca1b33c497293b4b7561b1",
+      "cf147fae01f8b475570514c0",
+      "79c6a3eb37267bf46a1602e0",
+      "059a2e9d2be24dbd613fc69a",
+      "98e7f18f288e9774afc99aa9",
+      "cb9c0e3e543379e6f8ed7b4b",
+      "c164a6054621ec90512e521a",
+      "cf5a9bf71fb3f32ebe7e3dae",
+      "2cf96a7aa1282726775c827c",
+      "3338de7251fc02abf76e025d",
+      "b9e1a04eb23f15d71d07bf40",
+      "286e834aef0b55b7ccd5ec74",
+      "3dc1f341e9020969c8611fe8",
+      "bc27674aa38efcecfbf134c8",
+      "7dc333d57eb50941715c630c",
+      "74c026dc2b64fe46f123dc7a",
+      "0fd59188b61240408df2b626",
+      "2aaafc00dfeceaa157393006"
+    ],
+    "taxonomies": [
+      "e6ac9da5686d385b3c1076b7",
+      "7c303b01a0efbe4115b01b59",
+      "b0ca1b33c497293b4b7561b1",
+      "cf147fae01f8b475570514c0",
+      "79c6a3eb37267bf46a1602e0",
+      "059a2e9d2be24dbd613fc69a",
+      "98e7f18f288e9774afc99aa9",
+      "cb9c0e3e543379e6f8ed7b4b",
+      "c164a6054621ec90512e521a",
+      "cf5a9bf71fb3f32ebe7e3dae",
+      "2cf96a7aa1282726775c827c",
+      "3338de7251fc02abf76e025d",
+      "b9e1a04eb23f15d71d07bf40",
+      "286e834aef0b55b7ccd5ec74",
+      "3dc1f341e9020969c8611fe8",
+      "bc27674aa38efcecfbf134c8",
+      "7dc333d57eb50941715c630c",
+      "74c026dc2b64fe46f123dc7a",
+      "0fd59188b61240408df2b626",
+      "2aaafc00dfeceaa157393006"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2026-05-22T16:45:04.142Z",
+    "updatedAt": "2026-05-22T16:45:04.142Z",
+    "logo": "svgs/Trucks.svg",
+    "svgFileName": "Trucks.svg",
+    "svgRelativePath": "svgs/Trucks.svg"
+  },
+  {
+    "_id": "ebbc986dd24ff3ebfc7b13cc",
+    "code": "Équipements Chargement",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Équipements Chargement",
+        "description": "Rampes de chargement et équipements",
+        "_id": {
+          "$oid": "2c6f9b6d97c1ce3238c736d4"
+        }
+      }
+    ],
+    "parent": "737667737667737667000104",
+    "children": [
+      "a6304a5f1b5bb0a470ce81bd",
+      "42e54599397794d818b31a39",
+      "eccfc1cdd6663d8bedb745e0",
+      "64e81c80f1c06270d8af0d37",
+      "a0c2552fb6aacefce7a300ed",
+      "161302a59ee9c0f8cb9963db",
+      "353defe4a9d9d2d4264ad955",
+      "976d82be185be5b6df3a9131",
+      "3f28865088cd931d09d5356f",
+      "150eb3eff663eadb743f8f87",
+      "d6540eabdc1e3ec938ad9aa4",
+      "4f227ecbff4d9de280430b73",
+      "e14446f9ff53d47df4a4d128",
+      "091b5e0986ac917e06877b98",
+      "5e8529680796fb0f4ef75e9d",
+      "ef77006e61d83a1a0e6485da",
+      "a53b436459043e09aca6fe15",
+      "19dd8e3283db416476e2f47d",
+      "5a9d378faf7b41b2bae5e09b",
+      "068d0c7b3fd9003c66d3d563"
+    ],
+    "taxonomies": [
+      "42e54599397794d818b31a39",
+      "eccfc1cdd6663d8bedb745e0",
+      "64e81c80f1c06270d8af0d37",
+      "a0c2552fb6aacefce7a300ed",
+      "161302a59ee9c0f8cb9963db",
+      "353defe4a9d9d2d4264ad955",
+      "976d82be185be5b6df3a9131",
+      "3f28865088cd931d09d5356f",
+      "150eb3eff663eadb743f8f87",
+      "d6540eabdc1e3ec938ad9aa4",
+      "4f227ecbff4d9de280430b73",
+      "e14446f9ff53d47df4a4d128",
+      "091b5e0986ac917e06877b98",
+      "5e8529680796fb0f4ef75e9d",
+      "ef77006e61d83a1a0e6485da",
+      "a53b436459043e09aca6fe15",
+      "19dd8e3283db416476e2f47d",
+      "5a9d378faf7b41b2bae5e09b",
+      "068d0c7b3fd9003c66d3d563"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2026-05-22T16:45:04.142Z",
+    "updatedAt": "2026-05-22T16:45:04.142Z",
+    "logo": "svgs/Warehouse equipment.svg",
+    "svgFileName": "Warehouse equipment.svg",
+    "svgRelativePath": "svgs/Warehouse equipment.svg"
+  },
+  {
+    "_id": "fd91b7bc0069f40cf1adbb4f",
+    "code": "Tracteurs Routiers",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Tracteurs Routiers",
+        "description": "Tracteurs routiers et semi-remorques",
+        "_id": {
+          "$oid": "5aa16c34b2a4799947aa895b"
+        }
+      }
+    ],
+    "parent": "737667737667737667000101",
+    "children": [
+      "7a34d3a7fd1928735dd5702f",
+      "449ea1788393d33a724dc3a6",
+      "0952dad94a2ba22ef7a5e6ad",
+      "c585fda801dc98bdfbb69bd9",
+      "d96ba230858b2dd7a4383705",
+      "20ff24e687882110b8187e0b",
+      "6908edfdb527d19eb40e84a1",
+      "b2ef94c310bff62bb6a3a048"
+    ],
+    "taxonomies": [
+      "7a34d3a7fd1928735dd5702f",
+      "449ea1788393d33a724dc3a6",
+      "0952dad94a2ba22ef7a5e6ad",
+      "c585fda801dc98bdfbb69bd9",
+      "d96ba230858b2dd7a4383705",
+      "20ff24e687882110b8187e0b",
+      "6908edfdb527d19eb40e84a1",
+      "b2ef94c310bff62bb6a3a048"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2026-05-22T16:45:04.142Z",
+    "updatedAt": "2026-05-22T16:45:04.142Z",
+    "logo": "svgs/Truck tractors.svg",
+    "svgFileName": "Truck tractors.svg",
+    "svgRelativePath": "svgs/Truck tractors.svg"
+  },
+  {
+    "_id": "feb6e3eeeb24446f956a51b5",
+    "code": "Engins TP",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Engins TP",
+        "description": "Chargeuses, pelles et engins de travaux",
+        "_id": {
+          "$oid": "47c91941d0ae9ef73031a58c"
+        }
+      }
+    ],
+    "parent": "737667737667737667000103",
+    "children": [
+      "bd4c7be77f104b10a124bb66",
+      "b46d669fa880485cac4dca25",
+      "d38604ccd26e4f2ea0732771",
+      "09d0bcc458c84d679862c38f",
+      "bf524206f6eb434886a04942",
+      "6338988aac8f42bd844763a4",
+      "873fa893b27741cbbbc56664",
+      "58fc43cfbfa7405abe9e2538",
+      "e69dae0dee1146889ae45d70",
+      "6f8a465096754a6ba6f99451",
+      "afa2df11884946f99b46cb2c"
+    ],
+    "taxonomies": [
+      "bd4c7be77f104b10a124bb66",
+      "b46d669fa880485cac4dca25",
+      "d38604ccd26e4f2ea0732771",
+      "09d0bcc458c84d679862c38f",
+      "bf524206f6eb434886a04942",
+      "6338988aac8f42bd844763a4",
+      "873fa893b27741cbbbc56664",
+      "58fc43cfbfa7405abe9e2538",
+      "e69dae0dee1146889ae45d70",
+      "6f8a465096754a6ba6f99451",
+      "afa2df11884946f99b46cb2c"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2026-05-22T16:45:04.142Z",
+    "updatedAt": "2026-05-22T16:45:04.142Z",
+    "logo": "svgs/Excavators.svg",
+    "svgFileName": "Excavators.svg",
+    "svgRelativePath": "svgs/Excavators.svg"
+  },
+  {
+    "_id": "756e69746500000000000000",
+    "code": "unite produit",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "unityProduit",
+        "description": ""
+      }
+    ],
+    "parent": null,
+    "children": [],
+    "taxonomies": [
+      "756e69746536363938643732",
+      "2bdf85e5b56ccbfb2f9cc81c"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2026-05-07T22:05:57.342Z",
+    "updatedAt": "2026-05-22T16:45:04.142Z"
+  },
+  {
+    "_id": "756e6974655175616e746974",
+    "code": "uniteQuantite",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "uniteQuantite",
+        "description": ""
+      }
+    ],
+    "parent": null,
+    "children": [],
+    "taxonomies": [
+      "65f000000000000000000b09",
+      "65f000000000000000000f07"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2026-05-07T22:05:57.342Z",
+    "updatedAt": "2026-05-22T16:45:04.142Z"
+  },
+  {
+    "_id": "73656374657572496e647573",
+    "code": "secteurIndustrie",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "secteurIndustrie",
+        "description": ""
+      }
+    ],
+    "parent": null,
+    "children": [],
+    "taxonomies": [
+      "65f000000000000000000690"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2026-05-07T22:05:57.342Z",
+    "updatedAt": "2026-05-22T16:45:04.142Z"
+  },
+  {
+    "_id": "6e6963686500000000000000",
+    "code": "niche",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "niche",
+        "description": ""
+      }
+    ],
+    "parent": null,
+    "children": [],
+    "taxonomies": [
+      "65f000000000000000000691"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2026-05-07T22:05:57.342Z",
+    "updatedAt": "2026-05-22T16:45:04.142Z"
+  },
+  {
+    "_id": "7461696c6c65000000000000",
+    "code": "taille",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "taille",
+        "description": ""
+      }
+    ],
+    "parent": null,
+    "children": [],
+    "taxonomies": [
+      "65f000000000000000000692",
+      "f925768be9d4e9ab781e8bce",
+      "65f000000000000000000694"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2026-05-07T22:05:57.342Z",
+    "updatedAt": "2026-05-22T16:45:04.142Z"
+  },
+  {
+    "_id": "646f6d61696e5461786f5072",
+    "code": "domainTaxoProtagoniste",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "domainTaxoProtagoniste",
+        "description": ""
+      }
+    ],
+    "parent": null,
+    "children": [],
+    "taxonomies": [
+      "65f0000000000000000006b0"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2026-05-07T22:05:57.342Z",
+    "updatedAt": "2026-05-22T16:45:04.142Z"
+  },
+  {
+    "_id": "736f6e646167650000000000",
+    "code": "sondage",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "sondage",
+        "description": ""
+      }
+    ],
+    "parent": null,
+    "children": [],
+    "taxonomies": [
+      "65f0000000000000000006c0",
+      "65f0000000000000000006c1",
+      "65f0000000000000000006c2",
+      "65f0000000000000000006c3",
+      "65f0000000000000000006c4",
+      "65f0000000000000000006c5",
+      "65f0000000000000000006c6",
+      "65f0000000000000000006c7",
+      "65f0000000000000000006c8",
+      "65f0000000000000000006c9"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2026-05-07T22:05:57.342Z",
+    "updatedAt": "2026-05-22T16:45:04.142Z"
+  },
+  {
+    "_id": "6d6f74696673000000000000",
+    "code": "motifs",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "motifs",
+        "description": ""
+      }
+    ],
+    "parent": null,
+    "children": [],
+    "taxonomies": [
+      "65f000000000000000000650"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2026-05-07T22:05:57.342Z",
+    "updatedAt": "2026-05-22T16:45:04.142Z"
+  },
+  {
+    "_id": "70726f647569742d6173736f",
+    "code": "type association",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "type association",
+        "description": ""
+      }
+    ],
+    "parent": null,
+    "children": [],
+    "taxonomies": [
+      "65f000000000000000000675"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2026-05-07T22:05:57.342Z",
+    "updatedAt": "2026-05-22T16:45:04.142Z"
+  },
+  {
+    "_id": "636c6173734173736f636965",
+    "code": "classAssocieALaRegle",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "classAssocieALaRegle",
+        "description": ""
+      }
+    ],
+    "parent": null,
+    "children": [],
+    "taxonomies": [
+      "65f000000000000000000680"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2026-05-07T22:05:57.342Z",
+    "updatedAt": "2026-05-22T16:45:04.142Z"
+  },
+  {
+    "_id": "4d6f6e6e6169650000000000",
+    "code": "Monnaie",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Monnaie",
+        "description": ""
+      }
+    ],
+    "parent": null,
+    "children": [],
+    "taxonomies": [
+      "685e4f8ae8abaf4deb5af005",
+      "65f000000000000000000701",
+      "65f000000000000000000702"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2026-05-07T22:01:21.386Z",
+    "updatedAt": "2026-05-22T16:45:04.142Z"
+  },
+  {
+    "_id": "636f756c6575720000000000",
+    "code": "couleur",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "couleur saison",
+        "description": ""
+      }
+    ],
+    "parent": null,
+    "children": [],
+    "taxonomies": [],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2026-05-07T22:05:57.342Z",
+    "updatedAt": "2026-05-22T16:45:04.142Z"
+  },
+  {
+    "_id": "756e697441637175616e7469",
+    "code": "unitequantite",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "unitequantite",
+        "description": ""
+      }
+    ],
+    "parent": null,
+    "children": [],
+    "taxonomies": [],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2026-05-07T22:05:57.342Z",
+    "updatedAt": "2026-05-22T16:45:04.142Z"
+  },
+  {
+    "_id": "72656c6174696f6e00000000",
+    "code": "relation",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "relation Inter acteur",
+        "description": ""
+      }
+    ],
+    "parent": null,
+    "children": [],
+    "taxonomies": [],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2026-05-07T22:05:57.341Z",
+    "updatedAt": "2026-05-22T16:45:04.142Z"
+  },
+  {
+    "_id": "726567696f6e457461740000",
+    "code": "regionEtat",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "regionEtat",
+        "description": ""
+      }
+    ],
+    "parent": null,
+    "children": [],
+    "taxonomies": [
+      "65f000000000000000000611",
+      "65f000000000000000000660",
+      "65f000000000000000000661",
+      "65f000000000000000000662",
+      "9effe8c8f46d5ab3d5cb43ad",
+      "65f000000000000000000664",
+      "65f000000000000000000665",
+      "65f000000000000000000666",
+      "65f000000000000000000667",
+      "65f000000000000000000668",
+      "65f000000000000000000669",
+      "8068f77460f2ed35b5a6298d"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2026-05-07T22:05:57.342Z",
+    "updatedAt": "2026-05-22T16:45:04.142Z"
+  },
+  {
+    "_id": "70726f76696e636550726566",
+    "code": "provincePrefecture",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "provincePrefecture",
+        "description": ""
+      }
+    ],
+    "parent": null,
+    "children": [],
+    "taxonomies": [
+      "65f000000000000000000612",
+      "65f000000000000000000671"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2026-05-07T22:05:57.342Z",
+    "updatedAt": "2026-05-22T16:45:04.142Z"
+  },
+  {
+    "_id": "76696c6c6550726f76696e63",
+    "code": "villeProvince",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "villeProvince",
+        "description": ""
+      }
+    ],
+    "parent": null,
+    "children": [],
+    "taxonomies": [
+      "532295ba1b890e7abd61185f",
+      "65f000000000000000000672"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2026-05-07T22:05:57.342Z",
+    "updatedAt": "2026-05-22T16:45:04.142Z"
+  },
+  {
+    "_id": "756e6974c3a97175616e7469",
+    "code": "unitéquantité",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "unitéquantité",
+        "description": ""
+      }
+    ],
+    "parent": null,
+    "children": [],
+    "taxonomies": [
+      "65f000000000000000000f06",
+      "65f000000000000000000f09"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2026-05-08T09:03:36.524Z",
+    "updatedAt": "2026-05-22T16:45:04.142Z"
+  },
+  {
+    "_id": "65f000000000000000000001",
+    "code": "entrepot",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Entrepôt",
+        "description": "Équipements et solutions pour la gestion et l'organisation des entrepôts industriels."
+      },
+      {
+        "language": "en",
+        "designation": "Warehouse",
+        "description": "Category Warehouse — professional equipment and accessories."
+      },
+      {
+        "language": "ar",
+        "designation": "المستودع",
+        "description": "فئة المستودع — معدات وملحقات مهنية."
+      },
+      {
+        "language": "es",
+        "designation": "Almacén",
+        "description": "Categoría Almacén — equipos y accesorios profesionales."
+      }
+    ],
+    "parent": "65f000000000000000001000",
+    "children": [],
+    "taxonomies": [
+      "65f000000000000000000007",
+      "65f000000000000000000008",
+      "65f000000000000000000009",
+      "65f000000000000000000010",
+      "65f000000000000000000011",
+      "65f000000000000000000012",
+      "65f000000000000000000013",
+      "65f000000000000000000014",
+      "65f000000000000000000015",
+      "65f000000000000000000016",
+      "65f000000000000000000017",
+      "65f000000000000000000018",
+      "65f000000000000000000019",
+      "65f000000000000000000020",
+      "65f000000000000000000021",
+      "65f000000000000000000022",
+      "65f000000000000000000023",
+      "65f000000000000000000024",
+      "65f000000000000000000025",
+      "65f000000000000000000026",
+      "65f000000000000000000027",
+      "65f000000000000000000028",
+      "65f000000000000000000029",
+      "65f000000000000000000030",
+      "65f000000000000000000031",
+      "65f000000000000000000032",
+      "65f000000000000000000033",
+      "65f000000000000000000034",
+      "65f000000000000000000035",
+      "65f000000000000000000036",
+      "65f000000000000000000037",
+      "65f000000000000000000038",
+      "65f000000000000000000039",
+      "65f000000000000000000040",
+      "65f000000000000000000041",
+      "65f000000000000000000042",
+      "65f000000000000000000043",
+      "65f000000000000000000044",
+      "65f000000000000000000045",
+      "65f000000000000000000046",
+      "65f000000000000000000047",
+      "65f000000000000000000048",
+      "65f000000000000000000049",
+      "65f000000000000000000050",
+      "65f000000000000000000051",
+      "65f000000000000000000052",
+      "65f000000000000000000053",
+      "65f000000000000000000054",
+      "65f000000000000000000055",
+      "65f000000000000000000056",
+      "65f000000000000000000057",
+      "65f000000000000000000058",
+      "65f000000000000000000059",
+      "65f000000000000000000060",
+      "65f000000000000000000061",
+      "65f000000000000000000062",
+      "65f000000000000000000063",
+      "65f000000000000000000064",
+      "65f000000000000000000065",
+      "65f000000000000000000066",
+      "65f000000000000000000067",
+      "65f000000000000000000068",
+      "65f000000000000000000069",
+      "65f000000000000000000070",
+      "65f000000000000000000071",
+      "65f000000000000000000072",
+      "65f000000000000000000073",
+      "65f000000000000000000074",
+      "65f000000000000000000075",
+      "65f000000000000000000076",
+      "65f000000000000000000077",
+      "65f000000000000000000078",
+      "65f000000000000000000079",
+      "65f000000000000000000080",
+      "65f000000000000000000081",
+      "65f000000000000000000082",
+      "65f000000000000000000083",
+      "65f000000000000000000084",
+      "65f000000000000000000085",
+      "65f000000000000000000086",
+      "65f000000000000000000087",
+      "65f000000000000000000088",
+      "65f000000000000000000089",
+      "65f000000000000000000090",
+      "65f000000000000000000091",
+      "65f000000000000000000092",
+      "65f000000000000000000093",
+      "65f000000000000000000094",
+      "65f000000000000000000095",
+      "65f000000000000000000096",
+      "65f000000000000000000097",
+      "65f000000000000000000098",
+      "65f000000000000000000099",
+      "65f000000000000000000100",
+      "65f000000000000000000101",
+      "65f000000000000000000102",
+      "65f000000000000000000103",
+      "65f000000000000000000104",
+      "65f000000000000000000105",
+      "65f000000000000000000106",
+      "65f000000000000000000107",
+      "65f000000000000000000108",
+      "65f000000000000000000109",
+      "65f000000000000000000110",
+      "65f000000000000000000111",
+      "65f000000000000000000112",
+      "65f000000000000000000113",
+      "65f000000000000000000114",
+      "65f000000000000000000115",
+      "65f000000000000000000116",
+      "65f000000000000000000117",
+      "65f000000000000000000118",
+      "65f000000000000000000119",
+      "65f000000000000000000120",
+      "65f000000000000000000121",
+      "65f000000000000000000122",
+      "65f000000000000000000123",
+      "65f000000000000000000124",
+      "65f000000000000000000125",
+      "65f000000000000000000126",
+      "65f000000000000000000127",
+      "65f000000000000000000128",
+      "65f000000000000000000129",
+      "65f000000000000000000130",
+      "65f000000000000000000131",
+      "65f000000000000000000132",
+      "65f000000000000000000133",
+      "65f000000000000000000134",
+      "65f000000000000000000135",
+      "65f000000000000000000136",
+      "65f000000000000000000137",
+      "65f000000000000000000138",
+      "65f000000000000000000139",
+      "65f000000000000000000140",
+      "65f000000000000000000141",
+      "65f000000000000000000142",
+      "65f000000000000000000143",
+      "65f000000000000000000144",
+      "65f000000000000000000145",
+      "65f000000000000000000146",
+      "65f000000000000000000147",
+      "65f000000000000000000148",
+      "65f000000000000000000149",
+      "65f000000000000000000150",
+      "65f000000000000000000151",
+      "65f000000000000000000152",
+      "65f000000000000000000153",
+      "65f000000000000000000154",
+      "65f000000000000000000155",
+      "65f000000000000000000156",
+      "65f000000000000000000157",
+      "65f000000000000000000158",
+      "65f000000000000000000159",
+      "65f000000000000000000160",
+      "65f000000000000000000161",
+      "65f000000000000000000162",
+      "65f000000000000000000163",
+      "65f000000000000000000164",
+      "65f000000000000000000165",
+      "65f000000000000000000166",
+      "65f000000000000000000167",
+      "65f000000000000000000168",
+      "65f000000000000000000169",
+      "65f000000000000000000170",
+      "65f000000000000000000171",
+      "65f000000000000000000172",
+      "65f000000000000000000173",
+      "65f000000000000000000174",
+      "65f000000000000000000175",
+      "65f000000000000000000176",
+      "65f000000000000000000177",
+      "65f000000000000000000178",
+      "65f000000000000000000179",
+      "65f000000000000000000180",
+      "65f000000000000000000181",
+      "65f000000000000000000182",
+      "65f000000000000000000183",
+      "65f000000000000000000184",
+      "65f000000000000000000185",
+      "65f000000000000000000186",
+      "65f000000000000000000187",
+      "65f000000000000000000188",
+      "65f000000000000000000189",
+      "65f000000000000000000190",
+      "65f000000000000000000191",
+      "65f000000000000000000192",
+      "65f000000000000000000193",
+      "65f000000000000000000194",
+      "65f000000000000000000195",
+      "65f000000000000000000196",
+      "65f000000000000000000197",
+      "65f000000000000000000198",
+      "65f000000000000000000199",
+      "65f000000000000000000200",
+      "65f000000000000000000201",
+      "65f000000000000000000202",
+      "65f000000000000000000203",
+      "65f000000000000000000204",
+      "65f000000000000000000205",
+      "65f000000000000000000206",
+      "65f000000000000000000207",
+      "65f000000000000000000208",
+      "65f000000000000000000209",
+      "65f000000000000000000210",
+      "65f000000000000000000211",
+      "65f000000000000000000212",
+      "65f000000000000000000213",
+      "65f000000000000000000214",
+      "65f000000000000000000215",
+      "65f000000000000000000216",
+      "65f000000000000000000217",
+      "65f000000000000000000218",
+      "65f000000000000000000219",
+      "65f000000000000000000220",
+      "65f000000000000000000221",
+      "65f000000000000000000222",
+      "65f000000000000000000223",
+      "65f000000000000000000224",
+      "65f000000000000000000225",
+      "65f000000000000000000226",
+      "65f000000000000000000227",
+      "65f000000000000000000228",
+      "65f000000000000000000229",
+      "65f000000000000000000230",
+      "65f000000000000000000231",
+      "65f000000000000000000232",
+      "65f000000000000000000233",
+      "65f000000000000000000234",
+      "65f000000000000000000235",
+      "65f000000000000000000236",
+      "65f000000000000000000237",
+      "65f000000000000000000238",
+      "65f000000000000000000239",
+      "65f000000000000000000240",
+      "65f000000000000000000241",
+      "65f000000000000000000242",
+      "65f000000000000000000243",
+      "65f000000000000000000244",
+      "65f000000000000000000245",
+      "65f000000000000000000246",
+      "65f000000000000000000247",
+      "65f000000000000000000248",
+      "65f000000000000000000249",
+      "65f000000000000000000250",
+      "65f000000000000000000251",
+      "65f000000000000000000252",
+      "65f000000000000000000253",
+      "65f000000000000000000255",
+      "65f000000000000000000256",
+      "65f000000000000000000257",
+      "65f000000000000000000258",
+      "65f000000000000000000259",
+      "65f000000000000000000260",
+      "65f000000000000000000261",
+      "65f000000000000000000262",
+      "65f000000000000000000263",
+      "65f000000000000000000264",
+      "65f000000000000000000265",
+      "65f000000000000000000266",
+      "65f000000000000000000267",
+      "65f000000000000000000268",
+      "65f000000000000000000269",
+      "65f000000000000000000270",
+      "65f000000000000000000271",
+      "65f000000000000000000272",
+      "65f000000000000000000273",
+      "65f000000000000000000274",
+      "65f000000000000000000275",
+      "65f000000000000000000276",
+      "65f000000000000000000277",
+      "65f000000000000000000278",
+      "65f000000000000000000279",
+      "65f000000000000000000280",
+      "65f000000000000000000281",
+      "65f000000000000000000282",
+      "65f000000000000000000283",
+      "65f000000000000000000284",
+      "65f000000000000000000285",
+      "65f000000000000000000286",
+      "65f000000000000000000287",
+      "65f000000000000000000288",
+      "65f000000000000000000289",
+      "65f000000000000000000290",
+      "65f000000000000000000291",
+      "65f000000000000000000292",
+      "65f000000000000000000293",
+      "65f000000000000000000294",
+      "65f000000000000000000295",
+      "65f000000000000000000296",
+      "65f000000000000000000297",
+      "65f000000000000000000298",
+      "65f000000000000000000299",
+      "65f000000000000000000300",
+      "65f000000000000000000301",
+      "65f000000000000000000302",
+      "65f000000000000000000303",
+      "65f000000000000000000304",
+      "65f000000000000000000305",
+      "65f000000000000000000306",
+      "65f000000000000000000307",
+      "65f000000000000000000308",
+      "65f000000000000000000309",
+      "65f000000000000000000310",
+      "65f000000000000000000311",
+      "65f000000000000000000312",
+      "65f000000000000000000313",
+      "65f000000000000000000314",
+      "65f000000000000000000315",
+      "65f000000000000000000316",
+      "65f000000000000000000317",
+      "65f000000000000000000318",
+      "65f000000000000000000319",
+      "65f000000000000000000320",
+      "65f000000000000000000321",
+      "65f000000000000000000322",
+      "65f000000000000000000323",
+      "65f000000000000000000324",
+      "65f000000000000000000325",
+      "65f000000000000000000326",
+      "65f000000000000000000327",
+      "65f000000000000000000328",
+      "65f000000000000000000329",
+      "65f000000000000000000330",
+      "65f000000000000000000331",
+      "65f000000000000000000332",
+      "65f000000000000000000333",
+      "65f000000000000000000334",
+      "65f000000000000000000335",
+      "65f000000000000000000336",
+      "65f000000000000000000337",
+      "65f000000000000000000338",
+      "65f000000000000000000339",
+      "65f000000000000000000340",
+      "65f000000000000000000341",
+      "65f000000000000000000342",
+      "65f000000000000000000343",
+      "65f000000000000000000344",
+      "65f000000000000000000345",
+      "65f000000000000000000346",
+      "65f000000000000000000347",
+      "65f000000000000000000348",
+      "65f000000000000000000349",
+      "65f000000000000000000350",
+      "65f000000000000000000351",
+      "65f000000000000000000352",
+      "65f000000000000000000353",
+      "65f000000000000000000354",
+      "65f000000000000000000355",
+      "65f000000000000000000356",
+      "65f000000000000000000357",
+      "65f000000000000000000358",
+      "65f000000000000000000359",
+      "65f000000000000000000360",
+      "65f000000000000000000361",
+      "65f000000000000000000362",
+      "65f000000000000000000363",
+      "65f000000000000000000364",
+      "65f000000000000000000365",
+      "65f000000000000000000366",
+      "65f000000000000000000367",
+      "65f000000000000000000368",
+      "65f000000000000000000369",
+      "65f000000000000000000370",
+      "65f000000000000000000371",
+      "65f000000000000000000372",
+      "65f000000000000000000373",
+      "65f000000000000000000374",
+      "65f000000000000000000375",
+      "65f000000000000000000376",
+      "65f000000000000000000377",
+      "65f000000000000000000378",
+      "65f000000000000000000379",
+      "65f000000000000000000380",
+      "65f000000000000000000381",
+      "65f000000000000000000f01"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "code_3417",
+    "createdAt": "2024-03-15T08:00:00.000Z",
+    "updatedAt": "2024-03-15T08:00:00.000Z"
+  },
+  {
+    "_id": "65f000000000000000000002",
+    "code": "emballage et bac",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Emballage et bac",
+        "description": "Produits d'emballage, bacs et contenants pour le conditionnement industriel."
+      },
+      {
+        "language": "en",
+        "designation": "Packaging and Bins",
+        "description": "Category Packaging and Bins — professional equipment and accessories."
+      },
+      {
+        "language": "ar",
+        "designation": "التغليف والصناديق",
+        "description": "فئة التغليف والصناديق — معدات وملحقات مهنية."
+      },
+      {
+        "language": "es",
+        "designation": "Embalaje y cubeta",
+        "description": "Categoría Embalaje y cubeta — equipos y accesorios profesionales."
+      }
+    ],
+    "parent": "65f000000000000000001000",
+    "children": [],
+    "taxonomies": [
+      "65f000000000000000000382",
+      "65f000000000000000000383",
+      "65f000000000000000000384",
+      "65f000000000000000000385",
+      "65f000000000000000000386",
+      "65f000000000000000000387",
+      "65f000000000000000000388",
+      "65f000000000000000000389",
+      "65f000000000000000000390",
+      "65f000000000000000000391",
+      "65f000000000000000000392",
+      "65f000000000000000000393",
+      "65f000000000000000000394",
+      "65f000000000000000000395",
+      "65f000000000000000000396",
+      "65f000000000000000000397",
+      "65f000000000000000000398",
+      "65f000000000000000000399",
+      "65f000000000000000000400",
+      "65f000000000000000000401",
+      "65f000000000000000000402",
+      "65f000000000000000000403",
+      "65f000000000000000000404",
+      "65f000000000000000000405",
+      "65f000000000000000000406",
+      "65f000000000000000000407",
+      "65f000000000000000000408",
+      "65f000000000000000000409",
+      "65f000000000000000000410",
+      "65f000000000000000000411",
+      "65f000000000000000000412",
+      "65f000000000000000000413",
+      "65f000000000000000000414",
+      "65f000000000000000000415",
+      "65f000000000000000000416",
+      "65f000000000000000000417",
+      "65f000000000000000000418",
+      "65f000000000000000000419",
+      "65f000000000000000000420",
+      "65f000000000000000000421",
+      "65f000000000000000000422",
+      "65f000000000000000000423",
+      "65f000000000000000000424",
+      "65f000000000000000000425",
+      "65f000000000000000000426",
+      "65f000000000000000000427",
+      "65f000000000000000000428",
+      "65f000000000000000000429",
+      "65f000000000000000000430",
+      "65f000000000000000000431",
+      "65f000000000000000000432",
+      "65f000000000000000000433",
+      "65f000000000000000000434",
+      "65f000000000000000000435",
+      "65f000000000000000000436",
+      "65f000000000000000000437",
+      "65f000000000000000000438",
+      "65f000000000000000000439",
+      "65f000000000000000000440",
+      "65f000000000000000000441",
+      "65f000000000000000000442",
+      "65f000000000000000000443",
+      "65f000000000000000000444",
+      "65f000000000000000000445",
+      "65f000000000000000000446",
+      "65f000000000000000000447"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "code_3417",
+    "createdAt": "2024-03-15T08:00:00.000Z",
+    "updatedAt": "2024-03-15T08:00:00.000Z"
+  },
+  {
+    "_id": "65f000000000000000000003",
+    "code": "securite et sante",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Sécurité et santé",
+        "description": "Équipements de protection individuelle et collective pour la sécurité au travail."
+      },
+      {
+        "language": "en",
+        "designation": "Safety and Health",
+        "description": "Category Safety and Health — professional equipment and accessories."
+      },
+      {
+        "language": "ar",
+        "designation": "السلامة والصحة",
+        "description": "فئة السلامة والصحة — معدات وملحقات مهنية."
+      },
+      {
+        "language": "es",
+        "designation": "Seguridad y salud",
+        "description": "Categoría Seguridad y salud — equipos y accesorios profesionales."
+      }
+    ],
+    "parent": "65f000000000000000001000",
+    "children": [],
+    "taxonomies": [
+      "65f000000000000000000448",
+      "65f000000000000000000449",
+      "65f000000000000000000450",
+      "65f000000000000000000451",
+      "65f000000000000000000452",
+      "65f000000000000000000453",
+      "65f000000000000000000454",
+      "65f000000000000000000455",
+      "65f000000000000000000456",
+      "65f000000000000000000457",
+      "65f000000000000000000458",
+      "65f000000000000000000459",
+      "65f000000000000000000460",
+      "65f000000000000000000461",
+      "65f000000000000000000462",
+      "65f000000000000000000463",
+      "65f000000000000000000464",
+      "65f000000000000000000465",
+      "65f000000000000000000466",
+      "65f000000000000000000467",
+      "65f000000000000000000468",
+      "65f000000000000000000469",
+      "65f000000000000000000470",
+      "65f000000000000000000471",
+      "65f000000000000000000472",
+      "65f000000000000000000473",
+      "65f000000000000000000474",
+      "65f000000000000000000475",
+      "65f000000000000000000476",
+      "65f000000000000000000477",
+      "65f000000000000000000478",
+      "65f000000000000000000479",
+      "65f000000000000000000480",
+      "65f000000000000000000481",
+      "65f000000000000000000482",
+      "65f000000000000000000483",
+      "65f000000000000000000484",
+      "65f000000000000000000485",
+      "65f000000000000000000486",
+      "65f000000000000000000488",
+      "65f000000000000000000489",
+      "65f000000000000000000490",
+      "65f000000000000000000491",
+      "65f000000000000000000492",
+      "65f000000000000000000493",
+      "65f000000000000000000494",
+      "65f000000000000000000495",
+      "65f000000000000000000496",
+      "65f000000000000000000497",
+      "65f000000000000000000498",
+      "65f000000000000000000499",
+      "65f000000000000000000500",
+      "65f000000000000000000501",
+      "65f000000000000000000502",
+      "65f000000000000000000503",
+      "65f000000000000000000504",
+      "65f000000000000000000505",
+      "65f000000000000000000506",
+      "65f000000000000000000507",
+      "65f000000000000000000508",
+      "65f000000000000000000509",
+      "65f000000000000000000510",
+      "65f000000000000000000511",
+      "65f000000000000000000512",
+      "65f000000000000000000513",
+      "65f000000000000000000514",
+      "65f000000000000000000515",
+      "65f000000000000000000516",
+      "65f000000000000000000517",
+      "65f000000000000000000518",
+      "65f000000000000000000519",
+      "65f000000000000000000520",
+      "65f000000000000000000521",
+      "65f000000000000000000522",
+      "65f000000000000000000523",
+      "65f000000000000000000524",
+      "65f000000000000000000525",
+      "65f000000000000000000526",
+      "65f000000000000000000527",
+      "65f000000000000000000528",
+      "65f000000000000000000529",
+      "65f000000000000000000530",
+      "65f000000000000000000531",
+      "65f000000000000000000532",
+      "65f000000000000000000533",
+      "65f000000000000000000534",
+      "65f000000000000000000535",
+      "65f000000000000000000536",
+      "65f000000000000000000537",
+      "65f000000000000000000538",
+      "65f000000000000000000539",
+      "65f000000000000000000540",
+      "65f000000000000000000541",
+      "65f000000000000000000f05"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "code_3417",
+    "createdAt": "2024-03-15T08:00:00.000Z",
+    "updatedAt": "2024-03-15T08:00:00.000Z"
+  },
+  {
+    "_id": "65f000000000000000000004",
+    "code": "fournitures industrielles et outillage",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Fournitures industrielles et outillage",
+        "description": "Fournitures industrielles, outillage et accessoires pour les professionnels."
+      },
+      {
+        "language": "en",
+        "designation": "Industrial Supplies and Tools",
+        "description": "Category Industrial Supplies and Tools — professional equipment and accessories."
+      },
+      {
+        "language": "ar",
+        "designation": "اللوازم الصناعية والأدوات",
+        "description": "فئة اللوازم الصناعية والأدوات — معدات وملحقات مهنية."
+      },
+      {
+        "language": "es",
+        "designation": "Suministros industriales y herramientas",
+        "description": "Categoría Suministros industriales y herramientas — equipos y accesorios profesionales."
+      }
+    ],
+    "parent": "65f000000000000000001000",
+    "children": [],
+    "taxonomies": [
+      "65f000000000000000000542",
+      "65f000000000000000000543",
+      "65f000000000000000000544",
+      "65f000000000000000000545",
+      "65f000000000000000000546",
+      "65f000000000000000000547",
+      "65f000000000000000000548",
+      "65f000000000000000000549",
+      "65f000000000000000000550",
+      "65f000000000000000000551",
+      "65f000000000000000000552",
+      "65f000000000000000000553",
+      "65f000000000000000000554",
+      "65f000000000000000000555",
+      "65f000000000000000000556",
+      "65f000000000000000000557",
+      "65f000000000000000000558",
+      "65f000000000000000000559",
+      "65f000000000000000000560",
+      "65f000000000000000000561",
+      "65f000000000000000000562",
+      "65f000000000000000000563",
+      "65f000000000000000000564",
+      "65f000000000000000000565",
+      "65f000000000000000000566",
+      "65f000000000000000000567",
+      "65f000000000000000000568",
+      "65f000000000000000000569",
+      "65f000000000000000000570",
+      "65f000000000000000000571",
+      "65f000000000000000000572",
+      "65f000000000000000000573",
+      "65f000000000000000000574",
+      "65f000000000000000000575",
+      "65f000000000000000000576",
+      "65f000000000000000000577",
+      "65f000000000000000000578",
+      "65f000000000000000000579",
+      "65f000000000000000000580",
+      "65f000000000000000000581"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "code_3417",
+    "createdAt": "2024-03-15T08:00:00.000Z",
+    "updatedAt": "2024-03-15T08:00:00.000Z"
+  },
+  {
+    "_id": "65f000000000000000000005",
+    "code": "espace exterieur",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Espace extérieur",
+        "description": "Équipements et aménagements pour les espaces extérieurs professionnels."
+      },
+      {
+        "language": "en",
+        "designation": "Outdoor Area",
+        "description": "Category Outdoor Area — professional equipment and accessories."
+      },
+      {
+        "language": "ar",
+        "designation": "المساحة الخارجية",
+        "description": "فئة المساحة الخارجية — معدات وملحقات مهنية."
+      },
+      {
+        "language": "es",
+        "designation": "Espacio exterior",
+        "description": "Categoría Espacio exterior — equipos y accesorios profesionales."
+      }
+    ],
+    "parent": "65f000000000000000001000",
+    "children": [],
+    "taxonomies": [
+      "65f000000000000000000582",
+      "65f000000000000000000583",
+      "65f000000000000000000584",
+      "65f000000000000000000585",
+      "65f000000000000000000586",
+      "65f000000000000000000587",
+      "65f000000000000000000588",
+      "65f000000000000000000589",
+      "65f000000000000000000590",
+      "65f000000000000000000591",
+      "65f000000000000000000592",
+      "65f000000000000000000593",
+      "65f000000000000000000594",
+      "65f000000000000000000595",
+      "65f000000000000000000596",
+      "65f000000000000000000597"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "code_3417",
+    "createdAt": "2024-03-15T08:00:00.000Z",
+    "updatedAt": "2024-03-15T08:00:00.000Z"
+  },
+  {
+    "_id": "65f000000000000000000a07",
+    "code": "relation Inter acteur",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Relation inter-acteur",
+        "description": ""
+      },
+      {
+        "language": "en",
+        "designation": "Relation inter-acteur",
+        "description": ""
+      }
+    ],
+    "parent": null,
+    "children": [],
+    "taxonomies": [
+      "65f000000000000000000625"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2024-03-15T08:00:00.000Z",
+    "updatedAt": "2024-03-15T08:00:00.000Z"
+  },
+  {
+    "_id": "65f000000000000000000a23",
+    "code": "couleur saison",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Couleur de saison",
+        "description": ""
+      },
+      {
+        "language": "en",
+        "designation": "Couleur de saison",
+        "description": ""
+      }
+    ],
+    "parent": null,
+    "children": [],
+    "taxonomies": [
+      "65f000000000000000000681",
+      "65f000000000000000000682",
+      "65f000000000000000000683",
+      "65f000000000000000000684"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2024-03-15T08:00:00.000Z",
+    "updatedAt": "2024-03-15T08:00:00.000Z"
+  },
+  {
+    "_id": "65f000000000000000000e01",
+    "code": "types evenements",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Types d'événements"
+      },
+      {
+        "language": "en",
+        "designation": "Types d'événements"
+      },
+      {
+        "language": "ar",
+        "designation": "Types d'événements"
+      },
+      {
+        "language": "es",
+        "designation": "Types d'événements"
+      }
+    ],
+    "parent": "65f000000000000000000a08",
+    "children": [],
+    "taxonomies": [
+      "65f000000000000000000b02",
+      "65f000000000000000000f03"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2024-05-01T00:00:00.000Z",
+    "updatedAt": "2024-05-01T00:00:00.000Z"
+  },
+  {
+    "_id": "65f000000000000000000e02",
+    "code": "types programme",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Types de programme"
+      },
+      {
+        "language": "en",
+        "designation": "Types de programme"
+      },
+      {
+        "language": "ar",
+        "designation": "Types de programme"
+      },
+      {
+        "language": "es",
+        "designation": "Types de programme"
+      }
+    ],
+    "parent": "65f000000000000000000a09",
+    "children": [],
+    "taxonomies": [
+      "65f000000000000000000b03",
+      "65f000000000000000000b04",
+      "65f000000000000000000f04",
+      "65f000000000000000000f0a"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2024-05-01T00:00:00.000Z",
+    "updatedAt": "2024-05-01T00:00:00.000Z"
+  },
+  {
+    "_id": "65f000000000000000000e03",
+    "code": "categories faq",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Catégories FAQ"
+      },
+      {
+        "language": "en",
+        "designation": "Catégories FAQ"
+      },
+      {
+        "language": "ar",
+        "designation": "Catégories FAQ"
+      },
+      {
+        "language": "es",
+        "designation": "Catégories FAQ"
+      }
+    ],
+    "parent": "65f000000000000000000a10",
+    "children": [],
+    "taxonomies": [
+      "65f000000000000000000630"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2024-05-01T00:00:00.000Z",
+    "updatedAt": "2024-05-01T00:00:00.000Z"
+  },
+  {
+    "_id": "65f000000000000000000e04",
+    "code": "categories forum",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Catégories forum"
+      },
+      {
+        "language": "en",
+        "designation": "Catégories forum"
+      },
+      {
+        "language": "ar",
+        "designation": "Catégories forum"
+      },
+      {
+        "language": "es",
+        "designation": "Catégories forum"
+      }
+    ],
+    "parent": "65f000000000000000000a11",
+    "children": [],
+    "taxonomies": [
+      "65f000000000000000000631",
+      "65f000000000000000000632",
+      "65f000000000000000000633",
+      "65f000000000000000000634",
+      "4a7b23b82a925b752e1a5fed",
+      "65f000000000000000000636"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2024-05-01T00:00:00.000Z",
+    "updatedAt": "2024-05-01T00:00:00.000Z"
+  },
+  {
+    "_id": "65f000000000000000000e05",
+    "code": "types theme",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Types de thème"
+      },
+      {
+        "language": "en",
+        "designation": "Types de thème"
+      },
+      {
+        "language": "ar",
+        "designation": "Types de thème"
+      },
+      {
+        "language": "es",
+        "designation": "Types de thème"
+      }
+    ],
+    "parent": "65f000000000000000000a12",
+    "children": [],
+    "taxonomies": [
+      "65f000000000000000000641",
+      "706e51fb75743eeeff0438f7",
+      "65f000000000000000000643",
+      "65f000000000000000000644",
+      "65f000000000000000000645",
+      "65f000000000000000000646",
+      "65f000000000000000000647",
+      "65f000000000000000000648"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2024-05-01T00:00:00.000Z",
+    "updatedAt": "2024-05-01T00:00:00.000Z"
+  },
+  {
+    "_id": "65f000000000000000000e06",
+    "code": "categories rubrique",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Catégories rubrique"
+      },
+      {
+        "language": "en",
+        "designation": "Catégories rubrique"
+      },
+      {
+        "language": "ar",
+        "designation": "Catégories rubrique"
+      },
+      {
+        "language": "es",
+        "designation": "Catégories rubrique"
+      }
+    ],
+    "parent": "65f000000000000000000a14",
+    "children": [],
+    "taxonomies": [
+      "65f000000000000000000006",
+      "65f000000000000000000254",
+      "65f000000000000000000487",
+      "65f000000000000000000b05",
+      "65f000000000000000000b06",
+      "65f000000000000000000b07"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2024-05-01T00:00:00.000Z",
+    "updatedAt": "2024-05-01T00:00:00.000Z"
+  },
+  {
+    "_id": "65f000000000000000000e07",
+    "code": "statuts",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Statuts"
+      },
+      {
+        "language": "en",
+        "designation": "Statuts"
+      },
+      {
+        "language": "ar",
+        "designation": "Statuts"
+      },
+      {
+        "language": "es",
+        "designation": "Statuts"
+      }
+    ],
+    "parent": "65f000000000000000000a24",
+    "children": [],
+    "taxonomies": [
+      "558c4ae2610a08ffa5034b73"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2024-05-01T00:00:00.000Z",
+    "updatedAt": "2024-05-01T00:00:00.000Z"
+  },
+  {
+    "_id": "65f000000000000000000e08",
+    "code": "types produit",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Types de produit"
+      },
+      {
+        "language": "en",
+        "designation": "Types de produit"
+      },
+      {
+        "language": "ar",
+        "designation": "Types de produit"
+      },
+      {
+        "language": "es",
+        "designation": "Types de produit"
+      }
+    ],
+    "parent": "65f000000000000000000a28",
+    "children": [],
+    "taxonomies": [
+      "65f000000000000000000695",
+      "65f000000000000000000696"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2024-05-01T00:00:00.000Z",
+    "updatedAt": "2024-05-01T00:00:00.000Z"
+  },
+  {
+    "_id": "65f000000000000000000e09",
+    "code": "fonctions",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Fonctions"
+      },
+      {
+        "language": "en",
+        "designation": "Fonctions"
+      },
+      {
+        "language": "ar",
+        "designation": "Fonctions"
+      },
+      {
+        "language": "es",
+        "designation": "Fonctions"
+      }
+    ],
+    "parent": "65f000000000000000000a29",
+    "children": [],
+    "taxonomies": [
+      "65f0000000000000000006a0",
+      "65f0000000000000000006a1",
+      "65f0000000000000000006a2",
+      "65f0000000000000000006a3"
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2024-05-01T00:00:00.000Z",
+    "updatedAt": "2024-05-01T00:00:00.000Z"
+  },
+  {
+    "_id": "65f000000000000000000a08",
+    "code": "categorieEvenement",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Catégorie d'événements"
+      }
+    ],
+    "parent": "63617465676f726965457665",
+    "children": [
+      "65f000000000000000000e01"
+    ],
+    "taxonomies": [],
+    "hasTaxonomies": false,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "_id": "65f000000000000000000a09",
+    "code": "categorieProgramme",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Catégorie de programmes"
+      }
+    ],
+    "parent": "63617465676f72696550726f",
+    "children": [
+      "65f000000000000000000e02"
+    ],
+    "taxonomies": [],
+    "hasTaxonomies": false,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "_id": "65f000000000000000000a10",
+    "code": "faq",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "FAQ"
+      }
+    ],
+    "parent": "666171000000000000000000",
+    "children": [
+      "65f000000000000000000e03"
+    ],
+    "taxonomies": [],
+    "hasTaxonomies": false,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "_id": "65f000000000000000000a11",
+    "code": "forum",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Forum"
+      }
+    ],
+    "parent": "666f72756d00000000000000",
+    "children": [
+      "65f000000000000000000e04"
+    ],
+    "taxonomies": [],
+    "hasTaxonomies": false,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "_id": "65f000000000000000000a12",
+    "code": "theme",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Thème"
+      }
+    ],
+    "parent": "7468656d6500000000000000",
+    "children": [
+      "65f000000000000000000e05"
+    ],
+    "taxonomies": [],
+    "hasTaxonomies": false,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "_id": "65f000000000000000000a14",
+    "code": "categorieRubriqueArticle",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Catégorie rubrique article"
+      }
+    ],
+    "parent": "63617465676f726965527562",
+    "children": [
+      "65f000000000000000000e06"
+    ],
+    "taxonomies": [],
+    "hasTaxonomies": false,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "_id": "65f000000000000000000a24",
+    "code": "statut",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Statut"
+      }
+    ],
+    "parent": "737461747574000000000000",
+    "children": [
+      "65f000000000000000000e07"
+    ],
+    "taxonomies": [],
+    "hasTaxonomies": false,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "_id": "65f000000000000000000a28",
+    "code": "typeProduit",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Type de produit"
+      }
+    ],
+    "parent": "7479706550726f6475697400",
+    "children": [
+      "65f000000000000000000e08"
+    ],
+    "taxonomies": [],
+    "hasTaxonomies": false,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "_id": "65f000000000000000000a29",
+    "code": "fonction",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Fonction"
+      }
+    ],
+    "parent": "666f6e6374696f6e00000000",
+    "children": [
+      "65f000000000000000000e09"
+    ],
+    "taxonomies": [],
+    "hasTaxonomies": false,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  }
+]

@@ -56,4 +56,13 @@ export class ApiService {
   createCheckoutSession(planName: string, amount: number): Observable<{ url: string; sessionId: string }> {
     return this.http.post<{ url: string; sessionId: string }>(`${this.baseUrl}/stripe/checkout`, { planName, amount });
   }
+
+  // Domains & Taxonomies
+  getDomains(): Observable<any[]> {
+    return this.http.get<any[]>(`${this.baseUrl}/domains`);
+  }
+
+  getTaxonomies(): Observable<any[]> {
+    return this.http.get<any[]>(`${this.baseUrl}/taxonomies`);
+  }
 }

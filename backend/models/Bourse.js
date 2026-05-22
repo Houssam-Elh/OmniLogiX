@@ -1,16 +1,14 @@
 const mongoose = require('mongoose');
 
-const BourseSchema = new mongoose.Schema({
-  category: { type: String, required: true },
-  title: { type: String, required: true },
-  origin: { type: String },
-  destination: { type: String },
-  cargo: { type: String },
-  date: { type: String },
-  price: { type: String },
+const bourseSchema = new mongoose.Schema({
+  category: String,
+  title: String,
+  origin: String,
+  destination: String,
+  cargo: String,
+  date: String,
+  price: String,
   active: { type: Boolean, default: true }
-}, { 
-  timestamps: true 
-});
+}, { timestamps: true });
 
-module.exports = mongoose.model('Bourse', BourseSchema);
+module.exports = mongoose.model('Bourse', bourseSchema);

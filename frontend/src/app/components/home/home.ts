@@ -1,319 +1,1544 @@
-import { Component } from '@angular/core';
+import { Component, inject, OnInit } from '@angular/core';
 import { RouterLink } from '@angular/router';
+import { CommonModule } from '@angular/common';
+import { FormsModule } from '@angular/forms';
+import { ApiService } from '../../services/api.service';
+
+interface SubCategory {
+  name: string;
+  nameFr: string;
+  count: string;
+  iconPath: string;
+}
+
+interface CategoryTab {
+  id: string;
+  title: string;
+  titleFr: string;
+  count: string;
+  subcategories: SubCategory[];
+}
 
 @Component({
   selector: 'app-home',
   standalone: true,
-  imports: [RouterLink],
+  imports: [RouterLink, CommonModule, FormsModule],
   template: `
-    <!-- HERO SECTION -->
-    <section class="hero">
-      <div class="hero-bg-shapes">
-        <div class="shape shape-1"></div>
-        <div class="shape shape-2"></div>
-        <div class="shape shape-3"></div>
-        <div class="shape shape-4"></div>
-      </div>
-      <div class="hero-content">
-        <div class="hero-badge">🚀 Plateforme Logistique Digitale N°1 au Maroc</div>
-        <h1 class="hero-title">
-          <span class="title-line">La Plateforme</span>
-          <span class="title-gradient">OMNILOG</span>
-        </h1>
-        <p class="hero-subtitle">Votre écosystème numérique complet pour la logistique & le transport. Marketplaces, bourses, services administratifs et IA — tout en un seul endroit.</p>
-        <div class="hero-cta">
-          <a routerLink="/marketplace" class="btn-primary">Découvrir la Marketplace</a>
-          <a routerLink="/bourses" class="btn-outline">Accéder aux Bourses</a>
-        </div>
-        <div class="hero-stats">
-          <div class="stat"><span class="stat-num">5 000+</span><span class="stat-label">Professionnels</span></div>
-          <div class="stat-divider"></div>
-          <div class="stat"><span class="stat-num">12 000+</span><span class="stat-label">Annonces</span></div>
-          <div class="stat-divider"></div>
-          <div class="stat"><span class="stat-num">200+</span><span class="stat-label">Partenaires</span></div>
-          <div class="stat-divider"></div>
-          <div class="stat"><span class="stat-num">24/7</span><span class="stat-label">Support IA</span></div>
-        </div>
-      </div>
-    </section>
 
-    <!-- 7 ESPACES SECTION -->
-    <section class="espaces-section">
-      <div class="section-container">
-        <div class="section-header">
-          <span class="section-tag">Architecture Plateforme</span>
-          <h2 class="section-title">Nos <span class="hl">7 Espaces</span> Dédiés</h2>
-          <p class="section-desc">Un écosystème numérique complet pour tous les besoins de la logistique et du transport.</p>
+
+    <!-- MAIN BODY PORTAL -->
+    <main class="autoline-main">
+      
+      <!-- MAIN BODY HEADER (IMAGE 2 style) -->
+      <div class="homepage-main-header">
+        <h1 class="main-heading">Rechercher des camions, bus et pièces de rechange</h1>
+        <div class="main-stats-group">
+          <span class="stats-count-badge">448 936 annonces</span>
+          <a class="btn-place-ad-header" [routerLink]="['/contact']">+ Placer une annonce</a>
         </div>
-        <div class="espaces-grid">
-          @for (espace of espaces; track espace.id) {
-            <div class="espace-card" [style.--accent]="espace.color">
-              <div class="espace-icon">{{ espace.icon }}</div>
-              <h3>{{ espace.title }}</h3>
-              <p>{{ espace.desc }}</p>
-              <div class="espace-glow"></div>
+      </div>
+
+      <!-- DOMAINS QUICK NAVIGATION BAR (IMAGE 3 style) -->
+      <div class="domains-nav-section">
+        <div class="domains-nav-container">
+          <button class="domain-nav-link" (click)="scrollToSection('section-trucks-buses')">
+            Poids lourds & Autobus
+          </button>
+          <button class="domain-nav-link" (click)="scrollToSection('section-cars-motorcycles')">
+            Voitures & Motos
+          </button>
+          <button class="domain-nav-link" (click)="scrollToSection('section-construction-equipment')">
+            Matériel de construction
+          </button>
+          <button class="domain-nav-link" (click)="scrollToSection('section-material-handling')">
+            Matériel de manutention
+          </button>
+          <button class="domain-nav-link" (click)="scrollToSection('section-equipment-btp')">
+            Équipements & Pièces
+          </button>
+          <button class="domain-nav-link" (click)="scrollToSection('section-spare-parts-search')">
+            Recherche Pièces
+          </button>
+        </div>
+      </div>
+
+      <!-- FLAT WHITE CONTAINER BLOCK -->
+      <div class="content-container">
+
+        <!-- SECTION 1: TRUCKS & BUSES (IMAGE 4 STYLE) -->
+        <div id="section-trucks-buses" class="domain-section">
+          <div class="domain-section-header">
+            <h2 class="domain-section-title">Poids lourds & Autobus</h2>
+          </div>
+
+          <div class="directory-flat-grid">
+            @for (sub of getSubcategories('trucks_buses'); track sub.name) {
+              <a class="flat-category-card" [routerLink]="['/-', slugify(sub.name)]">
+                <span class="card-count-top">{{ sub.count }}</span>
+                <div class="card-icon-container">
+                  @if (hasSvgIcon(sub.name)) {
+                    <img [src]="getSvgIconPath(sub.name)" class="line-icon-flat" [alt]="sub.nameFr">
+                  } @else {
+                    <div class="card-icon-placeholder-box">
+                      <span class="placeholder-icon-symbol">🚛</span>
+                    </div>
+                  }
+                </div>
+                <span class="category-name">{{ sub.nameFr }}</span>
+              </a>
+            }
+
+            <!-- Box 1: ads database count -->
+            <div class="ads-db-box">
+              <span class="db-box-label">Le nombre d'annonces dans notre base :</span>
+              <span class="db-box-count-badge">448 936</span>
+              <a class="db-box-link" [routerLink]="['/contact']">Placer votre annonce</a>
             </div>
-          }
-        </div>
-      </div>
-    </section>
 
-    <!-- DOMAINES SECTION -->
-    <section class="domaines-section">
-      <div class="section-container">
-        <div class="section-header">
-          <span class="section-tag">Domaines d'Activité</span>
-          <h2 class="section-title">Couverture <span class="hl">Multi-Sectorielle</span></h2>
-        </div>
-        <div class="domaines-grid">
-          @for (domaine of domaines; track domaine.name) {
-            <div class="domaine-card">
-              <span class="domaine-icon">{{ domaine.icon }}</span>
-              <h4>{{ domaine.name }}</h4>
-              <p>{{ domaine.desc }}</p>
+            <!-- Box 2: selling banner -->
+            <div class="selling-banner-autoline">
+              <div class="selling-banner-left">
+                <div class="selling-camera-circle">
+                  <i class="fas fa-camera"></i>
+                </div>
+                <div class="selling-banner-text">
+                  <h3>Vendre des machines ou des véhicules ?</h3>
+                  <p>Vous pouvez le faire avec nous !</p>
+                </div>
+              </div>
+              <button class="btn-selling-banner" [routerLink]="['/contact']">
+                Placer une annonce
+              </button>
             </div>
-          }
+          </div>
         </div>
-      </div>
-    </section>
 
-    <!-- CTA SECTION -->
-    <section class="cta-section">
-      <div class="cta-container">
-        <h2>Rejoignez <span class="hl">OMNILOG</span> Aujourd'hui</h2>
-        <p>Accédez gratuitement à la plateforme et développez votre activité logistique au Maroc.</p>
-        <div class="cta-buttons">
-          <a routerLink="/login" class="btn-primary btn-lg">Créer un Compte Gratuit</a>
-          <a routerLink="/contact" class="btn-outline btn-lg">Nous Contacter</a>
+        <!-- SECTION 2: CARS & MOTORCYCLES (IMAGE 5 STYLE) -->
+        <div id="section-cars-motorcycles" class="domain-section">
+          <div class="domain-section-header">
+            <h2 class="domain-section-title">Voitures & Motos</h2>
+          </div>
+
+          <div class="directory-flat-grid">
+            @for (sub of getSubcategories('cars_motorhomes_motorcycles'); track sub.name) {
+              <a class="flat-category-card" [routerLink]="['/-', slugify(sub.name)]">
+                <span class="card-count-top">{{ sub.count }}</span>
+                <div class="card-icon-container">
+                  @if (hasSvgIcon(sub.name)) {
+                    <img [src]="getSvgIconPath(sub.name)" class="line-icon-flat" [alt]="sub.nameFr">
+                  } @else {
+                    <div class="card-icon-placeholder-box">
+                      <span class="placeholder-icon-symbol">🚗</span>
+                    </div>
+                  }
+                </div>
+                <span class="category-name">{{ sub.nameFr }}</span>
+              </a>
+            }
+          </div>
         </div>
+
+        <!-- SECTION 4: CONSTRUCTION EQUIPMENT (NEW SECTION) -->
+        <div id="section-construction-equipment" class="domain-section">
+          <div class="domain-section-header">
+            <h2 class="domain-section-title">Matériel de construction</h2>
+          </div>
+
+          <div class="directory-flat-grid">
+            @for (sub of getSubcategories('construction_equipment'); track sub.name) {
+              <a class="flat-category-card" [routerLink]="['/-', slugify(sub.name)]">
+                <span class="card-count-top">{{ sub.count }}</span>
+                <div class="card-icon-container">
+                  @if (hasSvgIcon(sub.name)) {
+                    <img [src]="getSvgIconPath(sub.name)" class="line-icon-flat" [alt]="sub.nameFr">
+                  } @else {
+                    <div class="card-icon-placeholder-box">
+                      <span class="placeholder-icon-symbol">🏗️</span>
+                    </div>
+                  }
+                </div>
+                <span class="category-name">{{ sub.nameFr }}</span>
+              </a>
+            }
+          </div>
+        </div>
+
+        <!-- SECTION 5: MATERIAL HANDLING EQUIPMENT (NEW SECTION) -->
+        <div id="section-material-handling" class="domain-section">
+          <div class="domain-section-header">
+            <h2 class="domain-section-title">Matériel de manutention</h2>
+          </div>
+
+          <div class="directory-flat-grid">
+            @for (sub of getSubcategories('material_handling_equipment'); track sub.name) {
+              <a class="flat-category-card" [routerLink]="['/-', slugify(sub.name)]">
+                <span class="card-count-top">{{ sub.count }}</span>
+                <div class="card-icon-container">
+                  @if (hasSvgIcon(sub.name)) {
+                    <img [src]="getSvgIconPath(sub.name)" class="line-icon-flat" [alt]="sub.nameFr">
+                  } @else {
+                    <div class="card-icon-placeholder-box">
+                      <span class="placeholder-icon-symbol">⚙️</span>
+                    </div>
+                  }
+                </div>
+                <span class="category-name">{{ sub.nameFr }}</span>
+              </a>
+            }
+          </div>
+        </div>
+
+        <!-- SECTION 3: ATTACHMENTS, SPARE PARTS, SERVICES (IMAGE 5 BOTTOM STYLE) -->
+        <div id="section-equipment-btp" class="domain-section">
+          <div class="domain-section-header">
+            <h2 class="domain-section-title">Équipements & Pièces</h2>
+          </div>
+
+          <div class="directory-flat-grid">
+            @for (sub of getSubcategories('attachments_spare_parts_services'); track sub.name) {
+              <a 
+                [id]="getCategoryElementId(sub.name)"
+                class="flat-category-card" 
+                [routerLink]="['/-', slugify(sub.name)]">
+                <span class="card-count-top">{{ sub.count }}</span>
+                <div class="card-icon-container">
+                  @if (hasSvgIcon(sub.name)) {
+                    <img [src]="getSvgIconPath(sub.name)" class="line-icon-flat" [alt]="sub.nameFr">
+                  } @else {
+                    <div class="card-icon-placeholder-box">
+                      <span class="placeholder-icon-symbol">⚙️</span>
+                    </div>
+                  }
+                </div>
+                <span class="category-name">{{ sub.nameFr }}</span>
+              </a>
+            }
+          </div>
+        </div>
+
+        <!-- SPECIAL SPARE PARTS SEARCH + BRAND GRID -->
+        <div id="section-spare-parts-search" class="flat-spare-parts-section">
+          <div class="spare-header">
+            <div class="spare-title-group">
+              <div class="gears-icon-wrapper">
+                <i class="fas fa-gears gears-icon"></i>
+              </div>
+              <div>
+                <h3>Recherche Spécifique de Pièces de Rechange</h3>
+                <p>Parcourez plus de 319 000 pièces industrielles indexées</p>
+              </div>
+            </div>
+            <span class="spare-count-badge">319 414 pièces en stock</span>
+          </div>
+
+          <div class="spare-search-bar-flat">
+            <div class="spare-input-wrapper">
+              <i class="fas fa-search spare-search-icon"></i>
+              <input 
+                type="text" 
+                [(ngModel)]="spareSearchQuery" 
+                placeholder="Référence de pièce, marque, modèle ou nom (Ex: DAF Engine, Scania Cabin...)" 
+                (keyup.enter)="triggerSpareSearch()"
+                class="spare-search-input-flat">
+            </div>
+            <button class="btn-spare-search-flat" (click)="triggerSpareSearch()">Rechercher</button>
+            <button class="btn-spare-order-flat" (click)="triggerSpareSearch()">Commander une pièce</button>
+          </div>
+
+          <div class="spare-examples-flat">
+            Recherches populaires : 
+            <span class="example-tag" (click)="setSpareQuery('DAF Engine')">DAF Engine</span>
+            <span class="example-tag" (click)="setSpareQuery('Scania R410')">Scania R410</span>
+            <span class="example-tag" (click)="setSpareQuery('Volvo Gearbox')">Volvo Gearbox</span>
+            <span class="example-tag" (click)="setSpareQuery('ZF Retarder')">ZF Retarder</span>
+          </div>
+
+          <h4 class="brand-grid-title">Marques de pièces détachées populaires :</h4>
+          <div class="spare-brand-grid-flat">
+            @for (brand of popularSparePartsBrands; track brand.name) {
+              <div class="spare-brand-card-flat" (click)="setSpareQuery(brand.name)">
+                <span class="brand-name-flat">{{ brand.name }}</span>
+                <span class="brand-count-flat">{{ brand.count }}</span>
+              </div>
+            }
+          </div>
+        </div>
+
+        <!-- FEATURED ADS SECTION -->
+        <div class="flat-featured-section">
+          <div class="featured-header-flat">
+            <h3>Annonces Vedettes Premium</h3>
+            <button class="btn-view-all-flat" [routerLink]="['/marketplace']">
+              Voir tout le catalogue <i class="fas fa-arrow-right"></i>
+            </button>
+          </div>
+
+          <div class="featured-grid-flat">
+            @for (item of getFeaturedListings(); track item.id) {
+              <div class="flat-listing-card">
+                <div class="listing-img-box">
+                  <span class="listing-emoji-box">{{ getVehicleEmoji(item.type) }}</span>
+                  <div class="listing-badge-price">{{ item.price }}</div>
+                  <div class="listing-vip-tag"><i class="fas fa-crown"></i> Vedette</div>
+                </div>
+                
+                <div class="listing-content-box">
+                  <h4 class="listing-title-text">{{ item.title }}</h4>
+                  <p class="listing-location-text">
+                    <i class="fas fa-map-marker-alt"></i> {{ item.location }} — Maroc
+                  </p>
+
+                  <div class="listing-specs-flat">
+                    <span class="spec-chip">📅 {{ item.year }}</span>
+                    <span class="spec-chip">🛣️ {{ item.mileage }}</span>
+                    <span class="spec-chip">⚡ {{ item.power }}</span>
+                    <span class="spec-chip">⚙️ {{ item.axle }}</span>
+                  </div>
+
+                  <div class="listing-footer-flat">
+                    <span class="flat-verified"><i class="fas fa-check-circle"></i> Annonce Vérifiée</span>
+                    <button class="btn-consult-flat" [routerLink]="['/marketplace']" [queryParams]="{ id: item.id }">
+                      Consulter <i class="fas fa-chevron-right"></i>
+                    </button>
+                  </div>
+                </div>
+              </div>
+            }
+          </div>
+        </div>
+
+        <!-- DOUBLE CTA CARDS -->
+        <div class="double-cta-grid">
+          <div class="cta-flat-card cta-blue-flat">
+            <div class="cta-icon-flat">🚛</div>
+            <div class="cta-content-flat">
+              <h4>Estimer la valeur de mon véhicule industriel</h4>
+              <p>Obtenez gratuitement une estimation professionnelle en ligne de la valeur de vos camions et semi-remorques au Maroc.</p>
+              <button class="btn-cta-flat-white" [routerLink]="['/contact']">Estimer mon camion</button>
+            </div>
+          </div>
+          
+          <div class="cta-flat-card cta-orange-flat">
+            <div class="cta-icon-flat">🤖</div>
+            <div class="cta-content-flat">
+              <h4>Assistant Intelligent RAG OMNILOGIX</h4>
+              <p>Notre chatbot IA vous conseille en temps réel sur la réglementation des transports au Maroc, le malus écologique et le sourcing de pièces.</p>
+              <button class="btn-cta-flat-white" [routerLink]="['/marketplace']">Essayer l'assistant IA</button>
+            </div>
+          </div>
+        </div>
+
       </div>
-    </section>
+    </main>
   `,
   styles: [`
-    /* ===== HERO ===== */
-    .hero {
-      min-height: 100vh; display: flex; align-items: center; justify-content: center;
-      background: linear-gradient(170deg, #ffffff 0%, #f0f6ff 40%, #e6effd 100%);
-      position: relative; overflow: hidden; padding: 6rem 2rem 4rem;
+    /* ===== PREMIUM HIGH-DENSITY FLAT DESIGN SYSTEM ===== */
+    :host {
+      --color-primary: #0d52b9;   /* Official Autoline dark blue */
+      --color-accent: #ff5a00;    /* Autoline signature orange */
+      --color-green: #22c55e;     /* Positive active green */
+      --color-border: #e1e6eb;    /* Clean bordered divider style */
+      --color-bg-light: #f5f6f9;  /* Standard flat light grey body */
+      --color-text-dark: #2c3e50;
+      --color-text-muted: #7f8c8d;
+      
+      display: block;
+      font-family: 'Inter', 'Outfit', sans-serif;
+      background-color: var(--color-bg-light);
+      color: var(--color-text-dark);
+      min-height: 100vh;
     }
-    .hero-bg-shapes { position: absolute; inset: 0; pointer-events: none; }
-    .shape {
-      position: absolute; border-radius: 50%; opacity: 0.15;
-      animation: float 8s ease-in-out infinite;
-    }
-    .shape-1 {
-      width: 500px; height: 500px; top: -10%; right: -5%;
-      background: radial-gradient(circle, #00c0f0, transparent 70%);
-      animation-delay: 0s;
-    }
-    .shape-2 {
-      width: 400px; height: 400px; bottom: -5%; left: -5%;
-      background: radial-gradient(circle, #0056e0, transparent 70%);
-      animation-delay: 2s;
-    }
-    .shape-3 {
-      width: 200px; height: 200px; top: 30%; left: 15%;
-      background: radial-gradient(circle, #00c0f0, transparent 70%);
-      animation-delay: 4s;
-    }
-    .shape-4 {
-      width: 300px; height: 300px; top: 20%; right: 20%;
-      background: radial-gradient(circle, #0056e0, transparent 70%);
-      animation-delay: 6s;
-    }
-    @keyframes float {
-      0%, 100% { transform: translateY(0) scale(1); }
-      50% { transform: translateY(-30px) scale(1.05); }
-    }
-    .hero-content { text-align: center; max-width: 850px; position: relative; z-index: 2; }
-    .hero-badge {
-      display: inline-block; padding: 0.5rem 1.5rem; border-radius: 50px;
-      background: rgba(0, 86, 224, 0.06); border: 1px solid rgba(0, 86, 224, 0.15);
-      color: #0056e0; font-size: 0.85rem; font-weight: 600; margin-bottom: 2rem;
-      animation: fadeInDown 0.8s ease;
-    }
-    .hero-title { margin-bottom: 1.5rem; animation: fadeInDown 1s ease; }
-    .title-line {
-      display: block; font-size: 1.8rem; font-weight: 400; color: #4b6584;
-      letter-spacing: 2px; text-transform: uppercase;
-    }
-    .title-gradient {
-      display: block; font-size: 5rem; font-weight: 900; letter-spacing: 8px;
-      background: linear-gradient(135deg, #0056e0 0%, #00c0f0 50%, #003fa3 100%);
-      background-size: 200% auto;
-      -webkit-background-clip: text; -webkit-text-fill-color: transparent;
-      animation: gradient-shift 4s ease infinite;
-      filter: drop-shadow(0 10px 30px rgba(0, 86, 224, 0.15));
-    }
-    @keyframes gradient-shift {
-      0% { background-position: 0% center; }
-      50% { background-position: 100% center; }
-      100% { background-position: 0% center; }
-    }
-    .hero-subtitle {
-      font-size: 1.15rem; color: #4b5563; line-height: 1.8;
-      max-width: 650px; margin: 0 auto 2.5rem;
-      animation: fadeInUp 1s ease 0.3s both;
-    }
-    .hero-cta {
-      display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;
-      animation: fadeInUp 1s ease 0.5s both;
-    }
-    .btn-primary {
-      padding: 0.9rem 2.2rem; border-radius: 30px; font-weight: 700; font-size: 0.95rem;
-      background: linear-gradient(135deg, #0056e0, #00c0f0); color: #fff;
-      text-decoration: none; transition: all 0.3s ease;
-      box-shadow: 0 4px 25px rgba(0, 86, 224, 0.25);
-    }
-    .btn-primary:hover { transform: translateY(-3px); box-shadow: 0 8px 35px rgba(0, 86, 224, 0.4); }
-    .btn-outline {
-      padding: 0.9rem 2.2rem; border-radius: 30px; font-weight: 700; font-size: 0.95rem;
-      background: transparent; color: #0056e0;
-      border: 2px solid rgba(0, 86, 224, 0.4); text-decoration: none;
-      transition: all 0.3s ease;
-    }
-    .btn-outline:hover {
-      background: rgba(0, 86, 224, 0.08); border-color: #0056e0;
-      transform: translateY(-3px); box-shadow: 0 4px 25px rgba(0, 86, 224, 0.15);
-    }
-    .btn-lg { padding: 1rem 2.8rem; font-size: 1.05rem; }
-    .hero-stats {
-      display: flex; align-items: center; justify-content: center; gap: 2rem;
-      margin-top: 4rem; padding: 1.5rem 2.5rem; border-radius: 20px;
-      background: #ffffff; border: 1px solid rgba(0, 86, 224, 0.08);
-      backdrop-filter: blur(10px);
-      box-shadow: 0 10px 30px rgba(0, 86, 224, 0.05);
-      animation: fadeInUp 1s ease 0.7s both;
-    }
-    .stat { text-align: center; }
-    .stat-num {
-      display: block; font-size: 1.6rem; font-weight: 800;
-      background: linear-gradient(135deg, #0056e0, #00c0f0);
-      -webkit-background-clip: text; -webkit-text-fill-color: transparent;
-    }
-    .stat-label { font-size: 0.8rem; color: #5a6b82; font-weight: 500; }
-    .stat-divider { width: 1px; height: 35px; background: rgba(0, 86, 224, 0.08); }
 
-    /* ===== SECTIONS GLOBAL ===== */
-    .section-container { max-width: 1400px; margin: 0 auto; padding: 0 2rem; }
-    .section-header { text-align: center; margin-bottom: 3.5rem; }
-    .section-tag {
-      display: inline-block; padding: 0.4rem 1.2rem; border-radius: 30px;
-      background: rgba(0, 86, 224, 0.08); border: 1px solid rgba(0, 86, 224, 0.15);
-      color: #0056e0; font-size: 0.8rem; font-weight: 600; text-transform: uppercase;
-      letter-spacing: 1px; margin-bottom: 1rem;
+    /* ===== MAIN CONTAINER ===== */
+    .autoline-main {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 7.5rem 2rem 5rem;
     }
-    .section-title {
-      font-size: 2.5rem; font-weight: 800; color: #0a1128; margin-bottom: 1rem;
-    }
-    .hl {
-      background: linear-gradient(135deg, #0056e0, #00c0f0);
-      -webkit-background-clip: text; -webkit-text-fill-color: transparent;
-    }
-    .section-desc { color: #4b5563; font-size: 1.05rem; max-width: 600px; margin: 0 auto; }
 
-    /* ===== 7 ESPACES ===== */
-    .espaces-section {
-      padding: 6rem 2rem; background: #ffffff;
+    /* ===== HOMEPAGE MAIN HEADER (IMAGE 2 style) ===== */
+    .homepage-main-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 1.5rem;
+      flex-wrap: wrap;
+      gap: 1rem;
+    }
+    .main-heading {
+      font-size: 1.6rem;
+      font-weight: 800;
+      color: var(--color-text-dark);
+      margin: 0;
+      letter-spacing: -0.5px;
+    }
+    .main-stats-group {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+    }
+    .stats-count-badge {
+      background-color: #f1f2f6;
+      color: var(--color-text-dark);
+      font-size: 0.85rem;
+      font-weight: 700;
+      padding: 0.4rem 0.8rem;
+      border-radius: 4px;
+      border: 1px solid var(--color-border);
+    }
+    .btn-place-ad-header {
+      color: var(--color-primary);
+      font-size: 0.9rem;
+      font-weight: 700;
+      text-decoration: none;
+      transition: color 0.15s ease;
+    }
+    .btn-place-ad-header:hover {
+      color: #0b439c;
+      text-decoration: underline;
+    }
+
+    /* QUICK NAVIGATION MENU BAR (IMAGE 3 style) */
+    .domains-nav-section {
+      background-color: #ffffff;
+      border: 1px solid var(--color-border);
+      border-radius: 4px;
+      padding: 0.8rem 1.5rem;
+      margin-bottom: 2.5rem;
+    }
+    .domains-nav-container {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .domain-nav-link {
+      background: transparent;
+      border: none;
+      color: var(--color-text-dark);
+      font-size: 0.92rem;
+      font-weight: 700;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      padding: 0.4rem 0.8rem;
+      border-radius: 4px;
+      transition: color 0.15s ease, background-color 0.15s ease;
+    }
+    .domain-nav-link:hover {
+      color: var(--color-primary);
+      background-color: #f8fafc;
+    }
+
+    /* FLAT INNER BOX CONTAINER */
+    .content-container {
+      background-color: #ffffff;
+      border: 1px solid var(--color-border);
+      padding: 2.5rem;
+      border-radius: 4px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.01);
+    }
+
+    /* DOMAIN DIRECTORY SECTIONS */
+    .domain-section {
+      margin-bottom: 3.5rem;
+    }
+    .domain-section-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+      border-bottom: 2px solid var(--color-border);
+      padding-bottom: 0.6rem;
+      margin-bottom: 1.2rem;
+    }
+    .domain-section-title {
+      font-size: 1.3rem;
+      font-weight: 800;
+      color: var(--color-text-dark);
+      margin: 0;
+    }
+    .domain-section-count {
+      font-size: 0.85rem;
+      color: var(--color-text-muted);
+      font-weight: 600;
+    }
+
+    /* HIGH DENSITY CATEGORY GRID (IMAGE 4 & 5 STYLE) - SEPARATED CARDS */
+    .directory-flat-grid {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      gap: 12px;
+      margin-bottom: 2rem;
+    }
+
+    .card-icon-placeholder-box {
+      width: 90px;
+      height: 75px;
+      background-color: #fafbfc;
+      border: 1.5px dashed #cbd5e1;
+      border-radius: 4px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background-color 0.2s ease, border-color 0.2s ease;
+    }
+    .flat-category-card:hover .card-icon-placeholder-box {
+      background-color: #eff6ff;
+      border-color: var(--color-primary);
+    }
+    .placeholder-icon-symbol {
+      font-size: 2rem;
+      opacity: 0.7;
+      transition: transform 0.2s ease, opacity 0.2s ease;
+    }
+    .flat-category-card:hover .placeholder-icon-symbol {
+      transform: scale(1.1);
+      opacity: 1;
+    }
+    .db-box-count-badge.orange-badge {
+      background-color: var(--color-accent);
+    }
+    @media (max-width: 1200px) {
+      .directory-flat-grid {
+        grid-template-columns: repeat(4, 1fr);
+      }
+    }
+    @media (max-width: 768px) {
+      .directory-flat-grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
+    .flat-category-card {
+      background-color: #ffffff;
+      border: 1px solid var(--color-border);
+      border-radius: 4px;
+      padding: 1.2rem 0.8rem 0.8rem;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      text-decoration: none;
       position: relative;
+      min-height: 120px;
+      height: 145px;
+      transition: border-color 0.15s ease, box-shadow 0.15s ease, transform 0.15s ease;
     }
-    .espaces-grid {
-      display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    .flat-category-card:hover {
+      border-color: var(--color-primary);
+      box-shadow: 0 4px 12px rgba(13, 82, 185, 0.08);
+      transform: translateY(-2px);
+      z-index: 10;
+    }
+    .card-count-top {
+      position: absolute;
+      top: 0.5rem;
+      right: 0.6rem;
+      font-size: 0.75rem;
+      color: #888888;
+      font-weight: 600;
+    }
+    .card-icon-container {
+      width: 100%;
+      height: 76px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 0.2rem;
+    }
+    .line-icon-flat {
+      width: 90px;
+      height: 75px;
+      object-fit: contain;
+      display: block;
+      transition: transform 0.2s ease;
+    }
+    .flat-category-card:hover .line-icon-flat {
+      transform: scale(1.08);
+    }
+    .category-name {
+      font-weight: 700;
+      font-size: 0.85rem;
+      color: #484848;
+      margin-top: auto;
+      margin-bottom: 0.6rem;
+      line-height: 1.15;
+    }
+    .flat-category-card:hover .category-name {
+      color: var(--color-primary);
+      text-decoration: underline;
+    }
+
+    /* SECTION 1 BOTTOM BANNERS & DATABASE COUNT */
+    .ads-db-box {
+      background-color: #ffffff;
+      border: 1px solid var(--color-border);
+      border-radius: 4px;
+      padding: 1.2rem 0.8rem 0.8rem;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      min-height: 120px;
+      height: 145px;
+    }
+    .db-box-label {
+      font-size: 0.8rem;
+      color: var(--color-text-muted);
+      margin-bottom: 0.4rem;
+      font-weight: 600;
+    }
+    .db-box-count-badge {
+      background-color: var(--color-green);
+      color: #ffffff;
+      font-size: 1.05rem;
+      font-weight: 800;
+      padding: 0.2rem 0.8rem;
+      border-radius: 4px;
+      margin-bottom: 0.4rem;
+      display: inline-block;
+    }
+    .db-box-link {
+      font-size: 0.8rem;
+      color: var(--color-primary);
+      font-weight: 700;
+      text-decoration: underline;
+    }
+    .db-box-link:hover {
+      color: #0b439c;
+    }
+    .selling-banner-autoline {
+      background-color: #ffffff;
+      border: 1px solid var(--color-border);
+      border-radius: 4px;
+      padding: 1.2rem 1.8rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 2rem;
+      grid-column: span 2;
+      height: 145px;
+    }
+    .selling-banner-left {
+      display: flex;
+      align-items: center;
       gap: 1.5rem;
     }
-    .espace-card {
-      background: #ffffff; border: 1px solid rgba(0, 86, 224, 0.08);
-      border-radius: 20px; padding: 2rem; position: relative; overflow: hidden;
-      transition: all 0.4s ease; cursor: pointer;
-      box-shadow: 0 4px 20px rgba(0, 86, 224, 0.02);
+    .selling-camera-circle {
+      color: #2c3e50;
+      font-size: 2.2rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
     }
-    .espace-card:hover {
-      transform: translateY(-8px); border-color: rgba(0, 86, 224, 0.25);
-      box-shadow: 0 20px 40px rgba(0, 86, 224, 0.08);
+    .selling-banner-text h3 {
+      font-size: 1.05rem;
+      font-weight: 800;
+      color: #2c3e50;
+      margin: 0 0 0.2rem 0;
     }
-    .espace-glow {
-      position: absolute; top: -50%; right: -50%; width: 200%; height: 200%;
-      background: radial-gradient(circle at center, var(--accent, #0056e0), transparent 70%);
-      opacity: 0; transition: opacity 0.4s ease; pointer-events: none;
+    .selling-banner-text p {
+      font-size: 0.82rem;
+      color: var(--color-text-muted);
+      margin: 0;
     }
-    .espace-card:hover .espace-glow { opacity: 0.05; }
-    .espace-icon { font-size: 2.5rem; margin-bottom: 1rem; display: block; }
-    .espace-card h3 { color: #0a1128; font-size: 1.1rem; font-weight: 700; margin-bottom: 0.7rem; }
-    .espace-card p { color: #4b5563; font-size: 0.88rem; line-height: 1.6; }
+    .btn-selling-banner {
+      background-color: #22c55e;
+      color: #ffffff;
+      border: none;
+      padding: 0.7rem 1.4rem;
+      font-weight: 700;
+      font-size: 0.9rem;
+      border-radius: 4px;
+      cursor: pointer;
+      transition: background-color 0.2s ease;
+      flex-shrink: 0;
+    }
+    .btn-selling-banner:hover {
+      background-color: #16a34a;
+    }
+    @media (max-width: 768px) {
+      .selling-banner-autoline {
+        grid-column: span 2;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+        padding: 1.5rem;
+        gap: 1.2rem;
+        height: auto;
+      }
+      .flat-category-card, .ads-db-box {
+        height: auto;
+      }
+      .selling-banner-left {
+        flex-direction: column;
+        gap: 0.8rem;
+      }
+    }
 
-    /* ===== DOMAINES ===== */
-    .domaines-section {
-      padding: 6rem 2rem;
-      background: linear-gradient(180deg, #ffffff, #f3f7fd, #ffffff);
+    /* INTEGRATED UNIVERSAL SEARCH PANEL */
+    .flat-search-panel {
+      background-color: #fafbfc;
+      border: 1px solid var(--color-border);
+      border-radius: 4px;
+      padding: 1.5rem;
+      margin-bottom: 2.5rem;
     }
-    .domaines-grid {
-      display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1.5rem;
+    .search-panel-title {
+      font-size: 1.1rem;
+      font-weight: 800;
+      margin-top: 0;
+      margin-bottom: 1.2rem;
+      color: var(--color-text-dark);
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
     }
-    .domaine-card {
-      text-align: center; padding: 2.5rem 1.5rem; border-radius: 20px;
-      background: #ffffff; border: 1px solid rgba(0, 86, 224, 0.06);
-      box-shadow: 0 4px 20px rgba(0, 86, 224, 0.02);
-      transition: all 0.4s ease;
+    .search-grid-flat {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 1rem;
+      align-items: flex-end;
     }
-    .domaine-card:hover {
-      transform: translateY(-6px); border-color: rgba(0, 86, 224, 0.2);
-      box-shadow: 0 15px 35px rgba(0, 86, 224, 0.06);
+    .search-col-flat {
+      display: flex;
+      flex-direction: column;
+      gap: 0.4rem;
     }
-    .domaine-icon { font-size: 2.8rem; display: block; margin-bottom: 1rem; }
-    .domaine-card h4 { color: #0a1128; font-size: 1rem; font-weight: 700; margin-bottom: 0.5rem; }
-    .domaine-card p { color: #4b5563; font-size: 0.82rem; line-height: 1.5; }
+    .search-col-flat label {
+      font-size: 0.8rem;
+      font-weight: 700;
+      color: var(--color-text-dark);
+    }
+    .flat-select, .flat-input {
+      width: 100%;
+      padding: 0.7rem 0.8rem;
+      border: 1px solid var(--color-border);
+      border-radius: 4px;
+      background-color: #ffffff;
+      color: var(--color-text-dark);
+      font-size: 0.9rem;
+      outline: none;
+    }
+    .flat-select:focus, .flat-input:focus {
+      border-color: var(--color-primary);
+    }
+    .price-input-container {
+      position: relative;
+      display: flex;
+      align-items: center;
+    }
+    .price-input-container .flat-input {
+      padding-right: 3rem;
+    }
+    .flat-currency {
+      position: absolute;
+      right: 0.8rem;
+      font-size: 0.8rem;
+      font-weight: 700;
+      color: var(--color-text-muted);
+    }
+    .btn-flat-search {
+      width: 100%;
+      background-color: var(--color-primary);
+      color: #ffffff;
+      border: none;
+      padding: 0.75rem 1rem;
+      font-weight: 700;
+      font-size: 0.9rem;
+      border-radius: 4px;
+      cursor: pointer;
+      transition: background-color 0.2s ease;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+    }
+    .btn-flat-search:hover {
+      background-color: #0b439c;
+    }
+    .invisible-label {
+      visibility: hidden;
+    }
 
-    /* ===== CTA ===== */
-    .cta-section {
-      padding: 6rem 2rem;
-      background: linear-gradient(135deg, rgba(0, 86, 224, 0.03), rgba(0, 192, 240, 0.03));
+    /* FLAT SPARE PARTS SEARCH SECTION */
+    .flat-spare-parts-section {
+      background-color: #f1f5fa;
+      border: 1px solid var(--color-border);
+      border-radius: 4px;
+      padding: 2rem;
+      margin-bottom: 2.5rem;
     }
-    .cta-container {
-      max-width: 750px; margin: 0 auto; text-align: center;
-      padding: 4rem 3rem; border-radius: 30px;
-      background: #ffffff; border: 1px solid rgba(0, 86, 224, 0.1);
-      box-shadow: 0 20px 50px rgba(0, 86, 224, 0.06);
-      backdrop-filter: blur(10px);
+    .spare-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 1.5rem;
+      flex-wrap: wrap;
+      gap: 1rem;
     }
-    .cta-container h2 { font-size: 2.2rem; font-weight: 800; color: #0a1128; margin-bottom: 1rem; }
-    .cta-container p { color: #4b5563; font-size: 1.05rem; margin-bottom: 2rem; }
-    .cta-buttons { display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; }
+    .spare-title-group {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+    }
+    .gears-icon-wrapper {
+      background-color: var(--color-primary);
+      color: #ffffff;
+      width: 45px;
+      height: 45px;
+      border-radius: 4px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.4rem;
+    }
+    .spare-title-group h3 {
+      font-size: 1.25rem;
+      font-weight: 800;
+      margin: 0 0 0.1rem 0;
+      color: var(--color-text-dark);
+    }
+    .spare-title-group p {
+      font-size: 0.85rem;
+      margin: 0;
+      color: var(--color-text-muted);
+    }
+    .spare-count-badge {
+      background-color: var(--color-primary);
+      color: #ffffff;
+      font-weight: 700;
+      font-size: 0.8rem;
+      padding: 0.3rem 0.8rem;
+      border-radius: 20px;
+    }
+    .spare-search-bar-flat {
+      display: flex;
+      gap: 0.8rem;
+      flex-wrap: wrap;
+      margin-bottom: 0.8rem;
+    }
+    .spare-input-wrapper {
+      flex: 1;
+      min-width: 280px;
+      position: relative;
+      display: flex;
+      align-items: center;
+    }
+    .spare-search-icon {
+      position: absolute;
+      left: 1rem;
+      color: var(--color-text-muted);
+    }
+    .spare-search-input-flat {
+      width: 100%;
+      padding: 0.8rem 1rem 0.8rem 2.5rem;
+      border: 1px solid var(--color-border);
+      border-radius: 4px;
+      font-size: 0.95rem;
+      outline: none;
+    }
+    .btn-spare-search-flat {
+      background-color: var(--color-primary);
+      color: #ffffff;
+      border: none;
+      padding: 0.8rem 1.8rem;
+      font-weight: 700;
+      font-size: 0.92rem;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+    .btn-spare-search-flat:hover {
+      background-color: #0b439c;
+    }
+    .btn-spare-order-flat {
+      background-color: #ffffff;
+      color: var(--color-primary);
+      border: 1.5px solid var(--color-primary);
+      padding: 0.8rem 1.8rem;
+      font-weight: 700;
+      font-size: 0.92rem;
+      border-radius: 4px;
+      cursor: pointer;
+      transition: background-color 0.2s ease;
+    }
+    .btn-spare-order-flat:hover {
+      background-color: rgba(13, 82, 185, 0.05);
+    }
+    .spare-examples-flat {
+      font-size: 0.8rem;
+      color: var(--color-text-muted);
+      margin-bottom: 1.5rem;
+    }
+    .example-tag {
+      color: var(--color-primary);
+      font-weight: 600;
+      cursor: pointer;
+      text-decoration: underline;
+      margin-left: 0.4rem;
+    }
+    .brand-grid-title {
+      font-size: 0.95rem;
+      font-weight: 800;
+      color: var(--color-text-dark);
+      margin-bottom: 1rem;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+    .spare-brand-grid-flat {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      gap: 0.8rem;
+    }
+    .spare-brand-card-flat {
+      background-color: #ffffff;
+      border: 1px solid var(--color-border);
+      border-radius: 4px;
+      padding: 0.8rem 1.2rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      cursor: pointer;
+      transition: border-color 0.2s ease, transform 0.1s ease;
+    }
+    .spare-brand-card-flat:hover {
+      border-color: var(--color-primary);
+      transform: translateY(-1px);
+    }
+    .brand-name-flat {
+      font-weight: 700;
+      font-size: 0.9rem;
+      color: var(--color-text-dark);
+    }
+    .brand-count-flat {
+      font-size: 0.8rem;
+      font-weight: 600;
+      color: var(--color-green);
+    }
 
-    /* ===== ANIMATIONS ===== */
-    @keyframes fadeInDown {
-      from { opacity: 0; transform: translateY(-20px); }
-      to { opacity: 1; transform: translateY(0); }
+    /* FLAT FEATURED SECTION */
+    .flat-featured-section {
+      margin-bottom: 2.5rem;
     }
-    @keyframes fadeInUp {
-      from { opacity: 0; transform: translateY(20px); }
-      to { opacity: 1; transform: translateY(0); }
+    .featured-header-flat {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 1.5rem;
     }
-    @media (max-width: 600px) {
-      .title-gradient { font-size: 3rem; letter-spacing: 4px; }
-      .title-line { font-size: 1.2rem; }
-      .hero-stats { flex-direction: column; gap: 1rem; }
-      .stat-divider { width: 40px; height: 1px; }
-      .section-title { font-size: 1.8rem; }
+    .featured-header-flat h3 {
+      font-size: 1.3rem;
+      font-weight: 800;
+      margin: 0;
+      color: var(--color-text-dark);
+    }
+    .btn-view-all-flat {
+      background: transparent;
+      border: none;
+      color: var(--color-primary);
+      font-weight: 700;
+      font-size: 0.9rem;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+    }
+    .btn-view-all-flat:hover {
+      color: #0b439c;
+      text-decoration: underline;
+    }
+    .featured-grid-flat {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+      gap: 1.5rem;
+    }
+    .flat-listing-card {
+      background: #ffffff;
+      border: 1px solid var(--color-border);
+      border-radius: 4px;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+    .flat-listing-card:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 15px rgba(0,0,0,0.03);
+    }
+    .listing-img-box {
+      height: 160px;
+      background-color: #f1f2f6;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: relative;
+    }
+    .listing-emoji-box {
+      font-size: 3.5rem;
+    }
+    .listing-badge-price {
+      position: absolute;
+      bottom: 0.8rem;
+      left: 0.8rem;
+      background-color: var(--color-primary);
+      color: #ffffff;
+      padding: 0.3rem 0.8rem;
+      font-weight: 800;
+      font-size: 0.9rem;
+      border-radius: 2px;
+    }
+    .listing-vip-tag {
+      position: absolute;
+      top: 0.8rem;
+      right: 0.8rem;
+      background-color: var(--color-accent);
+      color: #ffffff;
+      padding: 0.2rem 0.6rem;
+      font-weight: 700;
+      font-size: 0.7rem;
+      border-radius: 2px;
+      display: flex;
+      align-items: center;
+      gap: 0.3rem;
+    }
+    .listing-content-box {
+      padding: 1.2rem;
+      display: flex;
+      flex-direction: column;
+      flex-grow: 1;
+    }
+    .listing-title-text {
+      font-size: 1.05rem;
+      font-weight: 800;
+      color: var(--color-text-dark);
+      margin: 0 0 0.3rem 0;
+      line-height: 1.3;
+    }
+    .listing-location-text {
+      font-size: 0.8rem;
+      color: var(--color-text-muted);
+      margin: 0 0 1rem 0;
+      display: flex;
+      align-items: center;
+      gap: 0.3rem;
+    }
+    .listing-specs-flat {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.4rem;
+      margin-bottom: 1.2rem;
+    }
+    .spec-chip {
+      background-color: #f1f2f6;
+      padding: 0.25rem 0.6rem;
+      font-size: 0.75rem;
+      font-weight: 700;
+      color: var(--color-text-dark);
+      border-radius: 4px;
+    }
+    .listing-footer-flat {
+      border-top: 1px solid var(--color-border);
+      padding-top: 0.8rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-top: auto;
+    }
+    .flat-verified {
+      font-size: 0.75rem;
+      color: var(--color-green);
+      font-weight: 700;
+      display: flex;
+      align-items: center;
+      gap: 0.3rem;
+    }
+    .btn-consult-flat {
+      background: transparent;
+      border: none;
+      color: var(--color-primary);
+      font-weight: 700;
+      font-size: 0.8rem;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 0.2rem;
+    }
+    .btn-consult-flat:hover {
+      color: #0b439c;
+      text-decoration: underline;
+    }
+
+    /* DOUBLE CTA GRID */
+    .double-cta-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+      gap: 1.5rem;
+    }
+    .cta-flat-card {
+      border-radius: 4px;
+      padding: 2.2rem;
+      display: flex;
+      gap: 1.5rem;
+      color: #ffffff;
+    }
+    .cta-blue-flat {
+      background: linear-gradient(135deg, #0d52b9 0%, #1a365d 100%);
+      border: 1px solid #0b439c;
+    }
+    .cta-orange-flat {
+      background: linear-gradient(135deg, var(--color-accent) 0%, #d35400 100%);
+      border: 1px solid #d35400;
+    }
+    .cta-icon-flat {
+      font-size: 2.8rem;
+      line-height: 1;
+    }
+    .cta-content-flat {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+    }
+    .cta-content-flat h4 {
+      font-size: 1.25rem;
+      font-weight: 800;
+      margin: 0 0 0.5rem 0;
+    }
+    .cta-content-flat p {
+      font-size: 0.9rem;
+      margin: 0 0 1.5rem 0;
+      opacity: 0.9;
+      line-height: 1.5;
+    }
+    .btn-cta-flat-white {
+      background-color: #ffffff;
+      color: var(--color-text-dark);
+      border: none;
+      padding: 0.6rem 1.4rem;
+      font-weight: 700;
+      font-size: 0.85rem;
+      border-radius: 4px;
+      cursor: pointer;
+      transition: transform 0.1s ease;
+    }
+    .btn-cta-flat-white:hover {
+      transform: scale(1.02);
+    }
+
+    /* RESPONSIVE DESIGN */
+    @media (max-width: 992px) {
+      .autoline-main { padding: 6.5rem 1rem 3rem; }
+      .content-container { padding: 1.5rem; }
+    }
+    @media (max-width: 768px) {
+      .domains-nav-container { justify-content: center; }
+      .flat-selling-banner { padding: 1.2rem; }
+      .cta-flat-card { flex-direction: column; gap: 1rem; padding: 1.5rem; }
     }
   `]
 })
-export class HomeComponent {
-  espaces = [
-    { id: 1, icon: '🏪', title: 'Marketplace Véhicules & Engins', desc: 'Achat, vente et location de véhicules et engins de transport professionnels.', color: '#00d4ff' },
-    { id: 2, icon: '🏭', title: 'Marketplace Manutention & Entreposage', desc: 'Équipements de manutention, racks de stockage et solutions d\'entreposage.', color: '#7c3aed' },
-    { id: 3, icon: '📦', title: 'Bourses Logistiques', desc: 'Fret, messagerie, capacité, entreposage et chauffeurs en temps réel.', color: '#00d4ff' },
-    { id: 4, icon: '🏛️', title: 'E-Guichet Administratif', desc: 'Services administratifs dématérialisés : documents, autorisations, conformité.', color: '#f59e0b' },
-    { id: 5, icon: '📰', title: 'Actualités & Médias', desc: 'Veille sectorielle, actualités logistiques et analyses du marché.', color: '#10b981' },
-    { id: 6, icon: '💬', title: 'Forum Professionnel', desc: 'Échanges, discussions et entraide entre professionnels du secteur.', color: '#ef4444' },
-    { id: 7, icon: '📊', title: 'Observatoire & Études', desc: 'Données, statistiques, benchmarks et études approfondies du secteur.', color: '#8b5cf6' }
+export class HomeComponent implements OnInit {
+  private api = inject(ApiService);
+  activeTabId = 'trucks_buses';
+  globalSearchQuery: string = '';
+  spareSearchQuery: string = '';
+
+  ngOnInit() {
+    this.loadDbDomains();
+  }
+
+  loadDbDomains() {
+    this.api.getDomains().subscribe({
+      next: (domains) => {
+        if (domains && domains.length > 0) {
+          console.log('Successfully loaded domains from database:', domains);
+          domains.forEach(dbDom => {
+            const dbDesignation = dbDom.translations?.find((t: any) => t.language === 'en')?.designation || dbDom.code;
+            for (const tab of this.categoriesData) {
+              const sub = tab.subcategories.find(s => s.name.toLowerCase() === dbDesignation.toLowerCase());
+              if (sub) {
+                sub.count = dbDom.totalAds.toLocaleString('fr-FR');
+              }
+            }
+          });
+        }
+      },
+      error: (err) => {
+        console.warn('Could not fetch domains from API, using premium frontend fallback counts.', err);
+      }
+    });
+  }
+
+  hasSvgIcon(subName: string): boolean {
+    return true;
+  }
+
+  getSvgIconPath(subName: string): string {
+    if (subName.toLowerCase() === 'semi-trailers') {
+      return 'svgs/Semi-Trailers.svg';
+    }
+    if (subName.toLowerCase() === 'air transport') {
+      return 'svgs/Air Transport.svg';
+    }
+    // Match with case correctness from original svgs list
+    const originalNamesMap: Record<string, string> = {
+      'aerial platforms': 'Aerial platforms',
+      'air transport': 'Air Transport',
+      'airport equipment': 'Airport equipment',
+      'attachments for construction equipment': 'Attachments for construction equipment',
+      'building equipment': 'Building equipment',
+      'buses': 'Buses',
+      'campers': 'Campers',
+      'cars': 'Cars',
+      'cleaning machinery': 'Cleaning machinery',
+      'commercial vehicles': 'Commercial vehicles',
+      'companies': 'Companies',
+      'concrete equipment': 'Concrete equipment',
+      'construction equipment parts': 'Construction equipment parts',
+      'construction equipment repairs': 'Construction equipment repairs',
+      'construction loaders': 'Construction loaders',
+      'construction rollers': 'Construction rollers',
+      'containers': 'Containers',
+      'cranes': 'Cranes',
+      'drilling machinery': 'Drilling machinery',
+      'earthmoving equipment': 'Earthmoving equipment',
+      'equipment': 'Equipment',
+      'excavators': 'Excavators',
+      'forklift attachments': 'Forklift attachments',
+      'forklifts': 'Forklifts',
+      'loading dock equipment': 'Loading dock equipment',
+      'material handling equipment parts': 'Material handling equipment parts',
+      'modular containers': 'Modular containers',
+      'motorcycles': 'Motorcycles',
+      'municipal vehicles': 'Municipal vehicles',
+      'other construction equipment': 'Other construction equipment',
+      'port equipment': 'Port equipment',
+      'railway equipment': 'Railway equipment',
+      'rent': 'Rent',
+      'road construction equipment': 'Road construction equipment',
+      'semi-trailers': 'Semi-Trailers',
+      'services': 'Services',
+      'spare parts': 'Spare parts',
+      'special tires': 'Special tires',
+      'surface finishing equipment': 'Surface finishing equipment',
+      'tank transports': 'Tank transports',
+      'tires and wheels': 'Tires and wheels',
+      'trailers': 'Trailers',
+      'truck tractors': 'Truck tractors',
+      'trucks': 'Trucks',
+      'vans': 'Vans',
+      'warehouse cranes': 'Warehouse cranes',
+      'warehouse equipment': 'Warehouse equipment',
+      'water transport': 'Water transport'
+    };
+    const mapped = originalNamesMap[subName.toLowerCase()] || subName;
+    return `svgs/${mapped}.svg`;
+  }
+
+  scrollToSection(elementId: string) {
+    const element = document.getElementById(elementId);
+    if (element) {
+      const headerOffset = 110;
+      const elementPosition = element.getBoundingClientRect().top;
+      const offsetPosition = elementPosition + window.pageYOffset - headerOffset;
+      window.scrollTo({
+        top: offsetPosition,
+        behavior: 'smooth'
+      });
+    }
+  }
+
+  getCategoryElementId(subName: string): string {
+    if (subName === 'Equipment') return 'section-equipment-btp';
+    if (subName === 'Spare parts') return 'section-spare-parts';
+    if (subName === 'Rent') return 'section-rent';
+    if (subName === 'Companies') return 'section-companies';
+    return '';
+  }
+
+  searchFilters = {
+    parentCategory: 'trucks_buses',
+    brand: '',
+    type: '',
+    region: '',
+    maxPrice: null as number | null
+  };
+
+  computedResultsCount = 1420;
+
+  moroccanRegions = [
+    'Casablanca-Settat',
+    'Tanger-Tétouan-Al Hoceïma',
+    'Rabat-Salé-Kénitra',
+    'Marrakech-Safi',
+    'Fès-Meknès',
+    'Souss-Massa',
+    'L\'Oriental',
+    'Béni Mellal-Khénifra',
+    'Drâa-Tafilalet',
+    'Guelmim-Oued Noun'
   ];
 
-  domaines = [
-    { icon: '🚛', name: 'Transport Routier', desc: 'Camions, semi-remorques et véhicules utilitaires' },
-    { icon: '🚢', name: 'Maritime', desc: 'Transport maritime et portuaire' },
-    { icon: '✈️', name: 'Aérien', desc: 'Fret aérien et cargo' },
-    { icon: '🚂', name: 'Ferroviaire', desc: 'Transport ferroviaire de marchandises' },
-    { icon: '🏗️', name: 'Entreposage', desc: 'Stockage et gestion d\'entrepôts' },
-    { icon: '📋', name: 'Douane & Conformité', desc: 'Formalités douanières et réglementaires' }
+  popularSparePartsBrands = [
+    { name: 'Scania parts', count: '58 374' },
+    { name: 'Volvo Trucks parts', count: '49 882' },
+    { name: 'IVECO parts', count: '17 941' },
+    { name: 'Renault Trucks parts', count: '15 413' },
+    { name: 'ZF parts', count: '3 577' },
+    { name: 'Solaris parts', count: '2 584' }
   ];
+
+  categoriesData: CategoryTab[] = [
+    {
+      id: 'trucks_buses',
+      title: 'Trucks, buses',
+      titleFr: 'Poids lourds & Autobus',
+      count: '448 936',
+      subcategories: [
+        { name: 'Trucks', nameFr: 'Camions', count: '29,588', iconPath: '' },
+        { name: 'Truck tractors', nameFr: 'Tracteurs routiers', count: '20,151', iconPath: '' },
+        { name: 'Commercial vehicles', nameFr: 'Utilitaires', count: '4,708', iconPath: '' },
+        { name: 'Vans', nameFr: 'Fourgonnettes', count: '8,245', iconPath: '' },
+        { name: 'Semi-trailers', nameFr: 'Semi-remorques', count: '15,819', iconPath: '' },
+        { name: 'Trailers', nameFr: 'Remorques', count: '8,591', iconPath: '' },
+        { name: 'Tank transports', nameFr: 'Citernes', count: '3,498', iconPath: '' },
+        { name: 'Buses', nameFr: 'Autobus / Autocars', count: '6,187', iconPath: '' },
+        { name: 'Municipal vehicles', nameFr: 'Véhicules de voirie', count: '6,428', iconPath: '' },
+        { name: 'Airport equipment', nameFr: 'Équipement aéroportuaire', count: '142', iconPath: '' },
+        { name: 'Railway equipment', nameFr: 'Matériel ferroviaire', count: '99', iconPath: '' },
+        { name: 'Containers', nameFr: 'Conteneurs', count: '732', iconPath: '' }
+      ]
+    },
+    {
+      id: 'cars_motorhomes_motorcycles',
+      title: 'Cars, motorhomes and motorcycles',
+      titleFr: 'Voitures & Motos',
+      count: '14 830',
+      subcategories: [
+        { name: 'Cars', nameFr: 'Voitures', count: '12,557', iconPath: '' },
+        { name: 'Campers', nameFr: 'Camping-cars', count: '1,279', iconPath: '' },
+        { name: 'Motorcycles', nameFr: 'Motos', count: '810', iconPath: '' },
+        { name: 'Water transport', nameFr: 'Bateaux', count: '182', iconPath: '' },
+        { name: 'Air transport', nameFr: 'Aéronefs', count: '2', iconPath: '' }
+      ]
+    },
+    {
+      id: 'construction_equipment',
+      title: 'Construction equipment',
+      titleFr: 'Matériel de construction',
+      count: '356 747',
+      subcategories: [
+        { name: 'Excavators', nameFr: 'Pelles / Excavatrices', count: '33,266', iconPath: '' },
+        { name: 'Cranes', nameFr: 'Grues', count: '6,839', iconPath: '' },
+        { name: 'Concrete equipment', nameFr: 'Matériel de béton', count: '3,809', iconPath: '' },
+        { name: 'Surface finishing equipment', nameFr: 'Traitement de surface', count: '246', iconPath: '' },
+        { name: 'Building equipment', nameFr: 'Équipement de bâtiment', count: '758', iconPath: '' },
+        { name: 'Drilling machinery', nameFr: 'Foreuses', count: '3,258', iconPath: '' },
+        { name: 'Road construction equipment', nameFr: 'Matériel routier', count: '3,187', iconPath: '' },
+        { name: 'Construction rollers', nameFr: 'Compacteurs', count: '3,579', iconPath: '' },
+        { name: 'Earthmoving equipment', nameFr: 'Engins de terrassement', count: '5,650', iconPath: '' },
+        { name: 'Aerial platforms', nameFr: 'Nacelles élévatrices', count: '8,078', iconPath: '' },
+        { name: 'Modular containers', nameFr: 'Bâtiments modulaires', count: '723', iconPath: '' },
+        { name: 'Construction loaders', nameFr: 'Chargeuses', count: '10,034', iconPath: '' },
+        { name: 'Other construction equipment', nameFr: 'Autre matériel BTP', count: '156', iconPath: '' },
+        { name: 'Construction equipment repairs', nameFr: 'Réparation', count: '1,402', iconPath: '' },
+        { name: 'Construction equipment parts', nameFr: 'Pièces détachées BTP', count: '113,116', iconPath: '' },
+        { name: 'Attachments for construction equipment', nameFr: 'Accessoires BTP', count: '12,810', iconPath: '' },
+        { name: 'Special tires', nameFr: 'Pneus spéciaux', count: '874', iconPath: '' }
+      ]
+    },
+    {
+      id: 'material_handling_equipment',
+      title: 'Material handling equipment',
+      titleFr: 'Matériel de manutention',
+      count: '35 423',
+      subcategories: [
+        { name: 'Forklifts', nameFr: 'Chariots élévateurs', count: '20,973', iconPath: '' },
+        { name: 'Warehouse equipment', nameFr: 'Matériel d\'entrepôt', count: '1,157', iconPath: '' },
+        { name: 'Cleaning machinery', nameFr: 'Machines de nettoyage', count: '448', iconPath: '' },
+        { name: 'Port equipment', nameFr: 'Équipement portuaire', count: '743', iconPath: '' },
+        { name: 'Warehouse cranes', nameFr: 'Grues d\'atelier', count: '764', iconPath: '' },
+        { name: 'Loading dock equipment', nameFr: 'Équipements de quai', count: '187', iconPath: '' },
+        { name: 'Forklift attachments', nameFr: 'Accessoires chariots', count: '3,044', iconPath: '' },
+        { name: 'Material handling equipment parts', nameFr: 'Pièces manutention', count: '8,107', iconPath: '' }
+      ]
+    },
+    {
+      id: 'attachments_spare_parts_services',
+      title: 'Attachments, spare parts, services',
+      titleFr: 'Équipements & Pièces',
+      count: '340 417',
+      subcategories: [
+        { name: 'Equipment', nameFr: 'Équipement BTP', count: '5,317', iconPath: '' },
+        { name: 'Tires and wheels', nameFr: 'Pneus & Roues', count: '5,880', iconPath: '' },
+        { name: 'Spare parts', nameFr: 'Pièces de rechange', count: '319,414', iconPath: '' },
+        { name: 'Services', nameFr: 'Services pro', count: '201', iconPath: '' },
+        { name: 'Rent', nameFr: 'Location', count: '889', iconPath: '' },
+        { name: 'Companies', nameFr: 'Entreprises', count: '8,528', iconPath: '' }
+      ]
+    }
+  ];
+
+  moroccanFeaturedListings = [
+    {
+      id: '1',
+      title: 'Scania R450 Streamline (6x2)',
+      type: 'Truck tractors',
+      price: '480 000 DH',
+      location: 'Casablanca Port',
+      year: '2017',
+      mileage: '620 000 km',
+      power: '450 ch',
+      axle: '6x2'
+    },
+    {
+      id: '2',
+      title: 'Volvo FH 500 Globetrotter',
+      type: 'Truck tractors',
+      price: '580 000 DH',
+      location: 'Tanger Med',
+      year: '2018',
+      mileage: '540 000 km',
+      power: '500 ch',
+      axle: '4x2'
+    },
+    {
+      id: '3',
+      title: 'Caterpillar 320D Series 2',
+      type: 'Equipment',
+      price: '850 000 DH',
+      location: 'Marrakech-Safi',
+      year: '2016',
+      mileage: '8 500 heures',
+      power: '148 ch',
+      axle: 'Chenilles BTP'
+    },
+    {
+      id: '4',
+      title: 'Semi-Remorque Frigorifique Schmitz',
+      type: 'Semi-trailers',
+      price: '320 000 DH',
+      location: 'Agadir Port',
+      year: '2015',
+      mileage: 'N/A',
+      power: 'Thermo King SLX',
+      axle: '3 Essieux'
+    },
+    {
+      id: '5',
+      title: 'DAF XF 460 Space Cab',
+      type: 'Truck tractors',
+      price: '410 000 DH',
+      location: 'Fès Ville',
+      year: '2016',
+      mileage: '680 000 km',
+      power: '460 ch',
+      axle: '4x2'
+    },
+    {
+      id: '6',
+      title: 'Mercedes-Benz Sprinter 316 CDI',
+      type: 'Commercial vehicles',
+      price: '195 000 DH',
+      location: 'Rabat Ville',
+      year: '2017',
+      mileage: '185 000 km',
+      power: '163 ch',
+      axle: 'Fourgon L2H2'
+    }
+  ];
+
+  get activeTabAdsCount(): string {
+    return this.categoriesData.find(t => t.id === this.searchFilters.parentCategory)?.count || '0';
+  }
+
+  selectTab(tabId: string) {
+    this.searchFilters.parentCategory = tabId;
+    this.onParentCategoryChange();
+  }
+
+  onParentCategoryChange() {
+    this.searchFilters.brand = '';
+    this.searchFilters.type = '';
+    if (this.searchFilters.parentCategory === 'trucks_buses') {
+      this.computedResultsCount = 1420;
+    } else if (this.searchFilters.parentCategory === 'cars_motorhomes_motorcycles') {
+      this.computedResultsCount = 285;
+    } else {
+      this.computedResultsCount = 3890;
+    }
+  }
+
+  getTabEmoji(tabId: string): string {
+    if (tabId === 'trucks_buses') return '🚛';
+    if (tabId === 'cars_motorhomes_motorcycles') return '🚗';
+    return '⚙️';
+  }
+
+  getActiveTabTitleFr(): string {
+    return this.categoriesData.find(t => t.id === this.searchFilters.parentCategory)?.titleFr || '';
+  }
+
+  getActiveSubcategories(): SubCategory[] {
+    return this.categoriesData.find(t => t.id === this.searchFilters.parentCategory)?.subcategories || [];
+  }
+
+  getSubcategories(tabId: string): SubCategory[] {
+    return this.categoriesData.find(t => t.id === tabId)?.subcategories || [];
+  }
+
+  getSubcategoriesCount(tabId: string): string {
+    return this.categoriesData.find(t => t.id === tabId)?.count || '0';
+  }
+
+  getContextualBrands(): string[] {
+    if (this.searchFilters.parentCategory === 'trucks_buses') {
+      return ['Scania', 'Volvo', 'Mercedes-Benz', 'DAF', 'MAN', 'Renault Trucks', 'IVECO', 'Sinotruk'];
+    } else if (this.searchFilters.parentCategory === 'cars_motorhomes_motorcycles') {
+      return ['Dacia', 'Renault', 'Peugeot', 'Volkswagen', 'Toyota', 'BMW', 'Yamaha', 'Kawasaki'];
+    } else {
+      return ['Caterpillar', 'JCB', 'Komatsu', 'Liebherr', 'Michelin', 'Bridgestone', 'Bosch', 'ZF'];
+    }
+  }
+
+  getFeaturedListings() {
+    return this.moroccanFeaturedListings;
+  }
+
+  getVehicleEmoji(type: string): string {
+    if (type === 'Truck tractors') return '🚜';
+    if (type === 'Semi-trailers') return '🚛';
+    if (type === 'Equipment') return '🏗️';
+    if (type === 'Commercial vehicles') return '🚐';
+    return '🚗';
+  }
+
+  triggerSearch() {
+    console.log('Searching listings with filters:', this.searchFilters);
+    alert(`Recherche en cours... Filtres appliqués : \n- Domaine: ${this.searchFilters.parentCategory}\n- Constructeur: ${this.searchFilters.brand || 'Tous'}\n- Type: ${this.searchFilters.type || 'Tous'}\n- Région: ${this.searchFilters.region || 'Toutes'}\n- Budget: ${this.searchFilters.maxPrice ? this.searchFilters.maxPrice + ' DH' : 'Illimité'}`);
+  }
+
+  triggerGlobalSearch() {
+    console.log('Global search query:', this.globalSearchQuery);
+    alert(`Recherche globale pour : "${this.globalSearchQuery}"`);
+  }
+
+  triggerSpareSearch() {
+    console.log('Spare parts search query:', this.spareSearchQuery);
+    alert(`Recherche de pièces détachées pour : "${this.spareSearchQuery}"`);
+  }
+
+  setSpareQuery(query: string) {
+    this.spareSearchQuery = query;
+    this.triggerSpareSearch();
+  }
+
+  slugify(text: string): string {
+    return text
+      .toLowerCase()
+      .replace(/[^a-z0-9]+/g, '-')
+      .replace(/(^-|-$)/g, '');
+  }
 }

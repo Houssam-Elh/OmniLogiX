@@ -1,0 +1,106 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!--Generator: Xara Xtreme (www.xara.com), SVG filter version: 1.0.0.13-->
+<svg stroke-width="0.501" stroke-linejoin="bevel" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" overflow="visible" width="45pt" height="45pt" viewBox="0 0 45 45">
+ <defs>
+  <marker id="DefaultArrow2" markerUnits="strokeWidth" viewBox="0 0 1 1" markerWidth="1" markerHeight="1" overflow="visible" orient="auto">
+   <!-- REF_ARROW_STRAIGHT (-2) -->
+   <g transform="scale(0.0092592592)">
+    <!-- 1/108 -->
+    <path d="M -9 54 L -9 -54 L 117 0 z"/>
+   </g>
+  </marker>
+  <marker id="DefaultArrow3" markerUnits="strokeWidth" viewBox="0 0 1 1" markerWidth="1" markerHeight="1" overflow="visible" orient="auto">
+   <!-- REF_ARROW_ANGLED -->
+   <g transform="scale(0.0092592592)">
+    <path d="M -27 54 L -9 0 L -27 -54 L 135 0 z"/>
+   </g>
+  </marker>
+  <marker id="DefaultArrow4" markerUnits="strokeWidth" viewBox="0 0 1 1" markerWidth="1" markerHeight="1" overflow="visible" orient="auto">
+   <!-- REF_ARROW_ROUNDED -->
+   <g transform="scale(0.0092592592)">
+    <path d="M -9,0 L -9,-45 C -9,-51.708 2.808,-56.580 9,-54 L 117,-9 C 120.916,-7.369 126.000,-4.242 126,0 C 126,4.242 120.916,7.369 117,9 L 9,54 C 2.808,56.580 -9,51.708 -9,45 z"/>
+   </g>
+  </marker>
+  <marker id="DefaultArrow5" markerUnits="strokeWidth" viewBox="0 0 1 1" markerWidth="1" markerHeight="1" overflow="visible" orient="auto">
+   <!-- REF_ARROW_SPOT -->
+   <g transform="scale(0.0092592592)">
+    <path d="M -54, 0 C -54,29.807 -29.807,54 0,54 C 29.807,54 54,29.807 54,0 C 54,-29.807 29.807,-54 0,-54 C -29.807,-54 -54,-29.807 -54,0 z"/>
+   </g>
+  </marker>
+  <marker id="DefaultArrow6" markerUnits="strokeWidth" viewBox="0 0 1 1" markerWidth="1" markerHeight="1" overflow="visible" orient="auto">
+   <!-- REF_ARROW_DIAMOND -->
+   <g transform="scale(0.0092592592)">
+    <path d="M -63,0 L 0,63 L 63,0 L 0,-63 z"/>
+   </g>
+  </marker>
+  <marker id="DefaultArrow7" markerUnits="strokeWidth" viewBox="0 0 1 1" markerWidth="1" markerHeight="1" overflow="visible" orient="auto">
+   <!-- REF_ARROW_FEATHER -->
+   <g transform="scale(0.0092592592)">
+    <path d="M 18,-54 L 108,-54 L 63,0 L 108,54 L 18, 54 L -36,0 z"/>
+   </g>
+  </marker>
+  <marker id="DefaultArrow8" markerUnits="strokeWidth" viewBox="0 0 1 1" markerWidth="1" markerHeight="1" overflow="visible" orient="auto">
+   <!-- REF_ARROW_FEATHER2 -->
+   <g transform="scale(0.0092592592)">
+    <path d="M -36,0 L 18,-54 L 54,-54 L 18,-18 L 27,-18 L 63,-54 L 99,-54 L 63,-18 L 72,-18 L 108,-54 L 144,-54 L 90,0 L 144,54 L 108,54 L 72,18 L 63,18 L 99,54 L 63,54 L 27,18 L 18,18 L 54,54 L 18,54 z"/>
+   </g>
+  </marker>
+  <marker id="DefaultArrow9" markerUnits="strokeWidth" viewBox="0 0 1 1" markerWidth="1" markerHeight="1" overflow="visible" orient="auto">
+   <!-- REF_ARROW_HOLLOWDIAMOND -->
+   <g transform="scale(0.0092592592)">
+    <path d="M 0,45 L -45,0 L 0, -45 L 45, 0 z M 0, 63 L-63, 0 L 0, -63 L 63, 0 z"/>
+   </g>
+  </marker>
+  <filter id="StainedFilter">
+   <feBlend mode="multiply" in2="BackgroundImage" in="SourceGraphic" result="blend"/>
+   <feComposite in="blend" in2="SourceAlpha" operator="in" result="comp"/>
+  </filter>
+  <filter id="BleachFilter">
+   <feBlend mode="screen" in2="BackgroundImage" in="SourceGraphic" result="blend"/>
+   <feComposite in="blend" in2="SourceAlpha" operator="in" result="comp"/>
+  </filter>
+  <filter id="InvertTransparencyBitmapFilter">
+   <feComponentTransfer>
+    <feFuncR type="gamma" amplitude="1.055" exponent=".416666666" offset="-0.055"/>
+    <feFuncG type="gamma" amplitude="1.055" exponent=".416666666" offset="-0.055"/>
+    <feFuncB type="gamma" amplitude="1.055" exponent=".416666666" offset="-0.055"/>
+   </feComponentTransfer>
+   <feComponentTransfer>
+    <feFuncR type="linear" slope="-1" intercept="1"/>
+    <feFuncG type="linear" slope="-1" intercept="1"/>
+    <feFuncB type="linear" slope="-1" intercept="1"/>
+    <feFuncA type="linear" slope="1" intercept="0"/>
+   </feComponentTransfer>
+   <feComponentTransfer>
+    <feFuncR type="gamma" amplitude="1" exponent="2.4" offset="0"/>
+    <feFuncG type="gamma" amplitude="1" exponent="2.4" offset="0"/>
+    <feFuncB type="gamma" amplitude="1" exponent="2.4" offset="0"/>
+   </feComponentTransfer>
+  </filter>
+ </defs>
+ <g id="Document" fill="none" stroke="black" font-family="Times New Roman" font-size="16" transform="scale(1 -1)">
+  <g id="Spread" transform="translate(0 -45)">
+   <g id="Layer 1">
+    <g id="Group" stroke-linecap="round">
+     <path d="M 3.375,9.751 C 3.375,11.2 4.552,12.377 6.001,12.377 L 28.499,12.377 C 29.948,12.377 31.125,11.2 31.125,9.751 C 31.125,8.302 29.948,7.125 28.499,7.125 L 6.001,7.125 C 4.552,7.125 3.375,8.302 3.375,9.751 Z" stroke-linejoin="round" stroke="#f27349" stroke-width="0.75" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+     <path d="M 9.375,10.127 L 25.125,10.127" fill="none" stroke-linejoin="round" stroke="#f27349" stroke-width="0.75" stroke-miterlimit="79.8403193612775"/>
+     <path d="M 6,10.877 C 6.621,10.877 7.125,10.373 7.125,9.752 C 7.125,9.131 6.621,8.627 6,8.627 C 5.379,8.627 4.875,9.131 4.875,9.752 C 4.875,10.373 5.379,10.877 6,10.877 Z" stroke-linejoin="round" stroke="#f27349" stroke-width="0.75" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+     <path d="M 28.5,10.877 C 29.121,10.877 29.625,10.373 29.625,9.752 C 29.625,9.131 29.121,8.627 28.5,8.627 C 27.879,8.627 27.375,9.131 27.375,9.752 C 27.375,10.373 27.879,10.877 28.5,10.877 Z" stroke-linejoin="round" stroke="#f27349" stroke-width="0.75" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+     <path d="M 16.125,14.627 L 3.063,14.627 C 2.503,14.627 1.875,15.277 1.875,15.855 L 1.875,18.921 C 1.875,20.079 3.13,21.377 4.25,21.377 L 16.125,21.377" fill="none" stroke-linejoin="round" stroke="#f27349" stroke-width="0.75" stroke-miterlimit="79.8403193612775"/>
+     <path d="M 16.125,21.281 L 16.982,25.84 C 17.136,26.648 18.106,27.377 18.938,27.377 L 23.999,27.377 C 27.18,27.377 27.379,20.527 27.375,16.846 L 27.374,15.557 C 27.374,15.044 26.951,14.627 26.431,14.627 L 16.125,14.627 C 16.125,16.846 16.125,19.062 16.125,21.281 Z" stroke-linejoin="round" stroke="#f27349" stroke-width="0.75" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+     <path d="M 21.374,27.377 L 21.374,14.627" fill="none" stroke-linejoin="round" stroke="#f27349" stroke-width="0.75" stroke-miterlimit="79.8403193612775"/>
+     <path d="M 21.375,21.376 L 26.625,21.376" fill="none" stroke-linejoin="round" stroke="#f27349" stroke-width="0.75" stroke-miterlimit="79.8403193612775"/>
+     <path d="M 19.875,28.134 L 20.314,30.332 C 20.882,33.189 24.184,35.44 27.054,35.867 L 40.535,37.096 C 41.177,37.19 42.381,37.096 42.375,36.48 C 42.381,35.867 41.243,34.842 40.535,34.636 L 27.167,31.701 C 25.351,31.134 24.406,29.426 24.102,28.127" fill="none" stroke-linejoin="round" stroke="#f27349" stroke-width="0.75" stroke-miterlimit="79.8403193612775"/>
+     <path d="M 39.062,34.188 C 39.048,33.927 39.042,33.65 39.042,33.353 L 37.875,18.884 C 37.875,18.416 38.024,17.627 38.459,17.627 C 39.179,17.627 39.445,19.226 39.625,20.143 L 43.029,34.242 C 43.079,34.565 43.125,34.907 43.125,35.24 C 43.125,36.239 42.878,37.127 41.959,37.127 C 41.766,37.127 41.586,37.121 41.418,37.106" fill="none" stroke-linejoin="round" stroke="#f27349" stroke-width="0.75" stroke-miterlimit="79.8403193612775"/>
+     <path d="M 39.826,20.627 L 41.318,16.691 C 41.541,16.102 41.625,15.669 41.625,14.826 C 41.625,14.149 41.153,13.9 39.826,13.9 L 32.625,13.9 L 37.936,20.627" fill="none" stroke-linejoin="round" stroke="#f27349" stroke-width="0.75" stroke-miterlimit="79.8403193612775"/>
+     <path d="M 6.375,21.377 L 6.375,23.176 L 7.576,24.377 L 11.176,24.377 L 12.375,23.176 L 12.375,21.377" fill="none" stroke-linejoin="round" stroke="#f27349" stroke-width="0.75" stroke-miterlimit="79.8403193612775"/>
+     <path d="M 9.375,24.377 L 9.375,26.627 L 8.625,27.377" fill="none" stroke-linejoin="round" stroke="#f27349" stroke-width="0.75" stroke-miterlimit="79.8403193612775"/>
+     <path d="M 10.874,14.627 L 10.874,12.377" fill="none" stroke-linejoin="round" stroke="#f27349" stroke-width="0.75" stroke-miterlimit="79.8403193612775"/>
+     <path d="M 19.124,14.627 L 19.124,12.377" fill="none" stroke-linejoin="round" stroke="#f27349" stroke-width="0.75" stroke-miterlimit="79.8403193612775"/>
+     <path d="M 0,45 L 0,0.002 L 45,0.002 L 45,45 L 0,45 Z" stroke-linejoin="miter" stroke="none" stroke-width="0.562" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
