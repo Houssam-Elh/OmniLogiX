@@ -73,6 +73,8 @@ import { NgClass } from '@angular/common';
               <li><a href="javascript:void(0)" (click)="closeMenu()">Blog & Sondages</a></li>
             </ul>
           </li>
+          <li><a routerLink="/about" (click)="closeMenu()">À Propos</a></li>
+          <li><a routerLink="/help" (click)="closeMenu()">Aide</a></li>
           <li><a routerLink="/forum" (click)="closeMenu()">Forum</a></li>
           <li><a routerLink="/eguichet" class="highlight-link" (click)="closeMenu()">E-Guichet</a></li>
         </ul>

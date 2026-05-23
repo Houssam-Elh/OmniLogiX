@@ -301,7 +301,7 @@ export class HomeComponent {
   espaces = [
     { id: 1, icon: '🏪', title: 'Marketplace Véhicules & Engins', desc: 'Achat, vente et location de véhicules et engins de transport professionnels.', color: '#00d4ff' },
     { id: 2, icon: '🏭', title: 'Marketplace Manutention & Entreposage', desc: 'Équipements de manutention, racks de stockage et solutions d\'entreposage.', color: '#7c3aed' },
-    { id: 3, icon: '📦', title: 'Bourses Logistiques', desc: 'Fret, messagerie, capacité, entreposage et chauffeurs en temps réel.', color: '#00d4ff' },
+    { id: 3, icon: '📦', title: 'Bourses Logistiques', desc: 'Fret, messagerie, capacity, entreposage et chauffeurs en temps réel.', color: '#00d4ff' },
     { id: 4, icon: '🏛️', title: 'E-Guichet Administratif', desc: 'Services administratifs dématérialisés : documents, autorisations, conformité.', color: '#f59e0b' },
     { id: 5, icon: '📰', title: 'Actualités & Médias', desc: 'Veille sectorielle, actualités logistiques et analyses du marché.', color: '#10b981' },
     { id: 6, icon: '💬', title: 'Forum Professionnel', desc: 'Échanges, discussions et entraide entre professionnels du secteur.', color: '#ef4444' },

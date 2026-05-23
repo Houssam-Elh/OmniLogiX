@@ -23,6 +23,8 @@ import { RouterLink } from '@angular/router';
           <div class="footer-col">
             <h4>Nos Espaces</h4>
             <ul>
+              <li><a routerLink="/about">À Propos</a></li>
+              <li><a routerLink="/help">Centre d'Aide</a></li>
               <li><a routerLink="/marketplace">Marketplace Véhicules</a></li>
               <li><a routerLink="/marketplace">Marketplace Manutention</a></li>
               <li><a routerLink="/bourses">Bourses Logistiques</a></li>
